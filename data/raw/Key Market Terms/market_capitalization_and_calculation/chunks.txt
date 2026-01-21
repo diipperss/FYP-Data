@@ -1,0 +1,290 @@
+SOURCE: https://www.investopedia.com/investing/market-capitalization-defined/
+These figures highlight the salience of market capitalization, the total value of a company's stock. Market cap results from multiplying the number of a company's outstanding shares by its stock price. For example, if a stock trades at $10 per share with 1 million shares, its market cap would be $10 million. 
+Just as we categorize retail stores in sizes from small mom-and-pop storefronts to the largest multinational chains, Wall Street uses market cap to classify companies—from the smallest nano-cap firms working on their first breakthrough product or about to drop out of the market altogether, all the way up to mega-caps like NVIDIA. Below, we explain their differences and why they're important when investing. 
+### Key Takeaways
+##  Understanding Market Capitalization 
+Market capitalization represents the total market value of a company's outstanding shares of stock. Calculated by multiplying the current price of one share by the number of shares available, the market cap is a quick measure of a company’s size and market value. For instance, if a company's share price is $30 and has one million shares outstanding, its market cap would be $30 million. 
+Market cap plays a crucial role in how investors and analysts evaluate companies, and stocks are grouped into small-cap, mid-cap, and large-cap, etc. 
+###  Formula and Calculation 
+The formula for market cap is as follows:  
+
+Market Cap=Price Per Share×Shares Outstanding\text{Market Cap} = \text{Price Per Share} \times \text{Shares Outstanding}Market Cap=Price Per Share×Shares Outstanding
+For example, if ABC Corp. trades at $30 per share and has one million outstanding shares, its market capitalization would be ($30 × 1 million shares) = $30 million. 
+##  Categories for Market Capitalization 
+The range for the values that fit each group of market caps can vary, depending on the source. Below are the most common ways to group firms by size. 
+###  Mega Cap 
+Mega-cap companies have a market cap of $200 billion or higher. They are the largest publicly traded companies by market value and typically represent the[ leaders of a particular industry](https://www.investopedia.com/the-dallas-cowboys-sold-for-usd140-million-in-1989-they-re-now-worth-usd12-8-billion-here-s-how-that-9-000-return-compares-to-market-giantsthe-cowboys-sold-for-usd140-million-in-1989-they-re-now-worth-usd12-8-billion-here-s-how-that-9-000-return-compares-to-market-giants-jerry-jones-nfl-11790331), sector, or market. In the mid-2020s, about 50 companies are in this category.2
+###  Large Cap 
+Companies that are considered [large-cap](https://www.investopedia.com/terms/l/large-cap.asp) have a market cap between $10 billion to $200 billion. Below are some of these companies and their present market cap.3
+Both mega and large-cap stocks are considered blue chips—relatively stable firms compared to smaller firms, which shift more easily with the market's winds. 
+###  Mid Cap 
+Below are the 30 biggest mid-cap stocks, representing a wide range of sectors and industries. 
+###  Small Cap 
+[Small-cap](https://www.investopedia.com/terms/s/small-cap.asp) companies have a market cap between $300 million and about $2 billion. While the bulk of this category consists of relatively young companies that may have potential, a few established old businesses that may have lost value are included. Below are the first 50 small-cap stocks. 
+###  Micro Cap 
+[Micro-cap](https://www.investopedia.com/terms/m/microcapstock.asp) companies in this group consist primarily of penny stocks, which denote companies with market capitalizations between about $50 million and about $300 million.5 Included here might be a lesser-known pharma company without a marketable product working on developing a new drug or a five-person company working on artificial intelligence-powered robotics technology—each might be listed with a small valuation and have limited trading. 
+[Investments in such companies](https://www.investopedia.com/articles/etfs-mutual-funds/050416/4-largest-microcap-etfs-iwc-fdm.asp) are not for the faint of heart and require due diligence. 
+###  Nano Cap 
+##  Importance of Market Capitalization 
+Many new investors make a common mistake: they judge a company's size by its stock price alone. They might think a $500 stock is automatically "more expensive" or "bigger" than a $50 stock. However, this thinking can lead to costly investment errors. 
+Similarly, market cap tells us the whole picture by multiplying share price by total shares.  
+
+### Tip
+Other popular investments like mutual funds and exchange-traded funds ([ETFs](https://www.investopedia.com/terms/e/etf.asp)) are also categorized as small-cap, mid-cap, or large-cap. For funds, the terms represent the types of stocks in which the fund primarily invests.
+For instance, in late 2024, NVIDIA had a stock price just under $150; its market cap was $3.6 trillion. Meanwhile, Berkshire Hathaway ([BRK.A](https://www.investopedia.com/markets/quote?tvwidgetsymbol=brk.a)) had a much higher stock price of over $700,000 per share but a lower market cap of just over $1 trillion. 
+Market cap also helps investors understand risk levels. Large-cap companies typically have more resources to weather economic storms. For instance, a $100 million investment failure might barely dent a trillion-dollar company's bottom line, while the same loss could devastate a smaller firm. However, smaller companies often have more room for dramatic growth—it's easier to double in size when you're worth $1 billion than $1 trillion. 
+### Tip
+Small caps tend to be the first to soar in economic recoveries but also the first to sink in downturns—they're the canaries in the market coal mine.
+##  Which Market Caps Perform the Best? 
+Different market capitalizations tend to perform differently depending on the market conditions. It's not unlike boats at sea—large ships handle the largest waves best, while smaller boats can maneuver quickly in calmer waters but are easily swept up in the biggest waves. 
+### Fast Fact
+It took 20 years for the largest market cap company to move from $500 billion (Microsoft in 1999) to $1 trillion (Apple in 2018). It then took just two years for Apple to reach $2 trillion, and 16 months after that, it was the first company to reach a $3-trillion market cap.
+Large-cap stocks, which include household names like Microsoft and Apple, are more stable during economic uncertainty. These corporate giants have substantial cash reserves, diverse revenue streams, and established market positions. However, because of their size, they usually grow more slowly than their smaller counterparts—it's simply harder to double in size when you're already worth a trillion dollars. 
+Mid-cap companies often provide a middle ground proper to their size—a balance between the stability of large caps and the potential for growth of small caps. Small-cap stocks historically offer the highest growth potential but greater risks. In 2024, over 40% of small-cap companies were unprofitable, compared with just 7.4% of large-caps. This difference becomes especially important when interest rates are high, as smaller companies often struggle more with debt payments and higher operating costs.6 Below is a table looking at the performance of three popular ETFs representing different market caps: 
+## Are There Funds That Invest Across Different Market Caps?
+Yes, many mutual funds and ETFs offer exposure to multiple market capitalizations in a single investment. These are often called "multi-cap" or "all-cap" funds. For example, a [total market index fund](https://www.investopedia.com/terms/t/total-stock-fund.asp) includes companies of all sizes, from the largest corporations down to smaller companies. Some funds maintain fixed allocations to each market cap category, while others adjust these proportions based on market conditions or the fund manager's strategy.
+## Why Are Small-Cap Stocks Often More Volatile?
+Small-cap stocks have relatively lower market values because these tend to be younger growth companies. Because of their growth orientation, they may be riskier since they spend their revenues on growth and expansion. Small-cap stocks are thus often more volatile than those of larger companies. Generally, large-cap stocks have slower growth and are more likely to pay [dividends](https://www.investopedia.com/terms/d/dividend.asp) than faster-growing, small- or mid-cap stocks.
+## What Is a Market Capitalization-Weighted Index?
+Many stock indexes, such as the S&P 500, are weighted by market cap. This means that stocks with larger market capitalizations make up more of the index.
+## How Do Stock Splits Affect Market Cap?
+When a company has a [stock split](https://www.investopedia.com/terms/s/stocksplit.asp), it increases the number of shares outstanding while reducing the price of each share by a similar proportion. For instance, in a two-to-one stock split, there will be twice as many shares, but at half the pre-split price. As a result, the market cap should stay the same.
+##  The Bottom Line 
+Market capitalization is important for understanding what kind of company you're buying and its risk. While mega-cap tech giants like NVIDIA and Microsoft may grab headlines with trillion-dollar valuations, each market cap category serves a different role in a diversified portfolio. 
+Large-caps typically offer stability and dividends, mid-caps balance growth and established business models, and small-caps offer higher growth potential with higher risk. Understanding these differences can help you match your investment choices with your financial goals and risk tolerance. 
+Article Sources
+Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our [editorial policy.](https://www.investopedia.com/legal-4768893#EditorialPolicy)
+Compare Accounts
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+Take the Next Step to Invest
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+## Related Articles
+Newsletter Sign Up
+Newsletter Sign Up
+
+==================================================
+
+SOURCE: https://www.fidelity.com/learning-center/trading-investing/market-cap
+January 06, 2026
+![Estimate Time](https://www.fidelity.com/bin-public/600_Fidelity_Com_English/images/article/time-clock-circle.svg)6 min
+* * *
+Great, you have saved this article to you My Learn Profile page.
+* * *
+What is market cap and how do you calculate it? | Fidelity
+Clicking a link will open a new window.
+[Print ![Print](https://www.fidelity.com/bin-public/600_Fidelity_Com_English/images/article/Print.svg)](https://www.fidelity.com/learning-center/trading-investing/market-cap#print)
+![](https://www.fidelity.com/bin-public/600_Fidelity_Com_English/images/learning-center/heros/what-is-market-cap_298264002_banner.png)
+### Key takeaways
+Market cap, or market capitalization, is a simple investing concept that can help you better understand a company's market value. Knowing a company's market cap might help you gauge its risks and decide whether a stock or fund belongs in your portfolio. 
+###  What is market cap?
+Market cap is the total dollar value of a company's outstanding shares of stock. For example, if a company has 1 million shares of outstanding stock and the stock currently trades at $50 per share, then its current market cap is $50 million. Market cap fluctuates with a company's share price, so it can continuously change.
+###  Why is market capitalization important?
+Market cap is essentially a quick estimate of a company's value, in dollar terms.
+A company's market cap might help give you a sense of the stocks risk factor. Larger companies are often more established and have less volatile stocks. Smaller companies may have more volatile stocks, but in some cases may be able to grow faster than large companies. This is not always the case.
+Market cap can be useful when building a portfolio. Understanding market cap may help you decide where a stock or fund fits into your asset allocation. For example, if you've decided on an asset allocation of 70% stocks and 30% bonds, you might spread that 70% among companies of various market capitalizations, to align with your risk tolerance.
+###  What could impact a company's market cap?
+Anything that impacts a company's stock price will also impact its market cap. For example, if a company is perceived as successful, perhaps due to new products or growing profits, investors may want to buy shares. The price of that company's stock may then rise, driving the market cap up along with it. Conversely, if a company starts losing money or faces a major scandal, then investors may start selling shares—making the stock price and market cap lower.
+###  Market cap segments
+Companies are generally sorted into market cap segments: large-cap, mid-cap and small-cap. The following are commonly used definitions for each group.
+**Large-cap companies**
+Large-cap companies generally have a market cap of $10 billion or more. These are often well-established companies. Some large-cap companies might be mature businesses that pay dividends. Large-cap companies, as a group, may pose less risk and volatility to investors than smaller companies. However, when companies become large their growth rates can slow, so they might also offer less growth potential than some smaller companies. Extremely high growth companies can also become some of the largest companies by market cap.
+**Mid-cap companies**
+Mid-cap companies are those that fall between large and small-cap companies, and are generally considered to be those with a market cap between $2 billion and $10 billion. As a group, their risk level is typically also considered to be a middle ground between large and small-caps, with potentially less risk than small caps but more than large caps.
+**Small-cap companies**
+Small-cap companies generally have market caps between $250 million and $2 billion. Small-caps are often younger companies that are aiming to grow their businesses quickly. When small-caps are successful, they might be able to show fast growth and strong stock gains. However, because companies may be less stable, not as well-established, and have little access to cash, they might also be more vulnerable to downturns or even failure, and they can come with greater risk.
+Additionally, larger companies, such as those with market caps of $200 billion or more, are often called mega-caps. Smallest companies, with values of less than $250 million, are typically considered micro-caps.
+###  How to calculate market cap
+You can calculate a company's market cap by using the market capitalization formula.
+Market cap = number of outstanding shares × price per share
+For example, say a company has 12 million shares currently selling at $32 per share, which comes out to a market cap of $384 million, putting this company in the small-cap category. Now, if the company grows and its share price increases to $184, then its market cap increases to $2.208 billion. At that point, it might be considered a mid-cap company.
+###  Market cap vs. free-float market cap
+Market cap considers all of a company's outstanding shares, and is a common measure used to describe a company's size.
+Free-float market cap considers only shares that are considered to be freely available for trading in the market, and is a common measure used in index weightings. Free-float market cap takes market cap and subtracts for shares that are unlikely to be traded. This typically means subtracting shares held by officers and directors of the company, those held by another publicly traded company, and by certain other entities.1
+###  How to consider market cap when investing
+Here are some ways to consider using market cap as you're researching investments and constructing your portfolio.
+**Choose an appropriate asset allocation**
+Whether you do the research yourself to choose an asset allocation, use an online tool to help guide you, or work with a financial professional to build one, it's important to have a strategy that's appropriate for your needs and situation. The key concepts of risk tolerance, risk capacity, and time horizon can help guide you to a suitable plan. To learn more, read Fidelity Viewpoints: [3 keys to choosing investments](https://www.fidelity.com/learning-center/personal-finance/risk-tolerance-time-horizon "3 keys to choosing investments")
+**Evaluate ways to diversify**
+**Consider keeping it simple with ETFs and mutual funds**
+If you're building a portfolio yourself, it can be a lot of work to analyze and choose individual companies to invest in, plus assemble a well-diversified portfolio of individual stocks. ETFs and mutual funds might be able to help with achieving your targeted asset allocation, including your desired allocation among market cap segments, without having to research hundreds of companies.
+##  Open an account with us 
+It's easy! Opening your new account takes just minutes. 
+[ See account options ](https://www.fidelity.com/open-account/overview)
+## More to explore
+###  [Find stocks](https://research2.fidelity.com/fidelity/screeners/commonstock/landing.asp)
+Match ideas with potential investments using our Stock Screener. 
+###  [Fidelity's stock research](https://digital.fidelity.com/prgw/digital/research/src)
+Find relevant, clear, and accessible research all in one place. 
+## Subscribe to Active Investor
+Our most advanced investment insights, strategies, and tools. 
+###  Looking for more ideas and insights? 
+We'll deliver them right to your inbox. 
+###  Thanks for subscribing! 
+Check out your Favorites page, where you can: 
+###  We're on our way, but not quite there yet 
+Good news, you're on the early-access list.   
+But we're not available in your state just yet. As soon as we are, we'll let you know. In the meantime, boost your crypto brainpower in our Learning Center. 
+###  Oh, hello again! 
+Good news, you’re already on the early-access list. Keep an eye on your email for your invitation to Fidelity Crypto. 
+### Thanks for subscribing to 
+Looking for more ideas and insights?   
+You might like these too:
+### Looking for more ideas and insights? You might like these too:
+###  _Fidelity Viewpoints ®_
+Timely news and insights from our pros on markets, investing, and personal finance.(debug tcm:2 ...
+### Decode Crypto
+Clarity on crypto every month. Build your knowledge with education for all levels.
+###  _Fidelity Smart Money ℠_
+What the news means for your money, plus tips to help you spend, save, and invest.
+### Active Investor
+Our most advanced investment insights, strategies, and tools.
+###  _Insights from Fidelity Wealth Management_ ℠
+Timely news, events, and wealth strategies from top Fidelity thought leaders.
+### Women Talk Money
+Real talk and helpful tips about money, investing, and careers.
+### Educational Webinars and Events
+Free financial education from Fidelity and other leading industry professionals.
+_Fidelity Viewpoints ®_
+Timely news and insights from our pros on markets, investing, and personal finance.(debug tcm:2 ...
+Decode Crypto 
+Clarity on crypto every month. Build your knowledge with education for all levels.
+_Fidelity Smart Money ℠_
+What the news means for your money, plus tips to help you spend, save, and invest.
+Active Investor 
+Our most advanced investment insights, strategies, and tools.
+_Insights from Fidelity Wealth Management_ ℠
+Timely news, events, and wealth strategies from top Fidelity thought leaders.
+Women Talk Money 
+Real talk and helpful tips about money, investing, and careers.
+Educational Webinars and Events 
+Free financial education from Fidelity and other leading industry professionals.
+Loading
+1. [S&P Dow Jones Indices: S&P Float Adjustment Methodology](https://www.spglobal.com/spdji/en/documents/index-policies/methodology-sp-float-adjustment.pdf. "S&amp;P Dow Jones Indices: S&amp;P Float Adjustment Methodology") (pdf), April 2025. 
+Diversification does not ensure a profit or guarantee against loss.
+Stock markets are volatile and can fluctuate significantly in response to company, industry, political, regulatory, market, or economic developments. Investing in stock involves risks, including the loss of principal.
+The securities of smaller, less well known companies can be more volatile than those of larger companies.
+ETFs are subject to market fluctuation and the risks of their underlying investments. Unlike mutual funds, ETF shares are bought and sold at market price, which may be higher or lower than their NAV, and are not individually redeemed from the fund. 
+Fidelity Brokerage Services LLC, Member NYSE, [SIPC](https://www.sipc.org/), 900 Salem Street, Smithfield, RI 02917
+1129531.3.0 
+When you visit our website, it may store or retrieve information on your browser, mostly in the form of cookies. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience on this site and the services we are able to offer.
+* * *
+Strictly Necessary Cookies
+These cookies are necessary for this website to function and cannot be switched off in our systems. You can set your browser to block or alert you about these cookies, but if you block these cookies, some parts of the site will not work. These cookies do not store any personally identifiable information.
+* * *
+Performance Cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+* * *
+Functional Cookies
+These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+* * *
+Targeting or Advertising Cookies
+* * *
+icon-alert-warning-filledicon-alert-warning-filled
+
+==================================================
+
+SOURCE: https://www.finra.org/investors/insights/market-cap
+[ Skip to main content ](https://www.finra.org/investors/insights/market-cap#main-content)
+Stocks
+# Market Cap Explained
+September 30, 2022
+![Image of a Calculator](https://www.finra.org/sites/default/files/core_desktop/Stock-exchange-graph-background_880x415.png)
+If you’re researching stocks or stock funds, you'll often see companies categorized by market capitalization. But what is this, and why does it matter?
+Market capitalization, or market cap, is one measurement of a company's size. It’s the total value of a company's outstanding shares of stock, which include publicly traded shares plus restricted shares held by company officers and insiders.
+To calculate market cap, you take the total number of a company's shares outstanding and multiply that figure by the company's current stock price. For example, if a company has 5 million shares outstanding and its current stock price is $20, it has a market capitalization of $100 million.
+You may hear companies described as large-cap, mid-cap or small-cap—or even mega-cap or micro-cap. The delineation between each group can vary, but generally, you'll see them broken down like this:
+Certain stock indexes or investment funds will use this measure to group companies together by size. For example, the S&P 500 is made up of mega-cap and large-cap stocks and is weighed by market cap, so companies with a higher market cap account for relatively more of the index than companies with a comparatively smaller market cap. Meanwhile, the Russell 2000 Index is a small-cap stock market index.
+Newer investors might mistakenly believe that stock price alone could be a good indicator of how large a company is, but what’s most important in determining a company's size is the number of shares outstanding.
+Take Company A and Company B, for example. Both have stocks trading at $50 a share, but Company A has 5 million shares outstanding, and Company B has 5 billion shares outstanding. That means Company A has a market cap of $250 million, making it a small-cap company, whereas Company B has a market cap of $250 billion, meaning it's a particularly large, large-cap company—often called a mega-cap company.
+### Why Market Cap Matters
+For starters, market cap can give you a general idea of where a company stands in the business development process. Is it a relatively new public company, for example? If so, it might have room for growth. After all, access to investor capital to expand the business is why many companies decide to go public in the first place.
+Market cap can also provide a rough gauge of a company's stability. Large-cap companies tend to be less vulnerable to the ups and downs of the market than mid-cap companies, and mid-cap companies are generally less susceptible to volatility than small-cap companies.
+That's in part because larger companies typically have greater financial reserves and therefore often can absorb losses more easily and bounce back more quickly from a bad year. At the same time, smaller companies might have greater potential for fast growth in economic boom times than larger companies. This is why some dividend seekers will use market cap as a filter when looking for companies that pay consistent dividends.
+These generalizations are no guarantee that any particular large-cap company will weather a downturn well or that any particular small-cap company will or won't thrive. Still, market cap can be a useful gauge—particularly when it comes to [diversifying your portfolio](https://www.finra.org/investors/investing/investing-basics/asset-allocation-diversification). When you diversify, you aim to manage your risk by spreading out your investments. You can diversify by investing among different asset classes; for example, by investing in both stocks and bonds. And you can also diversify **within** asset classes. Investing in small-cap and large-cap stocks is one example of diversifying within one asset class (stocks).
+### The Limitations of Market Cap
+Something important to keep in mind is that market cap is the **perceived** value of a company because stock price is determined by investors. It isn't necessarily the actual value of a company and all of its parts. Some of that perceived value may stem from expectations of future growth or the introduction of a product, but those expectations may not pan out, in which case the share price of the company—and thus its market cap—is likely to adjust accordingly.
+That's why it’s a good idea to look at a number of metrics when considering an investment. Market cap can be one tool you use to develop a diverse portfolio, but it shouldn't be your only tool.
+### Recent Investor Insights
+[View All](https://www.finra.org/investors/insights)
+![](https://t.co/i/adsct?bci=3&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=2&event_id=2b84b3c8-f944-4083-b1f5-d1a1f6bafd4d&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=551a832b-4062-4306-9e33-a598bd6b24c5&pt=Market%20Cap%20Explained%20%7C%20FINRA.org&tw_document_href=https%3A%2F%2Fwww.finra.org%2Finvestors%2Finsights%2Fmarket-cap&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=nzcb7&type=javascript&version=2.3.35)![](https://analytics.twitter.com/i/adsct?bci=3&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=2&event_id=2b84b3c8-f944-4083-b1f5-d1a1f6bafd4d&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=551a832b-4062-4306-9e33-a598bd6b24c5&pt=Market%20Cap%20Explained%20%7C%20FINRA.org&tw_document_href=https%3A%2F%2Fwww.finra.org%2Finvestors%2Finsights%2Fmarket-cap&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=nzcb7&type=javascript&version=2.3.35)
+
+==================================================
+
+SOURCE: https://corporatefinanceinstitute.com/resources/valuation/what-is-market-capitalization/
+# Market Capitalization
+A company's total market value of equity
+Written by [CFI Team](https://corporatefinanceinstitute.com/about-cfi/)
+Read Time 3 minutes 
+## What is Market Capitalization?
+Market Capitalization (Market Cap) is the most recent **market value** of a company’s [outstanding shares](https://corporatefinanceinstitute.com/resources/accounting/weighted-average-shares-outstanding/). The Market Cap is equal to the current share price multiplied by the number of shares outstanding.
+The investing community often uses market capitalization value to rank companies and compare their relative sizes in a particular industry or sector. To determine a company’s market cap, simply take its current market [share price](https://corporatefinanceinstitute.com/resources/accounting/par-value-overview/) and multiply the figure by the total number of shares outstanding.
+![Market Capitalization Formula](data:image/svg+xml,<svg%20id="L4"%20xmlns="http://www.w3.org/2000/svg"%20xmlns:xlink="http://www.w3.org/1999/xlink"%20x="0px"%20y="0px"%20viewBox="0%200%201024%2087"%20xml:space="preserve"></svg>)
+### Market Capitalization Sample Calculation
+![Market Capitalization Example](data:image/svg+xml,<svg%20id="L4"%20xmlns="http://www.w3.org/2000/svg"%20xmlns:xlink="http://www.w3.org/1999/xlink"%20x="0px"%20y="0px"%20viewBox="0%200%20731%20436"%20xml:space="preserve"></svg>)
+### Market Capitalization Categories
+Broadly speaking, based on market capitalization, the [stock market](https://www.nyse.com/index) classifies stocks into various categories:
+The table below shows the Market Capitalization of selected companies as of May 2021:
+Name of the Company | Sector | Market Cap (Bn)  
+---|---|---  
+Apple Inc. | IT | $2,080.8  
+Alphabet Inc. | IT | $1,534.3  
+Facebook Inc. | IT | $889.2  
+Microsoft Corp. | IT | $1,831.1  
+Amazon.com | Consumer Discretionary | $1,629.9  
+Walmart Inc. | Consumer Staples | $399.3  
+JP Morgan Chase & Co. | Financials | $487.7  
+Goldman Sachs Group | Financials | $121.8  
+Nike Inc. | Footwear | $210.1  
+AT&T Inc. | Telecom | $206.8  
+US Cellular Corp. | Telecom | $3.2  
+Investors can use a company’s classification and actual market capitalization value to make smart investment decisions. Generally, large-cap companies own more capital and assets than small-cap companies and, as such, are considered lower-risk investments than small-cap ones. Moreover, small-cap companies tend to show higher growth potential than their larger counterparts and, as such, are likely to provide investors with more opportunities for capital gains.
+### Equity Value Metric
+It’s important to know that a company’s market capitalization is the total value of its equity only. A company’s [Enterprise Value](https://corporatefinanceinstitute.com/resources/valuation/what-is-enterprise-value-ev/) is the value of the entire business, including both equity and debt capital.
+A simple example of the difference between [equity value vs enterprise](https://corporatefinanceinstitute.com/resources/valuation/enterprise-value-vs-equity-value/) value is with a house. If a house is worth $1,000,000 and has a $700,000 mortgage, the equity value is $300,000. The same applies to a business. A company with a Market Cap (equity value) of $10 billion and debt of $5 billion has an Enterprise Value of $15 billion.
+Learn more about [enterprise value vs equity value](https://corporatefinanceinstitute.com/resources/valuation/enterprise-value-vs-equity-value/).
+![enterprise value vs market cap](data:image/svg+xml,<svg%20id="L4"%20xmlns="http://www.w3.org/2000/svg"%20xmlns:xlink="http://www.w3.org/1999/xlink"%20x="0px"%20y="0px"%20viewBox="0%200%20427%20479"%20xml:space="preserve"></svg>)
+### Download CFI’s Free Market Capitalization Template
+Click the button below to download our free Market Capitalization template!  
+
+### Additional Resources
+Thank you for reading CFI’s guide on Market Capitalization. CFI’s mission is to help you advance your career. To keep learning and expanding your knowledge of corporate finance, we highly recommend these additional CFI resources:
+Get Certified for Capital Markets (CMSA®)
+From equities and fixed income to derivatives, the CMSA certification bridges the gap from where you are now to where you want to be — a world-class capital markets analyst.
+[Learn MoreLearn More](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
+[ Corporate Finance Institute ](https://corporatefinanceinstitute.com/)
+[Back to Website](https://corporatefinanceinstitute.com)
+0 search results for ‘
+People also search for:  excel  power bi  esg  accounting  balance sheet  fmva  real estate 
+Explore Our Certifications 
+[ Financial Modeling & Valuation Analyst (FMVA)®  ](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
+[ Commercial Banking & Credit Analyst (CBCA)®  ](https://corporatefinanceinstitute.com/certifications/commercial-banking-credit-analyst-certification-cbca/)
+[ Capital Markets & Securities Analyst (CMSA)®  ](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
+[ Certified Business Intelligence & Data Analyst (BIDA)®  ](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)
+[ Financial Planning & Wealth Management Professional (FPWMP)®  ](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
+[ FinTech Industry Professional (FTIP)®  ](https://corporatefinanceinstitute.com/certifications/fintech-industry-professional/)
+Resources 
+[ Mastering Excel Shortcuts for PC and Mac  Work Smarter in Excel with Keyboard Shortcuts If you're still reaching for the mouse every few seconds, it's time to level up. The best Excel keyboard...  ](https://corporatefinanceinstitute.com/resources/excel/excel-shortcuts-pc-mac/)
+[ Financial Modeling Guidelines  CFI’s free Financial Modeling Guidelines is a thorough and complete resource covering model design, model building blocks, and common tips, tricks,...  ](https://corporatefinanceinstitute.com/resources/financial-modeling/free-financial-modeling-guide/)
+[ SQL Data Types  What are SQL Data Types? The Structured Query Language (SQL) comprises several different data types that allow it to store different types of information...  ](https://corporatefinanceinstitute.com/resources/data-science/sql-data-types/)
+[ Structured Query Language (SQL)  What is Structured Query Language (SQL)? Structured Query Language (known as SQL) is a programming language used to interact with a database....  ](https://corporatefinanceinstitute.com/resources/data-science/structured-query-language-sql/)
+[ See All Resources See All ](https://corporatefinanceinstitute.com/resources/)
+Popular Courses 
+[ See All Courses See All ](https://corporatefinanceinstitute.com/collections/)
+Recent Searches 
+Suggestions 
+### Create a free account to unlock this Template
+Access and download collection of free Templates to help power your productivity and performance.
+[Create a Free AccountCreate a Free Account](https://corporatefinanceinstitute.com/resources/valuation/what-is-market-capitalization/)
+Already have an account? [Log in](https://corporatefinanceinstitute.com/resources/valuation/what-is-market-capitalization/)
+### Supercharge your skills with Premium Templates
+Take your learning and productivity to the next level with our Premium Templates.
+Upgrading to a paid membership gives you access to our extensive collection of plug-and-play Templates designed to power your performance—as well as CFI's full course catalog and accredited Certification Programs.
+[Discover Paid MembershipsDiscover Paid Memberships](https://corporatefinanceinstitute.com/pricing/)
+Already have a Self-Study or Full-Immersion membership? [Log in](https://corporatefinanceinstitute.com/resources/valuation/what-is-market-capitalization/)
+### Access Exclusive Templates
+Gain unlimited access to more than 250 productivity Templates, CFI's full course catalog and accredited Certification Programs, hundreds of resources, expert reviews and support, the chance to work with real-world finance and research tools, and more.
+[Discover Full-Immersion MembershipDiscover Full-Immersion Membership](https://corporatefinanceinstitute.com/pricing/)
+Already have a Full-Immersion membership? [Log in](https://corporatefinanceinstitute.com/resources/valuation/what-is-market-capitalization/)
+
+==================================================
+

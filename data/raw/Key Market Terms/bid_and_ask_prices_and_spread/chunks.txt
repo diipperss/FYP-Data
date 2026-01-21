@@ -1,0 +1,357 @@
+SOURCE: https://www.investopedia.com/terms/b/bid-and-ask.asp
+Definition
+Current stock prices are quoted with a bid and ask, indicating the highest price a buyer is willing to pay and the lowest price a seller is willing to accept.
+##  What Is Bid and Ask? 
+Bid and ask is a stock price quote that indicates the highest price a buyer is currently willing to pay for a share and the lowest price a seller will accept for it. The difference between the bid and ask is the spread. 
+To the vast majority of retail investors, the bid and ask are the current prices at which they can buy or sell shares. Generally, only so-called [market makers](https://www.investopedia.com/terms/m/marketmaker.asp) actively enter new bid or ask prices, profiting from the spread. 
+The bid price is the first price displayed in the pair. The [ask price](https://www.investopedia.com/terms/a/ask.asp) is the second.1
+### Key Takeaways
+More liquid markets tend to have tighter bid-ask spreads, while more volatile markets tend to have wider bid-ask spreads.
+Investopedia / Laura Porter
+##  How Bid and Ask Works 
+The average investor contends with the bid and ask spread as an implied cost of trading. Most investors and retail traders are "market takers." They'll usually have to sell on the bid where someone else is willing to buy and buy at the offer where someone else is willing to sell.2
+##  Who Benefits From the Bid-Ask Spread? 
+### Important
+Bid-ask spreads can vary widely depending on the security and the market.
+Blue-chip companies that constitute the [Dow Jones Industrial Average](https://www.investopedia.com/terms/d/djia.asp) may have a bid-ask spread of only a few cents. A small-cap stock that trades less than 10,000 shares a day might have a bid-ask spread of $0.50 or more. 
+The bid-ask spread can widen dramatically during periods of illiquidity or market turmoil because traders won't be willing to pay a price beyond a certain threshold and sellers may not be willing to accept prices below a certain level.3
+## What's the Difference Between a Bid Price and an Ask Price?
+Bid prices refer to the highest price traders are willing to pay for a security. The ask price refers to the lowest price that the owners of that security are willing to sell it for. An investor wanting to buy that stock would have to offer at least $20 to purchase it at the current price if the stock was trading with an ask price of $20.
+The gap between the bid and ask prices is often called the bid-ask spread.
+## What Does It Mean When the Bid and Ask Are Close Together?
+It typically means that there's ample liquidity in the security when the bid and ask prices are very close. The security is said to have a “narrow” bid-ask spread. This situation can be helpful for investors because it makes it easier to enter or exit their positions, particularly in the case of large positions.  
+
+Securities with a “wide” bid-ask spread where the bid and ask prices are far apart can be time-consuming and expensive to trade.
+## How Are the Bid and Ask Prices Determined?
+Bid and ask prices are set by the market and the buying and selling decisions of the people and institutions investing in that security. The bid and ask prices will gradually shift upward if demand outstrips supply.  
+
+Bid and ask prices will drift downward if supply outstrips demand. The spread between the bid and ask prices is determined by the overall level of trading activity in the security with higher activity leading to narrow bid-ask spreads and lower activity creating wide spreads.
+##  The Bottom Line 
+Most quotes in securities markets are two-sided. They come with both a bid and an ask. The bid is the highest price at which someone is willing to buy the security and the ask or offer is the lowest price at which someone is willing to sell it. 
+The bid and ask together make up the price quote. The distance between the bid-ask spread is an indicator of a security's liquidity. The tighter the spread, the more liquid it is. Quotes will often also show the number available at both the current best bid and ask prices. Most retail traders and investors must sell on the bid or buy on the offer. Market makers set the bid and offer prices where they're willing to buy and sell. 
+Article Sources
+Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our [editorial policy.](https://www.investopedia.com/legal-4768893#EditorialPolicy)
+Take the Next Step to Invest
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+## Related Articles
+Newsletter Sign Up
+Newsletter Sign Up
+
+==================================================
+
+SOURCE: https://heygotrade.com/en/blog/what-is-bid-ask-spread
+# Bid Ask Spread: How It Works and Why It Matters
+![Author](https://heygotrade.com/en/blog/what-is-bid-ask-spread/)
+Erwanto
+08 Desember 2025
+![](https://heygotrade.com/static/verified-f366e4532f25eace6678d07f63133607.svg)Reviewed by Gotrade Internal Analyst
+![Bid Ask Spread: How It Works and Why It Matters](https://files-tr8.s3.ap-southeast-1.amazonaws.com/content/images/2025/12/bid-ask-spread.webp)
+Share this article
+## When you look at a stock quote, you never see just one price. You see two.  
+One is what buyers are willing to pay. The other is what sellers are asking. The difference between those numbers is the bid ask spread, and it is a real cost every trader should understand.
+## What Is the Bid Ask Spread?
+The bid ask spread is the gap between the highest price a buyer is willing to pay for an asset and the lowest price a seller is willing to accept.
+## Bid, Ask, and Spread Explained
+You can think of a quote as three basic parts:
+### **What is Bid?**
+The highest price buyers are currently offering to pay. If you sell at market, you sell to the bid.
+### **What is Ask (or offer)?**
+The lowest price sellers are currently willing to accept. If you buy at market, you buy at the ask.
+### **Understanding Spread**
+Spread is the difference between the ask and the bid.
+> Spread = Ask price minus Bid price.
+Market makers and liquidity providers sit between buyers and sellers and often earn the spread as compensation for taking on risk.
+## Example
+Imagine a stock with this quote:
+The bid ask spread is 0.05 dollars.
+If you:
+You would lose 0.05 dollars per share instantly, even though the price did not move. That 0.05 dollars is the cost you paid through the spread.
+## Why Does the Spread Exist?
+The spread is not a bug. It is how the market pays people who provide liquidity and take risk.
+Market makers quote both buy and sell prices all day. They stand ready to trade with you when you want to buy or sell.
+In return, they:
+In more liquid markets, competition between market makers pushes spreads very tight.
+In less liquid or more volatile markets, spreads widen to reflect higher risk.
+## Why the Spread Matters For You?
+The bid ask spread is one of the most important hidden costs of trading.
+It can affect you in several ways:
+If you regularly buy and sell assets with wide spreads, your costs can quietly add up even if your broker advertises zero commissions.
+## What Affects the Size of the Spread?
+Several factors influence how tight or wide a spread is:
+### **Liquidity and volume**
+Popular stocks like Apple or Microsoft trade millions of shares daily and tend to have very tight spreads.
+Thinly traded small caps often have wider spreads.
+### **Volatility**
+When prices move fast, market makers take more risk, so spreads usually widen.
+### **Time of day**
+Spreads tend to be tighter during the most active trading hours and wider near the open, the close or in after hours trading.
+### **Price level**
+Lower priced stocks can show larger spreads in cents, and very cheap stocks can feel jumpy even on small moves.
+Watching the spread for a few seconds before you place an order will quickly show you how “expensive” a stock is to trade.
+## How Order Types Interact With the Spread
+The type of order you use affects how you pay or manage the spread.
+### **Market orders**
+You ask to trade immediately at the best available price. 
+If you buy with a market order, you almost always pay the ask and cross the full spread.
+If you sell with a market order, you almost always hit the bid.
+### **Limit orders**
+You set a maximum price you will pay to buy or a minimum price you will accept to sell.
+You can place your buy limit between the bid and ask and sometimes “improve” the spread if the market trades with you.
+For beginners, a simple rule is: use market orders only when the spread looks tight and the stock is very liquid.  
+Otherwise, consider limit orders so you stay in control of the price you pay or receive.
+## Practical Tips For Beginners
+Referring to [Investopedia](https://www.investopedia.com/terms/b/bid-askspread.asp), here are some simple habits that can help you manage bid ask spreads:
+### Check the spread before every trade
+### Trade during normal market hours
+Spreads are often widest near the open, near the close and in extended hours. Mid session trading can be cheaper in spread terms.
+### Do not overtrade
+Every trade crosses a spread or sits in the order book. Fewer, higher quality trades often beat many low conviction trades.
+## Conclusion
+The bid ask spread is the small but important gap between what buyers bid and what sellers ask in the market.
+It is a real part of your trading cost, especially if you trade frequently or in less liquid names.
+By paying attention to spreads, using limit orders wisely and focusing on liquid assets, you keep more of your returns over time.
+When you invest through an app like Gotrade, you still see the same fundamental mechanics of the market. 
+[TRADE WITH GOTRADE](https://heygo.trade/trade-with-gotrade-button)
+Understanding bid ask spreads helps you become a more informed investor as you explore US stocks and ETFs, even if you are starting with small amounts.
+**FAQ**
+**Disclaimer:**  
+Gotrade is the trading name of Gotrade Securities Inc., which is registered with and supervised by the Labuan Financial Services Authority (LFSA). This content is for educational purposes only and does not constitute financial advice. Always do your own research (DYOR) before investing.
+* * *
+Share
+## Related Articles
+![](https://heygotrade.com/en/blog/what-is-bid-ask-spread/)![AppLogo](https://heygotrade.com/static/5507b8ed8d889e18a99cc848622fd481/fd127/app-logo.png)
+Gotrade
+[](https://heygotrade.com/app-download/)
+![](https://t.co/1/i/adsct?bci=4&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=9664a80d-f552-42a7-8081-439bff659bdd&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1e5acbe8-fff8-4696-af0f-5022da9f39f8&pt=Bid%20Ask%20Spread%3A%20How%20It%20Works%20and%20Why%20It%20Matters&tw_document_href=https%3A%2F%2Fheygotrade.com%2Fen%2Fblog%2Fwhat-is-bid-ask-spread%2F&tw_iframe_status=0&txn_id=oc2is&type=javascript&version=2.3.35)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=9664a80d-f552-42a7-8081-439bff659bdd&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1e5acbe8-fff8-4696-af0f-5022da9f39f8&pt=Bid%20Ask%20Spread%3A%20How%20It%20Works%20and%20Why%20It%20Matters&tw_document_href=https%3A%2F%2Fheygotrade.com%2Fen%2Fblog%2Fwhat-is-bid-ask-spread%2F&tw_iframe_status=0&txn_id=oc2is&type=javascript&version=2.3.35)
+
+==================================================
+
+SOURCE: https://www.home.saxo/learn/guides/trading-strategies/bid-vs-ask-price
+[For institutions](https://www.home.saxo/institutional-and-partners)
+[ International](https://www.home.saxo/learn/guides/trading-strategies/bid-vs-ask-price)
+##### Manage consent
+##### Details Cookies
+International 
+##### Important margin product information
+CFDs and forex (FX) are complex instruments and come with a high risk of losing money rapidly due to leverage. **62% of retail investor accounts lose money when trading CFDs with this provider.** You should consider whether you understand how CFDs, FX, or any of our other products work and whether you can afford to take the high risk of losing your money.
+##### Cookie policy
+##### Necessary
+##### Preference
+Yes No
+Yes No
+##### Statistical
+Yes No
+Yes No
+##### Marketing
+Yes No
+Yes No
+CFDs and forex (FX) are complex instruments and come with a high risk of losing money rapidly due to leverage. **62% of retail investor accounts lose money when trading CFDs with this provider.**
+[ Show more ](https://www.home.saxo/learn/guides/trading-strategies/bid-vs-ask-price)
+CFDs and forex (FX) are complex instruments and come with a high risk of losing money rapidly due to leverage. **62% of retail investor accounts lose money when trading CFDs with this provider.** You should consider whether you understand how CFDs, FX, or any of our other products work and whether you can afford to take the high risk of losing your money.
+[ Show less ](https://www.home.saxo/learn/guides/trading-strategies/bid-vs-ask-price)
+![How to find the bid vs. ask price](https://www.home.saxo/learn/guides/trading-strategies/bid-vs-ask-price)
+# How to find the bid vs. ask price
+Trading Strategies
+![Saxo Be Invested](https://www.home.saxo/-/media/content-hub/images/general/author-profile-pictures/saxo-be-invested-image.png)
+Saxo Group
+## Bid vs. ask price
+The ‘bid’ and ‘ask’ price are the available prices quoted to buy and sell assets on the financial markets. They show the best available price at that time, which a retail trader can go long (buy) or short (sell) on a security.
+Retail traders must execute market orders to buy at the current ask price and sell at the latest available bid price. Limit orders can also be made to purchase at the bid price and sell at the ask price.
+Before you start making trades, it’s a good idea to familiarise yourselves with the concept of the bid price and ask price, as well as the bid-ask spread of a security and how this impacts the cost of your trades.
+[Start trading stocks with Saxo today](https://www.home.saxo/products/stocks)
+## What is the bid price? 
+The bid price is the highest price a trader is prepared to pay to open a long (buy) position on an asset. Those looking to profit from a long position will purchase said asset at the bid price and hope that it rises to where the ask price is higher than the bid price you accepted when selling your position back into the market. 
+When a bid order is entered, there is never a guarantee that the trader will receive the number of shares, lots or contracts at the requested price. It ultimately boils down to liquidity. There must be sufficient sellers at the bid price for buyers to have their orders filled. 
+### Bid price examples 
+Let’s say the current bid price on an [equity](https://www.home.saxo/products/stocks) stood at $5.10. You may decide to submit a limit order and purchase your shares immediately at a bid price of $5.10. Alternatively, if a limit order is entered at $5.05, this price will only be taken if all other bids above it are filled to enable the bid price to drop five ticks. 
+A limit order allows you to choose your entry point instead of accepting the current market price. A limit order can narrow the bid-ask spread. If the bid price was $5.10 and the ask price was $5.13, you could look to enter a long position at $5.11 and wait for your order to be filled. 
+### Bid exit examples 
+If you plan to hedge out of an open ‘long’ (buy) position on a security, or you’re just looking to short-sell it outright, it’s possible to sell at the best available bid price, providing there is a buyer on the other side of the market. 
+You can use limit orders to place short bid at, below and above the current bid price. A bid above the current bid price will, as we’ve already discussed, likely narrow the bid-ask spread. Market orders can also be used by those willing to accept whatever price is immediately available to sell an asset. A short-sell market order is most often utilised when a trader is sure that the value of an asset will fall much further or when a trader is keen to exit a position fast. 
+## What is the ask price? 
+The ask price is the cheapest price at which a trader is prepared to sell an asset, at least for the current time. Just like the bid price, the ask price fluctuates throughout a trading session. The ask price is usually a solid barometer of a stock’s market value at any point, although you still cannot rely solely on the ask price to define an asset’s ‘true’ value. 
+As with a bid price order, you cannot guarantee that a short-sell order will be filled at the current ask price. It all depends on how many shares, lots, or contracts that a buyer is prepared to accept at the latest ask price. 
+[Fees matter, check out Saxo’s new competitive prices here](https://www.home.saxo/rates-and-conditions/pricing-overview)
+### Ask price examples 
+If a current asset’s ask price is set at $5.15, you may wish to submit a limit order to short-sell said asset at $5.15 or anywhere above that figure. However, if a buy order is entered with a limit of $5.18, all other offers beneath that figure, starting with $5.15, will have to be filled before the price moving up to $5.18 and being filled. 
+Any order placed beneath the current ask price will narrow the bid-ask spread or it may even directly take the bid price, as both sell and buy orders are simultaneously matched. Those looking to directly short-sell an asset can set a market order at $5.15 and even if the price falls to $5.14 or even $5.13 their order will be automatically filled. 
+## How are bid and ask prices set? 
+The bid price and ask price is defined by the market, as opposed to any specific individual or organisation. Effectively, it is the market forces of supply and demand. Whenever demand outstrips supply, the bid and ask price of an asset will move steadily upwards. When supply begins to outstrip demand, the bid and ask prices will gradually decline. 
+The gap between bid and ask prices, known as the ‘spread’ – more on this shortly – is defined by the level of trading activity on the asset. The greater the trading volumes, the narrower the spread and the thinner the volumes, the wider the spread. 
+### The crucial differences between bid and ask prices 
+### The main similarities of bid and ask prices 
+## What is the bid-ask spread? 
+A bid-ask spread is the gap between the highest price a buyer is prepared to pay for an asset and the cheapest price a seller is willing to sell an asset. The spread is considered the transaction cost for a retail trader. Buyers purchase at the available ask price and sellers sell at the available bid price. 
+Essentially, the bid price demonstrates the demand for an asset, and the ask price represents the supply of said asset. 
+Market makers are those that purchase at the current bid price and sell at the current ask price. Market makers are typically deployed by brokerages to buy and sell securities at specific prices. When a retail trader initiates a trade, they will accept one of these prices, based on whether they plan to buy (ask price) or sell (bid price) the asset. 
+The difference between the two is known as the spread and is retained by the market makers as their commission for facilitating market liquidity. 
+Let’s say the bid-ask spread on an asset was $0.50 – the bid price was $19.50 and the ask price was $20. 
+The bid-ask spread in percentage terms is $0.50 / $20 x 100 = 2.50%. The wider the spread, the more expensive a trade is, whichever side of the market you wish to enter. 
+### What causes bid-ask spreads to be wider than others? 
+The size of a bid-ask spread differs from asset to asset. Typically, it is defined by the liquidity of each asset. The more liquid a market, the narrower a bid-ask spread is likely to be. The [forex markets](https://www.home.saxo/products/forex) are said to have the tightest bid-ask spreads. 
+Some of these spreads can be as thin as 0.001%, on occasion. At the other end of the spectrum, some lesser-known small-cap stocks can have spreads of upwards of 2% of an asset’s lowest available ask price. 
+The wider spreads often occur because there is simply a lower level of demand from investors. Small-cap stocks that have much less information surrounding them carry more inherent risk and therefore investors may be warier to invest and take the plunge. 
+The price volatility surrounding lesser-known stocks or fledgling cryptocurrencies also means that market makers demand bigger spreads to make it worth their while to provide liquidity to the market. 
+### Is the last price the same as the current bid-ask prices? 
+While the bid price focuses on the highest price a trader is prepared to pay to go long (buy) on an asset and the ask price is the lowest price a trader is prepared to short (sell) an asset, the last price is essentially the value of the most recent transaction of said asset. 
+It’s possible to think of the last price definition in terms of selling any other asset. Let’s say you choose to sell your vehicle for $20,000. You get an offer of $17,500 but, following negotiation back and forth, the car is finally sold for $19,000. 
+The last price is the price of the last transaction, i.e. $19,000. It may not be the price you wanted to sell at, but it’s the actual price a buyer was prepared to pay. 
+Remember, the last price is not always an accurate representation of the price available to buy or sell in the market in real-time. The last price may have been taken before a significant shift in the bid or ask price which, as we’ve already explained, can occur for a multitude of reasons, not least a fall in liquidity and/or market uncertainty. 
+The latest bid and ask prices are therefore a more accurate representation of the market value of an asset at that moment. The last price simply shows the price where buyers and sellers were most recently matched in the market. 
+[Practice trading with a Saxo demo account today](https://www.home.saxo/accounts/try-free-demo)
+##### Share
+#### Related Articles
+* * *
+[](https://www.home.saxo/learn/guides/trading-strategies/barista-fire-explained-combining-invested-savings-with-part-time-work)
+Trading Strategies
+[Barista FIRE explained: Combining invested savings with part-time work](https://www.home.saxo/learn/guides/trading-strategies/barista-fire-explained-combining-invested-savings-with-part-time-work)
+* * *
+[](https://www.home.saxo/learn/guides/trading-strategies/financial-independence-retire-early-fire-a-guide)
+Trading Strategies
+[Financial Independence Retire Early (FIRE): Guide](https://www.home.saxo/learn/guides/trading-strategies/financial-independence-retire-early-fire-a-guide)
+* * *
+[](https://www.home.saxo/learn/guides/trading-strategies/how-dollar-cost-averaging-dca-can-help-during-market-volatility)
+Trading Strategies
+[How Dollar Cost Averaging (DCA) can help during market volatility](https://www.home.saxo/learn/guides/trading-strategies/how-dollar-cost-averaging-dca-can-help-during-market-volatility)
+* * *
+[](https://www.home.saxo/learn/guides/trading-strategies/how-emotions-can-influence-your-investment-decisions)
+Trading Strategies
+[How emotions can influence your investment decisions](https://www.home.saxo/learn/guides/trading-strategies/how-emotions-can-influence-your-investment-decisions)
+* * *
+[](https://www.home.saxo/learn/guides/trading-strategies/the-rule-of-72-what-is-it-and-how-does-it-work)
+Trading Strategies
+[The Rule of 72: What is it and how does it work?](https://www.home.saxo/learn/guides/trading-strategies/the-rule-of-72-what-is-it-and-how-does-it-work)
+* * *
+[](https://www.home.saxo/learn/guides/trading-strategies/how-to-maximise-your-compounding-returns-a-comprehensive-guide)
+Trading Strategies
+[How to maximise your compounding returns: A comprehensive guide](https://www.home.saxo/learn/guides/trading-strategies/how-to-maximise-your-compounding-returns-a-comprehensive-guide)
+* * *
+[](https://www.home.saxo/learn/guides/trading-strategies/how-to-pick-stocks)
+Trading Strategies
+[How to pick stocks: A practical guide for smart investing](https://www.home.saxo/learn/guides/trading-strategies/how-to-pick-stocks)
+* * *
+[](https://www.home.saxo/learn/guides/trading-strategies/value-investing-what-it-is-and-how-it-works)
+Trading Strategies
+[Value investing: What it is and how it works](https://www.home.saxo/learn/guides/trading-strategies/value-investing-what-it-is-and-how-it-works)
+* * *
+#### Latest Market Insights
+* * *
+[](https://www.home.saxo/content/articles/equities/netflixearnings-21012026)
+[Equities](https://www.home.saxo/insights/news-and-research/equities) 2026-01-21 16:30
+[Netflix after earnings: a strong quarter, a more expensive 2026](https://www.home.saxo/content/articles/equities/netflixearnings-21012026)
+* * *
+[](https://www.home.saxo/content/articles/macro/market-quick-take---21-january-2026-21012026)
+[Macro](https://www.home.saxo/insights/news-and-research/macro) 2026-01-21 15:53
+[Market Quick Take - 21 January 2026](https://www.home.saxo/content/articles/macro/market-quick-take---21-january-2026-21012026)
+* * *
+[](https://www.home.saxo/content/articles/podcast/podcast-20-january-20012026)
+[Podcast](https://www.home.saxo/insights/news-and-research/podcast) 2026-01-20 20:30
+[Between a Greenland rock and a JGB hard place.](https://www.home.saxo/content/articles/podcast/podcast-20-january-20012026)
+* * *
+[](https://www.home.saxo/content/articles/forex/the-fx-trader-japanese-bond-selloff-ramps-up-pressure-on-jpy-20012026)
+[Forex](https://www.home.saxo/insights/news-and-research/forex) 2026-01-20 15:58
+[The FX Trader: Japanese bond sell-off ramps up pressure on JPY.](https://www.home.saxo/content/articles/forex/the-fx-trader-japanese-bond-selloff-ramps-up-pressure-on-jpy-20012026)
+* * *
+[](https://www.home.saxo/content/articles/options/intel-intc-pre-earnings-scorecard---19-january-2026-20012026)
+[Options](https://www.home.saxo/insights/news-and-research/options) 2026-01-20 15:39
+[Intel (INTC) pre-earnings score-card](https://www.home.saxo/content/articles/options/intel-intc-pre-earnings-scorecard---19-january-2026-20012026)
+* * *
+[](https://www.home.saxo/content/articles/macro/market-quick-take---20-january-2026-20012026)
+[Macro](https://www.home.saxo/insights/news-and-research/macro) 2026-01-20 15:29
+[Market Quick Take - 20 January 2026](https://www.home.saxo/content/articles/macro/market-quick-take---20-january-2026-20012026)
+* * *
+[](https://www.home.saxo/content/articles/equities/greenlandinvestors-19012026)
+[Equities](https://www.home.saxo/insights/news-and-research/equities) 2026-01-19 21:00
+[The Greenland chill, the market heat: a defence investor’s map](https://www.home.saxo/content/articles/equities/greenlandinvestors-19012026)
+* * *
+[](https://www.home.saxo/content/articles/commodities/cot-on-forex-and-commodities---week-to-13-january-2026-19012026)
+[Commodities](https://www.home.saxo/insights/news-and-research/commodities) 2026-01-19 20:30
+[COT report: positioning pivots on geopolitics, lifting crude and gold longs and reversing dollar selling](https://www.home.saxo/content/articles/commodities/cot-on-forex-and-commodities---week-to-13-january-2026-19012026)
+* * *
+You can access both of our platforms from a single Saxo account.
+## Outrageous Predictions 2026
+###  01 / 10
+**This content is marketing material.  
+**   
+None of the information provided on this website constitutes an offer, solicitation, or endorsement to buy or sell any financial instrument, nor is it financial, investment, or trading advice. Saxo Bank A/S and its entities within the Saxo Bank Group provide execution-only services, with all trades and investments based on self-directed decisions. Analysis, research, and educational content is for informational purposes only and should not be considered advice or a recommendation.  
+  
+Saxo’s content may reflect the personal views of the author, which are subject to change without notice. Mentions of specific financial products are for illustrative purposes only and may serve to clarify financial literacy topics. Content classified as investment research is marketing material and does not meet legal requirements for independent research.  
+  
+Saxo partners with companies that provide compensation for promotional activities conducted on its platform. Some partners also pay retrocessions contingent on clients investing in products from those partners.   
+  
+While Saxo receives compensation from these partnerships, all educational and research content remains focused on providing information to clients.  
+  
+Before making any investment decisions, you should assess your own financial situation, needs, and objectives, and consider seeking independent professional advice. Saxo does not guarantee the accuracy or completeness of any information provided and assumes no liability for any errors, omissions, losses, or damages resulting from the use of this information.  
+  
+
+==================================================
+
+SOURCE: https://www.investopedia.com/terms/b/bid-askspread.asp
+Definition
+A bid-ask spread is the range between the buying and selling prices offered for a security.
+##  What Is a Bid-Ask Spread? 
+An individual looking to sell will accept the bid price while one looking to buy will pay the ask price. 
+### Key Takeaways
+Investopedia / Zoe Hansen
+##  Understanding Bid-Ask Spreads 
+###  The Bid and the Ask 
+A security's price is the market's perception of its value at any given point in time. To understand why there is a bid and an ask, one must factor in the two major players in any market transaction, namely the
+Market makers, many of which may be employed by brokerages, offer to sell securities at a given price (the ask price) and will also bid to purchase securities at a given price (the bid price). 
+When an investor initiates a trade, they will accept one of these two prices depending on whether they wish to buy the security (ask price) or sell the security (bid price). 
+###  The Spread 
+The difference between these two, the spread, is the principal transaction cost of trading (outside of commissions). It is collected by the market maker through the natural flow of orders processed at the bid and ask prices. This is what financial brokerages mean when they state that their revenues are derived from traders "crossing the spread." 
+The number of bids and asks can have a significant impact on the bid-ask spread. The spread may widen significantly if fewer participants place limit orders to buy a security (thus generating fewer bid prices) or if fewer sellers place limit orders to sell. 
+As such, it's critical to keep the bid-ask spread in mind when placing a buy-limit order to ensure it [executes](https://www.investopedia.com/ask/answers/050515/when-buy-limit-order-executed.asp) successfully. Bid-ask spread trades can be transacted for most securities, as well as foreign exchange and commodities. 
+##  Bid-Ask Spread Calculation 
+The bid-ask spread is calculated as the difference between the highest price that a buyer is willing to pay for a security and the lowest price that a seller is willing to accept. 
+**Bid-Ask Spread = Ask Price - Bid Price**
+###  Beyond the Basic 
+While the basic calculation of the bid-ask spread involves pretty simple math, more complex calculations may be necessary. During dynamic, volatile markets, specific things may happen that make the spread not so straightforward. For example, in markets with multiple tiers of bids and asks, you might calculate a weighted average spread that takes into account the distribution of orders at different price levels. 
+You could also lean on the effective spread. The effective spread accounts for the impact of market orders. This calculation is the difference between the execution price of a market order and the midpoint of the bid-ask spread. This can be a more accurate reflection of the true cost of trading, especially in highly liquid markets. 
+You can also convert a bid-ask spread to a percentage spread if you prefer a comparative metric. For instance, if the bid-ask spread is $1 and a stock is trading at $50, a percentage spread of 2% ($1/$50) may have more meaning for you than the nominal amount of $1.   
+
+##  Bid-Ask Spread and Liquidity 
+The bid-ask spread is the de facto measure of market [liquidity](https://www.investopedia.com/terms/l/liquidity.asp). Certain markets are more liquid than others, and that should be reflected in their narrow spreads. 
+###  A Reflection of Supply and Demand 
+###  Perceived Risk 
+Bid-ask spreads can also reflect the market maker's perceived risk in offering a trade. For example, options or futures contracts may have bid-ask spreads that represent a much larger percentage of their price than a forex or equities trade. The width of the spread might be based not only on liquidity but also on how quickly the prices could change. 
+###  Market Structure 
+Market structure and competition among market participants also impacts the spread. In more competitive markets with numerous buyers and sellers, spreads tend to be tighter. For example, think of electronic markets that facilitate trades instantly. On the other hand, over-the-counter markets or less transparent markets that have fewer participants typically has wider spreads. 
+### Fast Fact
+Market orders can be risky when the bid-ask spread is shifting or wide. If you find this happening, consider using a limit order to set the exact price you want to trade at instead of getting filled at whatever the market offerings.
+##  Bid-Ask Spread Example 
+If the [bid price](https://www.investopedia.com/terms/b/bidprice.asp) for a stock is $19 and the ask price for the same stock is $20, then the bid-ask spread is $1. The bid-ask spread can also be stated in percentage terms; it is customarily calculated as a percentage of the lowest sell price or ask price: 
+**$1 ÷ $20 = 5%**
+This spread would close if a potential buyer offered to purchase the stock at a higher price or if a potential seller offered to sell the stock at a lower price.  
+
+##  Factors That Impact the Bid-Ask Spread 
+Many things affect bid-ask spreads. The list below provides an overview of why bid-ask spreads exist and how they may change. 
+##  Bid-Ask Spreads and Market Makers 
+Market makers play a part in how bid-ask spreads are formulated. They are able to make an impact because they: 
+##  Bid-Ask Spread and Arbitrage 
+Traders who engage in [arbitrage](https://www.investopedia.com/terms/a/arbitrage.asp) look for opportunities to profit from inefficiencies in the bid-ask spread, often by simultaneously buying and selling the same or related assets across different markets or platforms. 
+For example, if a stock is trading with a bid of $100 on one exchange and an ask of $99 on another (perhaps due to time lags or fragmented markets), an arbitrageur could buy at $99 and sell at $100, locking in a $1 profit per share, minus transaction costs. These trades typically need to be executed quickly, as arbitrage opportunities tend to disappear rapidly once discovered and acted upon. Therefore, especially in this context, arbitrage is usually done leveraging technological tools. 
+Arbitrage involving the bid-ask spread isn't limited to price differences across venues. Traders also use algorithmic strategies like market making, where they post both bid and ask quotes and profit from capturing the spread itself. They can make this happen by managing order flow and adjusting quotes in response to market activity 
+## How Does Bid-Ask Spread Work?
+The bid-ask spread is the difference between the highest price a buyer will offer (the bid price) and the lowest price a seller will accept (the ask price). Typically, an asset with a narrow bid-ask spread will have high demand. By contrast, assets with a wide bid-ask spread may have a low volume of demand, therefore influencing wider discrepancies in its price.
+## What Causes a Bid-Ask Spread to Be High?
+When there is a significant amount of liquidity in a given market for a security, the spread will be tighter. Stocks that are traded heavily, such as Google, Apple, and Microsoft will have a narrower bid-ask spread.
+Conversely, a bid-ask spread may be wide because a security is unpopular on a given day. For instance, small-cap stocks may have lower trading volumes and be in less demand among investors.
+## What Is an Example of a Bid-Ask Spread in Stocks?
+Consider the following example where a trader is looking to purchase 100 shares of Apple for $50. The trader sees that 100 shares are offered at $50.05. The spread would be $50.05 - $50.00, or $0.05. While this spread may seem small or insignificant, on large trades, it can be meaningful financially. That's why narrow spreads are typically more ideal. The total value of the bid-ask spread, in this instance, would be equal to 100 shares x $0.05, or $5.
+##  The Bottom Line 
+The bid-ask spread serves as an effective measure of liquidity, as more liquid securities will have narrow spreads while illiquid ones will have wider ones. 
+Investors should keep an eye on the spread of any security they wish to buy or sell to get a sense of how frequently it trades and to decide on the type of order to use when making a transaction.  
+
+**_Correction—Dec. 4, 2022:_ **This article’s question-and-answer segment was edited from a previous version that incorrectly defined bid-ask spread.   
+
+Compare Accounts
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+Take the Next Step to Invest
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+## Related Articles
+Newsletter Sign Up
+Newsletter Sign Up
+
+==================================================
+

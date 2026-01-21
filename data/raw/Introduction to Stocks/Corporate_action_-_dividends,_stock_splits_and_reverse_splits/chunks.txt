@@ -1,0 +1,405 @@
+SOURCE: https://investor.vanguard.com/investor-resources-education/online-trading/corporate-actions
+About
+Understand corporate actions with Vanguard. Learn how events like stock splits, dividends, and mergers affect your investments and what actions to take.
+Investing strategies
+Online trading
+Education
+Page
+Financial terms
+Investing strategies
+# Understand corporate actions & when to respond
+Understand corporate actions & when to respond
+success
+You have saved this article
+2 minute read
+success
+You have saved this article
+![Two young men are looking down at something out of the frame.](https://investor.vanguard.com/content/dam/retail/publicsite/en/photography/lifestyles/ire-aspot-corporate-actions-phlife-gi.jpg)
+## What's a corporate action?
+### Voluntary
+Voluntary corporate action events give eligible shareholders the opportunity to choose a particular outcome.   
+
+Since participation is optional, Vanguard will typically communicate the offer details to you and ask you to respond on vanguard.com. 
+### Mandatory
+Mandatory corporate action events don’t offer eligible shareholders a choice in the outcome.   
+
+Since they aren’t contingent on a response, we typically don’t communicate details on these events, and the changes are automatically reflected in your account. 
+### Common voluntary corporate action events
+Some offers require response online or over the phone to apply your election decision to your investments. Here are some examples of common voluntary corporate actions:
+### Equity tender
+An offer to buy all or some of the shareholder’s stock positions. The offer price may be payable in cash, stock, or a combination of both.   
+
+### Bond tender
+An offer to buy back a bond. The offer may have a set price that’s determined by the company or based on a specific reference yield calculation.
+### Exchange offer
+A form of tender offer that involves exchanging currently owned shares for shares of a new security instead of cash.
+### Rights offer
+An offer that allows the shareholder to purchase shares of the company at a subscription price within a fixed period (usually 2 to 4 weeks). The subscription price is usually below the current market price of the security. 
+Rights can be transferable (traded on the public market) or nontransferable (not traded).
+### Consent
+A consent asks existing shareholders to approve or agree to proposed amendments or changes to the security. An incentive payment is usually offered for the agreement. 
+### How to access or participate in a voluntary corporate action
+Log onto your Vanguard account on your computer and select **Holdings**. Below your account number, select **Corporate actions**. Then select the **Event reference** number to read more about the offer. If you decide to participate, you must respond by the response deadline stated in the offer.   
+  
+
+### Response submission policy
+### Response deadline
+The last day Vanguard can guarantee your response to an offer. Vanguard's response deadline may be sooner than the company's deadline. Anything submitted after Vanguard's response deadline is on a best-efforts basis.
+### Critical deadline
+The company’s deadline to participate in the corporate action event.
+### What are warrants and how do I exercise them?
+Warrants give the holder the right to purchase a certain number of shares at a set price during an extended period. Warrants can usually be transferred, traded, or exercised by the holder.
+**Note:** Warrants can trade while they still have value in the market or until they expire. If you don’t take any action before their expiration date, they’ll automatically be redeemed for little to no value.
+How to exercise them:
+### Abandonment of securities
+You can elect to abandon one or multiple securities anytime by removing them from your account. By doing so, you permanently surrender and relinquish all rights and title in the abandoned securities. 
+If you wish to abandon one or multiple securities, log in to your Vanguard account, choose **Forms** from the top header, select the **Search using title or keyword** tab, and key in “Abandonment Request Form.”
+### Common mandatory corporate action events
+Some offers may also require you to respond either online or over the phone to apply your election decision to your investments. Here are some examples of some common mandatory corporate actions:
+### Spin-offs
+The parent company can split and create a new, independent company. When a company spins off shares, you retain your position in the parent company. 
+### Forward stock split
+An increase in the number of a company’s outstanding shares, often initiated to make shares affordable to more investors. 
+A forward split won’t result in a monetary gain or loss—the stock price per share will decrease, but your overall stake in the company will remain the same.
+**Example:** You own 10 million shares of ABC company, selling at $9 per share, and the company declares a 3-for-1 split. You now have 30 million shares of ABC company, selling at $3 per share.
+### Reverse stock split
+A decrease in the number of a company’s outstanding shares, often initiated to maintain the company’s listing on the exchange. 
+A reverse split won’t result in a monetary gain or loss—the stock price per share will increase, but your overall stake in the company will remain the same.
+**Example:** You own 10 million shares of ABC company, selling at $9 per share, and the company declares a 1-for-2 split. You now have 5 million shares of ABC company, selling at $18 per share.
+##  SPAC 
+A special purpose acquisition company (SPAC) is formed to raise money through an IPO (initial public offering) to buy or merge into another company. A SPAC has 2 years to complete the acquisition or return the funds to its shareholders.
+### Liquidations
+Liquidations generally occur as a final payment at the end of a business life cycle: Typically, the shares will stop trading in the market, the security will be removed from the shareholder's account, and a final payment of cash and/or securities will be distributed to shareholders. 
+Common types of liquidations are ADR (American Depositary Receipt) terminations, ETF (exchange-traded fund) liquidations, and bankruptcy distributions.
+### CVRs
+Contingent value rights (CVRs) are given to shareholders, usually during mergers, to receive future cash distributions or additional shares. 
+These distributions are contingent on the company meeting certain predetermined milestones. If the company doesn’t meet the milestones, the CVR will expire and be worth nothing. 
+You can find more information on these milestones on the company's investor relations page.
+CVRs are typically nontransferable, meaning they can’t be sold or abandoned.
+### Mergers and acquisitions
+During a merger, companies will negotiate to form a new company; in contrast, an acquisition will allow the acquiring company to absorb the assets of the other company. 
+Shareholders of a company involved in a merger or acquisition may receive a cash value for their position, new shares, or a combination of cash and shares after the company finalizes the event. 
+### Name/Symbol Change
+A ticker symbol may change when the company changes its name because of a corporate action such as a merger or rebranding. 
+**Example:** AOL Time Warner dropped the AOL and simply became Time Warner. The ticker symbol changed from AOL to TWX.
+### Dividends
+Payments of income from companies in which you own stock shares. 
+If you own stocks through **mutual funds** or **ETFs (exchange-traded funds)** , the company will pay the dividend to the fund, and it will then pass on to you through a fund dividend.
+For more information about dividends, please visit these pages:
+### Special due bill processing
+Tracks who’s due a pending payment when a stock is bought or sold after the record date of a distribution. Due bills are typically used for special dividend payments, stock splits, spin-offs, and sometimes during the issuing of rights and warrants.
+When an event carries a due bill, the ex-dividend date of the distribution falls after the record date. The due bill ensures that shareholders are paid based on the ex-dividend date even if the stock was traded after the record date.
+![A potted tree with a dollar sign on it.](https://investor.vanguard.com/investor-resources-education/online-trading/corporate-actions)
+###  Saving for retirement or college? 
+Get help making a plan, creating a strategy, and selecting the right investments for your needs.
+[ Start with your investing goals ](https://investor.vanguard.com/investor-resources-education/investing-goals)
+![A dollar sign encased in a square.](https://investor.vanguard.com/investor-resources-education/online-trading/corporate-actions)
+###  Already know what you want? 
+From mutual funds and ETFs to stocks and bonds, find all the investments you're looking for in a single place.
+[ Find investment products ](https://investor.vanguard.com/investment-products)
+## Explore professional advice
+We offer expert help at the low cost you'd expect from Vanguard.
+[ Compare advice options ](https://investor.vanguard.com/advice)
+Open or transfer accounts
+[ Get started ](https://personal1.vanguard.com/mmx-move-money/welcome)
+Articles you might like
+Investing strategies
+##### [How to start investing: A guide for beginners  ](https://investor.vanguard.com/investor-resources-education/article/how-to-start-investing "How to start investing: A guide for beginners")
+success
+Retirement
+##### [Get started on retirement saving  ](https://investor.vanguard.com/investor-resources-education/retirement/savings "Get started on retirement saving")
+success
+Personal finance
+##### [Understanding investment goals and goals based investing  ](https://investor.vanguard.com/investor-resources-education/investing-goals "Understanding investment goals and goals based investing ")
+success
+All investing is subject to risk, including the possible loss of the money you invest.
+**You must buy and sell Vanguard ETF Shares through Vanguard Brokerage Services (we offer them commission-free online) or through another broker (who may charge commissions). See the[Vanguard Brokerage Services Commission and Fee Schedules](https://investor.vanguard.com/client-benefits/brokerage-fees-commissions) for limits. Vanguard ETF Shares are not redeemable directly with the issuing Fund other than in very large aggregations worth millions of dollars. ETFs are subject to market volatility. When buying or selling an ETF, you will pay or receive the current market price, which may be more or less than net asset value.**
+Vanguard's advice services are provided by Vanguard Advisers, Inc. ("VAI"), a registered investment advisor, or by Vanguard National Trust Company ("VNTC"), a federally chartered, limited-purpose trust company.
+The services provided to clients will vary based upon the service selected, including management, fees, eligibility, and access to an advisor. [Find VAI's Form CRS and each program's advisory brochure here for an overview](https://personal1.vanguard.com/ngf-next-gen-form-webapp/forms).
+VAI and VNTC are subsidiaries of The Vanguard Group, Inc., and affiliates of Vanguard Marketing Corporation. Neither VAI, VNTC, nor its affiliates guarantee profits or protection from losses.
+![](https://adservice.google.com/ddm/fls/z/dc_pre=CJDT39_mnJIDFZ68ZgId_2wMog;u1=75727819951291283304186420062679564483;u6=https%3A%2F%2Finvestor.vanguard.com%2Finvestor-resources-education%2Fonline-trading%2Fcorporate-actions;u7=us%3Aen%3Aretail%3Aweb%3Ainvestor%3Ainvestor-resources-education%3Aonline-trading%3Acorporate-actions;u8=https%3A%2F%2Finvestor.vanguard.com%2Finvestor-resources-education%2Fonline-trading%2Fcorporate-actions;cat=vgent0;num=5697192976900;ord=1;src=12332392;gdpr=%24%7BGDPR%7D;type=allla0;gdpr_consent=%24%7BGDPR_CONSENT_755%7D)
+![](https://adservice.google.com/ddm/fls/z/dc_pre=CN7a39_mnJIDFcCkZgIdEgAlpw;u1=75727819951291283304186420062679564483;u3=new;u4=%25user_visitNumber%25;u5=logged%20out;cat=vgent0;num=1076429612797;ord=1;src=12332392;gdpr=%24%7BGDPR%7D;type=visit0;gdpr_consent=%24%7BGDPR_CONSENT_755%7D)
+![Company Logo](https://corp-pmj.web.vanguard.com/files/us_b2c/cc/prod/onetrust/consent/767da967-88bb-4648-bd02-c7a263423698/0197e560-3794-7b02-8a8d-69a9ce80cbbb/logos/e23663a9-a49c-4250-9892-0022f609291d/c3d93706-3ccf-4e23-aec5-3af38fdcc954/d2097a83-ab1d-4d11-84ea-83fc12092ed1/Vanguard.png)
+## Your privacy
+#### Your privacy
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose to set some types of cookies to “Off.” However, setting cookies to “Off” may impact your experience on the site and the services we are able to offer. Click on the different category headings to find out more and to change your default settings, where possible. Clearing cookies on your device will delete your preferences. To learn more, view the [Vanguard Privacy Center.](https://investor.vanguard.com/privacy-center)
+#### Strictly necessary cookies
+Always on
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+#### Performance cookies
+Performance cookies On
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies, we will not know when you have visited our site and will not be able to monitor its performance. To manage Performance cookies on our website, move the toggle to the right to turn them on or move the toggle to the left to turn them off. Then be sure to click the “Confirm my choices” button to save your preferences. If you click the “Accept all cookies” button, all cookie types will be set to “On.”
+#### Functional cookies
+Functional cookies On
+These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third-party providers whose services we have added to our pages. If you do not allow these cookies, then some or all of these services may not function properly. To manage Functional cookies on our website, move the toggle to the right to turn them on or move the toggle to the left to turn them off. Then be sure to click the “Confirm my choices” button to save your preferences. If you click the “Accept all cookies” button, all cookie types will be set to “On.”
+#### Targeting cookies
+Targeting cookies On
+### Cookie List
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+checkbox label label
+[![Powered by Onetrust](https://corp-pmj.web.vanguard.com/files/us_b2c/cc/prod/onetrust/consent/767da967-88bb-4648-bd02-c7a263423698/0197e560-3794-7b02-8a8d-69a9ce80cbbb/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
+
+==================================================
+
+SOURCE: https://www.interactivebrokers.com/campus/trading-lessons/types-of-corporate-action/
+![Types of Corporate Action](https://www.interactivebrokers.com/campus/wp-content/uploads/sites/2/2025/04/types-corp-actions-700x394.jpg)
+#### Take Quiz
+Log into IBKR Campus
+### Join IBKR Campus
+[Sign up for a free trial](https://ndcdyn.interactivebrokers.com/mkt/?src=campus46&url=%2FUniversal%2FApplication%3Fft%3DT%26spltst%3Dwww)
+##### [ Lesson 2 Quiz: Types of Corporate Action ](javascript:void\(0\))
+Score
+Investors may hear from a company from many angles. Here are several reasons.
+#### 1. Stock Split
+A stock split _increases_ the number of shares outstanding by dividing existing shares, reducing the share price while maintaining the total market value. Companies do this to make shares more affordable and improve liquidity. For example, a company whose share price is trading at $200 each announces a 4-for-1 stock split. An investor holding 10 shares before the split will own 40 shares after the action, each trading at $50 per share. 
+#### 2. Reverse Stock Split
+A reverse stock split _reduces_ the number of shares outstanding by merging existing shares, increasing the share price while maintaining the total market value. Companies use this to meet exchange listing requirements or enhance the perception of stock value. An investor holding 20 shares trading at $5 each ahead of a 1-for-2 reverse stock split will own 10 shares trading at $10.
+#### 3. Dividend Payment
+A company distributes a portion of its earnings to shareholders as dividends, either in cash or additional shares. This rewards investors and can signal financial stability. Dividends may be held stable over time or may increase at a steady and predictable amount. But they can also increase because of company growth and success, which is appealing to investors.
+#### 4. Share Buyback (Repurchase)
+A company buys back its own shares from the market, reducing the number of shares outstanding. This can increase earnings per share (EPS) and signal confidence in the company’s future. We will dig down into the motivations behind buybacks in the next lesson.
+#### 5. Merger & Acquisition (M&A)
+A merger combines two companies into one, while an acquisition occurs when one company takes over another. These actions aim to create synergies, expand market share, or enhance competitiveness. They can also occur when a company seeks to quickly acquire technology, supply chains or some other expertise held by the target company.
+#### 6. Rights Issue
+A company offers existing shareholders the right to buy additional shares at a discounted price to raise capital. This can fund expansion but may dilute ownership if new shares are not purchased.
+#### 7. Spin-Off
+A company creates a new independent entity by separating a division or subsidiary. This allows the parent company to focus on its core business while unlocking value for shareholders.
+#### 8. Tender Offer
+A company or investor offers to purchase shares from existing shareholders at a premium price, often to gain control or increase ownership. Shareholders can choose to accept or decline the offer.
+#### 9. Initial Public Offering (IPO)
+A private company issues shares to the public for the first time, becoming publicly traded on a stock exchange. This raises capital and increases market exposure but comes with regulatory and reporting requirements.
+![Interactive Brokers event calendar displaying corporate actions, earnings releases, and dividend dates for various companies during the week of April 20–26.](https://www.interactivebrokers.com/campus/wp-content/uploads/sites/2/2025/04/tws-types-corp-actions-1100x815.png)
+#### 10. Follow-On Public Offering (FPO)
+A publicly traded company issues additional shares to raise more capital after its IPO. This can dilute existing shareholders but helps fund expansion or reduce debt.
+#### 11. Delisting
+A company removes its shares from a stock exchange, either voluntarily or due to failure to meet listing requirements. This reduces liquidity and transparency but may reduce compliance costs.
+#### 12. Liquidation
+A company sells its assets to pay off liabilities before closing permanently. Shareholders receive any remaining funds after creditors are paid.
+#### 13. Corporate Restructuring
+A company reorganizes its business structure, operations, or financial setup to improve efficiency and profitability. This may involve layoffs, divestitures, or changes in debt structure.
+#### 14. Bonus Issue (Stock Dividend)
+A company issues additional shares to existing shareholders for free, based on their holdings. This increases the number of shares outstanding but does not change the company’s market value.
+#### 15. Warrant Issue
+A company issues warrants, giving investors the right (but not the obligation) to buy shares at a predetermined price within a specified period. This can raise capital and attract investors without immediate dilution.
+#### 16. Debt-to-Equity Conversion
+A company converts outstanding debt into equity shares, reducing liabilities and strengthening the balance sheet. This is often used during financial distress or restructuring.
+#### 17. Special Dividend
+A one-time, non-recurring dividend issued by a company, usually when it has excess cash or after a significant event like an asset sale. It provides an additional reward to shareholders.
+Conclusion: There are many reasons as you can see that a company may need to communicate through corporate actions with its shareholders. Some are more important than others, while several will require a response from owners of the stock.
+#### Join The Conversation
+For specific platform feedback and suggestions, please submit it directly to our team using [these instructions](https://www.interactivebrokers.com/faq?id=32653353).
+If you have an account-specific question or concern, please reach out to [Client Services](https://www.interactivebrokers.com/mkt/?src=smreplycampus&url=/en/support/customer-service.php?p=contact).
+We encourage you to look through our [FAQs](https://www.interactivebrokers.com/en/general/contact/ibot-container.php) before posting. Your question may already be covered!
+### Leave a Reply [Cancel reply](https://www.interactivebrokers.com/campus/trading-lessons/types-of-corporate-action/#respond)
+##### Log into IBKR Campus
+Final
+##### Corporate Actions Final
+Close
+Completing IBKR Campus lessons or quizzes indicates only that you have finished an educational module for personal use and does not assess trading skill. It does not grant certification, authorization or act as an assessment of trading ability.
+### Ask a Curriculum Question
+This form is aimed at answering questions about this lesson only. If you have questions about your Interactive Brokers account please contact [Customer Service](https://www.interactivebrokers.com/en/index.php?f=1560&p=contact).
+IBKR Campus Newsletters
+[ IBKR CampusBi-Weekly Newsletter Get updates on podcasts, webinars, courses, and more from our IBKR pillars. Sign Up ](https://ndcdyn.interactivebrokers.com/IBSales/IBKRCampus?subscription=campus)
+[ Traders' InsightDaily Newsletter View the latest financial news articles from the top voices in the industry. Sign Up ](https://ndcdyn.interactivebrokers.com/IBSales/IBKRCampus?subscription=traders_insight)
+[ IBKR WebinarsWeekly Newsletter Get updates on podcasts, webinars, courses, and more from our IBKR pillars. Sign Up ](https://ndcdyn.interactivebrokers.com/IBSales/IBKRCampus?subscription=webinars)
+[ IBKR QuantWeekly Newsletter For those wanting to trade markets using computer-power by coders and developers. Sign Up ](https://ndcdyn.interactivebrokers.com/IBSales/IBKRCampus?subscription=quant)
+[ IBKR APIMonthly Newsletter Hear about the latest tools and techniques from our own IBKR API staff. Sign Up ](https://ndcdyn.interactivebrokers.com/IBSales/IBKRCampus?subscription=api)
+This website uses cookies to collect usage information in order to offer a better browsing experience. By browsing this site or by clicking on the "ACCEPT COOKIES" button you accept our Cookie Policy.
+### Traders' Insight RSS
+#### To add IBKR Traders’ Insight to your RSS Feed, please paste the following link into your reader:
+### IBKR Quant RSS
+#### To add IBKR Quant to your RSS Feed,   
+please paste the following link into your reader:
+### Attention
+#### This page contains information regarding Options Trading
+By acknowledging this disclosure you are also allowing this website to use "functional" cookies on your browser. To find out more about cookies, see our privacy settings.
+### Privacy Preference Center
+### IBKR LLC (U.S.)
+Close Navigation
+**We are redirecting you to the Interactive Brokers LLC (U.S.) Website.** Should you decide to open an account, you will be redirected to the account application for your region. You can also find the website of the IBKR entity for your region at the bottom of this page.
+[Take me to IBKR.com](https://www.interactivebrokers.com/Universal/Application)
+Recaptcha requires verification. 
+protected by **reCAPTCHA**
+
+==================================================
+
+SOURCE: https://heygotrade.com/en/blog/understanding-corporate-actions
+# Understanding Corporate Actions: Overview, Types, Why They Matter
+![Author](https://heygotrade.com/en/blog/understanding-corporate-actions/)
+Erwanto
+Jan 15, 2026
+![](https://heygotrade.com/static/verified-f366e4532f25eace6678d07f63133607.svg)Reviewed by Gotrade Internal Analyst
+![Understanding Corporate Actions: Overview, Types, Why They Matter](https://files-tr8.s3.ap-southeast-1.amazonaws.com/blog_images/corporateactions_1768446079.jpg)
+Share this article
+## Stock prices do not move only because of earnings or [economic data](https://www.heygotrade.com/en/blog/economic-data-explained/). Sometimes prices change because the company itself takes action. These events are known as corporate actions, and they can directly affect shareholders even when the broader market is quiet.
+Understanding corporate actions meaning helps investors know what is happening behind the scenes and why their holdings sometimes change in value, structure, or share count.
+## What Are Corporate Actions?
+Corporate actions are events initiated by a company that result in changes to its shares, [dividends](https://www.heygotrade.com/en/blog/what-is-a-dividend/), or ownership structure.
+They can impact shareholders financially or structurally, depending on the type of action.
+Corporate actions occur within the stock market and are part of normal corporate operations.
+### Why corporate actions exist
+Companies use corporate actions to:
+These actions reflect strategic decisions, not market movements.
+## Types of Corporate Actions in the Stock Market
+Corporate actions come in several forms.
+### Mandatory corporate actions
+Mandatory actions apply automatically to all shareholders.
+Examples include:
+Shareholders do not need to take action, but their holdings may change.
+### Voluntary corporate actions
+Voluntary actions require shareholder choice.
+Examples include:
+Investors must decide whether to participate.
+### Mandatory with choice actions
+Some actions combine elements of both.
+Shareholders may receive a default option but can choose alternatives. These are less common but still important to understand.
+## Common Corporate Actions Investors See
+Some corporate actions appear more frequently than others.
+### Dividends and distributions
+Dividends are payments made to shareholders from company profits.
+They provide income and can affect stock prices when shares trade ex-dividend.
+### Stock splits and reverse splits
+Stock splits increase the number of shares while reducing price per share.
+Reverse splits reduce the number of shares and increase price per share. Neither changes the company’s total value, but both affect perception and liquidity.
+### Share buybacks
+[Buybacks](https://www.heygotrade.com/en/blog/buyback-what-is-it-example-and-how-does-it-affect-you/) reduce the number of shares outstanding.
+This can increase earnings per share and signal management confidence, but outcomes depend on execution and valuation.
+### Mergers, acquisitions, and spin-offs
+These actions restructure businesses.
+They can unlock value or introduce risk depending on strategic fit and execution.
+## Why Corporate Actions Matter to Investors?
+Corporate actions directly affect ownership and returns.
+### Impact on share price and value
+Corporate actions often cause price adjustments.
+For example, a stock split lowers the price mechanically, while a dividend reduces the share price by the payout amount.
+Understanding this prevents confusion around price movements.
+### Impact on portfolio structure
+Corporate actions can change:
+These changes affect portfolio tracking and performance measurement.
+### Tax and reporting considerations
+Some corporate actions have tax implications.
+Investors may need to report dividends, capital gains, or restructuring outcomes depending on local regulations.
+## How Investors Should Track Corporate Actions?
+Staying informed helps avoid surprises.
+### Monitoring corporate action announcements
+Companies announce corporate actions ahead of execution.
+Paying attention to announcements helps investors prepare for changes.
+### Understanding key dates
+Important dates include:
+Missing these dates can affect eligibility or cash flow.
+### Avoiding emotional reactions
+Corporate actions are mechanical events.
+Reacting emotionally to price changes without understanding the action can lead to poor decisions.
+## Limitations and Risks of Corporate Actions
+Corporate actions are not always positive.
+### Strategic risk
+Not all actions create value.
+Poorly executed mergers or buybacks at high prices can destroy shareholder value.
+### Short-term volatility
+Corporate actions can trigger short-term volatility.
+Markets may disagree with management’s decisions, leading to price swings.
+### Complexity for beginners
+Some actions, such as rights issues, can be confusing.
+Understanding the basics reduces unnecessary risk.
+## Conclusion
+Corporate actions are company-driven events that directly affect shareholders and stock prices. They are a normal part of how businesses operate in the stock market.
+By understanding corporate actions meaning and how corporate actions in the stock market work, investors can better interpret changes in their portfolios and avoid being caught off guard.
+If you want to track corporate actions across US stocks and monitor how they affect your holdings, you can use the Gotrade app. Market and charting tools make it easier to stay informed while managing your portfolio responsibly.
+[GET GOTRADE APP, START INVESTING](https://heygo.trade/get-gotrade-app-start-investing-button)
+**FAQ**
+**What are corporate actions?**  
+They are events initiated by a company that affect its shares or shareholders.
+**Do corporate actions always change stock prices?**  
+Often yes, but changes can be mechanical rather than fundamental.
+**Are corporate actions good or bad?**  
+They can be either, depending on execution and context.
+**Do investors need to take action?**  
+Some corporate actions are automatic, while others require a decision.
+**Reference:**
+**Disclaimer**
+_Gotrade is the trading name of Gotrade Securities Inc., which is registered with and supervised by the Labuan Financial Services Authority (LFSA). This content is for educational purposes only and does not constitute financial advice. Always do your own research (DYOR) before investing._
+* * *
+Share
+## Related Articles
+![](https://heygotrade.com/en/blog/understanding-corporate-actions/)![AppLogo](https://heygotrade.com/static/5507b8ed8d889e18a99cc848622fd481/fd127/app-logo.png)
+Gotrade
+[](https://heygotrade.com/app-download/)
+![](https://t.co/1/i/adsct?bci=4&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=3fd76c85-3dc1-45d8-941c-7697abcc745c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=121ccd6f-2b2c-4bf6-a39f-91503c40758d&pt=Understanding%20Corporate%20Actions%3A%20Overview%2C%20Types%2C%20Why%20They%20Matter&tw_document_href=https%3A%2F%2Fheygotrade.com%2Fen%2Fblog%2Funderstanding-corporate-actions%2F&tw_iframe_status=0&txn_id=oc2is&type=javascript&version=2.3.35)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=3fd76c85-3dc1-45d8-941c-7697abcc745c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=121ccd6f-2b2c-4bf6-a39f-91503c40758d&pt=Understanding%20Corporate%20Actions%3A%20Overview%2C%20Types%2C%20Why%20They%20Matter&tw_document_href=https%3A%2F%2Fheygotrade.com%2Fen%2Fblog%2Funderstanding-corporate-actions%2F&tw_iframe_status=0&txn_id=oc2is&type=javascript&version=2.3.35)
+
+==================================================
+
+SOURCE: https://www.investopedia.com/articles/03/081303.asp
+Part of the Series 
+How to Invest with Confidence 
+[ Investing: An Introduction ](https://www.investopedia.com/articles/basics/11/3-s-simple-investing.asp)
+When a publicly traded company announces a [corporate action](https://www.investopedia.com/terms/c/corporateaction.asp), the savvy investor knows it's an event likely to impact the stock price. If you're a shareholder or considering buying company shares, you need to understand how an action will affect the company's stock. Corporate actions can also indicate a company's financial health and prospects in the near term. 
+### Key Takeaways
+##  Corporate Action Examples 
+Investopedia / Jiaqi Zhou
+##  The Stock Split 
+A stock split, sometimes called a bonus share, divides the value of each of a company's outstanding shares. The most common type of stock split is a [two-for-one split](https://www.investopedia.com/articles/01/072501.asp). In this scenario, an investor initially holding one share would automatically own two shares afterward, with each new share being worth half the value of the original share. 
+While it may appear that the [company has halved its stock price](https://www.investopedia.com/companies-with-most-stock-splits-8709383), the market often adjusts the price upward soon after the split occurs. There are short-term effects to consider: 
+Despite the doubling of common stock shares, it's crucial to remember that a stock split is a “nonevent” in financial terms. It doesn't change the company's overall equity or its [market capitalization](https://www.investopedia.com/terms/m/marketcapitalization.asp); only the number of shares outstanding is altered. But there may be long-term implications: 
+##  The Reverse Split 
+A reverse stock split is an action initiated by a company seeking to elevate its share price. Unlike a traditional stock split, a reverse split consolidates shares, effectively reducing the number of shares an investor holds while increasing the value of each share. For example, an investor holding 10 shares valued at $1 each would, after a 10-for-1 reverse split, own just one share valued at $10. 
+There are further implications to consider. A reverse split is often seen as an attempt by the company to [improve its financial image](https://www.investopedia.com/reverse-stock-splits-11807062), although it doesn't change the firm's market capitalization. In some instances, the maneuver is used strategically to sift out smaller investors who may not be part of the company's long-term plans. 
+##  Dividends 
+Companies can issue dividends in two forms: cash or stock, usually distributed quarterly or annually. Essentially, these are a share of [the company's profits being paid to owners of the stock](https://www.investopedia.com/terms/c/capitalization-of-profits.asp). 
+When a company issues a [cash dividend](https://www.investopedia.com/terms/c/cashdividend.asp), each shareholder receives a set amount of money per share owned. For example, if a shareholder owns 100 shares and the cash dividend is $0.50 per share, they would receive $50. 
+### Note
+Cash dividends often signal that a company has a strong financial standing with a healthy level of retained earnings.
+On the other hand, [stock dividends](https://www.investopedia.com/terms/s/stockdividend.asp) involve distributing additional shares to existing shareholders. If the dividend rate is set at 10%, a shareholder would receive one additional share for every 10 shares owned. However, this increases the total number of outstanding shares and dilutes earnings per share, typically causing the stock price to adjust downward. 
+The distribution of dividends can provide significant insight into a company’s financial health. Cash dividends suggest that the company has significant retained earnings and expects to maintain its financial performance by replacing the outgoing funds. Alternatively, when a company known for rapid growth begins issuing dividends, many investors interpret this as a sign that the company is transitioning to a more stable but slower growth rate. 
+##  Rights Issues 
+In a rights issue, a company extends an offer exclusively to its current shareholders for new or additional shares, giving them the first opportunity to purchase or acquire them before making them publicly available. 
+A rights issue frequently occurs in the form of a stock split. Implementing a rights issue usually signals that the company is providing its existing shareholders a unique benefit from a forthcoming positive development or venture. 
+##  Mergers and Acquisitions 
+A merger occurs when two or more companies combine and all parties agree to the terms. Formally, one company surrenders its stock to the other. 
+Shareholders may interpret a merger in two ways: either as a strategic move for business expansion or as an indication that the industry is consolidating, compelling the company to absorb competitors to maintain growth.2
+An acquisition differs from a merger in that one company purchases a majority stake in another firm without merging or swapping shares. Acquisitions can be friendly or [hostile](https://www.investopedia.com/terms/h/hostiletakeover.asp). 
+A unique variation is the reverse merger, where a privately held company acquires a publicly traded company, generally one that's struggling. Through this transaction, the private company essentially becomes public, sidestepping the cumbersome process of undertaking an initial public offering. Afterward, it may rebrand itself and issue new shares. 
+##  Contingent Value Right (CVR): 
+A CVR guarantees that shareholders will get compensation if a specified event occurs within a predetermined time frame. These rights are commonly issued in situations involving corporate restructuring or a [buyout](https://www.investopedia.com/terms/b/buyout.asp). 
+A CVR may be issued during an acquisition, acting as a negotiating tool when the acquiring and target companies disagree on the target’s fair price. Essentially, CVRs bridge this gap. If the acquired company hits specific performance measures after the acquisition, the acquiring company is obligated to grant additional benefits to the target’s shareholders.3
+CVR rewards either come in the form of cash or stock. When the compensation is stock, as is often the case, the value of the CVR can be harder to determine. That’s because share prices regularly change. For instance, shares valued at $100 each at the time of the deal could later fluctuate, making the value of the CVR hard to pin down when performance targets are eventually met. 
+##  The Spinoff 
+A spinoff occurs when a publicly traded company either sells off ("divests") part of its assets or issues new shares to form a separate company. Divesting, in this context, means to get rid of certain assets, businesses, or holdings to streamline operations or refocus the company's strategy. 
+Commonly, the company will offer these newly issued shares to its shareholders first, typically through a rights issue, before making them available to new investors. 
+### Note
+The decision to carry out a spinoff could indicate that the company is either preparing for new growth ventures or centering its efforts on its main line of business.
+##  Name/Symbol Change 
+Companies sometimes change their name and ticker symbol. They could be getting acquired, changing the focus of the business, or may wish to rebrand, perhaps to distance themselves from past errors or events associated with the corporate name. 
+After a merger, one or both companies need to change their name and symbol. For example, in 2000, Bell Atlantic acquired GTE and changed its name to Verizon Communications.4 A shift in business focus can also be a good reason for a change, particularly if the old name is no longer relevant or doesn’t fully capture what the company presently does. One instance is Apple Computer, Inc. changing its name to simply Apple, Inc. in 2007, given its vast expansion into smartphones and other media technology.5 Another example is when Facebook changed its name and ticker symbol to Meta in 2022 to reflect it being more than a social media network.6
+Rebranding, too, which can involve a name change, is sometimes found necessary given public sentiment. A notable example is Philip Morris Companies, which changed to the Altria Group in 2003 to distance the corporate identity from the negative public perception of tobacco and its related health risks.7
+That doesn’t mean name and symbol changes should be done hastily for better marketing or public relations. Names and ticker symbols identify the company and shouldn’t be changed lightly. Going under a different name or ticker could confuse people, raise suspicion, and result in lost business.  
+
+##  Liquidation 
+Sometimes, a company can no longer meet its financial obligations and is forced to enter liquidation. Its assets are then sold off, and the proceeds are distributed to eligible claimants. 
+Liquidation, obviously, is not a good thing for most shareholders. Once it happens, the shares will stop trading and are deemed worthless. Since ordinary shareholders rank at the bottom of the list of people to creditors, they are unlikely to receive anything from the sales of company assets.8  
+
+## How Do Corporate Actions Impact My Taxes?
+## When Can Shareholders Oppose a Corporate Action?
+Shareholders can sometimes vote down significant corporate actions, such as mergers or acquisitions. If a majority of shareholders oppose the move, it might be halted or modified. However, the specific ability to oppose corporate actions frequently depends on the type of shares you hold ([common vs. preferred](https://www.investopedia.com/ask/answers/difference-between-preferred-stock-and-common-stock/)) and the company's bylaws.
+## Do Corporate Actions Impact Retail and Institutional Investors Differently?
+Often, yes. While both [retail and institutional investors](https://www.investopedia.com/ask/answers/06/institutionalinvestor.asp) are affected by corporate actions, the impact can differ in scale and strategy. Institutional investors, with their large volume of shares, may have a more significant influence on the approval or disapproval of actions like mergers or rights issues. Retail investors, however, may find their holdings diluted or concentrated based on the specific corporate action. The timing and information available may differ: institutional investors typically have more immediate access to detailed analyses and might adjust their strategies ahead of retail investors.
+##  The Bottom Line 
+Corporate actions can significantly impact a company’s prospects and share price, so shareholders and investors should monitor them. These events typically need approval by the board of directors and may even require a thumbs-up from shareholders. 
+Corporate actions can be voluntary or mandatory and good or bad. In most cases, activities such as dividend payments, buybacks, and anything else seeking to boost shareholder value are welcome unless investors feel the company’s assets could have been used better. Less welcome are rights issues and liquidation. Investors generally loathe these events. 
+Article Sources
+Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our [editorial policy.](https://www.investopedia.com/legal-4768893#EditorialPolicy)
+Compare Accounts
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+Part of the Series 
+How to Invest with Confidence 
+[ Investing: An Introduction ](https://www.investopedia.com/articles/basics/11/3-s-simple-investing.asp)
+Take the Next Step to Invest
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+## Related Articles
+Newsletter Sign Up
+Newsletter Sign Up
+
+==================================================
+

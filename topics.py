@@ -1,19 +1,18 @@
-"""
 TOPICS = {
     "Introduction to Stocks": {
         "what_stocks_are": [
             # Beginner
             "definition of a stock and types of stocks",
+            "why invest: understanding inflation vs savings",
             "how ownership and shares work",
             "role of shareholders",
             # Intermediate
             "differences between common and preferred stocks",
-            "stock splits and reverse splits",
+            "Corporate action - dividends, stock splits and reverse splits",
             "how stock prices reflect company performance and market sentiment",
             # Advanced
             "understanding stock dilution, treasury shares, and insider holdings",
-            "impact of corporate actions (mergers, buybacks, spin-offs) on stock value",
-            "advanced valuation concepts: intrinsic vs market value"
+            "impact of corporate restructuring events (mergers, buybacks, spin-offs) on stock value",
         ]
     },
     "How Stock Markets Work": {
@@ -23,9 +22,9 @@ TOPICS = {
             "role of brokers and trading platforms",
             "different order types: market, limit, stop",
             # Intermediate
+            "major market indices: S&P 500, Nasdaq, Dow Jones",
             "market makers and liquidity providers",
             "trading hours, pre-market, and after-hours trading",
-            "dark pools and off-exchange trading",
             # Advanced
             "algorithmic trading, high-frequency trading (HFT), and market microstructure",
             "understanding order book depth and order flow",
@@ -43,25 +42,9 @@ TOPICS = {
             "valuation metrics: P/E, P/B, PEG ratio",
             "volatility measures: beta, ATR, implied volatility",
             # Advanced
-            "understanding options Greeks (delta, gamma, theta, vega)",
+            "technical indicators: RSI, MACD, Moving Averages", 
             "short interest, float, and institutional holdings",
             "advanced risk metrics: VaR, Sharpe ratio, alpha and beta analysis"
         ]
-    }
-}
-"""
-
-
-TOPICS = {
-    "Introduction to Stocks": {
-        "what_stocks_are": [
-            # Beginner
-            "definition of a stock and types of stocks",
-            #intermediate
-            "how stock prices reflect company performance and market sentiment",
-            # Advanced
-            "understanding stock dilution, treasury shares, and insider holdings",
-        
-        ]
-    }
+    },
 }

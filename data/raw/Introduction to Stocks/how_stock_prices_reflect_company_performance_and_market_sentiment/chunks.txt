@@ -1,0 +1,380 @@
+SOURCE: https://www.investopedia.com/articles/basics/04/100804.asp
+### Key Takeaways
+Investopedia / Ellen Lindner
+##  Understanding Fundamental Factors That Drive Stock Prices 
+In an efficient market, stock prices would be determined primarily by fundamentals, which, at the basic level, refer to a combination of two things: 
+An owner of [common stock](https://www.investopedia.com/terms/c/commonstock.asp) has a claim on earnings, and earnings per share (EPS) is the owner's return on their investment. When you buy a stock, you are purchasing a proportional share of an entire future stream of earnings. That's the reason for the valuation multiple: It is the price you are willing to pay for the future stream of earnings. 
+As shown in the diagram, the valuation multiple (P/E), or the stock price as some multiple of EPS, is a way of representing the discounted [present value](https://www.investopedia.com/terms/p/presentvalue.asp) of the anticipated future earnings stream. 
+Image by Julie Bang © Investopedia 2019
+###  The Earnings Base 
+###  The Valuation Multiple 
+The valuation multiple expresses expectations about the future. As we already explained, it is fundamentally based on the discounted present value of the future earnings stream. Therefore, the two key factors here are: 
+A higher [growth rate](https://www.investopedia.com/terms/g/growthrates.asp) will earn the stock a higher multiple, but a higher discount rate will earn a lower multiple. 
+In summary, the key fundamental factors are as follows: 
+##  Exploring Technical Factors Influencing Stock Market Movements 
+Things would be easier if only fundamental factors set stock prices. Technical factors are the mix of external conditions that alter the supply of and demand for a company's stock. Some of these indirectly affect fundamentals. For example, [economic growth](https://www.investopedia.com/terms/e/economicgrowth.asp) indirectly contributes to earnings growth. 
+Technical factors include the following. 
+###  Inflation 
+###  Economic Strength of Market and Peers 
+Company stocks tend to track with the market and with their sector or industry peers. Some prominent investment firms argue that the combination of overall market and sector movements—as opposed to a company's individual performance—determines a majority of a stock's movement. (Research has suggested the economic/market factors account for 90 percent of it.) For example, a suddenly negative outlook for one retail stock often hurts other retail stocks as "guilt by association" drags down demand for the whole sector. 
+###  Substitutes 
+###  Incidental Transactions 
+###  Demographics 
+Some important research has been done about the [demographics](https://www.investopedia.com/terms/d/demographics.asp) of investors. Much of it concerns these two dynamics: 
+The hypothesis is that the greater the proportion of middle-aged investors among the investing population, the greater the demand for equities and the higher the valuation multiples. 
+###  Trends 
+Unfortunately, because trends cut both ways and are more obvious in hindsight, knowing that stocks are "trendy" does not help us predict the future. 
+###  Liquidity 
+Large-cap stocks have high liquidity—they are well followed and heavily transacted. Many small-cap stocks suffer from an almost permanent "liquidity discount" because they simply are not on investors' radar screens. 
+##  The Impact of News on Stock Market Behavior 
+News related to a specific company, such as the release of a company's earnings report, can also influence the price of a stock (particularly if the company is posting after a bad quarter). 
+In general, strong earnings generally result in the stock price moving up (and vice versa). But some companies that are not making that much money still have a rocketing stock price. This rising price reflects investor expectations that the company will be profitable in the future. However, regardless of the stock price, there are no guarantees that a company will fulfill investors' current expectations of becoming a high-earning company in the future. 
+##  Analyzing Market Sentiment in Stock Price Fluctuations 
+Market sentiment refers to the psychology of market participants, individually and collectively. This is perhaps the most vexing category. Market sentiment is often subjective, biased, and obstinate. For example, you can make a solid judgment about a stock's future growth prospects, and the future may even confirm your projections, but in the meantime, the market may myopically dwell on a single piece of news that keeps the stock artificially high or low. And you can sometimes wait a long time in the hope that other investors will notice the fundamentals. 
+Some investors claim to be able to [capitalize](https://www.investopedia.com/terms/c/capitalize.asp) on the theory of behavioral finance. For the majority, however, the field is new enough to serve as the "catch-all" category, where everything we cannot explain is deposited. 
+##  The Bottom Line 
+Different investors focus on different factors when analyzing stock prices. Short-term traders emphasize technical factors, while long-term investors prioritize fundamentals, although they may consider technical trends and market sentiment. Market sentiment can influence prices in the short run, even with sound fundamentals, highlighting the unpredictability inherent in investing. Staying informed about behavioral finance can help explain these market inefficiencies. A balanced approach recognizes the impact of technical factors and sentiment while trusting that fundamentals generally shape stock values over the long term. 
+Article Sources
+Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our [editorial policy.](https://www.investopedia.com/legal-4768893#EditorialPolicy)
+Compare Accounts
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+Take the Next Step to Invest
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+## Related Articles
+Newsletter Sign Up
+Newsletter Sign Up
+
+==================================================
+
+SOURCE: https://www.disnat.com/en/learning/trading-basics/stock-basics/what-causes-stock-prices-to-change
+[ All trading basics ](https://www.disnat.com/en/learning/trading-basics)
+#  What Causes Stock Prices to Change? 
+Stock prices change everyday by market forces. By this we mean that share prices change because of supply and demand. If more people want to buy a stock (demand) than sell it (supply), then the price moves up. Conversely, if more people wanted to sell a stock than buy it, there would be greater supply than demand, and the price would fall.
+Understanding supply and demand is easy. What is difficult to comprehend is what makes people like a particular stock and dislike another stock. This comes down to figuring out what news is positive for a company and what news is negative. There are many answers to this problem and just about any investor you ask has their own ideas and strategies.
+That being said, the principal theory is that the price movement of a stock indicates what investors feel a company is worth. Don't equate a company's value with the stock price. The value of a company is its market capitalization, which is the stock price multiplied by the number of shares outstanding. For example, a company that trades at $100 per share and has 1,000,000 shares outstanding has a lesser value than a company that trades at $50 but has 5,000,000 shares outstanding ($100 x 1,000,000 = $100,000,000 while $50 x 5,000,000 = $250,000,000). To further complicate things, the price of a stock doesn't only reflect a company's current value–it also reflects the growth that investors expect in the future.
+The most important factor that affects the value of a company is its earnings. Earnings are the profit a company makes, and in the long run no company can survive without them. It makes sense when you think about it. If a company never makes money, they aren't going to stay in business. Public companies are required to report their earnings four times a year (once each quarter). Wall Street watches with rabid attention at these times, which are referred to as earnings seasons. The reason behind this is that analysts base their future value of a company on their earnings projection. If a company's results surprise (are better than expected), the price jumps up. If a company's results disappoint (are worse than expected), then the price will fall.
+Of course, it's not just earnings that can change the sentiment towards a stock (which, in turn, changes its price). It would be a rather simple world if this were the case! During the dot-com bubble, for example, dozens of Internet companies rose to have market capitalizations in the billions of dollars without ever making even the smallest profit. As we all know, these valuations did not hold, and most all Internet companies saw their values shrink to a fraction of their highs. Still, the fact that prices did move that much demonstrates that there are factors other than current earnings that influence stocks. Investors have developed literally hundreds of these variables, ratios and indicators. Some you may have already heard of, such as the P/E ratio , while others are extremely complicated and obscure with names like Chaikin Oscillator or Moving Average Convergence Divergence (MACD) .
+So, why do stock prices change? The best answer is that nobody really knows for sure. Some believe that it isn't possible to predict how stocks will change in price while others think that by drawing charts and looking at past price movements, you can determine when to buy and sell. The only thing we do know as a certainty is that stocks are volatile and can change in price extremely rapidly.
+## The important things to grasp about this subject are the following:
+## We use cookies
+We take your privacy seriously. We use cookies to personalize your content and make your digital experience better. Certain cookies may be collected with your consent.
+[Afficher ce texte en français](https://www.disnat.com/en/learning/trading-basics/stock-basics/what-causes-stock-prices-to-change)
+![Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
+## Personalize your choices
+Cookies are small files placed on your device. They allow us to remember your preferences and give us information on how you interact with our site. If you authorize cookies, they get stored on your device and we can access them on your future visits.   
+[Read our policy](https://www.desjardins.com/ca/privacy/cookies-policy/index.jsp)
+### Cookies categories
+#### Essential cookies
+These cookies are required.
+Essential cookies allow you to access all our site features and to browse in an optimal and secure manner. They also let us ask for your opinion and measure your satisfaction on a specific topic.
+#### Performance
+Performance
+Performance cookies allow us to analyze how you browse our sites so that we can make improvements.
+#### Personalization
+Personalization
+Personalization cookies allow us to remember your preferences and personalize the content you see, based on your browsing behaviour and previous choices.
+#### Advertising
+Advertising
+Advertising cookies help us limit the number of times you see an ad, personalize our offers and services based on your interests, and measure the effectiveness of an advertising campaign, among other functions. These may be shared with our partners.
+### Cookie List
+Search Icon
+checkbox label label
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+[![Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
+
+==================================================
+
+SOURCE: https://www.nasdaq.com/articles/how-are-stock-prices-determined-real-time
+[Skip to main content](https://www.nasdaq.com/articles/how-are-stock-prices-determined-real-time#main-content)
+Data is currently not available
+### We couldn’t find any results matching your search.
+Please try using other words for your search or explore other sections of the website for relevant information.
+### We’re sorry, we are currently experiencing some issues, please try again later.
+Our team is working diligently to resolve the issue. Thank you for your patience and understanding.
+[Show more results ->](https://www.nasdaq.com/search)
+[](javascript:void\(0\);)
+[ AAPL ](https://www.nasdaq.com/market-activity/stocks/aapl)
+[ TSLA ](https://www.nasdaq.com/market-activity/stocks/tsla)
+[ AMZN ](https://www.nasdaq.com/market-activity/stocks/amzn)
+[ META ](https://www.nasdaq.com/market-activity/stocks/meta)
+[ AMD ](https://www.nasdaq.com/market-activity/stocks/amd)
+[ NVDA ](https://www.nasdaq.com/market-activity/stocks/nvda)
+[ PEP ](https://www.nasdaq.com/market-activity/stocks/pep)
+[ COST ](https://www.nasdaq.com/market-activity/stocks/cost)
+[ ADBE ](https://www.nasdaq.com/market-activity/stocks/adbe)
+[ GOOG ](https://www.nasdaq.com/market-activity/stocks/goog)
+[ AMGN ](https://www.nasdaq.com/market-activity/stocks/amgn)
+[ HON ](https://www.nasdaq.com/market-activity/stocks/hon)
+[ INTC ](https://www.nasdaq.com/market-activity/stocks/intc)
+[ INTU ](https://www.nasdaq.com/market-activity/stocks/intu)
+[ NFLX ](https://www.nasdaq.com/market-activity/stocks/nflx)
+[ ADP ](https://www.nasdaq.com/market-activity/stocks/adp)
+[ SBUX ](https://www.nasdaq.com/market-activity/stocks/sbux)
+[ MRNA ](https://www.nasdaq.com/market-activity/stocks/mrna)
+[ AAPL ](https://www.nasdaq.com/market-activity/stocks/aapl)
+[ TSLA ](https://www.nasdaq.com/market-activity/stocks/tsla)
+[ AMZN ](https://www.nasdaq.com/market-activity/stocks/amzn)
+[ META ](https://www.nasdaq.com/market-activity/stocks/meta)
+[ AMD ](https://www.nasdaq.com/market-activity/stocks/amd)
+[ NVDA ](https://www.nasdaq.com/market-activity/stocks/nvda)
+[ PEP ](https://www.nasdaq.com/market-activity/stocks/pep)
+[ COST ](https://www.nasdaq.com/market-activity/stocks/cost)
+[ ADBE ](https://www.nasdaq.com/market-activity/stocks/adbe)
+[ GOOG ](https://www.nasdaq.com/market-activity/stocks/goog)
+[ AMGN ](https://www.nasdaq.com/market-activity/stocks/amgn)
+[ HON ](https://www.nasdaq.com/market-activity/stocks/hon)
+[ INTC ](https://www.nasdaq.com/market-activity/stocks/intc)
+[ INTU ](https://www.nasdaq.com/market-activity/stocks/intu)
+[ NFLX ](https://www.nasdaq.com/market-activity/stocks/nflx)
+[ ADP ](https://www.nasdaq.com/market-activity/stocks/adp)
+[ SBUX ](https://www.nasdaq.com/market-activity/stocks/sbux)
+[ MRNA ](https://www.nasdaq.com/market-activity/stocks/mrna)
+[ AAPL ](https://www.nasdaq.com/market-activity/stocks/aapl)
+[ TSLA ](https://www.nasdaq.com/market-activity/stocks/tsla)
+[ AMZN ](https://www.nasdaq.com/market-activity/stocks/amzn)
+[ META ](https://www.nasdaq.com/market-activity/stocks/meta)
+[ AMD ](https://www.nasdaq.com/market-activity/stocks/amd)
+[ NVDA ](https://www.nasdaq.com/market-activity/stocks/nvda)
+[ PEP ](https://www.nasdaq.com/market-activity/stocks/pep)
+[ COST ](https://www.nasdaq.com/market-activity/stocks/cost)
+[ ADBE ](https://www.nasdaq.com/market-activity/stocks/adbe)
+[ GOOG ](https://www.nasdaq.com/market-activity/stocks/goog)
+[ AMGN ](https://www.nasdaq.com/market-activity/stocks/amgn)
+[ HON ](https://www.nasdaq.com/market-activity/stocks/hon)
+[ INTC ](https://www.nasdaq.com/market-activity/stocks/intc)
+[ INTU ](https://www.nasdaq.com/market-activity/stocks/intu)
+[ NFLX ](https://www.nasdaq.com/market-activity/stocks/nflx)
+[ ADP ](https://www.nasdaq.com/market-activity/stocks/adp)
+[ SBUX ](https://www.nasdaq.com/market-activity/stocks/sbux)
+[ MRNA ](https://www.nasdaq.com/market-activity/stocks/mrna)
+[Personal Finance](https://www.nasdaq.com/topic/personal-finance)
+#  How Are Stock Prices Determined in Real-Time? 
+![](https://www.nasdaq.com/sites/acquia.prod/files/styles/720x400/public/smartasset/iStock-2167782863.jpg?1769001931480581703)
+November 14, 2024 — 06:22 pm EST
+Written by SmartAsset Team for [ SmartAsset-> ](https://www.nasdaq.com/publishers/smartasset)
+Knowing how stock prices are set in real time is useful for both new and experienced investors. Prices change constantly during the trading day based on available shares and demand from buyers. Though it sounds simple, complex systems and technologies drive these real-time valuations. A [financial advisor](https://smartasset.com/retirement/find-a-financial-planner?utm_source=syndication_nasdaq&utm_medium=referral&utm_campaign=sma__falc_relevant&utm_content=howisstockpricedeterminedinrealtime&source=syndication) can offer you additional insights for specific markets.
+## How Stock Price Is Determined
+[Stock prices](https://smartasset.com/investing/what-determines-a-companys-stock-price?source=syndication) reflect a company's perceived value and are set by supply and demand. When more investors want to buy a stock than sell, the price rises. When more want to sell than buy, the price falls. This movement is influenced by factors like company performance, investor sentiment and economic conditions.
+Financial health is a significant factor in [what determines a company's stock price](https://smartasset.com/investing/what-determines-a-companys-stock-price?source=syndication). Investors closely monitor earnings reports, revenue growth and profit margins to gauge a company’s performance. Positive results increase demand and drive up its price, negative results do the opposite. 
+Additionally, future growth prospects, such as new product launches or market expansions, can also impact investor interest and stock valuation. Market sentiment plays a role, too. News events, economic indicators such as different [types of interest rates](https://smartasset.com/investing/understanding-the-7-types-of-interest-rate?source=syndication), inflation and employment figures, and geopolitical developments can all influence investors' attitudes. For example, low interest rates often encourage borrowing and investing, which can lead to higher stock prices. 
+## How Market Cap Impacts Stock Price
+Market capitalization, often referred to as [market cap](https://smartasset.com/investing/market-cap?source=syndication), represents the total market value of a company’s outstanding shares. It is calculated by multiplying the current share price by the total number of outstanding shares and provides investors with a quick snapshot of a company’s size and market value. This can impact investor perception and, consequently, stock prices.
+The market cap of a company can significantly affect how investors perceive its stock. Investors often weigh the potential for growth against the perceived risk, influencing their buying and selling decisions. Companies with large market caps, often referred to as blue-chip stocks, are typically seen as safer investments due to their established market presence and financial stability. Smaller companies with lower market caps might be viewed as riskier investments, which can result in more volatile stock prices. 
+## How Stock Prices Can Change in Real Time
+![An investor reviewing her portfolio.](https://smartasset.com/wp-content/uploads/sites/2/2024/11/iStock-1444291518-1.jpg?source=syndication)
+Stock prices change in real-time based on supply and demand. When demand rises, investors buy more shares, and the price may go up. But, if more investors are selling than buying, supply exceeds demand, which can lower the price. Real-time [trading platforms](https://smartasset.com/investing/best-free-trading-platforms?source=syndication) and stock exchanges handle these trades, updating prices instantly as they happen.
+Advanced technology drives real-time changes in stock prices. High-frequency trading algorithms and powerful software analyze large amounts of data and make trades in milliseconds. These keep prices aligned with the latest information, such as breaking news or shifts in investor sentiment. Electronic communication networks (ECNs) enable direct trading between buyers and sellers, speeding up price changes by bypassing traditional exchanges.
+## How to Know If a Stock Is Undervalued
+Determining whether a stock is undervalued involves analyzing various financial metrics and market conditions. Investors often look at the [price-to-earnings (P/E) ratio](https://smartasset.com/investing/what-is-price-earnings-ratio?source=syndication), which compares a company’s current share price to its per-share earnings. A lower P/E ratio might suggest that a stock is undervalued when compared with its peers. However, it’s important to consider the industry average, as different sectors typically have varying P/E ratios. 
+Beyond ratios, investors should review the company’s balance sheet, focusing on assets, liabilities and equity. A strong balance sheet with manageable debt levels and ample cash reserves can indicate a company’s ability to weather economic downturns, making it a potentially undervalued investment. Furthermore, cash flow statements reveal how effectively a company generates cash from its operations, which is a critical factor in sustaining long-term growth and stability.
+## Bottom Line
+![An investor determining if a stock is undervalued.](https://smartasset.com/wp-content/uploads/sites/2/2024/11/iStock-1328327650-1.jpg?source=syndication)
+Knowing how stock prices are set in real time can help investors in financial markets. This process is driven by supply and demand. When more investors want to buy a stock than sell it, the price generally rises. When more want to sell than buy it, the price tends to fall. This balance is influenced by factors like company performance, economic indicators and investor sentiment.
+## Investment Planning Tips
+Photo credit: iStock.com/Liubomyr Vorona, iStock.com/Drs Producoes, iStock.com/filadendron
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+###  Tags 
+[Personal Finance](https://www.nasdaq.com/topic/personal-finance)
+[ SmartAsset ](https://www.nasdaq.com/publishers/smartasset)
+SmartAsset is an award-winning financial technology company that helps millions of people make smarter decisions about investing, retirement and financial planning. 
+[ More articles by this source-> ](https://www.nasdaq.com/publishers/smartasset)
+## More Related Articles 
+![Info icon](https://www.nasdaq.com/themes/nsdq/dist/assets/images/circle-info.svg)
+This data feed is not available at this time.  
+---  
+Data is currently not available 
+###  Sign up for the TradeTalks newsletter to receive your weekly dose of trading news, trends and education. Delivered Wednesdays. 
+Your Watchlist is empty. 
+Data is currently not available
+Edit My Quotes
+Data is currently not available
+Edit My European Quotes
+Data is currently not available
+## Your symbols have been updated
+You'll now be able to see real-time price and activity for your symbols on the My Quotes of Nasdaq.com. 
+Data is currently not available
+## Edit Watchlist
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. [Cookie Policy](https://www.nasdaq.com/cookie-statement)
+
+==================================================
+
+SOURCE: https://www.sofi.com/learn/content/what-determines-stock-price/
+🎉 Get up to $1,000 in stock when you fund a new SoFi Active Invest account.* [Learn more](https://www.sofi.com/invest/?sticky-banner=claw)
+You are now leaving the SoFi website and entering a third-party website. SoFi has no control over the content, products or services offered nor the security or privacy of information transmitted to others via their website. We recommend that you review the privacy policy of the site you are entering. SoFi does not guarantee or endorse the products, information or recommendations provided in any third party website. 
+[Okay](https://www.sofi.com/) Close
+##  Select a product to get started. 
+[Or just create an account.](https://www.sofi.com/b/registration)
+Although investor sentiment plays into a stock’s price in the form of demand vs. supply, there are numerous factors that influence investor outlook. These include a company’s fundamentals, its performance history, as well as economic or geopolitical news that may impact not only that company but an entire sector.
+These elements in turn can influence whether investors believe a stock will go up or down.
+For investors interested in buying stock, it’s important to understand the various ingredients that can determine stock price, even though what influences a stock’s price per share can change at a moment’s notice.
+Key Points
+## 7 Factors That Determine Stock Price
+Beyond the basic principles of supply and demand, there are other factors that contribute to changes in stock prices. Those include investor behavior, the news cycle, company fundamentals, and more.
+### 1. Investor Behavior
+A current stock price is based on investors’ beliefs about the future success of a company. Hypothetically, if investors have reason to believe that a company will be successful in the future, they may invest in the company, causing the price of shares to increase. This is an important aspect of [stock trading basics](https://www.sofi.com/invest/stock-trading/).
+Similarly, if the outlook for a company is negative, investors may sell off the shares they own, causing the price to decrease.
+Basically, if a few million people think that Company X is going to be successful in the near future, and that shares of Company X will see [price appreciation](https://www.sofi.com/learn/content/capital-appreciation-on-investments/) that could lead them to buy the stock, increasing demand, which could drive up the price per share.
+Emotions such as fear, panic, anxiety, greed, and hope can have a significant impact on investor behavior. This is the basis of the field of behavioral finance [and understanding investor sentiment](https://www.sofi.com/learn/content/understanding-market-sentiment/).[[1]](https://www.sofi.com/learn/content/what-determines-stock-price/#citation-1) There are many different ways investors try to predict the future success of companies.
+### 2. Company News and Data
+Stock price predictions can be made based on reading stock charts and making calculations, as well as looking at news stories, [fundamental analysis](https://www.sofi.com/learn/content/using-fundamental-analysis-on-stocks/) like reading over company earnings and reports, and other information. 
+News about changes in management, production, company or industry scandals, and other stories can influence investors’ view of a company, and cause share prices to change quickly.
+### 3. World Events
+Beyond news and outlooks specifically related to companies, global factors can also influence investor behavior. For instance, [a presidential election](https://www.sofi.com/learn/content/presidential-election-cycle-theory/), a pandemic, political unrest, or signs of a recession can create panic in the market, influencing investors to sell off stock shares in order to avoid losses, or put their money into safer investments.
+Usually there is some up or down price movement in stock prices, and [some stocks are more volatile](https://www.sofi.com/learn/content/understanding-stock-volatility/) than others. It’s rare for prices to completely remain static. It’s also rare for prices to drastically increase or decrease suddenly, but this is what happens during a market crash.
+A market crash can happen when many investors begin to sell, creating a snowball effect where more and more investors [pull their money out of the stock market](https://www.sofi.com/learn/content/pull-money-out-of-the-stock-market/). At that point, the market could plummet, resulting in losses that wouldn’t have occurred if people hadn’t sold.
+### 4. Stock Buybacks
+Another factor that can affect stock price is company [buybacks of stocks](https://www.sofi.com/learn/content/what-is-a-stock-buyback/). Companies will sometimes buy back their own stock from investors, thereby reducing the supply of shares available to the public. They do this in an attempt to increase stock prices. 
+If companies issue more shares of stock, they are increasing the supply, which can cause the price to decrease.
+### 5. Primary and Secondary Markets
+When some companies first start selling stock to the public, they hold [an IPO, or initial public offering](https://www.sofi.com/learn/investing/what-is-an-ipo/). At the time of the IPO, an initial share price is set and investors can begin to buy the stock at that price, which is considered a primary market. 
+After the IPO ends, the stock gets listed on [stock exchanges](https://www.sofi.com/learn/content/stock-exchange-work/) (or secondary markets) and the price starts to fluctuate as shares get bought and sold — and supply and demand begin to play a role in share price.
+When companies don’t have an IPO, their shares get bought and sold privately, in which case share price is determined between the buyer and seller.
+### 6. Stock Valuation
+The [valuation of a stock](https://www.sofi.com/learn/content/how-to-evaluate-stocks/) is made by looking at the company’s past and projected earnings, large trades made by institutional investors, overall market trends of the S&P 500, and ratios and calculations made by analysts.
+Four ratios and calculations that are used to determine the valuation of a stock are [price-to-earnings (P/E) ratio](https://www.sofi.com/learn/content/price-to-earnings-ratio/), price-to-book (P/B ratio), price-to-earnings-to-growth (PEG) ratio, and dividend yield. These calculations can help investors figure out whether a stock is currently undervalued or overvalued.
+### 7. Bid and Ask Price
+A share price ultimately gets determined through [the bid, ask, and sale price](https://www.sofi.com/learn/content/bid-and-ask-price/) on stock exchanges. The bid price is the maximum amount an investor will pay for shares of a stock, while the ask price is the lowest price a seller will accept. When the two prices match up, a sale is made, and that price sets the new price per share of the stock. Ultimately it gets down to what someone is willing to pay and if a stock owner is willing to sell to them at that price.
+What someone is willing to pay or sell for is determined by psychological and market factors, as discussed. If a buyer thinks the stock is undervalued at the asking price, they will buy, and vice versa. Generally the difference between the bid and ask price isn’t very large, but if a stock’s trading volume isn’t particularly large, it can be.
+Companies that are a similar size or have a similar valuation can have very different share prices because the number of shares each company issues can differ greatly.
+Because of different [company market caps](https://www.sofi.com/learn/content/what-is-market-cap/) and numbers of liquid shares, the share price doesn’t reveal much about the actual value of the company, and one can’t use share prices to compare companies. However, the share price does reflect what investors currently think the stock of a company is worth.
+## How to Handle Changes in Stock Price
+Attempting to [time the market](https://www.sofi.com/learn/content/timing-the-stock-market/) is extremely challenging because there’s no way to reliably predict market movements. For example, an investor could sell at what they think is the peak of the market, only to watch the price continue to rise.
+Historically, the stock market has continued to rise over the long term, despite plenty of ups and downs along the way. Although past trends are never a guarantee of future outcomes, it’s likely that investors with a longer [time horizon](https://www.sofi.com/learn/content/time-horizons-for-investing/), who are willing to hold onto their stocks throughout up and down cycles, may eventually see positive returns.
+That said, market volatility can provide opportunities to [invest when the stock market is down](https://www.sofi.com/learn/content/investing-when-market-is-down/), or sell at higher prices, especially if they were already considering buying or selling a stock.
+## The Takeaway
+Ultimately, supply and demand drive stock prices — which is informed by market conditions, world events, and investor behavior, among other influences. Although there is no way to look into the future to predict share prices, investors tend to look at past performance, charts, and market trends to attempt to predict price movements. In general, it’s best not to try and time the market, but to focus on building a solid long-term portfolio that will grow over time.
+Ready to invest in your goals? It’s easy to get started when you open an investment account with SoFi Invest. You can invest in stocks, exchange-traded funds (ETFs), mutual funds, alternative funds, and more. SoFi doesn’t charge commissions, but other fees apply ([full fee disclosure here](https://www.sofi.com/wealth/assets/documents/sofi-invest-fee-schedule.pdf)). 
+  
+_Invest with as little as $5 with a SoFi Active Investing account._
+## FAQ
+### What are three things that determine a stock’s price?
+Broadly speaking, the three main factors that drive a stock’s price are economic/market conditions, company performance, and investor sentiment. These three factors are interdependent, with one influencing the other. 
+### Who or what controls the price of a stock?
+There isn’t one sole entity that influences the price of a stock, and owing to the interplay of factors in the stock market, there is no single source of control over a stock’s price. 
+### What makes the price of a stock go up?
+There is no way to predict whether a stock’s price will rise or fall, but generally speaking investor demand is what ultimately drives up the price of a given company. But there are numerous factors that play into investor demand.
+Article Sources
+* * *
+**INVESTMENTS ARE NOT FDIC INSURED • ARE NOT BANK GUARANTEED • MAY LOSE VALUE**
+SoFi Invest is a trade name used by SoFi Wealth LLC and SoFi Securities LLC offering investment products and services. Robo investing and advisory services are provided by SoFi Wealth LLC, an SEC-registered investment adviser. Brokerage and self-directed investing products offered through SoFi Securities LLC, Member [FINRA](http://www.finra.org/)/[SIPC](http://www.sipc.org/).   
+  
+For disclosures on SoFi Invest platforms visit SoFi.com/legal. For a full listing of the fees associated with Sofi Invest please view our [fee schedule](https://www.sofi.com/wealth/assets/documents/sofi-invest-fee-schedule.pdf).   
+  
+  
+**Disclaimer:** The projections or other information regarding the likelihood of various investment outcomes are hypothetical in nature, do not reflect actual investment results, and are not guarantees of future results.   
+  
+**Financial Tips & Strategies:** The tips provided on this website are of a general nature and do not take into account your specific objectives, financial situation, and needs. You should always consider their appropriateness given your own circumstances.   
+  
+**Third Party Trademarks:** Certified Financial Planner Board of Standards Center for Financial Planning, Inc. owns and licenses the certification marks CFP®, CERTIFIED FINANCIAL PLANNER®   
+
+SOIN-Q225-020
+**Share**
+Close modal
+**See what SoFi can do for you and your finances.**
+Select a product below and get your rate in just minutes.
+## [Student Loan   
+Refinancing ](https://www.sofi.com/b/registration?appType=refi) ## [Personal  
+Loans ](https://www.sofi.com/b/registration?appType=pl) ## [Online  
+✝ To check the rates and terms you may qualify for, SoFi conducts a soft credit pull that will not affect your credit score. However, if you choose a product and continue your application, we will request your full credit report from one or more consumer reporting agencies, which is considered a hard credit pull and may affect your credit. 
+©2026 Social Finance, LLC All rights reserved. 
+TLS 1.2 Encrypted
+Equal Housing Lender
+Copy link
+✓
+Thanks for sharing!
+Find any service
+[](https://www.addtoany.com "Share Buttons")
+[More…](https://www.sofi.com/learn/content/what-determines-stock-price/#addtoany "Show all")
+![](https://www.sofi.com/measure/pixel/refer?referrer=https://www.sofi.com)
+![Company Logo](https://cdn.cookielaw.org/logos/75b0b94d-5898-42e0-a11e-374a4bb72ea1/62a05241-4d4e-4324-8fac-d84d73d9f38b/d48bdbd5-c622-4329-a8be-98a7ff7e8373/Sofi_83x40@2x.png)
+## Privacy Preference Center
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.   
+[More information](https://cookiepedia.co.uk/giving-consent-to-cookies)
+###  Manage Consent Preferences
+#### Functional Cookies
+Functional Cookies
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+#### Performance Cookies
+Performance Cookies
+We use different tools so that we can measure and improve the performance of our site. We use these cookies to provide you with the best experience possible. In part, they help us know which pages are the most and least popular and see how visitors use and move around the site.
+#### Strictly Necessary Cookies
+Always Active
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. 
+#### Targeting Cookies
+Targeting Cookies
+  
+For more information, please review our [Privacy Policy](https://www.sofi.com/online-privacy-policy/).
+#### Selling/Sharing Personal Information
+Selling/Sharing Personal Information
+### Back
+Search Icon
+checkbox label label
+Consent Leg.Interest
+Switch Label label
+Switch Label label
+Switch Label label
+[![Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
+
+==================================================
+
+SOURCE: https://www.rbcgam.com/en/ca/learn-plan/investment-basics/whats-the-relationship-between-the-stock-market-and-the-economy/detail
+# What’s the relationship between the stock market and the economy?
+Getting started
+Market and economic cycles often differ. Here’s how to navigate them.
+### Key takeaways:
+It’s natural to expect the path of a country’s stock market to closely track that of its economy. But in reality, it’s not that simple. In this article, we’ll explore these two forces in more detail – and what they mean to investors.
+### What is the stock market?
+A stock market is where the buying and selling of stocks takes place. Each market has an index: a group of stocks that are selected to represent overall performance of that market. For example, in the news you will often read about the S&P 500. This is an index comprised of 500 large companies that trade on U.S. exchanges. Their performance is viewed as representative of the entire U.S. equity market market. Many of these companies operate on a global scale, including Microsoft, Walmart, Starbucks and Amazon.
+### What is the economy?
+The economy is the sum of all the activities that go into making and spending money within a region or country. In the headlines, the economy is often measured and tracked through changes in Gross Domestic Product (GDP). Employment levels, the housing market, consumer confidence, and spending are other ways to measure the strength of the economy. 
+**Gross Domestic Product (GDP)** : equals the dollar value of all finished goods and services made within a country during a specific period of time. 
+### What is the relationship between the stock market and the economy?
+There has never been a consistent relationship between the stock market and the economy. While the two tend to loosely move in the same direction, they often act in widely different ways – particularly over shorter time periods. There are several reasons for this divergent relationship. For example: 
+The stock market is forward looking. The price you are willing to pay for a stock today is based on how well you and other investors expect the company to do in the future. By contrast, some economic data looks back at what has already happened. For example, employment numbers show how many people are actively out of work. This indicator tends to lag the broader economy because businesses often react to how the economy is faring when they make hiring and layoff decisions. The forward-looking nature of the stock market tends to mean it often leads the economic cycle, as seen in the chart below. 
+#### The stock market and the economy: How the two cycles are related
+![how the two cycles are related](https://www.rbcgam.com/_assets/images/infographics/how-the-two-cycles-are-related.svg)
+Source: RBC GAM. For illustrative purposes only.
+We see relationships vary between markets and economies on a country-by-country basis. To a certain degree, this is due to the composition of a country’s stock market.
+Consider the unique characteristics of both the Canadian and U.S. equity markets. They have a drastically different make-up of cyclical and counter-cyclical sectors.
+**Cyclical sectors** are those that are more likely to move in lockstep with the economy. When the economy is doing well and consumers are spending money, stock values in cyclical sectors rise. When the economy is not doing well, their values decrease. Examples: Energy and Consumer Discretionary
+**Counter-cyclical sectors** generally include essential items that people need even when money is tight. Stocks in these sectors perform well in economic slowdowns, as there is a continued demand for these goods and services, no matter how the economy is doing. Examples: Utilities and Consumer Staples
+![lp economy vs stock market en](https://www.rbcgam.com/_assets/images/lp-economy-vs-stock-market-en.svg)
+Source: RBC GAM. As of April 30, 2025. Canada represented by the S&P/TSX Composite Index. U.S. represented by the S&P 500 Index.
+### Key takeaways
+Economic news can be good or bad. However, what has a greater influence on markets is whether the news is better or worse than investors expected. Consider these scenarios: 
+When economic news is far worse than expected, some investors respond by exiting the markets and seeking safety in cash. But history has shown that this often leads to missed opportunities. Stocks are often cheaper when the economy looks grim – creating opportunities for investors who are willing to look to the future. These decisions are best made within the context of a carefully designed financial plan.
+### Building a portfolio for all conditions
+As an investor, understanding the dynamics of the stock market’s relationship with the economy can help you digest economic news and stay focused on the long term. It is also vital to diversify your portfolio across many asset classes to help mitigate the risks associated with the ups and downs of economic and market cycles. This can make it easier stay the course across all market conditions – and help you avoid the [common mistakes investors make](https://www.rbcgam.com/en/ca/learn-plan/investment-basics/two-common-mistakes-investors-make/detail).
+Understanding market dynamics is the first step. If you’re ready to invest, check out these [principles to invest your money successfully](https://www.rbcgam.com/en/ca/learn-plan/investment-basics/five-principles-of-successful-investing/detail). You can also speak to financial advisor to craft an investment plan that works for you.
+### You might also be interested in
+##### [Playing it smart If you’re interesting in investing, here’s a good guide to getting started. ](https://www.rbcgam.com/en/ca/learn-plan/retirement-resources/when-the-paycheques-stop/detail)
+##### [How do you think about risk as an investor? Read this article and take our risk quizzes to improve your understanding of risk as an investor. ](https://www.rbcgam.com/en/ca/learn-plan/investment-basics/how-do-you-think-about-risk-as-an-investor/detail)
+##### [Ready to invest? No matter your goals, we offer a wide variety of investing options for you. ](https://www.rbcgam.com/en/ca/about-us/ready-to-invest)
+![Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
+## Your cookie settings
+Click on the different category headings below to find out more about the types of cookies we use and to make changes to the default settings. Please note that if you choose to block some types of cookies, it may affect your experience on the site and the services we offer.   
+  
+[Learn more about Advertising & Cookies](https://www.rbc.com/privacysecurity/ca/digital-privacy/advertising-and-cookies.html)
+###  Manage your cookie preferences
+#### Essential
+Always active
+#### Performance
+Always active
+#### Advertising
+Always active
+  
+To learn more about how we use data for advertising purposes, refer to [Advertising & Cookies.](https://www.rbc.com/privacysecurity/ca/digital-privacy/advertising-and-cookies.html)
+### Cookie List
+Search Icon
+checkbox label label
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+[![Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
+
+==================================================
+

@@ -5,9 +5,10 @@ load_dotenv()
 
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 GOOGLE_CSE_ID = os.getenv("GOOGLE_CSE_ID")
+SERPER_API_KEY = os.getenv("SERPER_API_KEY")
 
-if not GOOGLE_API_KEY or not GOOGLE_CSE_ID:
-    raise RuntimeError("Missing GOOGLE_API_KEY or GOOGLE_CSE_ID in .env")
+if not SERPER_API_KEY and (not GOOGLE_API_KEY or not GOOGLE_CSE_ID):
+    raise RuntimeError("Missing SERPER_API_KEY or GOOGLE_API_KEY/GOOGLE_CSE_ID in .env")
 
 MAX_URLS_PER_SUBSUBTOPIC = 5
 
@@ -31,5 +32,4 @@ WHITELIST_DOMAINS = {
     "corporatefinanceinstitute.com",
     "sec.gov"
 }
-
 

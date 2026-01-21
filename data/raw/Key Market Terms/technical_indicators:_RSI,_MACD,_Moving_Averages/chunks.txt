@@ -1,0 +1,341 @@
+SOURCE: https://www.investopedia.com/ask/answers/122214/what-are-main-differences-between-moving-average-convergence-divergence-macd-relative-strength-index.asp
+The MACD and RSI are both widely used momentum indicators, but they measure price action in different ways. MACD track the relationship between moving averages, while RSI gauges price changes relative to recent highs and lows. 
+Because they serve different purposes, they can sometimes produce conflicting signals, so understanding how each works helps traders make more informed decisons. 
+### Key Takeaways
+##  Understanding MACD and Its Significance 
+The MACD is primarily used to gauge the strength of stock price movement. It does this by measuring the divergence of two [exponential moving averages (EMAs)](https://www.investopedia.com/terms/e/ema.asp), commonly a 12-period EMA and a 26-period EMA. A MACD line is created by subtracting the 26-period EMA from the 12-period EMA, and a line showing a nine-period EMA of that calculation is plotted over the MACD's basic representation as a histogram. A zero line provides positive or negative values for the MACD. Essentially, greater separation between the 12-period EMA, and the 26-period EMA shows increased market momentum, up or down. 
+Image by Sabrina Jiang © Investopedia 2021
+##  Decoding the Relative Strength Index (RSI) 
+Take the Next Step to Invest
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+Image by Sabrina Jiang © Investopedia 2021
+##  Comparing RSI and MACD: Which Is More Effective? 
+The RSI and MACD are both [trend-following momentum indicators](https://www.investopedia.com/ask/answers/012015/how-do-i-use-relative-strength-index-rsi-create-forex-trading-strategy.asp) that show the relationship between two moving averages of a security’s price. The MACD is calculated by subtracting the 26-period EMA from the 12-period EMA. The result of that calculation is the MACD line. A nine-day EMA of the MACD called the "signal line," is then plotted on top of the MACD line, which can function as a trigger for buy and sell signals. Traders may buy the security when the MACD crosses above its signal line and sell, or short, the security when the MACD crosses below the signal line. 
+The MACD measures the relationship between two EMAs, while the RSI measures price change in relation to recent price highs and lows. These two indicators are often used together to provide [analysts](https://www.investopedia.com/terms/a/analyst.asp) with a more complete technical picture of a market. 
+##  Additional Insights on Using MACD and RSI Together 
+Because two indicators measure different factors, they sometimes give contrary indications. For example, the RSI may show a reading above 70 for a sustained period of time, indicating a market is [overextended](https://www.investopedia.com/terms/o/overextension.asp) to the buy side in relation to recent prices, while the MACD indicates the market is still increasing in buying momentum. Either indicator may signal an upcoming trend change by showing divergence from price (price continues higher while the indicator turns lower, or vice versa). 
+##  The Bottom Line 
+MACD and RSI both help traders read market momentum, but they do so in different ways: MACD tracks the relationship between two exponential moving averages, while RSI evaluates whether prices have reached overbought or oversold levels. 
+Traders use MACD to spot shifts in trend strength and direction, and they turn to RSI for clues about possible turning points. Both can show divergence, with RSI sometimes signaling exhaustion even when MACD still reflects continued momentum.  
+
+## Related Articles
+Newsletter Sign Up
+Newsletter Sign Up
+
+==================================================
+
+SOURCE: https://www.youtube.com/watch?v=PhzO7iTBoMs
+Search with your voice 
+[Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DPhzO7iTBoMs&hl=en&ec=65620)
+Technical Indicators for Beginners - Moving Average, RSI and MACD
+[](https://www.youtube.com/watch?v=PhzO7iTBoMs)
+2x
+## Technical Indicators for Beginners - Moving Average, RSI and MACD
+StokesTrades 4,678 views 1 year ago
+If playback doesn't begin shortly, try restarting your device.
+•
+Up next
+Live Upcoming
+Play Now
+[StokesTrades](https://www.youtube.com/channel/UCUmaopspO6ODQmFYKV0czsg)
+Follow my journey on becoming a trader and learn the exact steps I’m taking to make it happen. 
+[If trading is so profitable, why doesn't everyone do it? (MUST WATCH) 11:44](https://www.youtube.com/watch?v=SAYcCyHC_X4)
+You're signed out
+Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+Share
+Include playlist
+An error occurred while retrieving sharing information. Please try again later.
+0:00
+[](https://www.youtube.com/watch?v=ah30dY1LdoY "Next \(SHIFT+n\)")
+0:00 / 39:05
+•Watch full video
+#  Technical Indicators for Beginners - Moving Average, RSI and MACD
+[![](https://yt3.ggpht.com/lW9CB1ir2UoZASqed2KH3JUUv9hAzvWphrRFY-45MyQXFqgPrhG3FscDJGAKDSe3SPVbtban=s48-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@StokesTrades)
+[StokesTrades](https://www.youtube.com/@StokesTrades)
+StokesTrades 
+2.51K subscribers
+Download 
+4.6K views1 year ago
+4,678 views • May 27, 2024 
+In this video we review what technical indicators are, and give an introduction to some popular ones: Moving Averages, RSI (Relative Strength Index), and MACD (Moving Average Convergence Divergence).…...more 
+...more 
+Transcript
+Follow along using the transcript.
+### [StokesTrades 2.51K subscribers  ](https://www.youtube.com/@StokesTrades)
+[Videos](https://www.youtube.com/channel/UCUmaopspO6ODQmFYKV0czsg/videos)
+[About](https://www.youtube.com/channel/UCUmaopspO6ODQmFYKV0czsg/about)
+[Videos](https://www.youtube.com/channel/UCUmaopspO6ODQmFYKV0czsg/videos)[About](https://www.youtube.com/channel/UCUmaopspO6ODQmFYKV0czsg/about)
+Show less 
+# Technical Indicators for Beginners - Moving Average, RSI and MACD
+4,678 views4.6K views
+May 27, 2024
+Download 
+### 
+### 
+NaN / NaN
+##  Comments 14
+Top  Show featured comments  Newest  Show recent comments, including potential spam 
+##  In this video
+##  Description
+Technical Indicators for Beginners - Moving Average, RSI and MACD
+120Likes
+4,678Views
+2024May 27
+...more Show less 
+Transcript
+Follow along using the transcript.
+### [StokesTrades 2.51K subscribers  ](https://www.youtube.com/@StokesTrades)
+[Videos](https://www.youtube.com/channel/UCUmaopspO6ODQmFYKV0czsg/videos)
+[About](https://www.youtube.com/channel/UCUmaopspO6ODQmFYKV0czsg/about)
+[Videos](https://www.youtube.com/channel/UCUmaopspO6ODQmFYKV0czsg/videos)[About](https://www.youtube.com/channel/UCUmaopspO6ODQmFYKV0czsg/about)
+##  Transcript
+### [Support and Resistance Explained for Beginners](https://www.youtube.com/watch?v=ah30dY1LdoY)
+StokesTrades
+791 views • 1 year ago
+### [How I Nailed Trading with the MACD Indicator (Step-by-Step Guide)](https://www.youtube.com/watch?v=mfGQr2tHoX0)
+Ross Cameron - Warrior Trading
+1M views • 1 year ago
+### [Richard Feynman Explains What Everyone Gets Wrong About GRAVITY](https://www.youtube.com/watch?v=2KHuDkhnu3U)
+Imagine the Physics
+55K views • 2 days ago
+New
+
+==================================================
+
+SOURCE: https://forextester.com/blog/rsi-vs-macd/?srsltid=AfmBOooR3y_ufbpFjzDE-ADU4o8yupqo_wl7oUOmlH4HXeSWd_qiQlpu
+We use essential cookies to make our site work. With your consent, we may also use non-essential cookies to improve user experience and analyze website traffic. By clicking “Accept,” you agree to our website's cookie use as described in our Cookie Policy. You can change your cookie settings at any time by clicking “Preferences.”
+[ Skip to content ](https://forextester.com/blog/rsi-vs-macd/?srsltid=AfmBOooR3y_ufbpFjzDE-ADU4o8yupqo_wl7oUOmlH4HXeSWd_qiQlpu#main)
+Summarize at:
+Knowing the differences between technical indicators is key for traders. The Relative Strength Index (RSI) and the Moving Average Convergence Divergence (MACD) are two big ones. They help traders see market trends in different ways.
+The RSI shows how big the recent price changes are. It helps spot when prices are too high or too low. The MACD, on the other hand, looks at the trend of price changes. It shows how two moving averages of a security’s price relate to each other.
+### Key Takeaways
+## **Understanding Technical Indicators in Trading**
+Technical indicators are key tools for traders. They help analyze markets and make smart choices. These tools show market trends, predict prices, and spot trading chances.
+### Role of Technical Indicators in Market Analysis
+Technical indicators are vital for market analysis. They give traders insights into market movements. For example, the [Relative Strength Index (RSI)](https://forextester.com/blog/relative-strength-index/) spots when prices are too high or too low.
+Other indicators, like the [Moving Average Convergence Divergence (MACD)](https://forextester.com/blog/macd-indicator/), signal when trends might change or continue.
+### Importance of Choosing the Right Indicators
+Choosing the right indicators is critical for trading success. With many options, traders must pick ones that fit their strategy and goals. Using indicators like RSI and MACD together helps traders understand the market better.
+This way, they can make more informed trading decisions.
+## **What is RSI (Relative Strength Index)?**
+RSI is a well-known technical indicator. It shows the speed and change in price movements. This helps traders spot when prices are too high or too low. It’s a key tool for making smart trading choices.
+### Definition and Formula
+The Relative Strength Index (RSI) is a momentum oscillator. It measures the speed and change in price movements. The formula is: RSI = 100 – (100 / (1 + RS)), where RS is the average gain of up days divided by the average loss of down days over 14 days.
+### How to Calculate RSI
+To find RSI, first, you need to calculate the average gain and loss over a period. Then, find the RS by dividing the average gain by the average loss. Lastly, use the RS in the RSI formula to get the RSI value.
+### Interpreting RSI Values
+RSI values range from 0 to 100. A value above 70 means the price is too high, suggesting it’s time to sell. On the other hand, a value below 30 means the price is too low, suggesting it’s time to buy. Traders use these signals to make informed trading decisions.
+## **What is MACD (Moving Average Convergence Divergence)?**
+The MACD is a key tool in [technical analysis](https://forextester.com/blog/technical-analysis/). It helps spot market momentum. It shows the relationship between two moving averages of a security’s price.
+### Definition and Components
+The MACD uses two moving averages: a fast and a slow one. The MACD line is the difference between these averages. The signal line is a 9-period EMA of the MACD line.
+### How to Calculate MACD
+To find the MACD, subtract the 26-period EMA from the 12-period EMA. The signal line is the 9-period EMA of the MACD. The [MACD histogram](https://forextester.com/blog/macd-histogram/) shows the difference between the MACD and its signal line.
+### Interpreting MACD Signals
+MACD signals have different meanings:
+Knowing these signals is important to use these indicators in the best possible way.
+## **RSI vs MACD: Key Differences**
+As you can see, RSI and MACD are two key technical indicators. An they have different uses.
+### Calculation Methods Compared
+The RSI looks at recent price changes to spot overbought or oversold levels. It uses a formula that compares gains and losses over 14 days. MACD, on the other hand, calculates the difference between two moving averages. It focuses on how these averages move together or apart.
+### Signal Types and Interpretation
+RSI signals come from levels above 70 or below 30. These levels suggest a possible change in trend. MACD signals come from crossovers and divergences. These show the direction and strength of the trend.
+### Timeframe Sensitivity
+RSI is more sensitive to the timeframe chosen. It’s good for short-term trading. MACD, with its moving averages, is better for spotting long-term trends. Traders should pick the right indicator for their strategy and timeframe.
+## **How to Use RSI in Your Trading Strategy**
+Traders can improve their strategies by learning to use the Relative Strength Index (RSI). The RSI is a useful tool for spotting when prices are too high or too low. It also helps in finding divergence signals and adjusting to market changes.
+### Step-by-Step Guide to Identifying Overbought and Oversold Conditions
+To spot overbought and oversold conditions with the RSI, follow these steps:
+### How to Spot and Trade RSI Divergence Signals
+RSI divergence happens when price and RSI move opposite ways. To trade RSI divergence signals:
+### Best Market Conditions for RSI
+The RSI works best in trending markets, helping spot overbought and oversold. It’s also good during consolidations to find breakouts. But in very volatile markets, it might give false signals. Always use it with other indicators for better results.
+## **How to Use MACD in Your Trading Strategy**
+The Moving Average Convergence Divergence (MACD) indicator is a powerful tool for traders. It helps them understand trend direction and strength. This knowledge aids in making better trading decisions.
+### Step-by-Step Guide to Reading Trend Direction and Strength
+To use MACD for trend direction, watch the MACD line and the signal line. If the MACD line is above the signal line, it’s a buy signal. If it’s below, it’s a sell signal.
+The trend’s strength is shown by how far the MACD line is from the zero line. The farther it is, the stronger the trend.
+### How to Trade MACD Crossovers and Divergence
+MACD crossovers happen when the MACD line crosses the signal line. A bullish crossover means buy, and a bearish crossover means sell. This is a strong signal.
+Divergence between the MACD and the price chart can also signal a trend reversal. For example, if the price goes up but the MACD doesn’t, it might mean the trend is weakening.
+### Best Market Conditions for MACD
+MACD works best in trending markets. It’s great at showing trend direction and strength. But, it’s not as good in range-bound or volatile markets.
+Traders should use MACD with other indicators. This helps filter out false signals and makes MACD more effective.
+## **Combining RSI and MACD for Better Trading Decisions**
+RSI and MACD together are a strong tool for traders. They help understand market trends better. This makes trading strategies more effective.
+### How to Use Both Indicators as Confirmation Tools
+Using RSI and MACD together helps confirm trading signals. For example, if RSI shows an asset is oversold, a bullish MACD crossover can confirm a buy. This makes trading decisions more confident.
+On the other hand, if MACD shows a bearish crossover, RSI can check if the asset is overbought. This helps traders make better choices.
+### Step-by-Step Trading Strategy Using RSI and MACD Together
+To use RSI and MACD well, follow these steps:
+## Backtest RSI & MACD the right way on Forex Tester Online
+Our [backtesting software](https://forextester.com/en/?utm_source=Blog_FT_site&utm_medium=referral&utm_campaign=Blog_RSIvsMACD&gc=Blog_RSIvsMACD) replays real markets tick-by-tick across **forex, commodities, stocks, and crypto**. You can test **RSI** , **MACD** , **Moving Averages** , and **Bollinger Bands** on clean historical data, then read hard stats: win rate, payoff, drawdown, MAE/MFE, equity curve.
+[](https://www.youtube.com/channel/UCcUOqJd-eRI3iVOBnPFpNdw?embeds_referring_euri=https%3A%2F%2Fforextester.com%2F)
+Karen Foo (Britney)
+529K subscribers
+[How to Backtest Your Trading Strategy Properly | Forex Tester](https://www.youtube.com/watch?v=8v-0tKKgTHk)
+[](https://forextester.com/blog/rsi-vs-macd/?srsltid=AfmBOooR3y_ufbpFjzDE-ADU4o8yupqo_wl7oUOmlH4HXeSWd_qiQlpu)
+Karen Foo (Britney)
+If playback doesn't begin shortly, try restarting your device.
+You're signed out
+Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+Share
+Include playlist
+An error occurred while retrieving sharing information. Please try again later.
+Watch on
+0:00
+0:00 / 9:48
+•
+[](https://www.youtube.com/watch?v=8v-0tKKgTHk)
+Use FTO to compare RSI vs MACD entries, confirm with **support and resistance** , and pressure-test **risk management** before going live.
+✅ 20+ years of tick data  
+✅ Custom technical indicators  
+✅ Integrated news feed  
+✅ AI trading analysis  
+✅ Automated tests using AI assistants  
+✅ Technical analysis filters  
+✅ Mystery Mode to hide future bars  
+✅ “Jump to” specific time frame meeting required conditions  
+✅ Prebuilt market scenarios  
+✅ Detailed analytics and latency logs  
+✅ Prop Firm challenges  
+✅ And more…
+Spend several hours on [Forex Tester Online](https://forextester.com/en/?utm_source=Blog_FT_site&utm_medium=referral&utm_campaign=Blog_RSIvsMACD&gc=Blog_RSIvsMACD) to sharpen your strategies and risk management before you start risking real money on live market.
+## Step-by-step: testing RSI & MACD in FTO
+**1) Get access**
+Go to [FTO website](https://forextester.com/en/?utm_source=Blog_FT_site&utm_medium=referral&utm_campaign=Blog_RSIvsMACD&gc=Blog_RSIvsMACD), click **Get Started** , create an account, pick a plan, and sign in.
+![fto landing](https://cdn-images-1.medium.com/max/1440/0*ocuYdZRxyuGIGTN2)
+**2) Create a project**
+Click **+ New Project**. Choose symbols (Forex majors, US stocks, crypto, indices, or commodities). Set start/end dates and your time zone. Select **tick** or **1-min** data. Add **spread, commission, and slippage** so fills look real.
+![Create project](https://forextester.com/blog/app/uploads/Screenshot-2025-09-09-at-11.22.00.png)
+**3) Add indicators**
+Open **Indicators**. Add **RSI(14)** and **MACD(12,26,9)**. Add **50/200 Moving Averages** (trend filter), **ATR(14)** for stop sizing, and **Volume**. Save the layout as a template. If needed, draw **support/resistance** zones and trendlines.
+![RSI MACD indicators](https://cdn-wp.forextester.com/app/uploads/Screenshot-2025-11-04-at-15.10.53-scaled.png)
+**4) Replay and trade**
+Click **Play**. Use the speed slider for bar-by-bar or fast ticks. Place orders via **New Order** when signals appear. Use **Jump-to-Signal** to scan straight to RSI overbought/oversold or MACD cross conditions. Overlay the **news feed** to avoid or target high-impact events (CPI, NFP, rate decisions).
+![jump to fto](https://forextester.com/blog/app/uploads/Screenshot-2025-09-09-at-11.12.43.png)
+**5) Review analytics**
+Open **Analytics** after each run. Check win rate, avg trade, drawdown, expectancy, profit factor. Study MAE/MFE to see if stops/targets fit the strategy. Segment results by time of day, trend vs range, and above/below 50-MA. Compare RSI-only vs MACD-only vs combined. Export to CSV for deeper review.
+![FTO analytics](https://forextester.com/blog/app/uploads/Screenshot-2025-09-09-at-11.18.47.png)
+**6) Iterate and refine**
+Change **one parameter at a time** : RSI thresholds (70/30 to 60/40), MACD smoothing (9 to 7/11), MA filter (50 to 100), or **ATR** multiple. Re-run 100–200 trades per variant. Keep the version with tighter drawdown and stable expectancy, then forward-test the final ruleset.
+[ Start Backtesting with Forex Tester Online ](https://forextester.com/en/?utm_source=Blog_FT_site&utm_medium=referral&utm_campaign=Blog_RSIvsMACD&gc=Blog_RSIvsMACD)
+## **Common Mistakes to Avoid When Using These Indicators**
+Don’t rely too much on one indicator. Use RSI and MACD with other analysis for a full view.
+Also, don’t ignore the big picture. Consider market trends and news with RSI and MACD signals.
+## **Conclusion**
+Understanding technical indicators like RSI and MACD is key for smart trading. The Relative Strength Index (RSI) and Moving Average Convergence Divergence (MACD) are powerful tools. They help in different ways when analyzing the market.
+Knowing the differences between RSI and MACD helps traders use them better. These tools can give insights into market trends and when things might change. They are useful alone or together.
+Choosing the right indicators and using them well is the secret to success. Mixing RSI and MACD gives a clearer view of the market. This helps traders confirm signals and make better predictions.
+In short, RSI and MACD are vital for traders. Knowing how to use them can improve trading decisions. This way, traders can handle the financial markets with more confidence.
+## **FAQ**
+### What is the main difference between RSI and MACD?
+RSI shows how much prices have changed recently. It helps spot when prices are too high or too low. MACD, on the other hand, looks at the relationship between two moving averages. It helps identify trends.
+### Can RSI and MACD be used together in a trading strategy?
+Yes, you can use RSI and MACD together. This combination helps confirm trading signals. It makes trading decisions more informed.
+### How do I identify overbought and oversold conditions using RSI?
+To spot overbought or oversold with RSI, look for values above 70 or below 30. These levels indicate when prices might be too high or too low.
+### What is the best timeframe for using MACD?
+The best time frame for MACD depends on your trading strategy. It’s often used on daily or weekly charts. This helps identify trends and their strength.
+### How do I trade MACD crossovers?
+To trade MACD crossovers, watch for the MACD line crossing the signal line. A bullish crossover means the MACD line goes above the signal line. This is a buy signal. A bearish crossover means the MACD line goes below the signal line. This is a sell signal.
+### What are the common mistakes to avoid when using RSI and MACD?
+Avoid relying only on RSI or MACD. Also, don’t ignore the overall trend. Make sure to adjust the indicators for the current market conditions.
+### Can RSI be used in any market condition?
+RSI works best in trending markets. In markets that are not trending, RSI might give false signals. Always use it with other tools or indicators.
+### How do I adjust RSI and MACD settings for different markets?
+Adjust RSI and MACD settings based on market volatility. For very volatile markets, use a longer RSI period or a slower MACD setting.
+Subscribe to Newsletters
+* * *
+![decoration](https://cdn-wp.forextester.com//app/themes/ft-blog/public/images/ft-old-icon.webp)
+Forex Tester Online 
+Practice RSI and MACD without risking real money backtesting it via FTO 
+* * *
+Cancel anytime 30 days of Money Back Guarantee
+[ ](https://forextester.com/en/?utm_source=Blog_FT_site&utm_medium=referral&utm_campaign=Blog_\(end-button\)_RSIvsMACDen&gc=Blog_\(end-button\)_RSIvsMACDen)
+Share:
+* * *
+Related Articles
+##  [ Accelerator Decelerator: how to control the player’s pressure at the market effectively ](https://forextester.com/blog/accelerator-oscillator/)
+21.01.2026
+[ ](https://forextester.com/blog/accelerator-oscillator/)
+##  [ How to backtest MACD indicator in a simulated trading environment ](https://forextester.com/blog/backtest-macd-indicator/)
+21.01.2026
+[ ](https://forextester.com/blog/backtest-macd-indicator/)
+##  [ Accelerator Decelerator Indicator in Forex Trading ](https://forextester.com/blog/accelerator-decelerator-indicator/)
+21.01.2026
+[ ](https://forextester.com/blog/accelerator-decelerator-indicator/)
+![](https://bat.bing.com/action/0?ti=187019327&tm=gtm002&Ver=2&mid=2a4d32c0-b341-4d17-8c59-d24157bb202e&bo=1&sid=e255d7a0f6d211f0a0a2a127a2c73f4d&vid=e25603c0f6d211f0a2776f39bc73c5ff&vids=1&msclkid=N&uach=pv%3D10.0&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=RSI%20vs%20MACD%3A%20Key%20Differences,%20Signals,%20and%20How%20to%20Use%20Both%20Indicators%20in%20Trading&p=https%3A%2F%2Fforextester.com%2Fblog%2Frsi-vs-macd%2F%3Fsrsltid%3DAfmBOooR3y_ufbpFjzDE-ADU4o8yupqo_wl7oUOmlH4HXeSWd_qiQlpu&r=&lt=3020&evt=pageLoad&sv=2&cdb=AQAS&rn=605561)
+
+==================================================
+
+SOURCE: https://www.cmegroup.com/education/courses/technical-analysis/oscillators-macd-rsi-stochastics.html
+Lesson 7 of 8
+[English](https://www.cmegroup.com/education/courses/technical-analysis/oscillators-macd-rsi-stochastics.html)[한국어](https://www.cmegroup.com/ko/education/courses/technical-analysis/oscillators-macd-rsi-stochastics.html)[Italiano](https://www.cmegroup.com/it/education/courses/technical-analysis/oscillators-macd-rsi-stochastics.html)
+# Oscillators: MACD, RSI, Stochastics
+Loading...
+Video Player is loading.
+Current Time 0:00
+/
+Duration 0:00
+Loaded: 0%
+Stream Type LIVE
+Remaining Time -0:00
+1x
+This is a modal window.
+Beginning of dialog window. Escape will cancel and close the window.
+Text ColorWhite Black Red Green Blue Yellow Magenta CyanTransparencyOpaque Semi-Transparent Background ColorBlack White Red Green Blue Yellow Magenta CyanTransparencyOpaque Semi-Transparent Transparent Window ColorBlack White Red Green Blue Yellow Magenta CyanTransparencyTransparent Semi-Transparent Opaque
+Font Size 50% 75% 100% 125% 150% 175% 200% 300% 400% Text Edge Style None Raised Depressed Uniform Dropshadow Font Family Proportional Sans-Serif Monospace Sans-Serif Proportional Serif Monospace Serif Casual Script Small Caps
+End of dialog window.
+Oscillators are a group of technical indicators that attempt to indicate the strength of a trend and if a market is over-bought or over-sold. Each indicator uses slightly different inputs in the calculations, but they try to give traders insight into whether a market is going to continue to move with the same trend or reverse direction.
+The term oscillator comes from the fact that they move within, or oscillate between, two predefined levels. No matter how far the market moves up or down, the indicator will never move above or below its set range.
+These conditions can lead to two issues. First, the indicator can remain at over-bought or over-sold for a long period of time if the trend is strong. This means reversal signals can be shown for a long time before the market begins to reverse. The second issue is because the indicators are always a step behind what the market is doing, this is known as a lagging indicator.
+##  Oscillator Signals 
+Oscillators are generally designed to indicate signals in two ways: with crossovers of the indicator lines and by indicating divergences where price and the oscillator no longer move in the same direction.
+The three more popular oscillators are Moving Average Convergence Divergence (MACD), Relative Strength Index (RSI) and Stochastics.
+##  Moving Average Convergence Divergence (MACD) 
+The Moving Average Convergence Divergence indicator attempts to gauge the strength of a trend. Unlike other indicators that show the direction of price, the MACD shows the direction of the momentum of the trend.
+![](https://www.cmegroup.com/education/courses/technical-analysis/oscillators-macd-rsi-stochastics.html)
+The indicator has three parts:
+Signals are generated when the MACD line crosses the signal line. If the MACD moves below the signal line, this is generally an indication of a down move; if the MACD moves above the signal line, it is typically seen as an indication of a potential up move.
+Another signal is if the MACD line is above or below the zero line. If the MACD line is above zero, traders generally say the market is over-bought and may move down. If the indicator is below the zero line, traders generally say the market is over-sold and may move back upward.
+Another signal that traders look for is a divergence from price. The MACD line should move up and down with the trend of price and if it starts to diverge, that might indicate a change in the trend of price. For example, if the MACD starts to move lower and price is moving higher, it can be an indication that price might be setting up for a reversal.
+##  Relative Strength Index 
+The Relative Strength Index (RSI) compares the average size of the up moves over a period with the average size of the down moves over that same period of time.
+![](https://www.cmegroup.com/education/courses/technical-analysis/oscillators-macd-rsi-stochastics.html)
+If the RSI is over 70, this is generally seen as over-bought and price might move down. A reading of 30 indicates a market that is over-sold and price might move up. Traders can use the indicator to assess a market after a large, quick move up or down. If a market spikes and RSI moves above 70, it could mean the market is extended beyond what might be normal for that market and price could pull back. On the other hand, if price spikes and RSI does not go past 70, there might be more room for the market to continue to move higher.
+##  Stochastics 
+The Stochastics indicator compares the recent close of a stock to the range of opening and closing prices over a previous period. The basis of the assumption is markets in an up-trend will close near the high of their range and stocks in a down-trend will close near the bottom of their range.
+![](https://www.cmegroup.com/education/courses/technical-analysis/oscillators-macd-rsi-stochastics.html)
+The two lines on the indicator are referred to as the K and D lines. The K line measures momentum and the D line measures the average momentum.
+Typically, a reading over 80 is considered over-bought and a reading below 20 is considered over-sold. This means the stock is trading either near the top of its range or near the bottom of its range.
+Divergences can also be signals of reversals in a market’s price. For example, if a market makes new, lower lows but the Stochastics indicator makes a series of higher lows, this might indicate a bottom is forming in the market.
+##  Conclusion 
+Oscillators are price-following and use price history to gauge the strength of the trend and if the trend will continue in the near-term or may be getting close to reversing.
+Because of the calculations these oscillators might indicate over-sold or over-bought for a long time, creating a situation where the indicator is signaling a reversal but the market continues to move up or down in its original trend.
+Like any indicator, oscillators should be used in conjunction with other information you gather. Most of the time, signals from oscillators are confirmed with increasing volume and ignored with decreasing volume.
+Keep track of how the indicators react to your favorite market and decide if the signals they produce create good trade entries and exits.
+##  Test your knowledge 
+#### ACCREDITED COURSE![](https://www.cmegroup.com/education/courses/images/accredited-course-icon.png)
+####  What did you think of this course? 
+To help us improve our education materials, [please provide your feedback](https://www.cmegroup.com/content/cmegroup/en/education/course-survey.html#Technical%20Analysis).
+Previous
+Next
+####  Extend your learning 
+Loading...
+#####  [ Practice tool ](https://www.cmegroup.com/trading_tools/simulator)
+####  Put your knowledge into practice with the Trading Simulator 
+[![](https://www.cmegroup.com/education/courses/technical-analysis/oscillators-macd-rsi-stochastics.html)](https://www.cmegroup.com/trading_tools/simulator "trading-simulator")
+#####  [ Trading challenge ](https://www.cmegroup.com/education/trading-challenge.html)
+####  Get hands on experience with the latest Trading Challenge 
+[![](https://www.cmegroup.com/education/courses/technical-analysis/oscillators-macd-rsi-stochastics.html)](https://www.cmegroup.com/education/trading-challenge.html "trading challenge")
+###### company
+###### international
+###### MARKET REGULATION
+###### OUR EXCHANGES 
+[English](https://www.cmegroup.com/)[中文(简体)](https://www.cmegroup.com/cn-s/)[中文(繁體)](https://www.cmegroup.com/cn-t/)[한국어](https://www.cmegroup.com/ko/)[日本語](https://www.cmegroup.com/ja/)[Português](https://www.cmegroup.com/pt/)[Español](https://www.cmegroup.com/es/)[Deutsch](https://www.cmegroup.com/de/)[Italiano](https://www.cmegroup.com/it/)[Français](https://www.cmegroup.com/fr/)
+CME Group is the world’s leading derivatives marketplace. The company is comprised of four Designated Contract Markets (DCMs).   
+© 2026 CME Group Inc. All rights reserved.
+
+==================================================
+

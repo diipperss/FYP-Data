@@ -1,0 +1,251 @@
+SOURCE: https://www.investopedia.com/ask/answers/021015/what-best-measure-given-stocks-volatility.asp
+Volatility is a reflection of the degree to which price moves. A stock with a price that fluctuates wildly, hitting new highs and lows or moving erratically, is considered highly volatile. 
+Traders look at its historical volatility when selecting a security for investment to help determine the relative risk of a potential trade. Numerous metrics measure volatility in differing contexts and each trader has their favorites. A firm understanding of the concept of volatility and how it's determined is essential to successful investing. 
+### Key Takeaways
+ipopba / Getty Images
+##  Why Volatility Is Important 
+A highly volatile stock is inherently riskier but the risk cuts both ways. The chance for success is increased as much as the risk of failure when you invest in a volatile security. Many traders with high risk tolerance look to multiple measures of volatility to help inform their trade strategies. 
+##  Standard Deviation 
+The primary measure of volatility used by traders and analysts is the [standard deviation](https://www.investopedia.com/terms/s/standarddeviation.asp). This metric reflects the average amount a stock's price has differed from the mean over some time.
+It's calculated by determining the mean price for the established period and then subtracting this figure from each price point. The differences are then squared, summed, and averaged to produce the [variance](https://www.investopedia.com/terms/v/variance.asp). The formula for standard deviation is as follows:1
+Standard Deviation=∑i=1n(xi−xˉ)2n−1where:xi=Value of the ith point in the data setxˉ=The mean value of the data setn=The number of data points in the data set\begin{aligned}&\text{Standard Deviation}=\sqrt{\frac{\sum^n_{i=1}(x_i-\bar{x})^2}{n-1}}\\\&\textbf{where:}\\\&x_i=\text{Value of the }i^{th}\text{ point in the data set}\\\&\bar{x}=\text{The mean value of the data set}\\\&n=\text{The number of data points in the data set}\end{aligned}​Standard Deviation=n−1∑i=1n​(xi​−xˉ)2​​where:xi​=Value of the ith point in the data setxˉ=The mean value of the data setn=The number of data points in the data set​
+The standard deviation is calculated in a few steps:
+The variance is the product of squares so it's no longer in the original unit of measure. Price is measured in dollars so a metric that uses dollars squared isn't very easy to interpret. The standard deviation is therefore calculated by taking the square root of the variance. This brings it back to the same unit of measure as the underlying data set. 
+### Fast Fact
+The standard deviation is by far the most popular measure. People usually mean standard deviation when they speak of volatility.
+##  Bollinger Bands 
+The outer bands mirror those changes to reflect the corresponding adjustment to the standard deviation. The standard deviation is shown by the width of the Bollinger Bands. The wider the Bollinger Bands, the more volatile a stock's price is within the given period. A stock with low volatility has very narrow Bollinger Bands that sit close to the SMA.2
+A simplified price chart of the SPDR S&P 500 ETF Trust ([SPY](https://www.investopedia.com/markets/quote?tvwidgetsymbol=SPY)) with Bollinger Bands is shown in this example. The stock traded within the tops and bottoms of the bands over a one-month range for the most part but it dipped below the lower band for about one week. The price was between approximately $495 and $522 per share during the month.3
+Bollinger Bands are often used as an indicator of the range a security trades between with the upper band limit indicating a potentially high price to sell at and the lower band limit indicating a potentially low price to buy at. 
+### Fast Fact
+Most traders are most interested in losses so a [downside deviation](https://www.investopedia.com/terms/d/downside-deviation.asp) that only looks at the bottom half of the standard deviation is often used.
+##  Maximum Drawdown 
+Another way of dealing with volatility is to find the [maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp). This is usually given by the largest historical loss for an asset, measured from peak to trough, during a specific period. It's possible in other situations to use options to make sure that an investment won't lose more than a certain amount. Some investors choose asset allocations with the highest historical return for a given maximum drawdown. 
+The value of using maximum drawdown comes from the fact that not all volatility is bad for investors. Large gains are highly desirable but they also increase the standard deviation of an investment. There are ways to pursue large gains while trying to minimize drawdowns. 
+### Important
+A maximum drawdown may be quoted in dollars or as a percentage of the peak value. The underlying prices as dollar maximum drawdowns may therefore not be a fair comparable base when comparing securities.
+Many successful growth investors such as [William J. O'Neil](https://www.investopedia.com/terms/w/william-j-oneil.asp) look for stocks that go up more than the market in an uptrend but stay steady during a downtrend. The idea is that these stocks remain stable because people hold on to winners despite minor or temporary setbacks. 
+##  Beta 
+[Beta](https://www.investopedia.com/terms/b/beta.asp) measures a security's volatility relative to that of the broader market. A beta of 1 means that the security has a volatility that mirrors the degree and direction of the market as a whole. The stock in question is likely to follow suit and fall by a similar amount if the S&P 500 takes a sharp dip. 
+Relatively stable securities such as utilities have beta values of less than 1, reflecting their lower volatility as compared to the broad market. Stocks in rapidly changing fields, especially in the technology sector, have beta values of more than 1. These types of securities have greater volatility. 
+### Fast Fact
+The beta of the S&P 500 index is 1. A higher beta indicates that that stock will move more than the broader market when the index goes up or down.
+A beta of 0 indicates that the underlying security has no market-related volatility. Cash is an excellent example if no inflation is assumed. There are low or even negative beta assets that have substantial volatility that is [uncorrelated](https://www.investopedia.com/terms/c/correlation.asp) to the stock market, however. 
+## Is High or Low Volatility Better for Stocks?
+Many day traders like high-volatility stocks because there are more opportunities for large swings to enter and exit over relatively short periods. Long-term buy-and-hold investors often prefer low volatility, however, where there are incremental, steady gains over time. It can generally signal increased fear of a downturn when volatility is rising in the stock market.
+## What Is Considered Average Stock Volatility?
+There are various ways to measure the average volatility. When looking at beta, the S&P 500 index has a reference beta of 1 so this is also the average volatility of the market.
+Investors can look to the [CBOE Volatility Index](https://www.investopedia.com/terms/v/vix.asp) or VIX on an absolute basis. This measures the average volatility of the S&P 500 on a rolling three-month basis. Some traders consider a VIX value greater than 30 to be relatively volatile and under 20 to be a low-volatility environment. The long-term average for the VIX has been just over 20.4
+## How Can I Trade Changes in Volatility?
+## How Do You Find the Implied Volatility of a Stock?
+Implied volatility is determined using computational models such as the Black-Scholes Model or the Binomial Model. These models identify factors that may impact an equity's future price, determine outcome likelihoods, and price derivative products like options based on their findings.
+##  The Bottom Line 
+There are different ways to measure volatility and each is better suited for specific needs and preferred by different traders. Standard deviation is the most common but other methods include beta, maximum drawdowns, and the CBOE Volatility Index. Take the time to find out what works best for you and your trading style. 
+Article Sources
+Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our [editorial policy.](https://www.investopedia.com/legal-4768893#EditorialPolicy)
+Compare Accounts
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+Take the Next Step to Invest
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+## Related Articles
+Newsletter Sign Up
+Newsletter Sign Up
+
+==================================================
+
+SOURCE: https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/volatility-vol/
+# Volatility
+A measure of the rate of fluctuations in the prices of a security over time 
+Written by [CFI Team](https://corporatefinanceinstitute.com/about-cfi/)
+Read Time 2 minutes 
+Over 2.8 million + professionals use CFI to learn accounting, financial analysis, modeling and more. Unlock the essentials of corporate finance with our free resources and get an exclusive sneak peek at the first module of each course.  [ Start Free Start Free](https://learn.corporatefinanceinstitute.com/auth/registration)
+## What is Volatility?
+![Volatility \(Vol\) stock chart](data:image/svg+xml,<svg%20id="L4"%20xmlns="http://www.w3.org/2000/svg"%20xmlns:xlink="http://www.w3.org/1999/xlink"%20x="0px"%20y="0px"%20viewBox="0%200%201024%20684"%20xml:space="preserve"></svg>)
+Volatility is determined either by using the standard deviation or [beta](https://corporatefinanceinstitute.com/resources/valuation/what-is-beta-guide/). Standard deviation measures the amount of dispersion in a security’s prices. Beta determines a security’s volatility relative to that of the overall market. Beta can be calculated using regression analysis.
+### Types of Volatility
+#### 1. [Historical Volatility](https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/historical-volatility-hv/)
+This measures the fluctuations in the security’s prices in the past. It is used to predict the future movements of prices based on previous trends. However, it does not provide insights regarding the future trend or direction of the security’s price.
+#### 2. Implied Volatility
+This refers to the volatility of the underlying asset, which will return the theoretical value of an [option](https://corporatefinanceinstitute.com/resources/derivatives/options-calls-and-puts/) equal to the option’s current market price. Implied volatility is a key parameter in option pricing. It provides a forward-looking aspect on possible future price fluctuations.
+### Calculating Volatility
+The simplest approach to determine the volatility of a security is to calculate the [standard deviation](https://corporatefinanceinstitute.com/resources/data-science/standard-deviation/) of its prices over a period of time. This can be done by using the following steps:
+### Sample Calculation
+You want to find out the volatility of the stock of ABC Corp. for the past four days. The stock prices are given below:
+To calculate the volatility of the prices, we need to:
+The standard deviation indicates that the stock price of ABC Corp. usually deviates from its average stock price by $1.92.
+### Additional Resources
+Thank you for reading CFI’s guide on Volatility. To continue learning and advancing your career, these additional resources will be helpful:
+Get Certified for Capital Markets (CMSA®)
+From equities and fixed income to derivatives, the CMSA certification bridges the gap from where you are now to where you want to be — a world-class capital markets analyst.
+[Learn MoreLearn More](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
+[ Corporate Finance Institute ](https://corporatefinanceinstitute.com/)
+[Back to Website](https://corporatefinanceinstitute.com)
+0 search results for ‘
+People also search for:  excel  power bi  esg  accounting  balance sheet  fmva  real estate 
+Explore Our Certifications 
+[ Financial Modeling & Valuation Analyst (FMVA)®  ](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
+[ Commercial Banking & Credit Analyst (CBCA)®  ](https://corporatefinanceinstitute.com/certifications/commercial-banking-credit-analyst-certification-cbca/)
+[ Capital Markets & Securities Analyst (CMSA)®  ](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
+[ Certified Business Intelligence & Data Analyst (BIDA)®  ](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)
+[ Financial Planning & Wealth Management Professional (FPWMP)®  ](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
+[ FinTech Industry Professional (FTIP)®  ](https://corporatefinanceinstitute.com/certifications/fintech-industry-professional/)
+Resources 
+[ Mastering Excel Shortcuts for PC and Mac  Work Smarter in Excel with Keyboard Shortcuts If you're still reaching for the mouse every few seconds, it's time to level up. The best Excel keyboard...  ](https://corporatefinanceinstitute.com/resources/excel/excel-shortcuts-pc-mac/)
+[ Financial Modeling Guidelines  CFI’s free Financial Modeling Guidelines is a thorough and complete resource covering model design, model building blocks, and common tips, tricks,...  ](https://corporatefinanceinstitute.com/resources/financial-modeling/free-financial-modeling-guide/)
+[ SQL Data Types  What are SQL Data Types? The Structured Query Language (SQL) comprises several different data types that allow it to store different types of information...  ](https://corporatefinanceinstitute.com/resources/data-science/sql-data-types/)
+[ Structured Query Language (SQL)  What is Structured Query Language (SQL)? Structured Query Language (known as SQL) is a programming language used to interact with a database....  ](https://corporatefinanceinstitute.com/resources/data-science/structured-query-language-sql/)
+[ See All Resources See All ](https://corporatefinanceinstitute.com/resources/)
+Popular Courses 
+[ See All Courses See All ](https://corporatefinanceinstitute.com/collections/)
+Recent Searches 
+Suggestions 
+### Create a free account to unlock this Template
+Access and download collection of free Templates to help power your productivity and performance.
+[Create a Free AccountCreate a Free Account](https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/volatility-vol/)
+Already have an account? [Log in](https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/volatility-vol/)
+### Supercharge your skills with Premium Templates
+Take your learning and productivity to the next level with our Premium Templates.
+Upgrading to a paid membership gives you access to our extensive collection of plug-and-play Templates designed to power your performance—as well as CFI's full course catalog and accredited Certification Programs.
+[Discover Paid MembershipsDiscover Paid Memberships](https://corporatefinanceinstitute.com/pricing/)
+Already have a Self-Study or Full-Immersion membership? [Log in](https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/volatility-vol/)
+### Access Exclusive Templates
+Gain unlimited access to more than 250 productivity Templates, CFI's full course catalog and accredited Certification Programs, hundreds of resources, expert reviews and support, the chance to work with real-world finance and research tools, and more.
+[Discover Full-Immersion MembershipDiscover Full-Immersion Membership](https://corporatefinanceinstitute.com/pricing/)
+Already have a Full-Immersion membership? [Log in](https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/volatility-vol/)
+
+==================================================
+
+SOURCE: https://www.optionseducation.org/advancedconcepts/volatility-the-greeks
+# Volatility & the Greeks
+Volatility can be a very important factor in deciding what kind of options to buy or sell. Historical volatility reflects the range that a stock’s price has fluctuated during a certain period. We denote the official mathematical value of volatility as "the annualized standard deviation of a stock’s daily price changes."
+There are two types of volatility: statistical volatility and implied volatility.
+**Statistical (Historical) Volatility** is a measure of actual asset price changes over a specific period.
+**Implied Volatility** Implied Volatility is a measure of how much the marketplace expects the asset price to move based on the price of the option. That is, the volatility that the market implies.
+Volatility is difficult to compute mathematically. A strategist can let the market compute the volatility using implied volatility. This is similar to an efficient market hypothesis which states that if there is enough trading interest in an option that is close to at-the-money, that option is priced fairly.
+## The Black-Scholes Formula
+The Black-Scholes formula was the first widely used model for option pricing. A strategist can use this formula to calculate theoretical value for an option using current stock prices, expected dividends, the option's strike price, expected interest rates, time to expiration and expected stock volatility. While the Black-Scholes model does not perfectly describe real-world options markets, it is still often used in the valuation and trading of options.
+Variables of the Black-Scholes formula are:
+## The Greeks
+The Greeks are a collection of statistical values that help the investor better understand the potential impact changes in pricing model inputs might have on an option’s value. These values can help decide what options strategies to use. The investor should remember that statistics show trends based on past performance. It is not guaranteed that the future performance of the stock will behave according to the historical numbers. These trends can change drastically based on new stock performance.
+[**Beta**](https://www.optionseducation.org/referencelibrary/optionsglossary?filter=B) is a measure of how closely the movement of an individual stock tracks the movement of the entire stock market.
+[**Delta**](https://www.optionseducation.org/advancedconcepts/delta) is a measure of the relationship between an option premium and the underlying stock price. For a call option, a Delta of .50 means a half-point rise in premium for every dollar that the stock goes up. For a put option contract, the premium rises as stock prices fall. As options near expiration, in-the-money contracts approach a Delta of 1.00.
+![](https://www.optionseducation.org/getattachment/831a0718-95f4-42f6-9052-a1cdcbdaed18/Delta-2.png?lang=en-US&width=400&height=100%) In this example, the Delta for stock XYZ is 0.50. As the price of the stock changes by $2.00, the price of the options changes by $.50 for every $1.00. Therefore the price of the options changes by (.50 x 2) = $1.00. The call options increase by $1.00 and the put options decrease by $1.00. The Delta is not a fixed percentage. Changes in price of stock and time to expiration affect the Delta value.
+[**Gamma**](https://www.optionseducation.org/advancedconcepts/gamma) is the sensitivity of Delta to a one-unit change in the underlying. For example, a Gamma of 0.150 indicates the Delta increases or decreases by 0.150 if the underlying price increases or decreases by $1.00. Results will usually not be exact.
+[**Lambda**](https://www.optionseducation.org/referencelibrary/optionsglossary?filter=L) is a measure of leverage, the expected percent change in an option premium for a 1% change in the value of the underlying product.
+[**Rho**](https://www.optionseducation.org/advancedconcepts/rho) is the sensitivity of option value to change in interest rate. Rho indicates the absolute change in option value for a 1% change in the interest rate. For example, a Rho of .060 indicates the option's theoretical value increases by .060 if the interest rate decreases by 1.0. Results may not be exact due to rounding.
+**[Vega](https://www.optionseducation.org/advancedconcepts/vega) **is the sensitivity of option value to changes in implied volatility. Vega indicates an absolute change in option value for a 1% change in volatility. For example, a Vega of .090 indicates the option's theoretical value increases by .090 if the implied volatility increases by 1.0%. Alternately, the option’s theoretical value decreases by .090 if the implied volatility decreases by 1.0%. Results may not be exact due to rounding.
+![](https://adservice.google.com/ddm/fls/z/dc_pre=CNfxjtHnnJIDFZWpZgIdSA4sUg;src=6415046;type=roslm0;cat=oic-r0;ord=1;num=1689407315935;npa=0;auiddc=*;u10=undefined;uaa=x86;uab=64;uafvl=Chromium%3B143.0.7499.4%7CNot%2520A\(Brand%3B24.0.0.0;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=KJA;gtm=45fe61k1h2v9189942489z878890097za20gzb78890097zd78890097xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=103116026~103200004~104527907~104528501~104684208~104684211~105391252~115495939~115938465~115938469~117041587;epver=2;dc_random=1769004589_9rKMqM5q3wLBLGW-ZZKyQ_q-GA6waQ3ixA;_dc_test=1;~oref=https%3A%2F%2Fwww.optionseducation.org%2Fadvancedconcepts%2Fvolatility-the-greeks)![](https://t.co/i/adsct?bci=3&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%26800%26600%2612%2624%26800%26600%260%26na&eci=2&event_id=95bd4673-7e37-462e-9264-c67c9866174f&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=3f20ca94-5853-405c-bda9-d4ce5645a169&tw_document_href=https%3A%2F%2F6415046.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCNfxjtHnnJIDFZWpZgIdSA4sUg%3Bsrc%3D6415046%3Btype%3Droslm0%3Bcat%3Doic-r0%3Bord%3D1%3Bnum%3D1689407315935%3Bnpa%3D0%3Bauiddc%3D1052091461.1769004589%3Bu10%3Dundefined%3Buaa%3Dx86%3Buab%3D64%3Buafvl%3DChromium%253B143.0.7499.4%257CNot%252520A\(Brand%253B24.0.0.0%3Buamb%3D0%3Buam%3D%3Buap%3DWindows%3Buapv%3D10.0%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DKJA%3Bgtm%3D45fe61k1h2v9189942489z878890097za20gzb78890097zd78890097xea%3Bgcd%3D13l3l3l3l1l1%3Bdma%3D0%3Bdc_fmt%3D2%3Btag_exp%3D103116026~103200004~104527907~104528501~104684208~104684211~105391252~115495939~115938465~115938469~117041587%3Bepver%3D2%3Bdc_random%3D1769004589_9rKMqM5q3wLBLGW-ZZKyQ_q-GA6waQ3ixA%3B_dc_test%3D1%3B~oref%3Dhttps%253A%252F%252Fwww.optionseducation.org%252Fadvancedconcepts%252Fvolatility-the-greeks%3F&tw_document_referrer=https%3A%2F%2Fwww.optionseducation.org%2F&tw_iframe_status=1&tw_order_quantity=0&tw_sale_amount=0&txn_id=nw8mb&type=javascript&version=2.3.35)![](https://analytics.twitter.com/i/adsct?bci=3&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%26800%26600%2612%2624%26800%26600%260%26na&eci=2&event_id=95bd4673-7e37-462e-9264-c67c9866174f&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=3f20ca94-5853-405c-bda9-d4ce5645a169&tw_document_href=https%3A%2F%2F6415046.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCNfxjtHnnJIDFZWpZgIdSA4sUg%3Bsrc%3D6415046%3Btype%3Droslm0%3Bcat%3Doic-r0%3Bord%3D1%3Bnum%3D1689407315935%3Bnpa%3D0%3Bauiddc%3D1052091461.1769004589%3Bu10%3Dundefined%3Buaa%3Dx86%3Buab%3D64%3Buafvl%3DChromium%253B143.0.7499.4%257CNot%252520A\(Brand%253B24.0.0.0%3Buamb%3D0%3Buam%3D%3Buap%3DWindows%3Buapv%3D10.0%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DKJA%3Bgtm%3D45fe61k1h2v9189942489z878890097za20gzb78890097zd78890097xea%3Bgcd%3D13l3l3l3l1l1%3Bdma%3D0%3Bdc_fmt%3D2%3Btag_exp%3D103116026~103200004~104527907~104528501~104684208~104684211~105391252~115495939~115938465~115938469~117041587%3Bepver%3D2%3Bdc_random%3D1769004589_9rKMqM5q3wLBLGW-ZZKyQ_q-GA6waQ3ixA%3B_dc_test%3D1%3B~oref%3Dhttps%253A%252F%252Fwww.optionseducation.org%252Fadvancedconcepts%252Fvolatility-the-greeks%3F&tw_document_referrer=https%3A%2F%2Fwww.optionseducation.org%2F&tw_iframe_status=1&tw_order_quantity=0&tw_sale_amount=0&txn_id=nw8mb&type=javascript&version=2.3.35)
+![](https://bat.bing.com/action/0?ti=5983866&Ver=2&mid=cba692c2-af37-4b90-a890-6e65b7962b66&bo=1&sid=d945ef50f6d211f0bfde17873e546d44&vid=d9460210f6d211f097ee3da53301829f&vids=1&msclkid=N&uach=pv%3D10.0&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&p=https%3A%2F%2Fwww.optionseducation.org%2F&r=&lt=122&evt=pageLoad&ifm=1&sv=2&cdb=AQAQ&rn=674179)
+![](https://bat.bing.com/action/0?ti=247003718&Ver=2&mid=dded0122-6bf2-4b20-be0d-5341d6fe6d8a&bo=1&sid=d9b5be30f6d211f0bccc1908269aa443&vid=d9b5c260f6d211f0bf855b7b72b1f934&vids=1&msclkid=N&uach=pv%3D10.0&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=Volatility%20%26%20the%20Greeks&p=https%3A%2F%2Fwww.optionseducation.org%2Fadvancedconcepts%2Fvolatility-the-greeks&r=&evt=pageLoad&sv=2&cdb=AQAQ&rn=432960)
+
+==================================================
+
+SOURCE: https://www.ig.com/uk/trading-strategies/what-is-stock-market-volatility--230831
+[ Skip to content ](https://www.ig.com/uk/trading-strategies/what-is-stock-market-volatility--230831#main-content)
+Spread bets and CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. **67% of retail investor accounts lose money when trading spread bets and CFDs with this provider.** You should consider whether you understand how spread bets and CFDs work, and whether you can afford to take the high risk of losing your money.  
+Spread bets and CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. **67% of retail investor accounts lose money when trading spread bets and CFDs with this provider.** You should consider whether you understand how spread bets and CFDs work, and whether you can afford to take the high risk of losing your money.  
+
+More from IG
+My account
+[IG](https://www.ig.com/uk)
+[ Open account ](https://www.ig.com/uk/application-form)
+Search
+No results found
+[View more search results](https://www.ig.com/uk/trading-strategies/what-is-stock-market-volatility--230831)
+1 2 3 4 5 6 7 8 9 10
+Related search:  [Market Data](https://www.ig.com/uk/trading-strategies/what-is-stock-market-volatility--230831)
+Market Data  |  Type of market   
+---|---  
+[See all Market data search results >](https://www.ig.com/uk/trading-strategies/what-is-stock-market-volatility--230831)
+# What is stock market volatility?
+Volatility is the frequency and size of a market move in a certain time. Higher volatility can be a sign of risk and fear in markets, but it produces more trading opportunities. Learn about market volatility and how to trade.
+![Chart](https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/news-article-image-folder/BG_chart_data_graph_21987987.png/jcr:content/renditions/original-size.webp) Source: Bloomberg
+Written by
+![Russell Burns](https://a.c-dn.net/c/content/dam/publicsites/1681486049388/igcom/uk/images/analysts/Russell-Burns.png)
+[Russell Burns](https://www.ig.com/uk/profile/russell-burns)
+Financial Writer
+## What's on this page?
+## Stock market volatility definition
+When volatility is at a heightened level, it is usually considered to be a sign of increased risk and fear in the market. Volatility is a key input into calculating option prices.
+## How is market volatility measured?
+Standard deviation is by far the most popular measure used by traders to measure volatility. Standard deviation is a way of measuring the size of price moves to try to help determine whether the price will become more or less volatile in the future. The standard deviation of a security is calculated by taking the square root of the variance. Variance measures the dispersion of returns around the mean price of a security.
+You can calculate the standard deviation [on our platform](https://www.ig.com/uk/trading-platforms). Most traders would use a computer program to calculate the standard deviation as its faster and more accurate but you can calculate it by hand by following the steps below:  
+[insert image of formula]
+You can also measure volatility using beta. Beta determines a security's volatility relative to the overall market. Beta can be calculated using regression analysis.
+## Types of volatility
+### Implied volatility
+[Implied volatility](https://www.ig.com/uk/trading-strategies/what-is-implied-volatility-and-how-to-use-it-191021) is a forward-looking measure that enables traders to determine how volatile a security or market is expected to be in the future. The concept gives traders a way to calculate the probability of future volatility. It is measured as a percentage and has a tendency to increase when prices decline. High implied volatility suggests that large price swings may occur.
+### Beta
+Beta measures a stock's volatility of returns relative to the overall market, usually against its relevant benchmark. If the S&P 500 Index has a beta of 1.0, a constituent stock with a beta greater than 1.0 indicates that the frequency and size of the stock's movement is higher than that of the index. Conversely, a stock with beta that's less than 1.0 will move less than the index.
+### The VIX
+The Volatility Index, created by the Chicago Board Options Exchange (CBOE), is a popular measure of implied volatility and is known as the 'fear gauge'. [The VIX](https://www.ig.com/uk/indices/what-is-vix-how-do-you-trade-it) measures the expected volatility of the S&P 500 for the following 30 days. It's derived from real-time pricing on the S&P 500 call and put options over a wide range of strike prices. An increase in implied volatility, or a high VIX reading, suggests a more risky or uncertain market and a potential downward move in the S&P 500 Index.
+## Volatility as an intrinsic feature of financial markets
+Periods of high volatility are a normal feature in financial markets and should be expected. Volatility can be caused by a number of factors. Geopolitical and macroeconomic events can impact the whole market, while certain incidents may only impact a particular industry, sector or company. Markets are usually fairly calm, with brief periods of above-average volatility.
+Although increased volatility can be unnerving for investors, many traders embrace high volatility in markets because it provides more trading opportunities. Traders can limit their potential losses using [risk management](https://www.ig.com/uk/risk-management) techniques efficiently. Longer-term investors should have a plan in place in the event of increased volatility. Market sell-offs, for example, are often considered to be good long-term buying opportunities – if more investors sell their holdings than new investors buy in, the share will fall in price.
+A great example of a buying opportunity at a time of increased volatility and market weakness came in March 2020 during the COVID-19 pandemic. The S&P 500 fell sharply from nearly 3,400 to below 2,300 at the peak of the pandemic panic, and the VIX exploded higher – from around 15 to 85. However, after the Federal Reserve and the other major central banks took the decision to support their economies with aggressive quantitative easing, the S&P 500 rallied nearly 73% to close at 3,972 by the end of March 2021. The VIX, meanwhile, fell back to around 20.
+## How to handle market volatility
+Buying quality companies at a cheaper price can be a successful investment strategy, as stocks tend to rise over the long term. For long-term investors with cash on the sidelines, market corrections may offer attractive buying opportunities to invest that cash into stocks.
+It is important to have an appropriate emergency fund equal to about three to six months of living expenses so you will not be forced to sell investments in times of market weakness.
+Traders use breakout strategies and [scalping ](https://www.ig.com/uk/glossary-trading-terms/scalp-definition)(entering buy and sell orders over the short term) during periods of increased market volatility. They can also buy the VIX Index or options to take advantage of the anticipated increase in volatility or to hedge their long positions.
+## How to trade on market volatility
+### Research your market
+[Learn about the differences between spread betting and CFD trading](https://www.ig.com/uk/spread-betting/spread-betting-vs-cfds)
+### Trading via spread bets and CFDs
+You can choose a certain amount per point movement using spread bets. This gives you more control over your position size and currency exposure. Spread bets are popular because all your profits are tax-free, and there is no stamp duty or commission payable.*
+All spread bets are leveraged.
+A contract for difference (CFD) is a [leveraged derivative](https://www.ig.com/uk/risk-management/what-is-leverage) similar to a spread bet. It means you don't own the underlying asset, but you're speculating on its price movement. Your currency exposure and initial margin will vary according to the market price of the asset chosen.
+Your wins or losses will depend on the outcome of your prediction. CFDs are popular with traders because you can offset losses on CFDs against profits for capital gains tax purposes.* Therefore, traders often use CFDs to hedge their positions.
+Remember, trading with spread betting or CFDs comes with added risk attached to leverage. Your position will be opened at a fraction of the value of the total position size – but you can gain or lose money much faster than you might expect. Your losses can exceed the initial margin that you paid because potential profits and possible losses are magnified to the full value of the trade.
+_* Tax laws are subject to change and depend on individual circumstances. Tax law may differ in a jurisdiction other than the UK._
+## How to invest in shares at times of market volatility
+[Learn about the differences between trading and investing](https://www.ig.com/uk/trading-need-to-knows/trading-vs-investing)
+[Learn how to buy shares](https://www.ig.com/uk/shares/how-to-buy-trade-shares/beginners)
+If you would like to invest long-term but prefer to take a less active approach in the decision-making process, you can open a [Smart Portfolio](https://www.ig.com/uk/investments/smart-portfolios) with us. These are low-cost portfolios managed by experts. Your investments will be spread across shares, bonds and commodities to suit your needs and risk profile.
+When share dealing, you buy and own the shares, so you aren't exposed to the risk involved with CFDs. Still, it's good to remember that past performance doesn't guarantee future returns.
+## Stock market volatility summed up
+¹ [Volatility – Corporate Finance Institute](https://corporatefinanceinstitute.com/resources/capital-markets/volatility-vol/)
+  
+
+![](https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/Rebrand/Article_banners/Strategy_promo_banner_small.jpg/jcr:content/renditions/original-size.webp)
+### Discover how to trade the markets
+Explore the range of markets you can trade – and learn how they work – with IG Academy's free ’introducing the financial markets’ course.
+## You might be interested in…
+Find out what charges your trades could incur with our transparent fee structure.
+Discover why so many clients choose us, and what makes us a world-leading provider of spread betting and CFDs.
+Stay on top of upcoming market-moving events with our customisable economic calendar.
+### [Markets](https://www.ig.com/uk/market-data)
+[Crypto](https://www.ig.com/uk/crypto)
+[Forex](https://www.ig.com/uk/forex)
+[Indices](https://www.ig.com/uk/indices)
+[Shares](https://www.ig.com/uk/shares)
+[Options](https://www.ig.com/uk/options-trading)
+[Other markets](https://www.ig.com/uk/other-markets)
+### [IG services](https://www.ig.com/uk/ways-to-trade)
+[Spread betting](https://www.ig.com/uk/spread-betting)
+[CFD trading](https://www.ig.com/uk/cfd-trading)
+[Share dealing](https://www.ig.com/uk/investments/share-dealing)
+### [Trading platforms](https://www.ig.com/uk/trading-platforms)
+[Web platform](https://www.ig.com/uk/trading-platforms)
+[Mobile trading](https://www.ig.com/uk/trading-platforms/trading-apps)
+[MetaTrader 4](https://www.ig.com/uk/trading-platforms/metatrader-4)
+[ProRealTime](https://www.ig.com/uk/trading-platforms/prorealtime)
+[Compare features](https://www.ig.com/uk/trading-platforms/compare-trading-platforms)
+### [Learn to trade](https://www.ig.com/uk/analyse-and-learn)
+[The Week Ahead](https://www.ig.com/uk/trading-subscriptions/week-ahead)
+[News and trade ideas](https://www.ig.com/uk/news-and-trade-ideas)
+[Strategy and planning](https://www.ig.com/uk/trading-strategies)
+### [Help and support](https://www.ig.com/uk/help-and-support)
+[Contact us](https://www.ig.com/uk/contact-us)
+Follow us online:
+Spread bets and CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage.**67% of retail investor accounts lose money when trading spread bets and CFDs with this provider**. You should consider whether you understand how spread bets and CFDs work and whether you can afford to take the high risk of losing your money. 
+Professional clients trading spread bets and CFDs can lose more than they deposit.
+Options and futures are complex instruments which come with a high risk of losing money rapidly due to leverage. They’re not suitable for most investors. Before you invest, you should consider whether you understand how options and futures work, the risks of trading these instruments and whether you can afford to lose more than your original investment.
+Trading stocks and shares ‘on margin’ within a US options and futures account – meaning that you only finance part of the cost of acquiring a position in a security – carries additional risks over buying securities on a fully funded basis and may result in losses exceeding your original investment. Trading on margin will also result in additional costs to you as the investor and any securities purchased using margin may be held as collateral by the lender, restricting both your rights as shareholder, and your ability to use the securities until the margin trade is closed. You should familiarise yourself with these risks before trading on margin.
+The value of shares, ETFs and other ETPs bought through a share dealing account, a US options and futures account, a stocks and shares ISA or a SIPP can fall as well as rise, which could mean getting back less than you originally put in. Past performance is no guarantee of future results. Some ETPs carry additional risks depending on how they’re structured, investors should ensure they familiarise themselves with the differences before investing.
+Share dealing and IG Smart Portfolio accounts provided by IG Trading and Investments Ltd, CFD accounts and US options and futures accounts are provided by IG Markets Ltd, spread betting provided by IG Index Ltd. 
+IG is a trading name of IG Trading and Investments Ltd (a company registered in England and Wales under number 11628764), IG Markets Ltd (a company registered in England and Wales under number 04008957) and IG Index Ltd (a company registered in England and Wales under number 01190902). Registered address at Cannon Bridge House, 25 Dowgate Hill, London EC4R 2YA. IG Markets Ltd (Register number 195355), IG Trading and Investments Ltd (Register Number 944492) and IG Index Ltd (Register number 114059) are authorised and regulated by the Financial Conduct Authority. 
+The information on this site isn’t directed at residents of the United States, Belgium or any particular country outside the UK and isn’t intended for distribution to, or use by, any person in any country or jurisdiction where such distribution or use would be contrary to local law or regulation.
+© 2003-2026
+
+==================================================
+

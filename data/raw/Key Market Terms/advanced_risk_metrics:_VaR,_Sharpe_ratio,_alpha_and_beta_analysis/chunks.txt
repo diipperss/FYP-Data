@@ -1,0 +1,306 @@
+SOURCE: https://www.investopedia.com/terms/r/riskmeasures.asp
+![Risk Measures: Statistical measures used to predict investment risk and volatility.](https://www.investopedia.com/thmb/-fpcC49fBLGSlN7ABMy16C1aX7A=/1500x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\):format\(webp\)/riskmeasures.asp-final-661e7d93819c481c94ff636d3e9a4c64.png)
+Investopedia / Julie Bang
+##  What Are Risk Measures? 
+
+### Key Takeaways
+##  Types of Risk Measures 
+There are five principal risk measures, and each measure provides a unique way to assess the risk present in investments that are under consideration. The five measures include alpha, beta, R-squared, standard deviation, and the Sharpe ratio. [Risk measures](https://www.investopedia.com/ask/answers/041415/whats-difference-between-ear-value-risk-var-and-eve.asp) can be used individually or together to perform a risk assessment. When comparing two potential investments, it is wise to compare similar ones to determine which investment holds the most risk. 
+###  Alpha 
+[Alpha](https://www.investopedia.com/terms/a/alpha.asp) measures risk relative to the market or a selected benchmark index. For example, if the S&P 500 has been deemed the benchmark for a particular fund, the activity of the fund would be compared to that experienced by the selected index. If the fund outperforms the benchmark, it is said to have a positive alpha. If the fund falls below the performance of the benchmark, it is considered to have a negative alpha. 
+###  Beta 
+###  R-Squared 
+[R-Squared](https://www.investopedia.com/terms/r/r-squared.asp) measures the percentage of an investment's movement attributable to movements in its benchmark index. An R-squared value represents the correlation between the examined investment and its associated benchmark. For example, an R-squared value of 95 would be considered to have a high correlation, while an R-squared value of 50 may be considered low. 
+Take the Next Step to Invest
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+The U.S. Treasury Bill functions as a benchmark for fixed-income securities, while the S&P 500 Index functions as a benchmark for equities.12
+###  Standard Deviation 
+Standard deviation is a method of measuring data dispersion in regards to the mean value of the dataset and provides a measurement regarding an investment’s volatility. 
+As it relates to investments, the standard deviation measures how much return on investment is deviating from the expected normal or average returns. 
+###  Sharpe Ratio 
+The [Sharpe ratio](https://www.investopedia.com/terms/s/sharperatio.asp) measures performance as adjusted by the associated risks. This is done by removing the rate of return on a risk-free investment, such as a U.S. Treasury Bond, from the experienced rate of return. 
+This is then divided by the associated investment’s standard deviation and serves as an indicator of whether an investment's return is due to wise investing or due to the assumption of excess risk. 
+## What Are Ways to Minimize Risk With Stocks?
+Ways to minimize risk when investing in stocks is to do thorough research before picking a stock, diversifying one's portfolio, investing alongside one's risk appetite, having a long-term investment horizon, not panicking in terms of volatility, and regularly evaluating your portfolio.
+## What Are the Risks With Stocks?
+The primary risk with a stock is that you will lose the money you invested in it. The performance of a stock is never guaranteed. If you buy a stock, the price may never increase but there is always the risk that the price will drop, causing you to lose the entire value of your investment.
+## What Are Risk Metrics?
+Risk metrics are mathematical approaches to gauging the possible loss of a security or investment portfolio. When evaluating stocks, risk metrics help investors determine the potential downside.
+##  The Bottom Line 
+Trading and investing are difficult. Picking the right stocks or assets can be complex and it is hard to know the right time to buy a stock and when to sell it. There are many metrics out there that can help make a decision, particularly those assessing risk. Utilizing the above metrics can greatly assist investors in making the right investment choices. 
+_**Correction—April 17, 2024** : _This article has been corrected to state that Beta measures systematic risk. 
+Article Sources
+Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our [editorial policy.](https://www.investopedia.com/legal-4768893#EditorialPolicy)
+Compare Accounts
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+## Related Articles
+Newsletter Sign Up
+Newsletter Sign Up
+
+==================================================
+
+SOURCE: https://www.financialregulationcourses.com/risk-metrics-explained-sharpe-ratio-alpha-beta
+## Get Certified - Get Hired - Start Today
+[![Slide 1](https://financialregulationcourses.com/store/1/ESG%20Advisor%20Certificate.png)](https://financialregulationcourses.com/course/esg-advisor-certification)
+[![Slide 1](https://financialregulationcourses.com/store/1/Investment%20Advisor%20Certificate/Investment%20Advisor%20Certificate%20\(IAC\).png)](https://financialregulationcourses.com/course/investment-advisor-certificate)
+[![Slide 1](https://financialregulationcourses.com/store/1/Introduction%20to%20Derivatives/Introduction%20to%20Derivatives.png)](https://financialregulationcourses.com/course/introduction-to-derivatives)
+[![Slide 1](https://financialregulationcourses.com/store/1/Introduction%20to%20UK%20Financial%20Regulation%20and%20Professional%20Integrity/Introduction%20to%20UK%20Financial%20Regulations%20and%20Professional%20Integrity.png)](https://financialregulationcourses.com/course/financial-regulation-and-professional-integrity)
+[![Slide 1](https://financialregulationcourses.com/store/1/Introduction%20to%20Risk%20and%20Tax/Introduction%20to%20Investment%20Risk%20and%20Taxation.png)](https://financialregulationcourses.com/course/Introduction-to-Investment-Risk-and-Taxation)
+[![Slide 1](https://financialregulationcourses.com/store/1/ESG%20Advisor%20Certificate.png)](https://financialregulationcourses.com/course/esg-advisor-certification)
+## Risk Metrics Explained: Sharpe Ratio, Alpha, and Beta
+X
+URL Copied! 
+![](https://www.financialregulationcourses.com/risk-metrics-explained-sharpe-ratio-alpha-beta)![](https://www.financialregulationcourses.com/risk-metrics-explained-sharpe-ratio-alpha-beta)
+Investing always involves risk, but how do investors measure it? While absolute returns show how much an investment has gained or lost, risk-adjusted metrics help investors determine whether those returns were worth the level of risk taken.
+Three of the most widely used risk metrics in finance are:
+Understanding these metrics can help investors:  
+✔ Compare investments across different asset classes.  
+✔ Adjust portfolios to match risk tolerance.  
+✔ Evaluate fund managers' performance.
+This article will explain the Sharpe Ratio, Alpha, and Beta in detail and how they can be used for better investment decision-making.
+1. Sharpe Ratio: Measuring Risk-Adjusted Returns
+### What is the Sharpe Ratio?
+The Sharpe Ratio measures an investment’s return relative to its risk. It helps investors understand whether the extra returns justify the additional risk.
+📌 Formula:
+Sharpe Ratio=Rp−Rfσp\text{Sharpe Ratio} = \frac{R_p - R_f}{\sigma_p}
+Where:
+### How to Interpret the Sharpe Ratio
+### Example:
+Sharpe Ratio=10−26=1.33\text{Sharpe Ratio} = \frac{10 - 2}{6} = 1.33
+Sharpe Ratio=12−210=1.00\text{Sharpe Ratio} = \frac{12 - 2}{10} = 1.00
+Even though the second fund had a higher return, the first fund had a better risk-adjusted return.
+### Why the Sharpe Ratio is Useful
+✔ Helps compare funds with different risk levels.  
+✔ Ideal for evaluating mutual funds, ETFs, and hedge funds.  
+✔ Shows whether taking extra risk is worth the additional returns.
+However, the Sharpe Ratio assumes past volatility will continue and may not fully capture future risks.
+2. Alpha: Measuring Excess Returns
+### What is Alpha?
+Alpha measures an investment’s ability to outperform the market (or its benchmark) after adjusting for risk. A positive Alpha means the asset beat the market, while a negative Alpha means it underperformed.
+📌 Formula:
+α=Rp−[Rf+β(Rm−Rf)]\alpha = R_p - [R_f + \beta (R_m - R_f)]
+Where:
+### How to Interpret Alpha
+### Example:
+A mutual fund with a return of 12%, a benchmark return of 10%, and a Beta of 1.1:
+If the risk-free rate is 2%:
+α=12−[2+1.1(10−2)]\alpha = 12 - [2 + 1.1(10 - 2)] α=12−[2+8.8]=1.2\alpha = 12 - [2 + 8.8] = 1.2
+Since Alpha is positive (1.2), the fund has outperformed the market after adjusting for risk.
+### Why Alpha is Important
+✔ Measures an investor’s stock-picking ability.  
+✔ Helps identify fund managers who add value beyond market returns.  
+✔ Essential for active investors looking for excess returns.
+However, high Alpha investments often carry higher risk, and past Alpha doesn’t guarantee future performance.
+3. Beta: Measuring Market Volatility
+### What is Beta?
+Beta measures how much an investment moves in relation to the overall market. It indicates whether a stock or fund is more or less volatile than the market.
+📌 Formula:
+β=Covariance (Asset, Market)Variance (Market)\beta = \frac{\text{Covariance (Asset, Market)}}{\text{Variance (Market)}}
+### How to Interpret Beta
+### Example:
+### Why Beta Matters
+✔ Helps investors gauge risk exposure before investing.  
+✔ Useful for hedging strategies (low Beta assets during downturns).  
+✔ High-Beta stocks tend to outperform in bull markets but underperform in bear markets.
+However, Beta is based on past performance and may not always predict future volatility.
+How to Use Sharpe Ratio, Alpha, and Beta Together
+These three metrics help investors make smarter portfolio decisions:
+📌 Scenario 1: Risk-Averse Investor
+📌 Scenario 2: Growth-Oriented Investor
+Bringing It All Together
+Risk-adjusted metrics like Sharpe Ratio, Alpha, and Beta help investors make informed decisions by measuring performance, volatility, and risk exposure.
+### Key Takeaways:
+✔ Sharpe Ratio: Measures risk-adjusted returns—higher is better.  
+✔ Alpha: Indicates excess returns beyond the market—positive Alpha is good.  
+✔ Beta: Shows volatility relative to the market—higher Beta means higher risk.
+By using these metrics, investors can:  
+✅ Compare different investments effectively.  
+✅ Adjust portfolio allocations based on risk tolerance.  
+✅ Identify fund managers with strong risk-adjusted performance.
+A well-balanced portfolio combines assets with different Betas, positive Alpha, and a strong Sharpe Ratio to achieve long-term financial stability and growth.
+Students preparing for careers in finance use the [Investment Advisor Certification](https://investmentadvisorcertification.com/) as a stepping stone.
+### Stay Up To Date With Us
+Be the first to know about new class launches and announcements.
+![](https://www.financialregulationcourses.com/store/1/default_images/home_sections_banners/buildling.png)
+![site icon](http://www.financialregulationcourses.com/store/1/frc-icon.png)
+![](https://www.financialregulationcourses.com/assets/default/img/badge_r.png)
+###### Featured Financial Regulation Course Instructor
+### Ron Finely
+Financial writer and analyst Ron Finely shows you how to navigate financial markets, manage investments, and build wealth through strategic decision-making.
+![Image 1](http://www.financialregulationcourses.com/assets/default/img/home/01.jpg)
+![Image 2](http://www.financialregulationcourses.com/assets/default/img/home/02.jpg)
+![Image 3](http://www.financialregulationcourses.com/assets/default/img/home/03.jpg)
+![Image 4](http://www.financialregulationcourses.com/assets/default/img/home/04.jpg)
+![Image 5](http://www.financialregulationcourses.com/assets/default/img/home/05.jpg)
+![Image 1](http://www.financialregulationcourses.com/assets/default/img/home/01.jpg)
+![Image 2](http://www.financialregulationcourses.com/assets/default/img/home/02.jpg)
+![Image 3](http://www.financialregulationcourses.com/assets/default/img/home/03.jpg)
+![Image 4](http://www.financialregulationcourses.com/assets/default/img/home/04.jpg)
+![Image 5](http://www.financialregulationcourses.com/assets/default/img/home/05.jpg)
+![Image 1](http://www.financialregulationcourses.com/assets/default/img/home/29.jpg)
+![Image 2](http://www.financialregulationcourses.com/assets/default/img/home/28.jpg)
+![Image 3](http://www.financialregulationcourses.com/assets/default/img/home/27.jpg)
+![Image 4](http://www.financialregulationcourses.com/assets/default/img/home/26.jpg)
+![Image 5](http://www.financialregulationcourses.com/assets/default/img/home/09.jpg)
+![Image 6](http://www.financialregulationcourses.com/assets/default/img/home/01.jpg)
+![Image 7](http://www.financialregulationcourses.com/assets/default/img/home/22.jpg)
+![Image 8](http://www.financialregulationcourses.com/assets/default/img/home/23.jpg)
+![Image 9](http://www.financialregulationcourses.com/assets/default/img/home/24.jpg)
+![Image 10](http://www.financialregulationcourses.com/assets/default/img/home/25.jpg)
+![Image 1](http://www.financialregulationcourses.com/assets/default/img/home/29.jpg)
+![Image 2](http://www.financialregulationcourses.com/assets/default/img/home/28.jpg)
+![Image 3](http://www.financialregulationcourses.com/assets/default/img/home/27.jpg)
+![Image 4](http://www.financialregulationcourses.com/assets/default/img/home/26.jpg)
+![Image 5](http://www.financialregulationcourses.com/assets/default/img/home/09.jpg)
+![Image 6](http://www.financialregulationcourses.com/assets/default/img/home/01.jpg)
+![Image 7](http://www.financialregulationcourses.com/assets/default/img/home/22.jpg)
+![Image 8](http://www.financialregulationcourses.com/assets/default/img/home/23.jpg)
+![Image 9](http://www.financialregulationcourses.com/assets/default/img/home/24.jpg)
+![Image 10](http://www.financialregulationcourses.com/assets/default/img/home/25.jpg)
+![Image 1](http://www.financialregulationcourses.com/assets/default/img/home/17.jpg)
+![Image 2](http://www.financialregulationcourses.com/assets/default/img/home/18.jpg)
+![Image 3](http://www.financialregulationcourses.com/assets/default/img/home/19.jpg)
+![Image 4](http://www.financialregulationcourses.com/assets/default/img/home/20.jpg)
+![Image 5](http://www.financialregulationcourses.com/assets/default/img/home/21.jpg)
+![Image 1](http://www.financialregulationcourses.com/assets/default/img/home/17.jpg)
+![Image 2](http://www.financialregulationcourses.com/assets/default/img/home/18.jpg)
+![Image 3](http://www.financialregulationcourses.com/assets/default/img/home/19.jpg)
+![Image 4](http://www.financialregulationcourses.com/assets/default/img/home/20.jpg)
+![Image 5](http://www.financialregulationcourses.com/assets/default/img/home/21.jpg)
+#### Financial Regulation Courses at Work
+# LEVEL UP YOUR TEAM
+See why leading organizations rely on FRC for learning & development.
+![](https://www.financialregulationcourses.com/store/1/default_images/home_sections_banners/buildling.png)
+![site icon](http://www.financialregulationcourses.com/store/1/frc-icon.png)
+## About Cookies
+By clicking "Accept All Cookies", you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. [Privacy policy](https://www.financialregulationcourses.com/policy)
+
+==================================================
+
+SOURCE: https://securitiesce.com/blog/mastering-advanced-portfolio-concepts/?srsltid=AfmBOooBaxsdO342J60e-fhoMF_jTzHdDIGA7DKfbpOtJxjSid8NvJ08
+[Skip to content](https://securitiesce.com/blog/mastering-advanced-portfolio-concepts/?srsltid=AfmBOooBaxsdO342J60e-fhoMF_jTzHdDIGA7DKfbpOtJxjSid8NvJ08#content)
+## Mastering Advanced Portfolio Concepts On The Series 65 Exam  
+The Uniform Investment Adviser Law Examination
+One of the keys to [passing the Series 65 exam](https://securitiesce.com/series-65/study-guide/) is to make sure that you have a complete understanding of how advanced portfolio concepts will be tested on the Series 65 Exam. This article which was produced from material contained in our Series 65 textbook and will help you master the material so that you pass the Series 65 exam.
+#### Alpha
+A stock’s alpha is its projected independent rate of change or the difference between an investment’s expected return and its actual return. Portfolio managers whose portfolios have positive alphas are adding value and increasing the return through their asset selection.
+#### Beta
+A stock’s beta is its projected rate of change relative to the market as a whole. If the market was up 10% for the year, a stock with a beta of 1.5 could reasonably be expected to be up 15%. A stock with a beta greater than one has a higher level of volatility than the market as a whole and is considered to be more risky than the overall market. A stock with a beta of less than one is less volatile than prices in the overall market and is considered to be less risky. An example of a low beta stock would be a utility stock. The price of utility stocks does not tend to move dramatically. A security’s beta measures its non-diversifiable or systematic risk. For each incremental unit of risk an investor takes on, they must be compensated with additional expected returns. If the portfolio’s actual return exceeds that of its expected return, the portfolio has generated excess returns. The Sharpe Ratio can measure a portfolio’s risk adjusted return. If two portfolios both return 8%, but portfolio A contains dramatically more risk than portfolio B, then portfolio B is a much better investment choice. The Shape Ratio will tell an investor how well they are being compensated for the investment risk they are assuming. The Shape Ratio takes the portfolio’s return and subtracts the “risk free return” offered on short-term Treasury bills (usually 90 days) to determine the level of return that the investor earned over the risk free return. The risk premium is then divided by the portfolio’s standard deviation. The Sharpe Ratio appears as follows:
+Metric | Formula  
+---|---  
+**Sharpe Ratio** | **(R − RFR) ÷ SD**  
+Series 65 candidates will have to be able to identify The Shape Ratio, but most likely will not be required to calculate it.
+#### Expected Return
+Modern portfolio managers try to manage risk and evaluate investments by employing a variety of concepts under modern portfolio theory. Modern portfolio theory states that the expected rate of return for an investment is the sum of its weighted returns. An investment’s weighted return is its possible return multiplied by the likelihood of that return being realized. The following table details the expected return for XYZ:
+**Opinion** | **Expected Return** |  **Probability of**  
+**Expected Return** | **Weighted Return**  
+---|---|---|---  
+**Outperform** | **20%** | **25%** | **5%**  
+**Market perform** | **10%** | **50%** | **5%**  
+**Underperform** | **5%** | **25%** | **1.25%**  
+**Expected Return** |  |  | **11.25%**  
+The following table details the expected return for ABC:
+**Opinion** | **Expected Return** |  **Probability of**  
+**Expected Return** | **Weighted Return**  
+---|---|---|---  
+**Outperform** | **40%** | **10%** | **4%**  
+**Market perform** | **20%** | **70%** | **14%**  
+**Underperform** | **(33.75%)** | **20%** | **(6.75%)**  
+**Expected Return** |  |  | **11.25%**  
+Notice that the expected rate of return for both XYZ and ABC is 11.25%. However, an investment in XYZ contains less risk than an investment in ABC because the distribution of potential returns is not as wide as the distribution of potential returns for ABC. An investor who is considering investing in either XYZ or ABC would consider the 11.25% expected return offered by XYZ to be more attractive than the same expected return offered by ABC. The distribution of an investment’s varying expected returns is measured by the investment’s standard deviation. The wider the distribution of an investment’s expected returns, the greater its standard deviation. Investments with higher standard deviations contain more risk than investments with lower standard deviations. As an investment’s results are plotted over time, there is a 95% chance that its actual return will be within two standard deviations of its expected return and a 67% chance that it will be within one standard deviation of its expected return. Portfolio managers will use computer simulations to examine the possibilities of various portfolio strategies. The Monte Carlo simulation is one such simulation used by portfolio managers.
+#### Time Value of Money
+As time progresses, inflation eats away at the value or the purchasing power of the dollar. That is to say that a dollar today is worth more than a dollar tomorrow. Investors can determine the future value of a sum invested if they know the interest rate, the time horizon, and the compounding schedule. The future value of a sum invested today can be determined by using the following formula:
+**FV = PV X (1 + R) T**
+Variable | Definition  
+---|---  
+**FV** | Future Value  
+**PV** | Present Value  
+**R** | Interest rate  
+**T** | Number of compounding periods the money is invested  
+Example:
+FV = ?  
+PV = $1,000  
+R = 5%  
+T = 5 years compounded annually
+**FV = $1,000 X (1 + .05) 5  
+FV = $1,000 X (1.276)**
+FV = $1,276
+The future value of the investment will increase as the number of compounding periods increases. Let’s look at what would happen to the same investment of $1,000 for five years at 5% if the interest was compounded semiannually. Everything would remain the same except T would be 10 and the interest rate for each semi-annual period would be half the annual rate. In this example we get:
+**FV = $1,000 X (1 + .025) 10  
+FV = $1,000 X (1.28)**
+FV = $1,280
+More compounding periods increase the investor’s total return.
+An investor can also determine the present value a future payment by using the following formula:
+Metric | Formula  
+---|---  
+**Present Value** | **FV ÷ (1 + R) T**  
+An investor can also use the present value formula to determine how much they would have to invest today to have a given sum of money in the future. For example, let’s say that an investor wants to have $10,000 saved for their child’s college tuition five years from now. If the investor knows that they can receive 6% on their money, they can determine how much they must invest today. The present value of $10,000 five years from now at a 6% rate is found as follows:
+**PV =** | **$10,000**÷** (1 + .06)5**  
+---|---  
+**PV =** |  **$10,000**÷**** **1.338**  
+**PV =** | **$7,473**  
+The investor would have to invest $7,473 today at a 6% rate to have $10,000 five years from now. Investors can also use the present value and future value to determine an investment’s internal rate of return through a process call iteration. Series 65 candidates will not have to calculate an investment’s internal rate of return.
+#### Modern Portfolio Theory
+As money management developed over the last century, analysts began to shift their focus from the returns available from individual investments to the returns available from an entire portfolio. This approach became known as modern portfolio theory. Modern portfolio theory is based on the concept that investors are risk adverse. Through diversification of investments and asset classes, portfolios can be constructed with higher levels of expected return for each unit of risk assumed. Asset classes are divided into three main categories, stocks, bonds, and, cash and cash equivalents. Portfolio managers, through modern portfolio theory, can construct portfolios based on various allocations over the three main asset classes whose return will be the greatest given each unit of risk. This level of optimal performance is known as the efficient frontier. Any portfolio whose returns are expected to be less than optimal are said to be operating behind the efficient frontier. Optimal portfolio performance will be achieved by constructing a portfolio whose securities prices move independently of one another or whose prices move inversely to one another. Allocating a client’s assets over various asset classes to achieve a given investment objective is known as strategic asset allocation. As the investment results of the different asset classes vary over time, the assets may have to be rebalanced. Asset rebalancing can be divided into two categories: systematic rebalancing and active rebalancing. Systematic rebalancing is designed to keep the original asset allocation model in place. For example, if a client’s portfolio is designed to be 70%/25%/5% in stocks, bonds, and cash respectively, as the percentages shift, the portfolio manager would rebalance the assets to maintain the original percentages. Systematic rebalancing can be done at regular intervals such as quarterly or whenever the asset allocation shifts by a certain percentage, such as by five percent or more. Active rebalancing assumes that a portfolio manager can effectively shift the asset allocation to take advantage of shifts in the performance of the various asset classes. If an investor has the same original portfolio allocation 70%/25%/5% and the portfolio manager thought that the bond market would outperform all other investments, they may use tactical rebalancing to rebalance as follows 40%/55%/5%. Alternatively, Investors may elect to employ a buy and hold strategy and let the allocations go where they may. This buy and hold strategy would reduce transaction costs and tax consequences.
+[buy the best series 65 training course](https://securitiesce.com/series-65/study-guide/)
+![](https://securitiesce.com/blog/mastering-advanced-portfolio-concepts/?srsltid=AfmBOooBaxsdO342J60e-fhoMF_jTzHdDIGA7DKfbpOtJxjSid8NvJ08)
+###  [Written by Securities Institute Staff ](https://securitiesce.com/author/securitiesce-staff/)
+B
+
+==================================================
+
+SOURCE: https://www.investopedia.com/ask/answers/102714/whats-difference-between-alpha-and-beta.asp
+##  Alpha vs. Beta: An Overview 
+Alpha shows how an investment performs relative to a benchmark, while beta measures how much its price moves compared with the broader market. Together, they help investors gauge both performance and risk, making them useful tools for evaluating portfolios. This article explains how to apply these metrics so they can guide more informed investment decisions.  
+
+### Key Takeaways
+##  Understanding Alpha: Measuring Investment Performance 
+The alpha figure for a stock is represented as a single number, like 3 or -5. However, the number actually indicates the percentage above or below a benchmark index that the stock or fund price achieved. In this case, the stock or fund did 3% better and 5% worse, respectively, than the index.1
+An alpha of 1.0 means the investment outperformed its benchmark index by 1%. An alpha of -1.0 means the investment underperformed its benchmark index by 1%. If the alpha is zero, its return matches the benchmark. 
+Note that alpha is a historical number. It's useful to track a stock's alpha over time to see how it did, but it can't tell you how it will do tomorrow. 
+###  Alpha for Portfolio Managers 
+That is generally a higher bar. If the CAPM analysis indicates that the portfolio should have earned 5%, based on risk, economic conditions, and other factors, but instead the portfolio earned just 3%, the alpha of the portfolio would be a discouraging -2%. 
+Portfolio managers seek to generate a higher alpha by diversifying their portfolios to balance risk. Because alpha represents the performance of a portfolio relative to a benchmark, it represents the value that a portfolio manager adds or subtracts from a fund's return. The baseline number for alpha is zero, which indicates that the portfolio or fund is tracking perfectly with the benchmark index. In this case, the investment manager has neither added nor lost any value. 
+###  Formula for Alpha 
+Alpha=R−Rf−beta(Rm−Rf)where:R=The portfolio returnRf=The risk-free rate of returnbeta=The systematic risk of a portfolioRm=The market return, per a benchmark\begin{aligned}&\text{Alpha}=R-Rf-beta(Rm-Rf)\\\&\textbf{where:}\\\&R=\text{The portfolio return}\\\&Rf=\text{The risk-free rate of return}\\\&beta=\text{The systematic risk of a portfolio}\\\&Rm=\text{The market return, per a benchmark}\end{aligned}​Alpha=R−Rf−beta(Rm−Rf)where:R=The portfolio returnRf=The risk-free rate of returnbeta=The systematic risk of a portfolioRm=The market return, per a benchmark​
+This formula will provide insight into how well an asset will perform against its benchmark by including its return. For example, if the alpha were zero, it would indicate that the asset's performance is equal to its benchmark.  
+
+##  Exploring Beta: Assessing Volatility and Risk 
+Often referred to as the beta coefficient, beta is an indication of the volatility of a stock, a fund, or a stock portfolio in comparison with the market as a whole. A benchmark index (most commonly the S&P 500) is used as the proxy measurement for the market. Knowing how volatile a stock's price is can help an investor decide whether it is worth the risk.2
+The baseline number for beta is one, which indicates that the security's price moves exactly as the market moves. A beta of less than 1 means that the security is less volatile than the market, while a beta greater than 1 indicates that its price is more volatile than the market. If a stock's beta is 1.5, it is considered to be 50% more volatile than the overall market. Like alpha, beta is a historical number. 
+Acceptable betas vary across companies and sectors. Many utility stocks have a beta of less than 1, while many high-tech Nasdaq-listed stocks have a beta of greater than 1. To investors, this signals that tech stocks offer the possibility of higher returns but generally pose more risks, while utility stocks are steady earners. 
+### Fast Fact
+Think about how it may not always be best to chase the highest returns. In some cases, it's more favorable to accept a lower potential rate of return in exchange for needing to take on a substantially less amount of risk.
+###  Formula for Beta 
+Here is a useful [formula for calculating beta](https://www.investopedia.com/terms/b/beta.asp):
+Beta=CRVariance of Market’s Returnwhere:CR=Covariance of asset’s return with market’s return\begin{aligned} &\text{Beta} = \frac{ \text{CR} }{ \text{Variance of Market's Return} } \\\ &\textbf{where:}\\\ &\text{CR} = \text{Covariance of asset's return with market's return} \\\ \end{aligned}​Beta=Variance of Market’s ReturnCR​where:CR=Covariance of asset’s return with market’s return​
+In this formula, covariance is used to measure the correlation in price moves of any two stocks. A positive covariance means the stocks tend to move in lockstep, while a negative covariance means they move in opposite directions. Variance refers to how far a stock moves relative to its mean. It is frequently used to measure the volatility of a stock's price over time. 
+##  Comparing Alpha and Beta: Key Differences Explained 
+Let’s summarize the main differences between alpha and beta. Note that in a given trading scenario, there may be fewer or greater considerations, and not every difference may be material in any given investment position. 
+##  Investment Performance Metrics Beyond Alpha and Beta 
+In addition to differences between alpha and beta, there are similar yet different alternative options you can use to evaluate your portfolio. Let’s quickly cover these common alternatives to alpha and beta. 
+## What Is Alpha?
+Alpha is the excess return of an investment compared to its expected return given its level of risk, as determined by its beta. It measures the performance of an investment relative to the market, indicating whether the investment has outperformed or underperformed compared to what would be expected based on its risk level.
+## What Is Beta?
+Beta measures the sensitivity of an investment's returns to changes in the market. It quantifies the volatility or risk of an investment compared to the market as a whole. A beta of 1 indicates that the investment's price tends to move in line with the market, while betas greater or less than 1 indicate higher or lower volatility, respectively.
+## What Does A Positive and Negative Alpha Indicate?
+Positive alpha indicates that the investment has outperformed the market, while negative alpha indicates underperformance. Positive alpha suggests that the investment has provided returns higher than expected given its risk level, while negative alpha suggests the opposite.
+## What Is the Relationship Between Alpha and Beta?
+Alpha and beta are related in that alpha represents the excess return of an investment beyond what would be expected based on its level of risk, as measured by beta. Beta helps contextualize alpha by quantifying the investment's risk relative to the market.
+## How Do Alpha and Beta Differ from Standard Deviation?
+Alpha and beta measure investment performance and market sensitivity, respectively, while standard deviation measures the dispersion of returns around the mean. Standard deviation provides insight into the volatility of an investment's returns but does not account for market risk or excess return.
+##  The Bottom Line 
+Alpha measures how a portfolio performs compared with its benchmark, revealing whether the manager's decisions added value. 
+Beta reflects how sensitive the portfolio is to market conditions, indicating how much of its returns may move when the market shifts. Together, they help investors assess performance and risk when evaluating portfolios and making investment choices. 
+Article Sources
+Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our [editorial policy.](https://www.investopedia.com/legal-4768893#EditorialPolicy)
+Compare Accounts
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+Take the Next Step to Invest
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+## Related Articles
+Newsletter Sign Up
+Newsletter Sign Up
+
+==================================================
+

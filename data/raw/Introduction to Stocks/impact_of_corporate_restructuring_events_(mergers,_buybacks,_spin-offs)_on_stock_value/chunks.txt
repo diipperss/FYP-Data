@@ -1,0 +1,1041 @@
+SOURCE: https://www.investopedia.com/articles/investing/090715/comparing-spinoffs-splitoffs-and-carveouts.asp
+![midtown manhattan skyline view](https://www.investopedia.com/thmb/d7DqSNhiMvKWJZTO5CpK1ycxnfQ=/1500x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\):format\(webp\)/GettyImages-1190426338-227c39da5f864ef3b76f7a2686f2a42d.jpg)
+[Marco Bottigelli](https://www.gettyimages.com/search/photographer?family=creative&photographer=%C2%A9+Marco+Bottigelli) / Getty Images
+### Key Takeaways
+##  Spin-Off vs. Split-Off vs. Carve-Out: An Overview 
+Companies have different options available to divest themselves of certain assets, divisions, or subsidiaries. These methods include the spin-off, split-off, and carve-out. The choice of a specific method by the parent company depends on different factors, but the ultimate objective is to increase shareholder value and operational efficiency. 
+##  Understanding Spin-Offs 
+Existing shareholders benefit by now holding shares of two separate companies after the spin-off instead of one. The spin-off is a distinct entity from the parent company and has a separate management team. The parent company may spin off 100% of the shares in its subsidiary, or it may spin off 80% to its shareholders and hold a minority interest of less than 20% in the subsidiary. 
+###  Real-World Spin-Off Example 
+Baxalta received a takeover offer from Shire Pharmaceuticals within weeks of its spin-off. Baxalta's board of directors rebuffed the offer, saying it [undervalued](https://www.investopedia.com/terms/u/undervalued.asp) the company.4 The merger eventually closed in 2016, and Shire and Takeda merged into Takeda Biopharmaceuticals India Private Limited in 2022.5
+### Important
+While the choice of a specific method by the parent company depends on different factors as explained below, the ultimate objective for a spin-off, split-off, and carve-out is to increase shareholder value.
+##  Split-Offs Explained 
+In a [split-off](https://www.investopedia.com/terms/s/split-off.asp), the parent company's shareholders are offered shares in a subsidiary, but the catch is that they have to choose between holding shares of the subsidiary or the parent company. As such, shareholders can either: 
+Because [shareholders](https://www.investopedia.com/terms/s/shareholder.asp) in the parent company can choose whether or not to participate in the split-off, the distribution of the subsidiary shares is not pro rata as it is in the case of a spin-off. 
+A split-off is generally accomplished after shares of the subsidiary have earlier been sold in an IPO through a carve-out. Since the subsidiary now has a certain [market value](https://www.investopedia.com/terms/m/marketvalue.asp), it can be used to determine the split-off exchange ratio. 
+To induce parent company shareholders to exchange their shares, an investor will usually [receive shares in the subsidiary](https://www.investopedia.com/ask/answers/032415/how-do-spinoffs-impact-investors-both-parent-and-subsidiary-companies.asp) that are worth a little more than the parent company shares being exchanged. For example, for $1.00 of a parent company share, the shareholder may receive $1.10 of a subsidiary share. 
+###  Case Study 
+Bristol-Myers owned 170 million Mead Johnson shares and accepted just over 269 million of its shares in exchange, so the exchange ratio was 0.6313 where one share of Bristol-Myers Squibb was exchanged for 0.6313 shares of Mead Johnson.67
+##  What Carve-Outs Are and How They Differ from Spin-Offs 
+A carve-out often precedes the full spin-off of the subsidiary to the parent company's shareholders. For such a future spin-off to be [tax-free](https://www.investopedia.com/terms/t/tax-free.asp), it has to satisfy the 80% control requirement, which means that no more than 20% of the subsidiary's stock can be offered in an IPO.81
+###  A Case Analysis 
+### Fast Fact
+Unlike a spin-off, the parent company generally receives a cash inflow through a carve-out.
+##  Key Considerations in Corporate Divestitures: Impact and Strategy 
+Extending that logic, when a company willingly splits off part of its operations into a separate entity, it should follow that the reverse would be true, that synergies and economies of scale should diminish or disappear. 
+But that's not necessarily the case since there are several compelling reasons for a company to consider slimming down as opposed to bulking up through a merger or acquisition. 
+###  Pure-Play Businesses: Unlocking Shareholder Value 
+###  Optimizing Capital Allocation 
+Splitting up enables a more efficient allocation of [capital](https://www.investopedia.com/terms/c/capital.asp) to the component businesses within a company. This is especially useful when different business units within a company have varying capital needs. One size does not fit all when it comes to capital requirements. 
+###  The Strategic Advantage of Divestitures 
+The separation of a company into two or more businesses will enable each one to [focus on its own game plan](https://www.investopedia.com/financial-edge/0311/5-of-the-most-adaptive-companies.aspx), without the company's executives having to spread themselves thin in trying to grapple with the unique challenges posed by distinct business units. A greater focus may translate into better financial results and improved profitability. 
+###  Strategic Imperatives in Divestment Decisions 
+## How Do I Invest in a Spin-Off?
+Most spin-offs tend to perform better than the overall market and, in some cases, better than their parent companies. So how does one invest in spin-offs? There are two choices: invest in a spin-off [exchange-traded fund (ETF)](https://www.investopedia.com/terms/e/etf.asp) like the Invesco S&P Spin-Off ETF or invest in a stock once it announces a divestment through a spin-off or carve-out. In some cases, the stock may not react positively until after the spin-off is effective, which may be a buying opportunity for an investor.
+## Are Spin-Offs Taxable or Tax-Free?
+Spin-offs can be tax-free so long as the parent company structures the spin-off in a tax-advantaged manner, including but not limited to relinquishing at least 80% of its voting and non-voting shares in the subsidiary. In contrast, a spin-off is taxable when a subsidiary is sold outright via an IPO or sale to another company.
+## How Are Options Contracts Affected by a Spin-Off?
+When a company performs a spin-off, options contracts are adjusted to include the new spun-off company's shares. This means that the options position will reflect shares from the parent and spun-off companies based on the share distribution outlined in the spin-off ratio. The new options contract ticker will have a distinct number, but the expiration date will remain the same.
+## How Are Employees Affected by a Spin-Off?
+Employees affected by a spin-off are typically either retained at the parent company or transferred to the new company. Employee contracts are often adjusted accordingly, resulting in different employment terms, benefits, and locations. This adjustment can lead to job insecurity, as restructuring can often lead to redundancies and subsequent layoffs.
+##  The Bottom Line 
+Spin-offs, split-offs, and carve-outs are methods that companies use to divest assets, divisions, or subsidiaries. Companies may divest parts of the business for various reasons, including more efficient capital allocation, improved valuation, or to meet strategic objectives. Depending on how the action is structured, these corporate actions may be taxable or tax-free to the shareholder or company. 
+Article Sources
+Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our [editorial policy.](https://www.investopedia.com/legal-4768893#EditorialPolicy)
+## Related Articles
+Newsletter Sign Up
+Newsletter Sign Up
+
+==================================================
+
+SOURCE: https://heygotrade.com/en/blog/understanding-corporate-actions
+# Understanding Corporate Actions: Overview, Types, Why They Matter
+![Author](https://heygotrade.com/en/blog/understanding-corporate-actions/)
+Erwanto
+Jan 15, 2026
+![](https://heygotrade.com/static/verified-f366e4532f25eace6678d07f63133607.svg)Reviewed by Gotrade Internal Analyst
+![Understanding Corporate Actions: Overview, Types, Why They Matter](https://files-tr8.s3.ap-southeast-1.amazonaws.com/blog_images/corporateactions_1768446079.jpg)
+Share this article
+## Stock prices do not move only because of earnings or [economic data](https://www.heygotrade.com/en/blog/economic-data-explained/). Sometimes prices change because the company itself takes action. These events are known as corporate actions, and they can directly affect shareholders even when the broader market is quiet.
+Understanding corporate actions meaning helps investors know what is happening behind the scenes and why their holdings sometimes change in value, structure, or share count.
+## What Are Corporate Actions?
+Corporate actions are events initiated by a company that result in changes to its shares, [dividends](https://www.heygotrade.com/en/blog/what-is-a-dividend/), or ownership structure.
+They can impact shareholders financially or structurally, depending on the type of action.
+Corporate actions occur within the stock market and are part of normal corporate operations.
+### Why corporate actions exist
+Companies use corporate actions to:
+These actions reflect strategic decisions, not market movements.
+## Types of Corporate Actions in the Stock Market
+Corporate actions come in several forms.
+### Mandatory corporate actions
+Mandatory actions apply automatically to all shareholders.
+Examples include:
+Shareholders do not need to take action, but their holdings may change.
+### Voluntary corporate actions
+Voluntary actions require shareholder choice.
+Examples include:
+Investors must decide whether to participate.
+### Mandatory with choice actions
+Some actions combine elements of both.
+Shareholders may receive a default option but can choose alternatives. These are less common but still important to understand.
+## Common Corporate Actions Investors See
+Some corporate actions appear more frequently than others.
+### Dividends and distributions
+Dividends are payments made to shareholders from company profits.
+They provide income and can affect stock prices when shares trade ex-dividend.
+### Stock splits and reverse splits
+Stock splits increase the number of shares while reducing price per share.
+Reverse splits reduce the number of shares and increase price per share. Neither changes the company’s total value, but both affect perception and liquidity.
+### Share buybacks
+[Buybacks](https://www.heygotrade.com/en/blog/buyback-what-is-it-example-and-how-does-it-affect-you/) reduce the number of shares outstanding.
+This can increase earnings per share and signal management confidence, but outcomes depend on execution and valuation.
+### Mergers, acquisitions, and spin-offs
+These actions restructure businesses.
+They can unlock value or introduce risk depending on strategic fit and execution.
+## Why Corporate Actions Matter to Investors?
+Corporate actions directly affect ownership and returns.
+### Impact on share price and value
+Corporate actions often cause price adjustments.
+For example, a stock split lowers the price mechanically, while a dividend reduces the share price by the payout amount.
+Understanding this prevents confusion around price movements.
+### Impact on portfolio structure
+Corporate actions can change:
+These changes affect portfolio tracking and performance measurement.
+### Tax and reporting considerations
+Some corporate actions have tax implications.
+Investors may need to report dividends, capital gains, or restructuring outcomes depending on local regulations.
+## How Investors Should Track Corporate Actions?
+Staying informed helps avoid surprises.
+### Monitoring corporate action announcements
+Companies announce corporate actions ahead of execution.
+Paying attention to announcements helps investors prepare for changes.
+### Understanding key dates
+Important dates include:
+Missing these dates can affect eligibility or cash flow.
+### Avoiding emotional reactions
+Corporate actions are mechanical events.
+Reacting emotionally to price changes without understanding the action can lead to poor decisions.
+## Limitations and Risks of Corporate Actions
+Corporate actions are not always positive.
+### Strategic risk
+Not all actions create value.
+Poorly executed mergers or buybacks at high prices can destroy shareholder value.
+### Short-term volatility
+Corporate actions can trigger short-term volatility.
+Markets may disagree with management’s decisions, leading to price swings.
+### Complexity for beginners
+Some actions, such as rights issues, can be confusing.
+Understanding the basics reduces unnecessary risk.
+## Conclusion
+Corporate actions are company-driven events that directly affect shareholders and stock prices. They are a normal part of how businesses operate in the stock market.
+By understanding corporate actions meaning and how corporate actions in the stock market work, investors can better interpret changes in their portfolios and avoid being caught off guard.
+If you want to track corporate actions across US stocks and monitor how they affect your holdings, you can use the Gotrade app. Market and charting tools make it easier to stay informed while managing your portfolio responsibly.
+[GET GOTRADE APP, START INVESTING](https://heygo.trade/get-gotrade-app-start-investing-button)
+**FAQ**
+**What are corporate actions?**  
+They are events initiated by a company that affect its shares or shareholders.
+**Do corporate actions always change stock prices?**  
+Often yes, but changes can be mechanical rather than fundamental.
+**Are corporate actions good or bad?**  
+They can be either, depending on execution and context.
+**Do investors need to take action?**  
+Some corporate actions are automatic, while others require a decision.
+**Reference:**
+**Disclaimer**
+_Gotrade is the trading name of Gotrade Securities Inc., which is registered with and supervised by the Labuan Financial Services Authority (LFSA). This content is for educational purposes only and does not constitute financial advice. Always do your own research (DYOR) before investing._
+* * *
+Share
+## Related Articles
+![](https://heygotrade.com/en/blog/understanding-corporate-actions/)![AppLogo](https://heygotrade.com/static/5507b8ed8d889e18a99cc848622fd481/fd127/app-logo.png)
+Gotrade
+[](https://heygotrade.com/app-download/)
+![](https://t.co/1/i/adsct?bci=4&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=c60386c6-a224-491b-aa8c-03cb4070dbac&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5786b57d-636c-4dff-a145-7e343c99a247&pt=Understanding%20Corporate%20Actions%3A%20Overview%2C%20Types%2C%20Why%20They%20Matter&tw_document_href=https%3A%2F%2Fheygotrade.com%2Fen%2Fblog%2Funderstanding-corporate-actions%2F&tw_iframe_status=0&txn_id=oc2is&type=javascript&version=2.3.35)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=c60386c6-a224-491b-aa8c-03cb4070dbac&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5786b57d-636c-4dff-a145-7e343c99a247&pt=Understanding%20Corporate%20Actions%3A%20Overview%2C%20Types%2C%20Why%20They%20Matter&tw_document_href=https%3A%2F%2Fheygotrade.com%2Fen%2Fblog%2Funderstanding-corporate-actions%2F&tw_iframe_status=0&txn_id=oc2is&type=javascript&version=2.3.35)
+
+==================================================
+
+SOURCE: https://www.linkedin.com/pulse/impact-corporate-restructuring-founder-employee-pt-2-agwu-okoro-qqd7f
+`` `` `` `` `` `` ``
+##  Sign in to view more content 
+Create your free account or sign in to continue your search
+`` `` `` `` `` `` `` `` `` ``
+or 
+New to LinkedIn? [Join now](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fimpact-corporate-restructuring-founder-employee-pt-2-agwu-okoro-qqd7f&trk=pulse-article_contextual-sign-in-modal_join-link)
+LinkedIn 
+LinkedIn is better on the app 
+Don’t have the app? Get it in the Microsoft Store. 
+[ Open the app ](ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_desktop_upsell)
+`` `` `` `` `` `` `` [ Skip to main content ](https://www.linkedin.com/pulse/impact-corporate-restructuring-founder-employee-pt-2-agwu-okoro-qqd7f#main-content)
+`` `` `` ``
+7 min read
+![Impact of CORPORATE RESTRUCTURING ON FOUNDER-EMPLOYEE EQUITY \(pt. 2\)](https://media.licdn.com/dms/image/v2/D4D12AQGGuOSWX4qfeg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1730733946521?e=2147483647&v=beta&t=6GCAFC1qpp8TpvYvgvJ4WsQxf4aMR1riXKizrd6QZqg)
+Corporate changes, such as mergers, acquisitions, or restructurings, can have significant implications for equity distribution, stock options, and vesting schedules. 
+Today’s article offers an in-depth examination of how companies and stakeholders can effectively navigate these challenges, protect their interests, and ensure equitable outcomes during corporate transformations.
+  
+
+###  Understanding the Corporate Change Landscape: Mergers, Acquisitions, and Restructurings
+###  Types of Corporate Changes and its effects on Equity
+###  Equity Dilution and Redistribution
+Corporate changes often lead to equity dilution or redistribution. During mergers or acquisitions, the acquiring entity may issue new shares to existing stakeholders or merge equity pools, altering ownership percentages. This is particularly significant for shareholders, founders, and employees holding large equity stakes.
+In some cases, stakeholders (particularly investors) may have anti-dilution provisions in their contracts. These provisions protect shareholders from excessive dilution by adjusting the conversion price of preferred shares to the lowest price at which new shares are issued or providing additional shares.
+During a corporate change, equity held in one company may need to be converted into equity in another. The mechanics of this conversion depend on the terms of the deal, including any liquidation preferences and conversion ratios.
+In many cases, corporate changes involving equity redistribution require approval from a majority of shareholders. Companies must communicate the implications of the change and allow shareholders to vote on the terms.
+  
+
+###  Stock Options and Corporate Restructuring
+###  Key Considerations for Stock Option Holders
+Corporate changes can be disruptive for stock option holders, who may face uncertainty about the value of their options and whether they will retain them post-transaction. Several critical issues need to be addressed:
+  
+
+###  Vesting Schedules and Corporate Change
+###  Impact of Mergers and Acquisitions on Vesting Schedules
+Vesting schedules, which determine when employees gain ownership of their stock options or equity, are often disrupted by corporate changes. The key concerns for vesting during such events include:
+###  Employee Retention Post-Corporate Change
+One of the most significant challenges during corporate restructuring or acquisitions is retaining key talent. If employees are concerned about losing equity or options, they may leave, damaging the company’s continuity and operational performance.
+During restructuring or acquisition, companies may offer retention bonuses or new equity grants to key employees —cash or equity grants that vest after a certain period—to incentivize employees to stay post-transaction.
+In some other cases, unvested stock options in the pre-acquisition company may be rolled over into stock options in the acquiring company, subject to new terms and conditions or stock option refreshers will be issued after a corporate change to replace outdated options or offer additional compensation for employees staying with the company. These options are typically subject to new vesting schedules.
+  
+
+###  Legal and Tax Considerations in Equity and Stock Options During Corporate Change
+###  Tax Implications of Stock Option Changes
+Corporate restructuring can trigger significant tax consequences for stock option holders, depending on how options are treated during the transaction.
+###  Legal Provisions for Equity Protection
+  
+
+## Recommended by LinkedIn
+[ CORPORATE RESTRUCTURING: AN INSIGHT TO THE ACQUIRER’S… Great Ijomah, Ph.D, B.L  3 years ago  ](https://www.linkedin.com/pulse/corporate-restructuring-insight-acquirers-obligations-great-ijomah)
+[ Navigating the Transition: A Comprehensive Guide to… Law Insider IN  2 years ago  ](https://www.linkedin.com/pulse/navigating-transition-comprehensive-guide-initial-public-iaxqf)
+[ Charting a New Course: Navigating the Corporate… eCapital Corp.  1 year ago  ](https://www.linkedin.com/pulse/charting-new-course-navigating-corporate-restructuring-landscape-i0bhe)
+###  Communication Strategies: Ensuring Transparency During Corporate Change
+###  Employee Communication and Engagement
+During corporate changes, maintaining open and transparent communication with employees is essential to ensure engagement and retention.
+Companies should provide clear, detailed explanations of how equity and stock options will be affected by the corporate change. Employees need to understand how their incentives are protected and what steps they should take. Hosting open forums, such as town hall meetings or Q&A sessions, allows employees to raise concerns and receive direct answers from leadership. This can help alleviate uncertainty and reinforce trust in the company’s leadership.
+###  Shareholder Communication and Voting
+For shareholders, transparency is critical when corporate changes involve equity redistribution or restructuring. Companies must provide detailed transaction documents about the terms of the deal, including equity conversion ratios, valuation adjustments, and voting rights, and engage in shareholder approval for equity-related changes. Companies must facilitate shareholder votes and ensure that all parties have the information needed to make informed decisions.
+  
+
+###  Additional Considerations: Future-Proofing Equity Plans
+###  1. Provisions for Future Equity Adjustments
+###  2. Long-Term Incentive Plans (LTIPs)
+###  3. Equity Management Software
+  
+
+###  Conclusion
+Corporate changes such as mergers, acquisitions, or restructuring can be complex, especially when it comes to equity distribution, stock options, and vesting schedules. Companies must be proactive in developing strategies that protect stakeholders’ interests, maintain employee incentives, and ensure a smooth transition. By understanding the potential impacts, legal considerations, and best practices for managing equity during these events, businesses can navigate corporate changes effectively and ensure long-term success.
+  
+
+* * *
+###  About Legal Bytes
+We are Adune Legal’s weekly Newsletter, which simplifies the Law for Busy Executives, Entrepreneurs, and Tech Enthusiasts interested in the legal aspects of Business, Technology, and Intellectual Property.
+Subscribed
+We love emails from our readers— reply to this email and let us know your thoughts and suggestions.
+WAIT!!!
+We're excited to announce that paid subscribers can access
+Don't miss out on these perks - [subscribe](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flegalbytes%2Esubstack%2Ecom%2Fsubscribe%3F&urlhash=wrlC&trk=article-ssr-frontend-pulse_little-text-block) today and start enjoying it!
+  
+
+Thanks for reading Legal Bytes
+Adune Legal’s Team
+P.S. Like Legal Bytes? Please forward us to a friend.
+P.P.S. Was this publication forwarded to you? [Sign up](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fsubstack%2Ecom%2F%40legalbytes&urlhash=5uQf&trk=article-ssr-frontend-pulse_little-text-block) here & see previous publications.
+  
+
+[ Legal Bytes  ](https://www.linkedin.com/newsletters/legal-bytes-7193250012686913536)
+###  Legal Bytes 
+####  352 followers 
+[ + Subscribe ](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fimpact-corporate-restructuring-founder-employee-pt-2-agwu-okoro-qqd7f)
+`` `` `` `` ``
+``
+[ Like ](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fimpact-corporate-restructuring-founder-employee-pt-2-agwu-okoro-qqd7f&trk=article-ssr-frontend-pulse_x-social-details_like-toggle_like-cta)
+Like
+Celebrate
+Support
+Love
+Insightful
+Funny
+[ Comment  ](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fimpact-corporate-restructuring-founder-employee-pt-2-agwu-okoro-qqd7f&trk=article-ssr-frontend-pulse_comment-cta)
+`` ``
+`` ``
+[ 4  ](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fimpact-corporate-restructuring-founder-employee-pt-2-agwu-okoro-qqd7f&trk=article-ssr-frontend-pulse_x-social-details_likes-count_social-actions-reactions) `` `` `` `` `` `` ``
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fimpact-corporate-restructuring-founder-employee-pt-2-agwu-okoro-qqd7f&trk=article-ssr-frontend-pulse_x-social-details_feed-cta-banner-cta)
+##  More articles by Nneoma Grace Agwu-Okoro 
+[ See all articles ](https://ng.linkedin.com/in/nneomagrace/recent-activity/articles/)
+##  Others also viewed 
+##  Explore content categories 
+
+==================================================
+
+SOURCE: https://www.thetaxadviser.com/issues/2024/mar/recent-developments-in-sec-355-spinoffs/
+[Skip to content](https://www.thetaxadviser.com/issues/2024/mar/recent-developments-in-sec-355-spinoffs/#primary)
+**Related**
+December 31, 2025
+## [Revisiting Sec. 1202: Strategic planning after the 2025 OBBBA expansion](https://www.thetaxadviser.com/issues/2025/dec/revisiting-sec-1202-strategic-planning-after-the-2025-obbba-expansion/)
+December 31, 2025
+## [Practical tax advice for businesses as a result of the OBBBA](https://www.thetaxadviser.com/issues/2025/dec/practical-tax-advice-for-businesses-as-a-result-of-the-obbba/)
+December 23, 2025
+## [IRS updates FAQs on business interest limitation, premium tax credit](https://www.thetaxadviser.com/news/2025/dec/irs-updates-faqs-on-business-interest-limitation-premium-tax-credit/)
+**TOPICS**
+_Editor: Alexander J. Brosseau, CPA_
+This item discusses certain considerations with respect to spinoff transactions by public companies that are intended to qualify as tax-free under Sec. 355. It focuses on (1) recent developments for obtaining a private letter ruling from the IRS in connection with a spinoff transaction; (2) tax-efficient deleveraging transactions that can be undertaken as part of a spinoff transaction; and (3) the applicability of the new corporate alternative minimum tax (corporate AMT) under Sec. 55 (and Secs. 56A and 59) and the new Sec. 4501 stock repurchase excise tax, both of which were recently enacted as part of the Inflation Reduction Act of 2022, P.L. 117-169.
+**Spinoff transactions generally**
+Spinoff transactions occur for a variety of reasons, including to allow different businesses to pursue their own capital allocation and growth strategies and to increase aggregate equity value by creating a more “pure-play” stock, which can enhance its use for acquisitions and equity compensation for employees.
+A spinoff transaction is a significant event for a public company. It results in a second, independent public company with a new capital structure, board of directors, and management team. Preparation for the transaction may require significant internal restructurings depending on where the businesses are located within the organizational structure. These internal restructuring transactions have their own tax consequences (e.g., an internal spinoff intended to qualify as tax-free under Sec. 355) and may involve non-U.S. jurisdictions and tax considerations. Further, as discussed below, tax-efficient deleveraging transactions generally can be undertaken as part of a spinoff transaction.
+In a Sec. 355 transaction, the distributing corporation generally either (1) distributes all of the stock of a controlled corporation pro rata to its shareholders (i.e., a spinoff), or (2) redeems its stock from some shareholders in exchange for all of the stock of a controlled corporation (i.e., a split-off). Under Sec. 355, a spinoff transaction can qualify as tax-free to both the distributing corporation and its shareholders. If it does not qualify as tax-free, the distributing corporation will be taxed on any built-in gain in the controlled corporation stock, and the distributing corporation shareholders will have a Sec. 301 distribution equal to the fair market value of the controlled corporation stock, which will be taxable as a dividend to the extent of the earnings and profits of the distributing corporation.
+To qualify for tax-free treatment under Sec. 355, a spinoff transaction must satisfy several stringent requirements that require significant diligence and analysis. They include:
+The foregoing requirements generally are intended to limit Sec. 355 treatment to transactions that relate to corporate restructurings required by business exigencies where there is not a material change in ultimate ownership of the businesses (see  _Gregory v. Helvering,_ 293 U.S. 465 (1935) (tax-free treatment not available where a transitory controlled corporation was used to distribute a minority stock interest to an individual shareholder who then sold the minority stock interest and (1) reported the distribution was tax-free and (2) reported capital gain in connection with the sale of the interest)). Further, anti-change-of-control rules under Secs. 355(d) and 355(e) can cause a spinoff transaction that otherwise qualifies under Sec. 355 to be taxable to the distributing corporation (but not its shareholders), as if the distributing corporation had sold the controlled corporation stock for cash.
+**Fast-track process and expanded scope for private letter rulings**
+One key tax workstream for a spinoff transaction involves the manner in which Sec. 355 qualification is confirmed. In general, there are two approaches. The first approach involves obtaining a private letter ruling from the IRS, together with a so-called gap opinion from a tax adviser. The gap opinion generally addresses the Sec. 355 requirements for which the Service will not issue a ruling. In recent years, the Service would not rule on the businesspurpose requirement, the non-device requirement, and Sec. 355(e) (see, e.g., Rev. Proc. 2023-3, §3.01(63)). These requirements generally entail a factintensive analysis that the IRS viewed as more appropriate for review during an audit. The Service, however, was willing to rule on certain legal issues with respect to such requirements (e.g., counting mechanics for Sec. 355(e)) (id.). Pursuant to Rev. Proc. 2024-3, released on Jan. 2, 2024, the Service will now rule on the non-device requirement and Sec. 355(e) — generally, a welcome addition — while the business-purpose requirement remains a no-rule area (other than for certain legal issues).
+The second approach involves an opinion from a tax adviser that addresses all Sec. 355 requirements. In addition, instead of requesting a ruling with respect to the spinoff transaction as a whole (other than the no-rule requirements described above), a taxpayer could request a “significant issue ruling” with respect to one or more “significant issues” relating to a Sec. 355 requirement (e.g., whether a trade or business constitutes an “expansion” of a five-year active trade or business for purposes of the active-trade-or-business requirement) and obtain an opinion from a tax adviser on the remaining issues (taking into account the significant-issue ruling).
+From a tax perspective, the first approach generally has been viewed as preferable, given that the IRS has weighed in on the overall spinoff transaction. In certain instances, however, the deciding factor is the timeline for the spinoff transaction. The Service generally does not provide a specific timeline or end date for the private letter ruling process. A general rule of thumb for obtaining a letter ruling is six months after submitting the request; however, the process could take much longer, depending on the complexity of the transaction and rulings requested, as well as whether IRS Associate Chief Counsel branches other than Corporate are involved. Thus, although a spinoff transaction generally may take up to a year to complete, a company may not want a private letter ruling to potentially dictate (i.e., delay) the timeline.
+In January 2022, the IRS released Rev. Proc. 2022-10, which established an 18-month pilot program of “fasttrack” processing for private ruling requests under the jurisdiction of the Corporate branch, including spinoff transactions. In July 2023, Rev. Proc. 2023-26 replaced Rev. Proc. 2022-10 and made the fast-track process permanent. Rev. Proc. 2017-52 sets forth the information and representations that must be included in a Sec. 355 ruling request (see also Rev. Proc. 96-30).
+Under Rev. Proc. 2023-26, (1) the IRS generally will issue a private letter ruling within 12 weeks of the request’s being accepted into the fast-track process; (2) the taxpayer generally does not need to demonstrate a business need for fast-track processing (unless requesting a ruling in less than 12 weeks); (3) the taxpayer must respond within seven business days to any requests by the Service for additional information; and (4) the request must include a draft private letter ruling. If a ruling is requested for an issue under the jurisdiction of an IRS branch other than Corporate, that branch must agree to the fast-track process. Also, if a ruling request involves an issue under an Associate Chief Counsel branch other than Corporate but no ruling is requested, the other branch must not object to the fast-track process.
+Making the fast-track process permanent was a welcome development for companies and tax advisers. It allows taxpayers to seek more certainty on Sec. 355 qualification in a shorter, more certain timeline.
+While a private letter ruling can be expected within 12 weeks of fast-track process acceptance, companies should be aware that getting to that acceptance point still takes significant time. First, the transaction steps and any related restructurings and transactions (e.g., deleveraging transactions and ongoing commercial relationships) must be determined. Second, the scope of the ruling request (e.g., whether to include any internal spinoff transactions) must be determined and the ruling request prepared, which involves substantial information collecting and drafting. In addition, the taxpayer must have a conference with the IRS prior to submitting the ruling request, in which the taxpayer and its advisers provide a brief overview of the transaction and highlight any complex or unique issues.
+Further, after the ruling request is submitted, it generally takes up to two weeks for the Service to inform the taxpayer that the ruling request has been accepted for fast-track processing. Finally, note that supplemental submissions to the Service, including transaction step changes, can cause delays and may result in the ruling request’s being removed from the fast-track process.
+The broadening of the Service’s Sec. 355 ruling approach set forth in Rev. Proc. 2024-3 should allow taxpayers to obtain additional certainty. In addition, the fast-track process should still be available for these expanded-scope private letter rulings.
+**Deleveraging in connection with a spinoff transaction**
+As mentioned above, a distributing corporation may be able to undertake tax-efficient deleveraging transactions in connection with a spinoff transaction. These transactions generally do not change the value of the shareholders’ overall investment but allow the distributing corporation to shift (or economically shift) third-party debt to the controlled corporation, which provides flexibility for capital allocation and optimized capital structures. In general, a spinoff transaction may involve one or more of four types of tax-efficient deleveraging transactions: (1) debt assumption, (2) cash distribution, (3) debt-for-debt exchange, and (4) debt-for-equity exchange. Taxpayers undertaking them, especially a debt-fordebt or debt-for-equity exchange, typically seek a private letter ruling.
+_**Debt assumption:**_ Pursuant to a debt assumption, the controlled corporation would legally assume existing third-party debt of the distributing corporation. Where the spinoff transaction includes a Sec. 368(a)(1)(D) reorganization (e.g., transfer of a business to a new controlled corporation), Sec. 361(a) provides that no gain or loss is recognized by the distributing corporation if it receives solely stock or securities of the controlled corporation. If the distributing corporation also receives cash (or other property — i.e., boot) from the controlled corporation, then, under Sec. 361(b)(1), the distributing corporation must distribute the cash to its shareholders (or, as discussed below, its creditors) as part of the spinoff transaction to avoid recognizing gain with respect to the transfer of assets to the controlled corporation.
+Under Sec. 357(a), the assumption of distributing corporation debt by the controlled corporation generally is not treated as cash received by the distributing corporation for purposes of Sec. 361. Thus, in the first instance, distributing corporation debt assumed by the controlled corporation should not cause the distributing corporation to recognize gain with respect to the business transferred to the controlled corporation. Sec. 357(a), however, is subject to two exceptions: (1) Sec. 357(b), which applies where liabilities are assumed for a tax-avoidance purpose, and (2) Sec. 357(c), which applies where the liabilities assumed exceed the tax basis of the property transferred (generally disregarding, under Sec. 357(c)(3), liabilities that would result in a deduction or the creation of tax basis when subsequently paid).
+In general, Sec. 357(b) applies in two cases: (1) the principal purpose for the liability assumption was to avoid U.S. federal income tax on the exchange; or (2) where there is no tax-avoidance purpose, but there was no business purpose for the liability assumption. In Rev. Rul. 79-258, the IRS concluded that Sec. 357(b) did not apply where (1) a portion of the distributing corporation debt related to assets transferred to the controlled corporation but the creditor would not consent to an assumption of such debt by the controlled corporation, and (2) the distributing corporation incurred new bank debt and retained the proceeds and the controlled corporation assumed the new bank debt. In this case, the new bank debt was a proxy for the portion of the existing debt that related to the assets transferred to the controlled corporation (but could not be assumed).
+In private letter rulings for spinoff transactions, the IRS has effectively ruled that Sec. 357(b) did not apply where the liabilities assumed did not relate to the business transferred to the controlled corporation but (1) equalized values of the distributing and controlled corporations (e.g., Letter Ruling 200234061 (May 22, 2002)) or (2) established an appropriate liquidity and capital structure for the distributing and controlled corporations (e.g., Letter Ruling 201703012 (Sept. 20, 2016)).
+_**Cash distribution:**_ Debt assumption, however, may not be available because the covenants in the relevant debt agreements may prohibit an assumption by the controlled corporation. In such case, the distributing corporation may alternatively deleverage by (1) the controlled corporation incurring debt and distributing the proceeds to the distributing corporation, and (2) the distributing corporation using the cash received to repay historic distributing corporation debt (or debt that refinanced such debt). As mentioned above, under Sec. 361(b)(1), if the distributing corporation receives cash from the controlled corporation, the distributing corporation must distribute the cash to its shareholders as part of the spinoff transaction to avoid recognizing gain with respect to the transfer of assets to the controlled corporation. For this purpose, Sec. 361(b)(3) provides that a transfer by the distributing corporation to its creditors will be treated as a distribution to its shareholders. However, under Sec. 361(b)(3), the distributing corporation will recognize gain to the extent the amount of cash received and transferred to creditors exceeds the aggregate tax basis of the assets transferred to the controlled corporation (net of the liabilities assumed by the controlled corporation under Sec. 357(c)).
+A borrowing and distribution of cash by the controlled corporation (and the use of such cash by the distributing corporation to repay its debt) is a relatively straightforward way to deleverage the distributing corporation. However, such aggregate net tax basis may be low (e.g., a historic business with depreciated assets and/or self-created intangibles, including goodwill) as a general matter or relative to the amount of desired deleveraging. In such case, if the distributing corporation seeks to further deleverage in a tax-efficient manner, two additional transactions generally are available: a debt-for-debt exchange and a debt-forequity exchange.
+_**Debt-for-debt exchange:**_ Pursuant to a debt-for-debt exchange, the controlled corporation would issue debt instruments to the distributing corporation, which would be used to repay historic distributing corporation debt (or debt that refinanced such debt). The controlled corporation debt instruments must be treated as “securities” for purposes of Sec. 361, discussed below. In particular, in contrast to cash and other property, controlled corporation securities are not treated as boot for purposes of Secs. 361(a) and (b). As a result, the tax-basis limitation in Sec. 361(b)(3) discussed above that applies to a cash deleveraging transaction does not apply to controlled corporation securities. (Prior legislative proposals would have created a tax-basis limitation for controlled corporation securities, most recently in the Build Back Better Act (H.R. 5376) (new proposed Sec. 361(d).)
+In addition, under Sec. 361(c)(1), except as provided in Sec. 361(c)(2), the distributing corporation will not recognize any gain or loss on the distribution to its shareholders of property as part of the spinoff transaction. Under Sec. 361(c)(2), the distributing corporation recognizes gain with respect to distributed property that is not “qualified property.” Sec. 361(c)(2)(B) provides that qualified property includes any stock or obligation of the controlled corporation received as part of the Sec. 368(a)(1) (D) reorganization.
+Finally, Sec. 361(c)(3) provides that transfers of qualified property by the distributing corporation to its creditors in connection with the reorganization will be treated as distributions to its shareholders (and, thus, generally treated as tax-free for the distributing corporation under Sec. 361(c)(1)). An obligation for purposes of Sec. 361(c)(2) should include controlled corporation debt, regardless of whether that debt constitutes securities; however, as mentioned above, securities treatment is required to prevent the Sec. 361(b)(3) tax-basis limitation from applying. Note that Sec. 361(c) is not relevant to cash deleveraging transactions because there is no gain (or loss) in cash. In sum, a debt-for-debt exchange as described above generally can accomplish a tax-free deleveraging regardless of the amount of deleveraging and the tax basis of the assets transferred to the controlled corporation (although there will be nontax considerations for the total amount of controlled corporation debt).
+As mentioned above, the key to a debt-for-debt exchange is that the controlled corporation debt constitutes securities for purposes of Sec. 361. Neither the Code nor Treasury regulations define the term “securities” for purposes of Sec. 361. Courts, however, have provided that the determination is based on the relevant facts and circumstances and have developed guiding factors (see, e.g.,  _Camp Wolters Enterprises, Inc.,_ 22 T.C. 737 (1954), acq., 1954-2 C.B. 3, aff ’d, 230 F.2d 555 (5th Cir. 1956),  _cert._ denied, 352 U.S. 826 (1956)). The courts have attempted to distinguish between debt instruments that (1) can be viewed more as cash equivalents, which generally should not be securities, or (2) represent more of an investment in the business enterprise of the debtor corporation, which generally should be securities.
+One key factor identified by the courts is the term of the debt instrument, which in many cases may serve as a proxy for the cash-equivalent versus investment determination. Specifically, the longer the term of the debt instrument, the longer the creditor is exposed to risk of the debtor corporation. In general, a debt instrument having a term of 10 years or more has been treated as a security, while a debt instrument having a term of less than five years has not (see, e.g.,  _Baker Commodities, Inc.,_ 48 T.C. 374 (1967) (15-year notes were securities); Rev. Rul. 2004-78 (“Under case law, an instrument with a term of less than five years generally is not a security.”)). Very generally, securities treatment likely is available for a debt instrument that has a seven- to eight-year maturity, is not puttable by the holder, and is not callable by the debtor corporation for at least five years (and otherwise has customary terms and conditions).
+_**Debt-for-equity exchange:**_ A debt-for-equity exchange allows a distributing corporation to deleverage without the controlled corporation’s having to incur debt. The distributing corporation would use controlled corporation stock to repay historic distributing corporation debt (or debt that refinanced such debt). If the spinoff transaction includes a Sec. 368(a)(1)(D) reorganization (e.g., transfer of assets to a new controlled corporation), the distributing corporation cannot use more than 20% of the controlled corporation stock in a debt-for-equity exchange. In particular, under Sec. 368(a)(1)(D), the shareholders of the distributing corporation must have Sec. 368(c) control of the controlled corporation immediately after the spinoff (i.e., at least 80% of the controlled corporation stock if there is one class of stock). Similar to a debtfor- debt exchange under Sec. 361, the transfer of the controlled corporation stock by the distributing corporation to its creditors is tax-free, and there is no tax-basis limitation.
+_**Investment bank facilitation:**_ It may be difficult for the distributing corporation to effect a debt-for-debt or debt-for-equity exchange with the existing holders of historic distributing corporation debt (or debt that refinanced such debt). For example, if the distributing corporation has bonds outstanding, it would need to undertake an exchange offer to repay the bonds with controlled corporation debt securities or stock, which may or may not be successful. Given this difficulty, investment banks that are otherwise advising distributing corporations on spinoff transactions have helped facilitate debt-for-debt and debt-for-equity exchanges.
+Pursuant to this facilitation, the distributing corporation may, for example, issue short-term debt to an investment bank and use the proceeds to repay historic distributing corporation debt (or debt that refinanced such debt). In addition, the distributing corporation and the investment bank would subsequently enter into an exchange agreement where the distributing corporation would use the controlled corporation debt securities and/or stock to repay the short-term debt owed to the investment bank. Following the repayment of the short-term debt, the investment bank generally would sell the controlled corporation debt securities and/or stock to unrelated investors.
+_**Ruling guidelines:**_ Rev. Proc. 2018-53 provides guidelines under which the IRS will rule that no gain or loss is recognized by a distributing corporation with respect to the deleveraging transactions discussed above. Rev. Proc. 2018-53 prescribes representations that must be submitted as part of a private letter ruling request. In certain instances, and subject to Service review, the representations can be modified based on the proposed deleveraging transactions. In general, the representations relate to the Service’s analysis of whether (1) the distributing corporation debt to be repaid is historic debt (i.e., the distributing corporation is not itself leveraging up in connection with the spinoff) and (2) any investment bank that is facilitating a debt-for-debt and/or debt-for-equity exchange is acting as a principal for its own account (and not as an agent for the distributing corporation, whereby the distributing corporation could be treated as selling the controlled corporation debt securities and/or stock for cash and correspondingly recognizing gain and then repaying the distributing corporation debt with such cash). In addition, Rev. Proc. 2018-53 requires a representation that the holder of the distributing corporation debt that will be satisfied is not related to the distributing corporation (i.e., it is not intercompany debt).
+In private letter rulings, the IRS has permitted increased flexibility regarding deleveraging transactions and the requirements under Rev. Proc. 2018-53. In this regard, Rev. Proc. 2018-53 generally requires the deleveraging transactions to occur within 30 days of the spinoff transaction or, if there are substantial business reasons for a delay, within 180 days. Rev. Proc. 2018-53 also contemplates deleveraging transactions occurring more than 180 days after the spinoff transaction where the distributing corporation can establish that the deleveraging transactions are part of the spinoff transaction. This timing rule generally was intended to ensure that favorable tax treatment under Sec. 361 is available only for deleveraging transactions that are defined under and undertaken in connection with the spinoff transaction (as opposed to the distributing corporation’s subsequently determining the manner in which cash, controlled corporation debt securities, and/or stock is disposed).
+The IRS has ruled that the distributing corporation would have a 12-month period following the spinoff transaction to undertake a debt-for-equity exchange or otherwise distribute the remaining controlled corporation stock to its shareholders in a follow-on spinoff or split-off (in each case, tax-free under Sec. 355), with any remaining controlled corporation stock to be sold (generally, a taxable transaction) within five years of the spinoff (see, e.g., Letter Ruling 202151001 (Sept. 24, 2021), as supplemented by Letter Ruling 202231004 (May 12, 2022)).
+_**Retention of stock:**_ Finally, instead of a debt-for-equity exchange, the distributing corporation could potentially retain controlled corporation stock and subsequently dispose of it (generally, a taxable transaction). In general, under Sec. 355(a)(1)(D), the distributing corporation must distribute (1) all of the controlled corporation stock or (2) an amount of controlled corporation stock constituting Sec. 368(c) control and establish to the IRS’s satisfaction that the retention is not pursuant to a tax-avoidance plan. Under prior private letter ruling guidelines (see Rev. Proc. 96-30, Appendix B), retention of controlled corporation stock requires that (1) there be a separate business purpose for the retention (see, e.g., Rev. Rul. 75-321 (retention of controlled corporation stock to serve as collateral for distributing corporation debt)); (2) there generally be no overlap between officers and directors of the distributing and controlled corporations; (3) the distributing corporation dispose of the retained controlled corporation stock within five years after the spinoff transaction; and (4) the distributing corporation votes the retained controlled corporation stock in proportion to votes made by other controlled corporation shareholders.
+It appears that Congress and the IRS are concerned that a retention could allow the distributing corporation to exercise control over the controlled corporation following the spinoff, which could be inconsistent with the general separation required under Sec. 355. Given the language of Sec. 355(a)(1)(D) (i.e., to establish to the IRS’s satisfaction that the retention does not involve tax avoidance), it may be prudent to seek a private letter ruling for any retention of controlled corporation stock.
+**Corporate AMT**
+Under the corporate AMT, corporations must first determine whether they are subject to the tax (an “applicable corporation”) and, if so, must then determine whether they owe a corporate AMT liability. The testing and liability rules are based on financial statement income and loss as adjusted pursuant to Sec. 56A (adjusted financial statement income, or AFSI) and taking into account the rules of Sec. 59. The testing rule for applicable corporation status relates to having average AFSI over a three-year period that exceeds certain thresholds.
+Although tax-free for U.S. federal income tax purposes, a Sec. 355 split-off transaction (i.e., distribution of controlled corporation stock in exchange for distributing corporation stock) may result in financial statement gain or loss (and thus AFSI) for the distributing corporation, together with a basis adjustment to the controlled corporation assets. A Sec. 355 spinoff transaction (i.e., a pro rata distribution) does not result in financial statement gain or loss. In addition, the deleveraging transactions described above could result in financial statement gain or loss (and thus AFSI) for the distributing corporation.
+Notice 2023-7, which contains interim guidance on the corporate AMT, attempts to create parity between it and regular U.S. federal income tax rules for spinoff transactions, including deleveraging transactions. In particular, under Notice 2023-7, financial statement gain or loss resulting from a Sec. 355 split-off transaction is not taken into account by the distributing corporation in computing AFSI. Correspondingly, there is no adjustment to the basis of the assets of the controlled corporation for corporate AMT purposes. Similarly, any deleveraging transactions that qualify as tax-free to the distributing corporation for U.S. federal income tax purposes do not result in AFSI.
+In addition, Notice 2023-7 contains rules relating to the applicable corporation status of a controlled corporation. Under Sec. 59(k), if a corporation becomes an applicable corporation (and thus subject to corporate AMT), it generally will always be an applicable corporation. Notice 2023-7 provides that any applicable corporation status of the controlled corporation will terminate upon the spinoff transaction. However, AFSI of the distributing corporation must be allocated to the controlled corporation for each year of the three-year testing period for applicable corporation status (i.e., the three-year period preceding the year of the spinoff transaction), and the controlled corporation must use that AFSI to determine its applicable corporation status. The AFSI of the distributing corporation for the threeyear testing period is not reduced by the allocation to the controlled corporation. Notice 2023-7 provides that any reasonable allocation method can be used, but proposed Treasury regulations will provide for a required allocation method. Taxpayers should watch for these regulations and other guidance.
+**Stock repurchase excise tax**
+New Sec. 4501 imposes an excise tax on the repurchase of stock by certain publicly traded corporations. In general, under Sec. 4501(c), a repurchase of stock includes a redemption under Sec. 317(b) (i.e., an acquisition by a corporation of its own stock for consideration other than its own stock) and any “economically similar” transaction. Notice 2023-2, which contains interim guidance on Sec. 4501, includes an exhaustive list of transactions that are economically similar to a Sec. 317(b) redemption (and thus a repurchase) and a nonexhaustive list of transactions that are not economically similar (and thus not a repurchase). In this regard, Notice 2023-2 provides that Sec. 355 spinoffs (i.e., pro rata distributions) are not treated as economically similar transactions and thus are not repurchases. In contrast, Notice 2023-2 provides that Sec. 355 split-offs (i.e., exchanges of distributing corporation stock for controlled corporation stock) are treated as economically similar transactions and thus are repurchases. However, Notice 2023-2 also provides for a qualifying property exception pursuant to which certain property used by a corporation to repurchase stock reduces the amount of repurchases subject to tax under Sec. 4501. This qualifying property exception includes a repurchase by a distributing corporation as part of a Sec. 355 split-off where controlled corporation stock is used (i.e., property that can be received tax-free under Sec. 355). Thus, a Sec. 355 split-off transaction generally should not be subject to tax under Sec. 4501.
+* * *
+**Editor Notes**
+_Alexander J. Brosseau_ , CPA, is a senior manager in the Tax Policy Group of Deloitte Tax LLP’s Washington National Tax office. For additional information about these items, contact Brosseau at abrosseau@deloitte.com. Unless otherwise noted, contributors are associated with Deloitte Tax LLP.
+_This article contains general information only and Deloitte is not, by means of this article, rendering accounting, business, financial, investment, legal, tax, or other professional advice or services. This article is not a substitute for such professional advice or services, nor should it be used as a basis for any decision or action that may affect your business. Before making any decision or taking any action that may affect your business, you should consult a qualified professional adviser. Deloitte shall not be responsible for any loss sustained by any person who relies on this article._
+## TAX PRACTICE MANAGEMENT
+AICPA members in tax practice assess how their return preparation software performed during tax season and offer insights into their procedures. 
+## Tax Clinic
+##  [ Supercharging retirement: Tax benefits and planning opportunities with cash balance plans ](https://www.thetaxadviser.com/issues/2025/dec/supercharging-retirement-tax-benefits-and-planning-opportunities-with-cash-balance-plans/ "Supercharging retirement: Tax benefits and planning opportunities with cash balance plans")
+##  [ Key international tax issues for individuals and businesses ](https://www.thetaxadviser.com/issues/2025/dec/key-international-tax-issues-for-individuals-and-businesses/ "Key international tax issues for individuals and businesses")
+##  [ Revisiting Sec. 1202: Strategic planning after the 2025 OBBBA expansion ](https://www.thetaxadviser.com/issues/2025/dec/revisiting-sec-1202-strategic-planning-after-the-2025-obbba-expansion/ "Revisiting Sec. 1202: Strategic planning after the 2025 OBBBA expansion")
+##  [ Prop. regs. would make permanent safe harbor for furnishing information on Sec. 751 property ](https://www.thetaxadviser.com/issues/2025/dec/prop-regs-would-make-permanent-safe-harbor-for-furnishing-information-on-sec-751-property/ "Prop. regs. would make permanent safe harbor for furnishing information on Sec. 751 property")
+##  [ Notice 2025-27 provides interim guidance on corporate AMT ](https://www.thetaxadviser.com/issues/2025/nov/notice-2025-27-provides-interim-guidance-on-corporate-amt/ "Notice 2025-27 provides interim guidance on corporate AMT")
+## Magazine 
+[ December 2025 ](https://www.thetaxadviser.com/issues/2025/dec/)
+December 2025
+![December 2025](https://www.thetaxadviser.com/wp-content/uploads/sites/2/2025/12/tta-dec-25-cover-255x335-1.jpg?w=132)
+[ November 2025 ](https://www.thetaxadviser.com/issues/2025/nov/)
+November 2025
+![November 2025](https://www.thetaxadviser.com/wp-content/uploads/sites/2/2025/11/tta-nov-25-cover-255x335-1.jpg?w=132)
+[ October 2025 ](https://www.thetaxadviser.com/issues/2025/oct/)
+October 2025
+![October 2025](https://www.thetaxadviser.com/wp-content/uploads/sites/2/2025/10/tta-oct-25-cover.jpg?w=132)
+[ September 2025 ](https://www.thetaxadviser.com/issues/2025/sep/)
+September 2025
+![September 2025](https://www.thetaxadviser.com/wp-content/uploads/sites/2/2025/08/tta-sep-25-cover-255x335-1.jpg?w=132)
+[ August 2025 ](https://www.thetaxadviser.com/issues/2025/aug/)
+August 2025
+![August 2025](https://www.thetaxadviser.com/wp-content/uploads/sites/2/2025/08/tta-aug-25-cover-255x335-1.jpg?w=132)
+[ July 2025 ](https://www.thetaxadviser.com/issues/2025/jul/)
+July 2025
+![July 2025](https://www.thetaxadviser.com/wp-content/uploads/sites/2/2025/07/tta-jul-25-cover.jpg?w=132)
+[ June 2025 ](https://www.thetaxadviser.com/issues/2025/jun/)
+June 2025
+![June 2025](https://www.thetaxadviser.com/wp-content/uploads/sites/2/2025/06/tta-jun-25-cover-255x335-1.jpg?w=132)
+[ May 2025 ](https://www.thetaxadviser.com/issues/2025/may/)
+May 2025
+![May 2025](https://www.thetaxadviser.com/wp-content/uploads/sites/2/2025/05/tta-may-25-cover-255x335-1.jpg?w=132)
+[ April 2025 ](https://www.thetaxadviser.com/issues/2025/apr/)
+April 2025
+![April 2025](https://www.thetaxadviser.com/wp-content/uploads/sites/2/2025/04/tta-apr-25-cover.jpg?w=132)
+[ March 2025 ](https://www.thetaxadviser.com/issues/2025/mar/)
+March 2025
+![March 2025](https://www.thetaxadviser.com/wp-content/uploads/sites/2/2025/03/tta-cover-255x335-1.jpg?w=132)
+[ February 2025 ](https://www.thetaxadviser.com/issues/2025/feb/)
+February 2025
+![February 2025](https://www.thetaxadviser.com/wp-content/uploads/sites/2/2025/02/tta-feb-25-cover.jpg?w=132)
+[ January 2025 ](https://www.thetaxadviser.com/issues/2025/jan/)
+January 2025
+![January 2025](https://www.thetaxadviser.com/wp-content/uploads/sites/2/2025/01/tta-jan-25-cover-255x335.jpg?w=132)
+[view all](https://www.thetaxadviser.com/issues/)
+View All
+![http://view-all](https://www.thetaxadviser.com/wp-content/uploads/sites/2/2025/01/cropped-tta-default-cover-image.jpg?w=252&h=331)
+![](https://pixel.wp.com/g.gif?v=ext&blog=240666156&post=3005&tz=-5&srv=www.thetaxadviser.com&hp=vip&j=1%3A15.4&host=www.thetaxadviser.com&ref=&fcp=892&rand=0.7858252957292398)
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.[Privacy Policy](https://www.aicpa-cima.com/help/privacy-policy)
+![AICPA & CIMA](https://cdn-ukwest.onetrust.com/logos/90778962-40be-42b4-a923-9d7a560ce006/31e6ea38-fcbb-4984-bc31-178fe74c0690/71eb3c50-4a0a-435e-b5bf-3fa5ec0f0251/AICPA&CIMA_NoTagline.png)
+Opt-Out Request Honored
+## Privacy Preference Center
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.   
+[Privacy Policy](https://www.aicpa-cima.com/help/privacy-policy)
+###  Manage Consent Preferences
+#### Strictly Necessary Cookies
+Always Active
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+#### Functional Cookies
+Functional Cookies
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+#### Performance Cookies
+Performance Cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+#### Targeting Cookies
+Targeting Cookies
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+### Cookie List
+Search Icon
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+[![Powered by Onetrust](https://cdn-ukwest.onetrust.com/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
+
+==================================================
+
+SOURCE: https://www.elearnmarkets.com/school/units/corporate-action
+# Corporate Actions
+Module Units
+[GAME](https://www.elearnmarkets.com/games/26)
+[QUIZ](https://www.elearnmarkets.com/financial-literacy-quiz/corporate-action-elm-school)
+View Leaderboard
+## Corporate Actions
+[](https://www.youtube.com/channel/UCMec1m9iUC3agiEK-nsndSg?embeds_referring_euri=https%3A%2F%2Fwww.elearnmarkets.com%2Fschool%2Funits%2Fcorporate-action)
+Learn Stock Market 1M+
+1.02M subscribers
+[Corporate Action@1080](https://www.youtube.com/watch?v=cuvvRBquvo8)
+[](https://www.elearnmarkets.com/school/units/corporate-action)
+Learn Stock Market 1M+
+If playback doesn't begin shortly, try restarting your device.
+## More videos
+You're signed out
+Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+Share
+Include playlist
+An error occurred while retrieving sharing information. Please try again later.
+[Watch on](https://www.youtube.com/watch?v=cuvvRBquvo8&embeds_referring_euri=https%3A%2F%2Fwww.elearnmarkets.com%2Fschool%2Funits%2Fcorporate-action)
+0:00
+0:00 / 0:48
+•
+[](https://www.youtube.com/watch?v=cuvvRBquvo8)
+  
+
+### What are Corporate Actions? 
+Corporate Actions implies action at the corporate level which has a significant impact on the stakeholders and the financial structure of the company. It is an event initiated by a public company that affects the securities (equity or debt) issued by the company.
+  
+
+Corporate actions are typically agreed upon by the company's board of directors and are authorized by its shareholders. It is undertaken mainly for either of the below mentioned reasons. 
+  
+
+Some of the popular examples of corporate actions include Rights Issue, Bonus Issues, Dividends, Stock Splits, Mergers and Acquisitions (M&A) and Spin-Offs.
+  
+
+Corporate Actions can be broadly divided into two categories.
+  
+
+Let us understand the difference between them. 
+  
+
+![](https://d24uab5gycr2uz.cloudfront.net/uploads/other_pic/qbbdOCJQas.png)
+  
+
+### Mandatory Corporate Action
+It is an event initiated by the corporation by the board of directors that affects all shareholders. Participation of shareholders is mandatory for these corporate actions. Practically speaking, the shareholder is a passive beneficiary of these actions. Examples of such actions are: Dividends, Stock Splits, Mergers, Bonus and Spin-Offs. 
+  
+
+### Voluntary Corporate Action
+A voluntary corporate action is an action where the shareholders elect to participate in the action. The shareholder must submit his response to the company expressing his/her desire to be involved. Examples of such actions are: Rights Issues, Buybacks, Early redemption of bonds issues, etc.
+  
+
+**Note:** There is another type of corporate action that is "**Mandatory with choice** ," where shareholders are offered a choice to choose from. Shareholders may or may not submit their elections. If a shareholder does not submit an election, the default option will apply. An example of such corporate action includes cash/stock dividends, with the former being the default choice.
+  
+
+Actions such as the announcement of a dividend, bonus, rights issue and a buy back are viewed positively from the viewpoint of the shareholder. These are ways by which a company rewards its existing shareholders. On the other hand, a stock split done to increase liquidity and improve participation in a stock is viewed positively because as the price reduces, more and more shareholders are attracted and thus liquidity increases. 
+  
+
+Corporate actions can be easily viewed on the website of the company or the corporate filings section of the NSE/BSE website. You can also find the same in the StockEdge app under the Daily updates section. Click this link to view the upcoming corporate actions of various companies- [Corporate Actions](https://web.stockedge.com/daily-updates?section=upcoming-corp-actions&eventType=All)
+  
+
+So, we have learned about corporate actions and also their types. But what is the purpose of these types of actions? Let us discuss this in the next unit. 
+Did you like this unit? 
+## Purpose of Corporate Actions
+**What is the Purpose of a Corporate Action?**
+  
+
+Corporate Actions are majorly undertaken by the company’s directors for the following purposes:
+  
+
+![](https://d24uab5gycr2uz.cloudfront.net/uploads/other_pic/XYomuTTCrh.png)
+  
+
+### 1.Corporate Restructuring
+Corporate Restructuring can be thought of as a process that radically changes the contractual relationships existing between a company & its shareholders, employees, creditors & other stakeholders. It is done with a view to aid the long-term profitability of the company. Some of the common examples include Spinoffs, Mergers and Acquisitions, Debt Restructuring, etc.
+  
+
+The spin-off (creating a new company from the subsidiary or division of an existing parent company) of PayPal from its former parent E-Bay on July 15, 2015 is an example of corporate action undertaken for the purpose of Corporate Restructuring.
+  
+
+### 2.Impacting Share Price
+The liquidity of the stock is greatly impacted if the stock price is extremely high/low. There is a general tradition amongst retail traders to shy away from high-priced stocks. On the other hand, if the price is too low, the stock might be perceived as a bad investment. Corporate actions like Stock Splits, Reverse Stock Split and Buybacks are used to influence the stock price.
+  
+
+For instance, In March 2020, Bajaj Steel Industries announced a stock split of 1 equity share of Face Value ₹10 each into 2 equity shares of ₹5 each. 
+  
+
+### 3.Distributing Profit to Shareholders
+The dividend distributed could be in the form of cash or stock dividends. In the case of a cash dividend, the company declares a dividend to be paid on each outstanding share. However, the bonus issue involves an issue of additional shares to shareholders instead of cash.
+  
+
+**Note:** We will discuss the concept of dividends in the next section. 
+  
+
+In 2019, HCL Technologies issued bonus shares in a ratio of 1:1, i.e., existing shareholders of the company received an extra equity share for each share held by them.
+Did you like this unit? 
+## What are Dividends?
+### What is Dividend and Dividend Yield? How is It Important for the Investor?
+**  
+**
+**Dividends**
+Dividends are the way by which a company returns back a part of its profits to shareholders. When a company earns a profit or surplus, that money can be put to two uses: it can either be re- invested in the business (called retained earnings) for future expansion projects or growth, or it can be paid to the shareholders as a dividend. Many companies retain a portion of their earnings and pay the remainder as a dividend. Dividends can be of three types. 
+  
+
+Directors of a company have discretion as to how much of a dividend to declare or whether they should pay any dividend at all. 
+  
+
+There are a few important terms that are important for an investor to know with respect to dividends. 
+  
+
+![](https://d24uab5gycr2uz.cloudfront.net/uploads/other_pic/MFuilpeFEp.png)
+  
+
+**DIVIDEND PER SHARE** = Dividend Declared % x Face Value = 290 % x 10 = 29
+  
+
+**DIVIDEND PAYOUT RATIO** = Dividend Per Share / Earnings Per Share = 29/23.76 = 122.05 %
+  
+
+**DIVIDEND YIELD** = Dividend Per Share / Current Market Price = 29/347 = 8.35 %
+  
+
+Investors must note that dividend is denoted as a percentage of the face value of the stock and not the market price.
+  
+
+**Dividend Yield**
+Dividend yield is a prominent tool used by investors to scan companies when there is a downturn in the stock markets as annual dividend payments act as a cushion against a free fall in the stock prices.
+  
+
+Historically, a high dividend yield has been desired by investors as the investors know what their minimum return on investment would be apart from any capital appreciation.
+  
+
+  
+
+By the way, do you know that many investors focus on generating passive income by investing in only dividend-paying stocks? However, there are some key points to keep in mind while investing in stocks that have declared a dividend. Let us learn this in the next section.
+Did you like this unit? 
+## Investing in Dividend Paying Stocks
+### What does an Investor Need to Keep in Mind While Buying a Company that has Declared Dividend?
+  
+
+There are some important dates which the investor needs to be aware of before investing in a company that has recently declared a dividend. 
+  
+
+**Dividend declaration date:** This is the date on which the board of directors announces the consideration of dividend. Subsequently the shareholders approve the dividend in AGM or through postal ballot (generally, the board of directors have shareholder's pre-approval till a certain level of dividend payout)
+  
+
+**Ex-dividend date:** On (and after) this date the security trades without its dividend. If an investor buys a stock (cum dividend) before the ex-dividend date he would be eligible for the dividend but if the stock is bought on or after the ex-dividend date, the investor would not qualify for the dividend. The ex-dividend date is usually fixed one day before the record date.
+  
+
+**Record date:** This is the date on which the company looks at its records to ascertain the shareholders eligible for dividend. An investor name should be in the record of shareholder register to avail the benefit of dividend
+  
+
+**Dividend payable date:** On this date, the company credits shareholders' account with the dividend amount
+  
+
+![](https://d24uab5gycr2uz.cloudfront.net/uploads/other_pic/JUYdLQDUqw.png)
+**[Ready to simplify your stock market journey? Enroll in 'Stock Market Made Easy' and start investing in dividend-paying stocks today!](https://www.elearnmarkets.com/courses/display/stock-market-made-easy)**
+**  
+**
+**  
+**
+However, dividend and dividend yield should be only taken into consideration if the company posts healthy financials. Companies paying a special dividend or a one-off payment due to an exceptional gain which is not expected to be repeated in future should be excluded from this group.
+Did you like this unit? 
+## Stock Splits
+Earlier in this module under the purposes of corporate actions, we read about stock splits impacting the price of the shares. Let us discuss the concept of stock split in this section.
+  
+
+### What is Stock Split?
+A stock split is a corporate action which splits the existing shares of a particular face value into smaller denominations so that the number of shares increases, however, the market capitalization or the value of shares held by the investors post-split remains the same as that before the split.
+  
+
+For e.g. If a company has issued 1,00,00 shares with a face value of ₹10, the current market price being ₹100, a 2-for-1 stock split would reduce the face value of the shares to ₹5 and increase the number of the company's outstanding shares to 2,00,00 (1,00,00* (10/5)). Consequently, the share price would also fall to ₹ 50 so that the market capitalization or the value shares held by an investor remains unchanged. It is the same thing as exchanging a ₹100 note for two ₹ 50 notes; wherein the value remains the same.
+  
+
+Let us see the impact of this on the shareholder: - Let's say company ABC is trading at ₹4 and has 1 million shares issued, which gives it a market capitalization of ₹ 4 million (₹ 4 x 1 million shares). An investor holds 400 shares of the company valued at ₹1,600. The company then decided to implement a 4-for-1 stock split (i.e., a shareholder holding 1 share, will now hold 4 shares). For each share shareholders currently own, they receive three additional shares. The investor will therefore hold 1600 shares. So, the investor gains 3 additional shares for each share held. However, this does not impact the value of the shares held by the investor since post-split, the price of the stock is also split by 25% (1/ 4th), from ₹ 4 to ₹1, therefore the investor continues to hold ₹1,600 worth of shares. One must note that the market capitalization stays the same - it has increased the number of stocks outstanding to 4 million while simultaneously reducing the stock price by 25% to ₹ 1. The true value of the company hasn't changed. An easy way to determine the new stock price is to divide the previous stock price by the split ratio. In the case of our example, divide ₹4 by 4 and we get the new trading price of ₹ 1. If a stock were to split 5-for-2, we'd do the same thing: 4/ (5/2) = 4/2.5 = ₹ 1.6.
+Discover the secrets of stock splits in our '**[Stock Market Made Easy](https://www.elearnmarkets.com/courses/display/stock-market-made-easy)** ' course. Enroll now for simplified stock market mastery!
+  
+
+An Example:
+  
+![](https://d24uab5gycr2uz.cloudfront.net/uploads/other_pic/vhcSQiUPra.png)
+  
+
+**Colloquially speaking, a stock split can be thought of as cutting a cake into smaller digestible slices. The premise is simple - nothing really changes whether you eat two small pastries instead of a large one.**
+  
+
+### Reasons for Stock Split & Implications of a Stock Split
+It is natural for one to question the rationality behind a stock split. Fundamentally, there is no effect whatsoever. However, companies cite some other reasons for this corporate action:
+  
+
+**Example:** If a stock is quoting at a market price of ₹1000 and has a face value of Rs 10, a stock split of 10:1 will bring the stock price down to ₹100 and make it more attractive & affordable for investors.
+Did you like this unit? 
+## Rights Issue
+Similar to a stock split, a rights issue is also a part of corporate action. Let us learn everything about the rights issue in this section.
+  
+
+### What is a Rights Issue?
+A rights issue is basically a way through which a listed company raises additional funds from existing shareholders. Rights Issues are primary market activity. The company implementing the rights issue is offering additional and/or new shares but only to existing shareholders. Existing shareholders are given the right to purchase or receive these shares before they are offered to the public.
+  
+
+A rights issue takes place in a form wherein the existing shareholders are given the right to subscribe to additional shares normally at a discount to the prevailing market price of the stock. The shareholders receive this right by virtue of being stakeholders in the company. They can also sell their rights for a consideration to others if they do not wish to subscribe for additional shares. In essence, rights are freely traded & transferrable.
+  
+
+A rights issue is contemplated by equity shareholders in the view that it is a way to raise money from the market via equity dilution. Shareholders must carefully examine the purpose behind raising funds and whether or not promoters/promoter groups are subscribing to the issue.
+  
+
+Let’s understand this corporate action better with the help of an example –
+  
+
+Reliance Industries Ltd. has proposed the rights issue in the ratio of 1:15.
+  
+
+This means Reliance Industries Ltd.’s shareholders can subscribe to 1 equity share for every 15 equity shares held by eligible shareholders as on the record date. The rights issue price is ₹1257. It is about a nearly 14% discount on the company stock’s price of ₹1466 as of April 30, 2020.
+  
+
+Let us suppose investor A currently holds 90 shares of Reliance Industries, which were brought at a price of ₹1,400
+  
+
+The company set a conversion rate of 1:15, meaning that investor A can buy 1 discounted share for every 15 that he owns on the record date. As a result, the investor could buy 6 (90/15) more shares for ₹ 1257.
+  
+
+So now his cost for a total of 96 shares would be:
+  
+(90*₹1400) + (6*₹1257)  
+= ₹ 1,33,452
+  
+
+Cost of one share: 1,33,452/96  
+=₹ 1,391
+  
+
+Now, his actual cost price for 90 as well as other shares comes to ₹1,391 Vs the closing price at ₹1,466.
+  
+
+### Should You Invest in the Rights Issue of Shares?
+Continuing with our previous example, Investor A is entitled to subscribe for 6 right shares in lieu of his shareholding. Investor A’s demat account will be credited for 6 RE’s (Rights Entitlement) as a proof of ownership. Now, let us look at the three alternatives available to the investor:
+  
+
+**First case** – One can exercise his rights by subscribing to additional equity shares of Reliance Industries.
+  
+
+**Second Case** – One does not want to apply for the rights issue so he/she does not exercise his rights.
+  
+
+**Third Case** – One can renounce his/her rights by selling his Rights Entitlement (RE) in the open market within a stipulated time period. The base price aka the minimum price below which the value of RE must not fall is the PV(Market Price of stock-Rights Issue Price)
+  
+
+Other market participants who do not own equity shares of the company, can participate in the rights issue by purchasing RE’s from the open market. 
+  
+
+### Why Do Companies go for Rights Issue?
+![](https://d24uab5gycr2uz.cloudfront.net/uploads/other_pic/AGAyVVRjKk.png)
+  
+
+Companies go for the rights issue of shares to raise funds for:
+  
+
+1.**Growth and Expansion.**  
+2.**Launching new products.**  
+3.**Paying off debt.**  
+4.**Taking over another company (Acquisition).**
+  
+
+An investor should check out the reason for the rights issue before opting for it. He should also make sure the company has strong earnings visibility coupled with visionary management.
+  
+
+### Advantages of Rights Issues:
+### Disadvantages of Rights Issues:
+### How do You Apply for a Rights Issue?
+There are two ways to apply for a rights issue:
+  
+
+1.If your bank supports ASBA (Application Supported by Blocked Amount), you can apply online just like an IPO.  
+2.If your bank doesn’t support ASBA, then you would have received a courier of the Composite Application Form (CAF) from RTA (Registrar and Transfer Agent) of the company.
+Did you like this unit? 
+## Buyback Shares
+Earlier in this module under the purposes of corporate actions, we read about buybacks impacting the price of the shares. Let us discuss the concept of buyback in this unit and also reasons for buyback in the subsequent unit of this module.
+  
+
+### What Do You Mean by Buyback of Shares?
+  
+
+Buybacks are a method through which a company buys its own stock from investors. A buyback reduces the company’s cash holdings (assets) as well as the total number of outstanding shares.
+  
+
+Buybacks are normally done at a premium to the prevailing market price and thus rewards the shareholders. This also induces other investors to enter into the stock to take advantage of the arbitrage opportunity available and thus drives up the stock price.
+  
+
+Also, buybacks are perceived as a positive development since it reflects the renewed conviction of the promoter in the business. The stock purchased by the company is extinguished after successful completion of the buyback, thus reducing the equity base of the company. The promoter holding is expected to go up (generally, promoters do not participate) as they effectively own a larger percentage of the total outstanding equity shares of the company. Also, promoters now have a greater say in the decision-making of the company (more voting rights).
+  
+
+The company has to disclose the pre and post-buyback holdings of the promoters. To ensure completion of the buyback process speedily, the regulations have a stipulated time limit for each step. 
+  
+
+For example, in the case of purchases through stock exchanges, a buyback offer should not remain open for more than 30 days. The verification of shares received in buyback has to be completed within 15 days of the closure of the offer. The payments for accepted securities have to be made within 7 days of the completion of verification and bought back shares have to be extinguished within 7 days of the date of the payment.
+  
+
+### Method of buyback of shares
+1.It can be done on a proportionate basis by the existing shareholder through the offer.  
+2.Buyback of shares can also be done in the open market through stock exchange via book building process.
+  
+
+![](https://d24uab5gycr2uz.cloudfront.net/uploads/other_pic/xPGqIduIfN.png)
+  
+
+### SEBI guidelines on buyback of shares
+SEBI’s guidelines on buyback of shares are as follows: -
+1.The pre and post shareholding by the promoters needs to be disclosed by the company.  
+2.The company is not allowed to issue the same class of shares for the upcoming year post buyback.  
+3.The shares bought back have to be reduced from the number of outstanding shares of the company within seven working days.
+  
+
+Under the SEBI Buyback of Securities Regulation 1998, a company is permitted to buy back its shares from:
+1.Existing shareholders on a proportionate basis through the offer document  
+2.Open market through stock exchanges using the book building process  
+3.Shareholders holding odd lot shares
+  
+
+### Impact of buyback of shares
+1.The number of shares outstanding goes down due to the buyback of shares.  
+2.Buyback leads to an increase in earnings per share (EPS). As it reduces the company’s outstanding shares, the impact is clearly evident in per-share measures of cash flow and profitability.  
+3.It also leads to an increase in the company’s stock price. Generally, the buyback is looked upon as a sign of increased confidence in business prospects from the promoters.
+Did you like this unit? 
+## Reasons for Buyback Shares
+### What are the Reasons for Buyback of Shares?
+  
+
+**1**.Buyback helps to reduce the threat by the shareholders who may be looking for a controlling stake in the company.
+  
+
+**2.** The company may also use buyback for the de-listing of shares.
+  
+
+**3.** Companies may go for buyback in poor market conditions to support falling prices, as they believe the share price is undervalued. 
+  
+
+**4.** When the company has abundant idle cash & there are not enough growth opportunities available.
+  
+
+![](https://d24uab5gycr2uz.cloudfront.net/uploads/other_pic/ystKjJhGfu.png)
+### Advantages of Buyback
+  
+
+**1.** It prevents a decline in the value of a share by reducing the supply of the Shares in the market and also due to the reduction in outstanding shares the Earnings per Share (EPS) of the company improves.
+  
+
+**2.** It is also used strategically by the management to show its confidence in the company and to send a message that the stock is undervalued.
+  
+
+**3.** Helps the company use its excess cash lying idle due to lack of opportunities.
+  
+
+**4.** If promoters do not participate in the buyback process, it increases their holdings, thus strengthening their hold over the company & preventing potential takeovers by rivals.
+  
+
+**5.** When a company pays dividends, all shareholders receive cash as per their shareholding, whether they need it or not. However, shareholders are free to decide if they want to tender their shares in the buyback process.
+  
+
+### Disadvantages of Buyback
+Buybacks may indicate a lack of profitable opportunities for the company to invest in, which may send a bad signal to long-term investors looking for capital appreciation.
+  
+
+The entire process is time-consuming and requires a lot of disclosures to the stock exchanges and approvals from regulatory bodies. It also becomes an expensive affair for the company as it is usually done at a premium to the market price.
+Did you like this unit? 
+## Mergers and Acquisition (M&A)
+Mergers and Acquisitions (M&A) play an important role in the corporate action of a company. Here in this unit, let us learn how?
+  
+
+A merger is a corporate action that involves the consolidation of two or more companies to operate as under the legal banner of a single legal entity. A share swap ratio is decided on the basis of market prices of both the companies (if the target is a listed company). Shareholders of the target company are eligible to receive shares in the acquiring company if the merger is successful.
+  
+
+If a company undergoes a merger, it may indicate to shareholders that the company has confidence in its ability to take on more responsibilities. On the other hand, a merger could also indicate a shrinking industry in which smaller companies fall prey to market stalwarts.
+  
+
+In the case of an acquisition, however, a company seeks out and buys a majority stake of a target company's shares; the shares are not swapped or merged. Acquisitions can often be friendly but also hostile, meaning that the acquired company does not find it favourable that a majority of its shares were bought by another entity.
+  
+
+A situation of M&A can turn out to be favourable or unfavourable for the minority shareholder and has both the faces to it. If the consideration paid for the acquisition turns out to be favourable then it is beneficial for the shareholders of both the companies. However, if the acquisition cost turns out to be much higher than the market value of the company then it is not viewed positively by the minority shareholders of the acquirer company but positively by the acquired company.
+  
+
+### Features of Mergers/Acquisitions 
+**Examples:**
+![](https://d24uab5gycr2uz.cloudfront.net/uploads/other_pic/thBoRnbmho.png)
+  
+
+**Demerger** - A demerger occurs when a conglomerate that has varied business interests under a single entity hives off one or more units into a separate legal entity. Usually, the parent company hives off its non-core business segments under a different entity to improve focus on its core business and also unlock value of the other businesses which are embedded with the company. Demergers are generally interpreted positively by market analysts. Herein also, a share swap ratio is decided on the basis of which shareholders in the parent company get additional shares in the subsidiary company. 
+  
+
+For example: - In 2009, the boards of Reliance Industries (RIL) and Reliance Petroleum (RPL) approved the demerger of the two firms, with a ratio of one RIL share for 16 RPL shares.
+  
+
+In 2015, the Board of Max India Ltd approved a Corporate Restructuring plan to split the company through a demerger, into three separate listed companies with three separate business verticals ‐ life insurance, health and allied businesses and manufacturing industries. The company split into three entities – Max Financial Services Ltd with the insurance business, Max India Ltd with the healthcare and allied businesses and Max-Ventures and Industries Ltd with speciality packaging film business. 
+Did you like this unit? 
+## Bonus Issue
+In [Unit 2](https://www.elearnmarkets.com/school/units/corporate-action/purpose-of-corporate-actions) of this module, we have learned that bonus issues are a way to distribute dividends by the companies to their shareholders. Therefore, let us elaborate on this corporate action in this section.
+  
+
+### What is a Bonus Issue?
+A bonus issue, also known as capitalization issue, is where the company offers additional shares to the existing shareholders without any consideration. The free shares are issued in proportion to their existing shareholding in the company and in the ratio decided by the company. 
+  
+
+For example, in a 1:2 bonus issue an existing shareholder is eligible to receive one extra share for every two shares of the company held by him on the record date. In case a person holds an odd number of shares, the difference is cash-settled .
+  
+
+A bonus issue signifies no fundamental change in the company; neither does it make it a lucrative investment since the stock price is expected to go down in a similar proportion. The company simply capitalizes its general reserves (retained earnings). Thus, there is no net effect on the company.
+  
+
+Issuing bonus shares increases the number of shares which leads to a decrease in the stock price of the company in proportion to the bonus ratio. It makes the stock attractive to retail investors who hesitate to invest in high priced companies.
+  
+
+As an illustration, let us assume that ABC Corporation has 1000 outstanding equity shares. It announced a 1:1 bonus issue, when the market price of its stock was ₹1000. After the bonus issue, the stock is expected to go down to ₹500. Meanwhile, the number of total outstanding shares will double to 200.
+  
+
+Usually, a company announces a bonus issue as a means of rewarding its shareholders. A bonus is also viewed as a stock dividend where the cost for the company is less than the cost incurred in giving a cash dividend. 
+  
+
+The face value of the stock remains the same in a bonus issue unlike a stock split and hence the only way the investor can make gains is if the dividend per share remains the same as-the previous year after the share goes ex-bonus
+Issuing a bonus is just like cutting a cake into smaller portions. The total size of the cake does not change no matter how many times you cut it.
+  
+
+![](https://d24uab5gycr2uz.cloudfront.net/uploads/other_pic/LPELJCaWju.png)
+  
+
+### Bonus Issue Vs Stock Split
+![](https://d24uab5gycr2uz.cloudfront.net/uploads/other_pic/ypHTpkhWWU.png)
+Did you like this unit? 
+## Impact of Corporate Actions on Financial Ratios
+Here in this unit, we will discuss the impact of different corporate actions on the financial ratios of the companies. If you are unaware of the concept of financial ratios, you can read our ELM school module on [Ratio Analysis](https://www.elearnmarkets.com/school/units/ratio-analysis).
+  
+Now, let us continue one by one. 
+  
+
+### 1)Buyback of Shares
+When the company purchases its own shares, then the outstanding shares in the market get reduced and hence the investors stake increases as the number of shares have reduced in the market.
+  
+
+Buybacks can be performed either through a tender offer route or through the open market.
+  
+
+Now let us understand how the Buyback of shares affects the financial ratios of the company.
+  
+
+### Impact on Earnings Per Share (EPS):
+EPS is calculated by dividing the net income by the total outstanding number of shares during the year. Since the company extinguishes the shares bought back, the EPS tends to increase. 
+  
+
+### Let Us Understand This with the Help of an Example:
+Company – XYZ Ltd
+  
+
+Outstanding Shares – 100 crore shares at the beginning of the year.
+  
+
+Net Income – ₹500 crores,
+  
+
+EPS = ₹5 (500/100).
+  
+
+Buyback Shares = 10 crore shares
+  
+
+Hence the outstanding number of shares post buyback is 90 crores (100-10).
+  
+
+Now the Revised EPS is ₹5.55 (500/90).
+  
+
+Several valuation metrics incorporate EPS in their calculation & hence the stock is positively re-rated. 
+  
+
+### Impact on Debt-to-Equity Ratio:
+Debt to equity ratio measures the financial leverage of the company.
+  
+
+It is calculated by dividing the Total debt by the Total Equity during the year
+  
+
+It represents the proportion of debt a company takes to finance its operation.
+  
+
+Buyback of shares reduces the equity of the company.
+  
+
+Since, the equity of the company is reduced it increases the debt-to-equity ratio of the company.
+  
+
+For example, a company has debt amounting to ₹50 crores.
+  
+
+The company’s equity is ₹100 crores before the buyback.
+  
+
+The company has undertaken buyback worth ₹10 crores during the year which reduces the equity of the company to ₹90 crores (100-10).
+  
+
+Hence the debt-to-equity ratio deteriorates from 0.5 (50/100) before buyback to 0.55 (50/90) post buyback
+  
+
+### Impact on Book Value per Share:
+Book value per share is derived by dividing shareholder’s equity by the total outstanding shares.
+  
+
+A company’s book value per share will decrease after a share repurchase if the market price per share was greater than the book value per share prior to the repurchase and vice versa.
+  
+
+### This is Explained in Two Situations Below**-**
+For example,
+  
+
+**Case 1:**
+  
+
+XYZ is a company with 1,00,000 shares outstanding.
+  
+
+The shareholder equity value of the company is 15,00,000 and hence the book value computed is ₹15 (15,00,000/1,00,000).
+  
+
+Now let us assume that the company buybacks 10,000 shares @₹10 per share amounting to ₹1,00,000.
+  
+
+Post the buyback of shares, the shareholders equity value of the company has reduced to ₹14,00,000 (₹15,00,000-₹1,00,000) and the book value per share has increased to ₹15.56 (₹14,00,000/₹90,000).
+  
+
+Thus, this impacts a company positively as it’s worth has increased.
+  
+
+**Case 2:**
+XYZ is a company with 1,00,000 shares outstanding.
+  
+
+The shareholder equity value of the company is ₹8,00,000 and hence the book value computed is:
+  
+
+(₹8,00,000/₹1,00,000) = ₹8
+  
+
+Now let us assume the company buybacks 10,000 shares @₹10 per share amounting to ₹ 1,00,000.
+  
+
+Post the buyback of shares, the shareholders equity value of the company has been reduced to ₹7,00,000 (₹8,00,000-₹1,00,000) and the book value per share has decreased to ₹7.77 (₹7,00,000/₹90,000).
+  
+
+In this case, the book value per share was higher before the buyback. 
+  
+
+The effect of a corporate action should always be measured before making any investment decision.
+  
+
+### 2)Rights Issue
+The rights issue is an offering to the existing shareholders of the company which makes them eligible to buy additional shares in the company at a discounted price to the prevailing market price of the shares.
+  
+
+The [rights issue on shares](https://www.elearnmarkets.com/blog/should-you-invest-in-the-rights-issue-of-shares/) can be subscribed by the existing shareholders as proportionately to the number of shares being held by them on the record date. Other market participants can also take part in rights issues by purchasing Rights Entitlements from the open market.
+  
+
+### Impact on Debt-to-Equity Ratio:
+Rights issue of shares improves the debt-to-equity ratio of the company.
+  
+
+Debt-to-equity ratio is computed by dividing the debt value of the company by total equity of the company.
+  
+
+When the company issues right shares, the company’s equity value increases.
+  
+
+Therefore, the debt-to-equity ratio improves since the company has raised money through the issue of shares (equity).
+  
+
+For example, XYZ Ltd has 100 outstanding shares & ₹200 in long-term debt.
+  
+
+The company plans to issue right shares in a ratio of 1:5 to its existing shareholders to finance a new project.
+  
+
+Post issue, The debt-to-equity ratio will improve from 2(200/100) to 1.66 (200/120).
+  
+
+### Impact on EPS:
+EPS is computed by dividing the net income by the total outstanding shares of the company.
+  
+
+In case of rights issues, the number of shares increases and hence the earnings per share is reduced.
+  
+
+Moreover, to keep the EPS constant post rights issue, the company’s profit should increase to a greater extent in the future to compensate for the additional shares.
+  
+
+For Example, XYZ Ltd has a net income of ₹10 crores during the year. The company has 1 crore shares outstanding during the year. The company has issued rights shares in a ratio of 1:10 to the existing shareholders. As a result, the total number of outstanding shares increases to 1.1 crores.
+  
+
+Therefore, the EPS of the company has reduced from ₹10 (10/1) to ₹9.09 (10/1.10) post rights issue
+  
+
+Hence, The EPS gets negatively impacted due to rise in the number of outstanding shares. 
+  
+
+### 3)Bonus Shares
+Bonus shares are fully-paid up shares issued free of cost to existing shareholders in a certain ratio.
+  
+
+Bonus shares are issued by companies to capitalize on their free reserves. Companies share their retained earnings with their shareholders in the wake of absence of any capex or expansion in the near future.
+  
+
+### Impact on EPS:
+EPS is computed by dividing the net income of the company by the total outstanding number of shares.
+  
+
+In case of bonus issue, the company issues additional shares to its existing shareholders on a proportionate basis.
+  
+
+Therefore, bonus issue of shares reduces the EPS of the company.
+  
+
+For example, XYZ Ltd has reported a net income of 10 crores for the year and has 1 crore shares outstanding during the year.
+  
+
+The company issues bonus shares in a ratio of 1:1 during the year.
+  
+
+The bonus shares are shares that are offered free of cost to the existing shareholders and hence it only increases the number of shares outstanding.
+  
+
+Hence, the EPS of the company during the year falls from ₹10 (10/1) to ₹5 (10/2) post issue of bonus shares. 
+  
+
+### Summarizing what we just learnt:
+Did you like this unit? 
+Related Modules
+![](https://t.co/1/i/adsct?bci=4&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=2167b582-1e65-4933-9e9e-4991ff4a3591&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=1e99e8fc-69bc-4612-9829-81547f866b52&pt=Corporate%20Actions%3A%20Meaning%2C%20Purpose%2C%20and%20Types&tw_document_href=https%3A%2F%2Fwww.elearnmarkets.com%2Fschool%2Funits%2Fcorporate-action&tw_iframe_status=0&txn_id=nyeel&type=javascript&version=2.3.35)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=2167b582-1e65-4933-9e9e-4991ff4a3591&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=1e99e8fc-69bc-4612-9829-81547f866b52&pt=Corporate%20Actions%3A%20Meaning%2C%20Purpose%2C%20and%20Types&tw_document_href=https%3A%2F%2Fwww.elearnmarkets.com%2Fschool%2Funits%2Fcorporate-action&tw_iframe_status=0&txn_id=nyeel&type=javascript&version=2.3.35)
+
+==================================================
+

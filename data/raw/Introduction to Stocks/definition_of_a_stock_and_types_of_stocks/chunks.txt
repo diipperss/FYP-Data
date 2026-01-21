@@ -1,393 +1,398 @@
-SOURCE: https://www.google.com/share.google?q=Byg0IiYcwbRKAn5XV
-Investing Glossary: Important Terms to Know | Charles Schwab | Charles Schwab
+SOURCE: https://www.investopedia.com/terms/s/stock.asp
+Part of the Series 
+Day Trading Introduction 
+[ Day Trading: The Basics and How To Get Started ](https://www.investopedia.com/articles/trading/05/011705.asp)
+![Stock](https://www.investopedia.com/thmb/lZkHwCWkq8sGwKD7y2wXN1TI1bs=/1500x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\):format\(webp\)/Stock_source-d84b531c2d3441a7a0611e8af4d9d750.jpg)
+An initial public offering (IPO) is the first time a company offers its stock to the public.
+Nez Riaz / Investopedia
+Definition
+A stock, also called an equity or a share, is an ownership stake in the corporation that issued it.
+##  What Are Stocks? 
+A stock is a security that represents ownership of a fraction of the corporation that issued it. Units of stock are called [shares](https://www.investopedia.com/terms/s/shares.asp#:~:text=Shares%20are%20units%20of%20equity,in%20a%20distribution%20of%20profits.) and entitle the owner to a portion of the corporation’s profits equal to the number of shares owned. 
+Stocks are bought and sold predominantly on public exchanges. The exchanges and the stocks that are listed on them are required to conform to government regulations meant to protect investors from fraudulent practices. 
+### Key Takeaways
+##  Understanding Stocks 
+Corporations issue stock to raise funds to operate their businesses. The holder of stock, a shareholder, may have a claim to part of the company’s assets and earnings. 
+Stockholders do not  _own_ a corporation, but corporations are a special type of organization because the law treats them as legal persons. Corporations file taxes, can borrow, can own property, and can be sued. The idea that a corporation is a “person” means that the corporation _owns its assets_. A corporate office full of chairs and tables belongs to the corporation, and  _not_ to the shareholders.3
+Take the Next Step to Invest
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+
+### Shareholder
+A person, company, or institution that owns at least one share of a company’s [stock](https://www.investopedia.com/investing/what-owning-stock-actually-means/)
+##  What Is Shareholder Ownership? 
+What shareholders own are shares issued by the corporation, and the corporation owns the assets held by a firm. If you own 33% of the shares of a company, it is incorrect to assert that you own one-third of that company. However, you do own one-third of the company’s shares. This is known as “separation of ownership and control.” 
+Owning stock gives you the right to vote in shareholder meetings, receive [dividends](https://www.investopedia.com/terms/d/dividend.asp) if and when they are distributed, and the right to sell your shares to somebody else. 
+If you own a majority of shares, your voting power increases so that you can indirectly control the direction of a company by appointing its board of directors.4 This becomes most apparent when one company buys another. The acquiring company buys all the outstanding shares. 
+The board of directors is responsible for increasing the value of the corporation and often does so by hiring professional managers, or officers, such as the [chief executive officer (CEO)](https://www.investopedia.com/terms/c/ceo.asp). Ordinary shareholders do not manage the company. 
+The importance of being a shareholder is that you are entitled to a portion of the company’s profits, which is the foundation of a stock’s value. The more shares you own, the larger the portion of the profits you get. Many stocks, however, do not pay out dividends and instead reinvest profits back into growing the company. These [retained earnings](https://www.investopedia.com/terms/r/retainedearnings.asp), however, are still reflected in the value of a stock. 
+### Tip
+Read about Investopedia’s [10 Rules of Investing](https://www.amazon.com/Investopedia-10-Rules-Investing/dp/1547866918/) by picking up a copy of our special-issue print edition.
+##  How to Compare Common and Preferred Stock 
+There are two main types of stock: [common and preferred](https://www.investopedia.com/ask/answers/difference-between-preferred-stock-and-common-stock/). 
+[Common stock](https://www.investopedia.com/terms/c/commonstock.asp) usually entitles the owner to vote at shareholders’ meetings and to receive any dividends paid out by the corporation. 
+### Fast Fact
+The first common stock ever issued was by the Dutch East India Company in 1602.5
+Companies can issue new shares whenever there is a need to raise additional cash. This process dilutes the ownership and rights of existing shareholders (provided that they do not buy any of the new offerings). Corporations can also engage in stock buybacks, which benefit existing shareholders because they cause their shares to [appreciate](https://www.investopedia.com/terms/a/appreciation.asp) in value. 
+##  What Is the Difference Between Stocks and Bonds? 
+Conversely, shareholders often receive nothing in the event of bankruptcy, implying that stocks are inherently riskier investments than bonds.2
+## How Do You Buy Stock?
+Most often, stocks are bought and sold on [stock exchanges](https://www.investopedia.com/articles/basics/04/092404.asp), such as the Nasdaq or the New York Stock Exchange (NYSE). After a company goes public through an initial public offering (IPO), its stock becomes available for investors to buy and sell on an exchange.
+Typically, investors will use a brokerage account to purchase stock on the exchange, which will list the purchasing price (the bid) or the selling price (the offer). The price of the stock is influenced by supply and demand factors in the market, among other variables.
+## How Can You Earn Income from Owning Stock?
+There are two ways to earn money by owning shares of stock: through dividends and capital appreciation.
+Dividends are cash distributions of company profits. If a company has 1,000 shares outstanding and declares a $5,000 dividend, then stockholders will get $5 for each share they own.6
+Capital appreciation is the increase in the share price itself. If you sell a share to someone for $10, and the stock is later worth $11, the shareholder has made $1.6
+## Is It Risky to Own Stock?
+All investments have a degree of [risk](https://www.investopedia.com/terms/r/risk.asp). Stocks, bonds, mutual funds, and exchange-traded funds (ETFs) can lose value if market conditions decline.
+When you invest, you make choices about what to do with your financial assets. Your investment value might rise or fall because of market conditions or corporate decisions, such as whether to expand into a new area of business or merge with another company.7
+Historically, stocks have outperformed most other investments over the long run.1
+##  The Bottom Line 
+A stock represents [fractional ownership of equity](https://www.investopedia.com/ask/answers/052515/can-limited-liability-company-llc-issue-stock.asp) in an organization. It is different from a bond, which operates like a loan made by creditors to the company in return for periodic payments. 
+A company issues stock to raise capital from investors for new projects or to expand its business operations. [The type of stock](https://www.investopedia.com/ask/answers/041415/what-are-types-share-capital.asp), common or preferred, held by a shareholder determines the rights and benefits of ownership. 
+Article Sources
+Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our [editorial policy.](https://www.investopedia.com/legal-4768893#EditorialPolicy)
+Compare Accounts
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+Part of the Series 
+Day Trading Introduction 
+[ Day Trading: The Basics and How To Get Started ](https://www.investopedia.com/articles/trading/05/011705.asp)
+## Related Articles
+Newsletter Sign Up
+Newsletter Sign Up
+
+==================================================
+
+SOURCE: https://investor.vanguard.com/investor-resources-education/understanding-investment-types/what-is-a-stock
+About
+Learn what a stock is, how it works, and the benefits of investing. Understand stock types, dividends, and how to start buying and managing shares.
+Investment types
+Stocks
+Education
+Page
+Understanding investment types
+Dividends
+Investment types
+# What is a stock?
+What is a stock?
+success
+You have saved this article
+8 minute read
+success
+You have saved this article
+![Two older women look at a cellphone together, smiling.](https://investor.vanguard.com/content/dam/retail/digital/en/photos/as232652320-female-friends-coffee-conversation-comparison.jpg)
+## Points to know
+See if stocks are a good fit for your investment portfolio.
+[Explore our resources](https://investor.vanguard.com/investment-products/stocks)
+## Why invest in stocks?
+When people talk about investing in stocks, they're usually referring to common stock. These investments let you share in the success of publicly traded companies—with the potential to grow your portfolio with them.
+When you purchase stock, you become a part owner of that company. If the company performs well, your investment may increase in value. Conversely, if the company performs poorly, your investment may decline in value.
+This ownership can benefit investors in two primary ways.
+### Appreciation
+When the price of each [**share**](https://investor.vanguard.com/investor-resources-education/understanding-investment-types/what-is-a-stock#modal-share) of stock increases in value, the total value of your investment grows. For example, if you purchase 50 shares of stock at $10 per share and the price rises to $15 per share, your investment increases by $250.
+### Dividends
+Some companies share a portion of their profits with shareholders through [**dividends**](https://investor.vanguard.com/investor-resources-education/understanding-investment-types/what-is-a-stock#modal-dividend). If a company announces a $2 dividend per share, you would receive $100 for your 50 shares. You can take the payout as cash or reinvest your dividends to purchase more shares, potentially boosting your long-term returns.
+However, not all companies pay dividends. Many growing companies choose to reinvest their profits back into the business instead.
+##  Share 
+A single unit of ownership in a mutual fund or an exchange-traded fund (ETF) or, for stocks, a corporation. 
+##  Dividend 
+The distribution of the interest or income produced by a mutual fund's holdings to the fund's shareholders, or a payment of cash or stock from a company's earnings to each stockholder. Dividends can be distributed monthly, quarterly, semiannually, or annually.
+## **How do stocks work**?
+Stock prices change from day to day, and often for reasons beyond a company's actual performance. Market trends, economic conditions, and even news headlines can cause a stock's price to move up or down.
+For example, if a competitor releases a new product or a company's growth slows, investors may grow concerned and the stock price may dip accordingly. On the other hand, strong earnings or positive industry developments can boost investor confidence and push prices higher.
+While short-term fluctuations are common, a stock's long-term performance is typically tied to the underlying company’s financial strength and ability to grow. Over time, financially sound companies may deliver more stable returns, even though short-term stock prices may still fluctuate.
+Understanding the stock market can help you make better investment decisions.
+[Learn more](https://investor.vanguard.com/investor-resources-education/portfolio-management/stock-market)
+## **Key factors to consider when choosing stocks**
+When choosing a company to invest in, it's important to look closely at the fundamentals, like the company's financials, leadership, and competitive position, along with broader industry trends. These factors can help you assess potential risks and long-term opportunities—and make more informed choices.
+This process is known as **fundamental analysis** , and it typically includes:
+![A red outline icon depicting two buildings, one taller and one shorter, with a large dollar sign inside a circle in the foreground.](https://investor.vanguard.com/investor-resources-education/understanding-investment-types/what-is-a-stock)
+###  Company financials 
+Earnings reports, revenue growth, profit margins, and debt levels can indicate financial strength.
+![A red icon featuring a magnifying glass overlaid on a bar chart with three vertical bars of varying heights.](https://investor.vanguard.com/investor-resources-education/understanding-investment-types/what-is-a-stock)
+###  Valuation metrics 
+Ratios like price/earnings (P/E) and price/book (P/B) can help you understand how a stock is priced relative to its earnings or assets.
+![A red pie chart icon with a dollar sign on the bottom left segment and a percentage symbol on the top right segment.](https://investor.vanguard.com/investor-resources-education/understanding-investment-types/what-is-a-stock)
+###  Dividend history 
+If you're income focused, consider whether the company pays regular dividends—and whether those payments have remained stable or grown.
+![A red icon depicting a bar chart with four vertical bars of varying heights and a line graph with four data points connected by lines above the bars.](https://investor.vanguard.com/investor-resources-education/understanding-investment-types/what-is-a-stock)
+###  Industry and market trends 
+Evaluate how the company is positioned within its sector and how economic or technological trends might impact its growth.
+![A red icon depicting an open hand with a dollar sign coin above it. Three arrows point upwards from the coin, indicating growth or increase.](https://investor.vanguard.com/investor-resources-education/understanding-investment-types/what-is-a-stock)
+###  Competitive advantages 
+Look for strong leadership, innovation, and other characteristics that set the company apart.
+## **How to determine if stocks are the right investment for you**
+Stocks can be a powerful investment option with the potential for higher long-term returns, but they can also carry more risk. Before investing, it's important to consider how that risk aligns with your goals and tolerance.
+If you're comfortable with market ups and downs—and have a longer timeline—individual stocks may be a good fit. If you're aiming for a more predictable income stream, a lower-risk option like bonds may better suit your needs.
+If you do decide to invest in stocks, understanding how they're categorized can make it easier to align your investments with your strategy. Stock classifications highlight key characteristics and market trends.
+Here are some of the most common categories of stocks:
+### **Growth vs. value stock**
+Most stocks fall into one of two broad categories based on how they generate returns for investors:
+### **Stocks by market capitalization**
+Stocks are also commonly grouped by the total value of a company's outstanding shares, known as its market capitalization. “Market cap” is a key measure of company size and potential risk and return. 
+Stocks typically fall into one of three categories:
+At the extremes, you may also see mega-cap (over $200 billion) and micro-cap (under $300 million) stocks.
+### **Sector-based stocks**
+Stocks can also be grouped by sector, based on the type of business a company operates. Each sector responds differently to economic shifts. For example, sectors like consumer discretionary or communication services may be more sensitive to downturns, since people tend to cut back on nonessential spending. But utilities, health care, and consumer staples often remain more stable because they're essential.
+Here's a sample classification system and the types of companies that would fall under each sector.
+Companies that manufacture products and provide services considered to be nonessential.
+Examples:
+Companies providing direct-to-consumer products that, based on consumer purchasing habits, are typically considered nondiscretionary.
+Examples:
+Companies involved in the exploration and production of energy products, such as oil, natural gas, and coal.
+Examples:
+Companies that provide financial services.
+Examples:
+Companies involved in providing medical or health care products, services, technology, or equipment.
+Examples:
+Companies that convert unfinished goods into products used to manufacture other goods or provide services.
+Examples:
+Companies that serve the electronics and computer industries or that manufacture products based on the latest applied science.
+Examples:
+Companies that extract or process raw materials.
+Examples:
+Companies that provide phone, data-transmission, cellular, or wireless communication services.
+Examples:
+Companies that distribute electricity, water, or gas, or that operate as independent power producers.
+Examples:
+### **Domestic vs. international stocks**
+Stocks can also be categorized by where a business is headquartered. Domestic stocks are shares of companies in your home country. International stocks are shares of companies outside your home country.
+[**Investing in international stocks**](https://investor.vanguard.com/investor-resources-education/understanding-investment-types/why-invest-internationally) helps diversify your portfolio, reduce dependence on a single economy, and give you access to growth opportunities across different regions. While U.S. companies make up a large portion of the global market, they don’t account for all the investment opportunities worldwide.
+### **Common vs. preferred stocks**
+Stocks are typically issued as either common or preferred. Each has unique characteristics that make them suitable for different types of investors.
+Common stock is the most widely held type of stock. It represents ownership in a company and typically includes voting rights on key corporate matters. Common shareholders may receive dividends, but payments are not guaranteed and are issued only after preferred shareholders are paid. Common stocks tend to be more volatile, but also offer greater potential for long-term growth.
+Preferred stock typically does not include voting rights but offers other advantages. Preferred shareholders typically receive fixed-rate dividends—paid before any dividends are issued to common shareholders—and have a higher claim on company assets in the event of liquidation. Preferred stocks may appeal to investors who prioritize a more stable income stream and are comfortable with more modest growth potential.
+### **Dividend stocks**
+Dividend stocks are shares of companies that regularly distribute a portion of their profits to shareholders in the form of dividends. These payments are typically made on a quarterly basis and can offer a reliable source of income.
+Dividends can help reduce the impact of market volatility by providing consistent returns, even when stock prices are flat or declining.
+Companies that pay dividends are often more established and financially sound, but not all dividend stocks are created equal. It is important to evaluate a company's financials, payout ratio, and history of maintaining or growing its dividends over time.
+## **Dividends and income from stocks**
+When you invest in stocks, you can earn income in two primary ways: through capital gains or through dividends.
+Capital gains occur when the value of a stock increases and you sell it for more than you paid. This type of income depends on the performance of the stock and overall market conditions.
+Dividends, on the other hand, are typically paid in cash, though some companies offer them in the form of additional shares. While dividend stocks regularly distribute their profits, some companies prefer to reinvest their profits back into the business to fuel growth.
+As with all earnings, you will have to pay [**taxes on dividend income**](https://investor.vanguard.com/investor-resources-education/taxes/dividends).
+## **Diversifying with stocks**
+Spreading your investments across a variety of companies, sectors, and regions—rather than a single stock or a handful of stocks—helps reduce risk and makes it less likely that a single company or sector will significantly impact your overall performance.[**Portfolio diversification**](https://investor.vanguard.com/investor-resources-education/portfolio-management/diversifying-your-portfolio) can't eliminate risk entirely, but it can help create a more stable investment experience over time.
+You can diversify your stock holdings in several ways:
+##  Mutual fund 
+A type of investment that pools shareholder money and invests it in a variety of securities. Each investor owns shares of the fund and can buy or sell these shares at any time. Mutual funds are typically more diversified, low-cost, and convenient than investing in individual securities, and they're professionally managed.
+##  ETF (exchange-traded-fund) 
+A type of investment with characteristics of both mutual funds and individual stocks. ETFs are professionally managed and typically diversified, like mutual funds, but they can be bought and sold at any point during the trading day using straightforward or sophisticated strategies.
+## **What's next?**
+Whatever your financial goals—whether you're new to investing or looking for expanded options—Vanguard is here to support you on your journey.
+## Start investing today
+[ Get started ](https://personal1.vanguard.com/mmx-move-money/registration-check)
+Articles you might like
+Investing strategies
+##### [How to start investing: A guide for beginners  ](https://investor.vanguard.com/investor-resources-education/article/how-to-start-investing "How to start investing: A guide for beginners")
+success
+Retirement
+##### [Get started on retirement saving  ](https://investor.vanguard.com/investor-resources-education/retirement/savings "Get started on retirement saving")
+success
+Personal finance
+##### [Understanding investment goals and goals based investing  ](https://investor.vanguard.com/investor-resources-education/investing-goals "Understanding investment goals and goals based investing ")
+success
+All investing is subject to risk, including the possible loss of the money you invest. Diversification does not ensure a profit or protect against a loss.
+Investments in stocks and bonds issued by non-U.S. companies are subject to risks including country/regional risk, which is the chance that political upheaval, financial troubles, or natural disasters will adversely affect the value of securities issued by companies in foreign countries or regions; and currency risk, which is the chance that the value of a foreign investment, measured in U.S. dollars, will decrease because of unfavorable changes in currency exchange rates.  
+
+Funds that concentrate on a relatively narrow market sector face the risk of higher share-price volatility.
+![](https://adservice.google.com/ddm/fls/z/dc_pre=CKq8v6nmnJIDFbmqrAIdK5wRpg;u1=64919651201670375871890840546564734172;u6=https%3A%2F%2Finvestor.vanguard.com%2Finvestor-resources-education%2Funderstanding-investment-types%2Fwhat-is-a-stock;u7=us%3Aen%3Aretail%3Aweb%3Ainvestor%3Ainvestor-resources-education%3Aunderstanding-investment-types%3Awhat-is-a-stock;u8=https%3A%2F%2Finvestor.vanguard.com%2Finvestor-resources-education%2Funderstanding-investment-types%2Fwhat-is-a-stock;cat=vgent0;num=3251474827748;ord=1;src=12332392;gdpr=%24%7BGDPR%7D;type=allla0;gdpr_consent=%24%7BGDPR_CONSENT_755%7D)
+![Company Logo](https://corp-pmj.web.vanguard.com/files/us_b2c/cc/prod/onetrust/consent/767da967-88bb-4648-bd02-c7a263423698/0197e560-3794-7b02-8a8d-69a9ce80cbbb/logos/e23663a9-a49c-4250-9892-0022f609291d/c3d93706-3ccf-4e23-aec5-3af38fdcc954/d2097a83-ab1d-4d11-84ea-83fc12092ed1/Vanguard.png)
+## Your privacy
+#### Your privacy
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose to set some types of cookies to “Off.” However, setting cookies to “Off” may impact your experience on the site and the services we are able to offer. Click on the different category headings to find out more and to change your default settings, where possible. Clearing cookies on your device will delete your preferences. To learn more, view the [Vanguard Privacy Center.](https://investor.vanguard.com/privacy-center)
+#### Strictly necessary cookies
+Always on
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+#### Performance cookies
+Performance cookies On
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies, we will not know when you have visited our site and will not be able to monitor its performance. To manage Performance cookies on our website, move the toggle to the right to turn them on or move the toggle to the left to turn them off. Then be sure to click the “Confirm my choices” button to save your preferences. If you click the “Accept all cookies” button, all cookie types will be set to “On.”
+#### Functional cookies
+Functional cookies On
+These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third-party providers whose services we have added to our pages. If you do not allow these cookies, then some or all of these services may not function properly. To manage Functional cookies on our website, move the toggle to the right to turn them on or move the toggle to the left to turn them off. Then be sure to click the “Confirm my choices” button to save your preferences. If you click the “Accept all cookies” button, all cookie types will be set to “On.”
+#### Targeting cookies
+Targeting cookies On
+### Cookie List
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+checkbox label label
+[![Powered by Onetrust](https://corp-pmj.web.vanguard.com/files/us_b2c/cc/prod/onetrust/consent/767da967-88bb-4648-bd02-c7a263423698/0197e560-3794-7b02-8a8d-69a9ce80cbbb/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
+
+==================================================
+
+SOURCE: https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks
+[ Skip to main content ](https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks#main-content)
+![Dot gov](https://www.investor.gov/sites/investorgov/themes/custom/investor/libraries/uswds/img/icon-dot-gov.svg)
+**The .gov means it’s official.**   
+Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site. 
+![Https](https://www.investor.gov/sites/investorgov/themes/custom/investor/libraries/uswds/img/icon-https.svg)
+**The site is secure.**   
+The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. 
+[ Investor.gov U.S. Securities and Exchange Commission ](https://www.investor.gov/)
+Menu Toggle
+# Stocks - FAQs
+## What are stocks?
+Stocks are a type of security that gives stockholders a share of ownership in a company. Stocks also are called “equities.” Investors buy stocks for various reasons. Here are some of them:
+Companies issue stock to get money for various things, which may include:
+[](https://www.youtube.com/channel/UCptda15--amT6JyBiJnWmNA?embeds_referring_euri=https%3A%2F%2Fwww.investor.gov%2F&embeds_referring_origin=https%3A%2F%2Fwww.investor.gov)
+U.S. Securities and Exchange Commission
+21.7K subscribers
+[What Exactly Are Stocks?](https://www.youtube.com/watch?v=SNJduzbAzdY)
+[](https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks)
+U.S. Securities and Exchange Commission
+If playback doesn't begin shortly, try restarting your device.
+## More videos
+You're signed out
+Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+Share
+Include playlist
+An error occurred while retrieving sharing information. Please try again later.
+[Watch on](https://www.youtube.com/watch?v=SNJduzbAzdY&embeds_referring_euri=https%3A%2F%2Fwww.investor.gov%2F&embeds_referring_origin=https%3A%2F%2Fwww.investor.gov)
+0:00
+0:00 / 0:23
+•
+[](https://www.youtube.com/watch?v=SNJduzbAzdY)
+[What kinds of stock are there?](https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks#Kinds)  
+[What are the benefits and risks of stocks?](https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks#Risks)  
+[How to buy and sell stocks](https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks#Buy%20and%20sell)  
+[Understanding fees](https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks#Fees)  
+[Avoiding fraud](https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks#Fraud)
+##  What kinds of stocks are there?
+There are two main kinds of stocks, common stock and preferred stock.
+**Common** stock entitles owners to vote at shareholder meetings and receive dividends.
+**Preferred** stockholders usually don’t have voting rights but they receive dividend payments before common stockholders do, and have priority over common stockholders if the company goes bankrupt and its assets are liquidated.
+Common and preferred stocks may fall into one or more of the following categories:
+Another way to categorize stocks is by the size of the company, as shown in its market capitalization. There are large-cap, mid-cap, and small-cap stocks. Shares in very small companies are sometimes called “microcap” stocks. The very lowest priced stocks are known as “penny stocks.” These companies may have little or no earnings. Penny stocks do not pay dividends and are highly speculative.
+##  What are the benefits and risks of stocks?
+Stocks offer investors the greatest potential for growth (capital appreciation) over the long haul. Investors willing to stick with stocks over long periods of time, say 15 years, generally have been rewarded with strong, positive returns.
+But stock prices move down as well as up. There’s no guarantee that the company whose stock you hold will grow and do well, so you can lose money you invest in stocks.
+If a company goes bankrupt and its assets are liquidated, common stockholders are the last in line to share in the proceeds. The company’s bondholders will be paid first, then holders of preferred stock. If you are a common stockholder, you get whatever is left, which may be nothing.
+Even when companies aren’t in danger of failing, their stock price may fluctuate up or down. Large company stocks as a group, for example, have lost money on average about one out of every three years. If you have to sell shares on a day when the stock price is below the price you paid for the shares, you will lose money on the sale.
+Market fluctuations can be unnerving to some investors. A stock’s price can be affected by factors inside the company, such as a faulty product, or by events the company has no control over, such as political or market events.
+Stocks usually are one part of an investor’s holdings. If you are young and saving for a long-term goal such as retirement, you may want to hold more stocks than bonds. Investors nearing or in retirement may want to hold more bonds than stocks.
+The risks of stock holdings can be offset in part by investing in a number of different stocks. Investing in other kinds of assets that are not stocks, such as bonds, is another way to offset some of the risks of owning stocks.
+##  How to buy and sell stocks
+You can buy and sell stocks through:
+**Direct stock plans.** Some companies allow you to buy or sell their stock directly through them without using a broker. This saves on commissions, but you may have to pay other fees to the plan, including if you transfer shares to a broker to sell them. Some companies limit direct stock plans to employees of the company or existing shareholders. Some require minimum amounts for purchases or account levels.
+Direct stock plans usually will not allow you to buy or sell shares at a specific market price or at a specific time. Instead, the company will buy or sell shares for the plan at set times — such as daily, weekly, or monthly — and at an average market price. Depending on the plan, you may be able to automate your purchases and have the cost deducted automatically from your savings account.
+**Dividend reinvestment plans.** These plans allow you to buy more shares of a stock you already own by reinvesting dividend payments into the company. You must sign an agreement with the company to have this done. Check with the company or your brokerage firm to see if you will be charged for this service.
+**Discount or full-service broker.** Brokers buy and sell shares for customers for a fee, known as a commission.
+**Stock funds** are another way to buy stocks. These are a type of mutual fund that invests primarily in stocks. Depending on its investment objective and policies, a stock fund may concentrate on a particular type of stock, such as blue chips, large-cap value stocks, or mid-cap growth stocks. Stock funds are offered by investment companies and can be purchased directly from them or through a broker or adviser.
+##  Understanding fees
+Buying and selling stocks entails fees. A direct stock plan or a dividend reinvestment plan may charge you a fee for that service. Brokers who buy and sell stocks for you charge a commission. A discount brokerage charges lower commissions than what you would pay at a full-service brokerage. But generally you have to research and choose investments by yourself. A full-service brokerage costs more, but the higher commissions pay for investment advice based on that firm’s research.
+##  Avoiding fraud
+Stocks in public companies are registered with the SEC and in most cases, public companies are required to file reports to the SEC quarterly and annually. Annual reports include financial statements that have been audited by an independent audit firm. Information on public companies can be found on the SEC’s EDGAR system.
+## Featured Content
+## Never stop learning about investing!
+Stay up to date with the latest Investor Alerts & Bulletins, Director’s Take Articles, Quizzes, and the Investor.gov Shares Digest.
+[](https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks)
+
+==================================================
+
+SOURCE: https://www.ameriprise.com/financial-goals-priorities/investing/types-of-stocks
+# What are the different types of stocks? An investor’s guide
+#### Understand the different types of stocks that can help you build a diversified portfolio.
+#### Share
+![A Wall Street sign in New York City.](https://www.ameriprise.com/binaries/content/gallery/ampcom/what-are-different-types-of-stocks_hero_24-266.jpg)
+Whether you’re new to [_investing in the stock market_ ](https://www.ameriprise.com/financial-goals-priorities/investing/how-to-invest-in-stock-market)or considering changes to your existing portfolio, the sheer number of stocks to choose from can be daunting. And though it’s not necessary for you to have a deep knowledge of each type of stock available, knowing how stocks are categorized can help you make better decisions about where you’re investing your money.
+An Ameriprise financial advisor can help you understand the role that different stocks can play in your investment strategy and help you build a personalized and diversified portfolio that reflects your circumstances, risk tolerance and financial goals. Here’s an overview of the different types of stocks:
+#### In this articlelink
+#### In this articlelink
+##  Common stock vs. preferred stock
+Stocks represent a piece of ownership in a company, whose earnings and overall success affect long-term returns. It can be issued by the company in two manners: as a common share or preferred share. Here are the key differences between common and preferred stocks:
+| **Common stock** | **Preferred stock**  
+---|---|---  
+_What is it?_ | The default type of stock most investors buy – and what most people think of when investing in the stock market. Most stock is issued as a common share. | A type of stock that shares some characteristics with debt instruments such as bonds. Preferred stock is sometimes called hybrid securities.  
+_Voting rights?_ | Common stock typically gives you the ability to vote on key matters such as electing the board of directors or adopting certain company policies. | Preferred stock typically does not come with voting rights, so holders of preferred stock have no say in the selection of board members or governance of a company.  
+_Dividends?_ | Depending on the company, common stock may entitle its owner to a share of the company's profits in the form of dividends. | Preferred stock dividends are usually higher and more reliable than common stock dividends.  
+_Bankruptcy privileges?_ | In the event of bankruptcy, common stock owners are the last to get any money from the sale of assets. |  Holders of preferred stock get higher priority than common stock for dividend payments and liquidation payments in the event of bankruptcy.  
+**Learn more:**[_Investing in the stock market: Pros, cons and investment options, explained_](https://www.ameriprise.com/financial-goals-priorities/investing/how-to-invest-in-stock-market)
+##  Value stocks vs. growth stocks
+One common way to look at stocks is by how they can create potential returns for investors. When viewing equities through this lens, stocks generally fall into one of two categories:
+##  Large-, mid- and small-cap stocks
+One of the most common approaches to categorizing different types of stocks is by market capitalization, which is simply the value of a company’s outstanding shares. It can be helpful to think of market capitalization as a measure of the company’s size.
 * * *
-[Investments](https://www.schwab.com/learn/topic/investments)
-# Investing Glossary: 100+ Terms and Definitions
-Get definitions for more than 100 common investing terms.
-January 22, 2024•[Schwab Center for Financial Research](https://www.schwab.com/learn/author/schwab-center-financial-research) • Beginner
-![](https://educationcontent.schwab.com/sites/g/files/eyrktu1071/files/iStock_625721802_3x2.jpg?imwidth=3840)
+### Advice spotlight
 * * *
-## #:
-**1099-DIV**
-A tax form that reports dividends or distributions you've earned on stocks or mutual funds.
-**1099-B**
-A tax form that reports your gains and losses from selling stocks or other investments in your brokerage account.
-**401(k) plan**
-A defined contribution plan in which an employer takes money directly from an employee's salary and places it into a tax-deferred retirement account, which means that the employee doesn't pay taxes on this money until they withdraw it. There are limits on when money can be withdrawn, and there are penalties for early withdrawals. The decision about how and where the money is invested is usually the employee's. Employers often match a percentage of employee contributions, sometimes as much as 50 cents on the dollar.
-**529 plan**
-## A:
-**After-tax (dollars/contributions)**
-Money that has already been taxed.
-**Alternative Minimum Tax**
-The AMT applies to U.S. taxpayers who have certain types of income (such as the spread reported from an exercise and hold of incentive stock options) that receive favorable tax treatment. The AMT sets a limit (i.e., a floor) on the amount these benefits can be used to reduce total tax.
-**Annual contribution limits**
-IRS rules that determine how much you can contribute to retirement accounts for the year.
-**Annualized return**
-A measure of how much value an investment has gained or lost on average each year, over a specific number of years or other time period. It takes compound growth (compounding) into account. Also called annual return.
-**Asset allocation**
-An investment strategy that involves balancing asset classes (like stocks, bonds, and cash) in your portfolio, based on your goals, risk tolerance, timeline, and other factors. Also referred to as an asset mix.
-**Asset class**
-One of the three major types of investments: stocks, bonds, and cash equivalents.
-**Award agreement**
-A document issued by a company that details the number of shares, award price, vesting schedule, and any other terms and conditions related to a stock grant. Also referred to as a grant agreement.
-**Award price**
-The price you pay per share when you exercise your options. The award price is set by your company. Also referred to as an exercise price, grant price, option price, or strike price.
+Being diversified in the types of stocks you own can help reduce exposure to market volatility.
+Owning just a select few stocks in your portfolio is highly risky. To benefit from the growth potential of stocks while also reducing your exposure to loss, make sure that the stocks in your portfolio are personalized to your financial goals and are [_diversified_ ](https://www.ameriprise.com/financial-goals-priorities/investing/diversification-asset-allocation)across size, sector, region and industry.
 * * *
-## Looking for professional investment advice?
-[See how Schwab can help](https://www.schwab.com/invest-with-us/wealth-management-services)
-* * *
-## B:
-**Bear market**
-A market in which share prices have declined more than 20% from a recent high.
-**Beneficiary**
-A person or entity (like a charity) who is designated to receive or inherit benefits or other assets.
-**Blue-chip stock**
-Widely held large market capitalization companies that are considered financially sound and are leaders in their respective industry or local stock market.
-**Bond**
-A bond represents a loan you make to a government, municipality, or corporation (issuer). In return, that issuer promises to pay you a specified rate of interest to be received on a predetermined schedule (generally annually, semiannually, or quarterly).
-**Bond ladder**
-A bond ladder is a portfolio of individual bonds that mature on different dates. This strategy is designed to provide current income while minimizing exposure to interest rate fluctuations.
-**Broker**
-A person who acts as an intermediary between a buyer and seller of securities, sometimes charging a commission.
-**Brokerage account**
-A taxable account that you open with a brokerage firm. The account allows you to invest in stocks, bonds, cash, ETFs, mutual funds, and other investments. 
-**Bull market**
-A market in which share prices have risen 20% or more from recent lows.
-## C:
-**Capital gain**
-Capital gain occurs when you sell a stock at a higher price than when you purchased it. For example, if you purchased a stock for $10 (and sold it after the value increased to $15), you could be taxed on the $5 capital gain.
-**Capital gains tax**
-Tax on gains (profits) you make from the sale of capital assets, like stocks and other investments. Under U.S. tax laws, if you hold an investment for more than a year before you sell it for a gain, you may qualify for a long-term capital gains tax rate. Gains from investments held for less than a year are usually considered short-term capital gains and are taxed as ordinary income (which is usually a higher tax rate than long-term capital gains).
-**Capital loss**
-Capital loss occurs when you sell a stock at a lower price than when you purchased it.
-**Certificate of deposit (CD)**
-CDs are bank deposits that pay a stated amount of interest for a specified period of time and promise to return your money on a specific date. They are federally insured and issued by banks and savings-and-loans institutions.
-**CERTIFIED FINANCIAL PLANNER™ (CFP®)**
-A professional planner who has met the Certified Financial Planner Board of Standards' requirements in education, experience, and ethical conduct; passed a 10-hour comprehensive examination in investment, tax, estate, retirement, and insurance planning; and agreed to follow a code of ethics.
-**Cliff**
-The date when the restrictions end the vesting of restricted stock or options. This can also be referred to as a lapse.
-**Common stock**
-Common stock is partial ownership of a company. An owner of a company's common stock is considered to have an equity position in the corporate structure of that company, which gives them voting rights on different issues. Additionally, common stockholders can collect dividends if the company distributes some of its earnings to stockholders. Common stock can also be referred to as an equity security, a share, or simply a stock.
-**Compound growth**
-An investment concept that involves reinvesting earnings from your original investment to increase your total investment and help your money grow faster over time. Also called compounding.
-**Cost basis**
-What was initially paid for an investment, as opposed to its current fair market value.
-**Cryptocurrency**
-Cryptocurrency is a virtual currency secured through one-way cryptography. It appears on a distributed ledger called a blockchain that's transparent and shared among all users in a permanent and verifiable way that's nearly impossible to fake or hack into. It is not reliant on any central authority, such as government or bank, to uphold or maintain it. Cryptocurrency's value stems from a combination of scarcity and the perception that it is a store of value, an anonymous means of payment, or a hedge against inflation.
-## D:
-**Diversification**
-An investment strategy that involves building a portfolio from a mix of asset classes (like stocks, bonds, and cash) that tend to behave differently. A diversified portfolio also includes a broad range of investments within each asset class. For example, with stocks you might want a mix of international and domestic stocks; stocks from various industries; and stocks from small, midsize, and large companies.
-**Dividends**
-Portions of a company's earnings that can be distributed to shareholders, usually in cash. Some companies pay stock dividends (additional shares) instead of cash. Not all companies pay dividends and the dividend amount can change.
-**Dollar-cost averaging**
-Dollar-cost averaging is the practice of investing a fixed dollar amount on a regular basis, regardless of the share price.
-**Dow Jones Industrial Average (DJIA or "the Dow")**
-The Dow Jones Industrial Average, Dow Jones, or simply the Dow, is a stock market index of 30 prominent companies listed on stock exchanges in the United States. The DJIA is one of the oldest and most commonly followed equity indexes.
-## E:
-**Earned income**
-Taxable pay from employment or self-employment, including wages, salaries, tips, union strike benefits, and certain disability payments. Does not include investment, retirement, Social Security, alimony, or child support income.
-**Earnings season**
-Refers to the period at the beginning of each quarter when corporations report their earnings from the previous quarter.
-**Employee stock option exercise and equity award agreement**
-The document that gives your brokerage firm the authority to act as your broker as part of an equity award transaction.
-**Employee stock purchase plan (ESPP)**
-An ESPP allows you to buy shares of your employer's stock at a discounted price, typically through after-tax payroll deductions. 
-A retirement plan provided by your employer, such as a 401(k), 403(b), 457(b), or Thrift Savings Plan (TSP). Most employer plans offer a choice of investments and have tax benefits. Many employers will also match a portion of the money you contribute to your account.
-**Equity compensation**
-A form of compensation based on the value of your company stock given to you by your employer. Equity compensation can include employee stock purchase plans (ESPPs), stock options, restricted stock awards (RSAs), restricted stock units (RSUs), performance stock awards (PSAs), and performance stock units (PSUs). These can also be referred to as equity awards. 
-**Equity security**
-An equity security is partial ownership of a company. An owner of a company's common stock is considered to have an equity position in the corporate structure of that company, which gives them voting rights on different issues. Additionally, common stockholders can collect dividends if the company distributes some of its earnings to stockholders. An equity security can also be referred to as a stock, common stock, or share.
-**Exchange-traded fund (ETF)**
-An ETF is an investment fund or portfolio of securities that holds assets like stocks, bonds, or commodities. Like stocks, ETFs trade on an exchange and experience price fluctuations throughout the day.
-**Exercise**
-To act on the right to purchase company stock at the grant price set by the option grant.
-**Exercise and hold**
-The transaction in which you purchase your company's stock at the grant price and keep the shares in your brokerage account for sale at a future date. Also referred to as "cash purchase and hold the shares."
-**Exercise and sell**
-The transaction in which you buy and then immediately sell shares.
-**Exercise date**
-The date on which investors exercise their options.
-**Exercise price**
-The price you pay per share when you exercise your options. Also referred to as an award price, grant price, option price, or strike price.
-## F:
-**Fair market value (FMV)**
-The amount that a willing buyer would pay a willing seller for a share of company stock. The fair market value on the day stock options are granted typically determines the award price.
-**Fractional share**
-Fractional shares allow you to invest in stocks based on a dollar amount, so you may end up with a fraction of a share, a whole share, or more than one share. Fractional shares pay dividends proportionate to the percentage of the share you own.
-**Futures**
-Futures are a type of derivative contract agreement to buy or sell a specific commodity asset or security at a set future date for a set price.
-## G:
-**Grant**
-An award of stock options, restricted stock units (RSUs), or performance stock units (PSUs).
-**Grant agreement**
-A document issued by a company that details the number of shares, award price, vesting schedule, and any other terms and conditions related to a stock grant. Also referred to as an award agreement.
-**Grant date**
-The date your stock options, restricted stock units (RSUs), or performance stock unit (PSU)s were granted to you.
-**Grant ID**
-The unique identifier for each equity award.
-**Grant price**
-The price of the award at the time of the grant. In the case of stock options, this is the price you pay per share when you exercise your options. Also referred to as an award price, strike price, option price, or exercise price.
-## H:
-**Holding period**
-For tax purposes, this refers to the period of time you hold incentive stock options (ISO) shares or qualified ESPPs in order to receive favorable U.S. tax treatment when the shares are ultimately sold. If you fail to meet the holding period, a "disqualifying disposition" occurs, changing the tax consequences. More generally, the holding period is the period of time a company requires that granted and/or exercised shares be held before they are sold.
-## I:
-**Incentive stock options (ISOs)**
-Also called "qualified" or "statutory" stock options, ISOs are considered tax-advantaged stock options based on U.S. tax law. With ISOs, the spread (the difference between the award price and the fair market value) will count as income for the alternative minimum tax (AMT) in the year you exercise your options. If you exercise and hold the shares for more than one year past the exercise date and more than two years past the original grant date, the sale of the stock becomes a qualifying disposition, and any realized profit is typically taxed at the long-term capital gains rate. If you sell earlier, the spread will be taxed at your ordinary income tax rate.
-**Index**
-A group of securities designed to represent a particular market, sector, or commodity. Well-known market indexes include the S&P 500® Index, the Dow Jones Industrial Average, the NASDAQ Composite Index, and the Wilshire 5000 Index.
-**Individual Retirement Account (IRA)**
-An IRA is an account for persons with earned income that allows them to save for retirement by providing various tax advantages.
-**Initial public offering (IPO)**
-An IPO refers to the process of offering shares of a private corporation to the public in a new stock issuance. Public share issuance allows a company to raise capital from public investors.
-**In-the-money stock options**
-Stock options that have a market price higher than the grant price. If you have in-the-money (ITM) stock options, they're already profitable. For example, if you have stock options with a grant price of $10 per share and the market value is $12 per share, you're "in the money" by $2 per share.
-**Invest**
-Putting your money into something (like stocks, bonds, or a mutual fund) with the goal of a financial gain. All investments carry a risk of loss.
-## L:
-**Lapse**
-The date when the restrictions end at the vesting of restricted stock or options. This can also be referred to as a cliff.
-**Lookback**
-A designated purchase period in certain tax-qualified employee stock purchase plans (ESPPs) where stock can be purchased at the lower of two prices: either as of the initial date of the offering period or the final date of the period, whichever is lower.
-## M:
-**Market price**
-The current price a stock is trading at in the stock market.
-**Modified adjusted gross income (MAGI)**
-Your MAGI is your adjusted gross income (AGI) with certain tax deductions and income added back in.
-**Mutual funds**
-Mutual funds pool money from many investors to purchase a broad range of investments like stocks, bonds, cash, or other types of securities. When you purchase a mutual fund, you get exposure to all the investments included in that fund. Mutual funds charge fees to manage your investment that can vary by fund and share class. Mutual funds are purchased or sold once a day at market close.
-## N:
-**Non-fungible tokens (NFTs)**
-NFTs are an emerging asset class. Like cryptocurrencies, NFTs are stored on a blockchain. Each NFT is unique and cannot be duplicated (i.e., non-fungible). In that sense, NFTs are more like the Hope Diamond or Picasso's Guernica—a one-of-a-kind work for which there is no substitute. Indeed, an NFT's perceived scarcity, whether because it's a unique piece of art or a limited-issue collectible, makes it potentially lucrative—but also substantially less liquid than, say, your average stock or bond. As a result, you may need to drop the price or hold on to your NFT if the demand isn't there when you want or need to sell it.
-**Non-qualified stock options (NQSOs)**
-Stock options that don't meet the requirements of a qualified (or statutory) stock option under the Internal Revenue Code. Upon exercise of a non-qualified stock option, you realize compensation equal to the spread between the fair market value of the stock on the exercise date and the price paid to purchase the shares. Compensation is taxable income, for which the company is obligated to withhold taxes. Ordinary income and tax withholding will be reported through payroll. When shares acquired through the exercise of a non-qualified stock option are subsequently sold, any gain is subject to capital gains tax. If the price of the stock goes down after exercise, you would be eligible to take a capital loss (as you would with any other security you may own).
-## O:
-**Option price**
-The price you pay per share when you exercise your options. Also referred to as an award price, strike price, exercise price, or grant price.
-## P:
-**Penny stock**
-A stock that trades for less than $5 per share and is not traded on a U.S. stock exchange is commonly referred to as a penny stock.
-**Performance stock units (PSUs) and performance stock awards (PSAs)**
-A form of equity compensation that is awarded to employees based on the company's performance over a given period and meeting a service (time) requirement. 
-**Portfolio**
-The combined holding of stocks, bonds, cash, and other investments held by an individual investor, mutual fund, exchange-traded fund (ETF), or financial institution.
-**Preferred stock**
-A class of stock that has a priority claim on the company's earnings before payment is made on the common stock if the company declares a dividend.
-**Pre-tax (dollars/contributions)**
-Money that has not yet been taxed.
-## Q:
-**Qualified stock options**
-See incentive stock options (ISOs).
-## R:
-**Rebalancing**
-Adjusting your portfolio periodically to keep it in line with your chosen asset allocation and risk level. In other words, maintaining the relative percentages of stocks, bonds, cash, and other investments you originally selected.
-**Required minimum distributions (RMDs)**
-RMDs are IRS-mandated withdrawals from your tax-deferred retirement accounts (like a 401(k) or traditional IRA) that you must take each year, starting at a certain age to avoid a tax penalty.
-**Restricted stock awards (RSAs) and restricted stock units (RSUs)**
-A form of equity compensation in which the company typically awards stock at a future date when the service (time) requirement is met. When these conditions are met, vesting occurs and shares are usually delivered. The shares then become the employee's assets. 
-**Risk tolerance**
-How an investor feels about risk, the level of risk an investor is willing to take. Your risk tolerance helps you decide whether to invest more conservatively or more aggressively.
-**Robo-advisor**
-Robo-advisors are online services that provide automated portfolios based on your preferences. The robo-advisor automatically builds a diversified portfolio of funds based on your preferences, and the portfolio is automatically rebalanced by an algorithm.
-**Rollover IRA**
-**Roth IRA**
-A Roth Individual Retirement Account (IRA) is a retirement account to which you contribute after-tax dollars. While there are no current-year tax benefits, your contributions and potential earnings can grow tax-free, and you can withdraw them tax- and penalty-free after age 59½ and once the account has been open for five years.
-## S:
-**Sale price**
-The specific market price at which a security is sold.
-**Security**
-A financial security is defined broadly to include an array of tradable investments like stocks, bonds, exchange-traded funds (ETFs), and mutual funds. Securities are financial assets that have value and can be bought, sold, or traded in a financial market.
+##  Foreign stocks
+While many investors get started by trading in the U.S. stock market, purchasing stocks of companies based in foreign countries is one way to help diversify the regional and global markets your portfolio has exposure to.
+##  Dividend-paying stocks
+Many companies provide dividend payments to shareholders on a regular basis. Dividend-paying stocks — also known as income stocks — are those that typically offer regular, higher-than-average dividend yields and lower volatility than the overall market. They can provide valuable income for investors but may have limited potential for future growth. Income stocks can be found in any industry but are often companies involved in real estate, energy, utilities, natural resources and financial institutions.
+##  Sector stocks
+Because stocks from companies in the same industry often move together in response to market or economic events, another way stocks are classified is by sector, which is based on what business they are primarily involved in. The Global Industry Classification Standard divides the market into 11 sectors:
+**Sector** | **Types of companies/industries**  
+---|---  
+_Communication services_ | Telephone, internet, media and entertainment  
+_Consumer discretionary_ | Retailers, automakers, hotels and restaurants  
+_Consumer staples_ | Food, beverage, tobacco, household and personal products  
+_Energy_ | Oil and gas exploration, oil and gas production, pipeline providers and gas station operators  
+_Financial_ |  Banking, mortgage financing and insurance  
+_Health care_ | Health insurers, pharmaceutical, biotech and medical devices  
+_Industrial_ | Airlines, aerospace and defense, construction, logistics, machinery and railroad operators  
+_Materials_ | Mining, forest products, construction materials, packaging and chemicals  
+_Real estate_ | Property and real estate management, real estate development  
+_Technology_ | Hardware, software, semiconductor, communications equipment and IT services  
+_Utilities_ | Electric, natural gas, water, renewable energy and multi-product utility  
+## Let’s find a personalized mix of stocks for you
+An Ameriprise financial advisor can work with you to create an investment strategy that leverages stocks for their high-growth potential, while also being personalized to your unique needs, risk tolerance, time horizon and financial goals.
+### Questions to ask an Ameriprise financial advisor during your initial complimentary consultation
+When you’re ready to reach out to an Ameriprise financial advisor for a complimentary initial consultation, consider bringing these questions to your meeting.
+[Find an advisor](https://www.ameripriseadvisors.com)
+##### related information
+![](https://www.ameriprise.com/binaries/content/gallery/ampcom/asset-classes_hero_24-266.jpg)
+###  [ Asset classes: The building blocks of an investment portfolio ](https://www.ameriprise.com/financial-goals-priorities/investing/asset-class-types)
+![](https://www.ameriprise.com/binaries/content/gallery/ampcom/investing-in-the-stock-market_hero_24-266.jpg)
+###  [ Investing in the stock market: Pros, cons and investment options, explained ](https://www.ameriprise.com/financial-goals-priorities/investing/how-to-invest-in-stock-market)
+![](https://www.ameriprise.com/binaries/content/gallery/ampcom/how-are-my-investments-taxed_hero_24-257.jpg)
+###  [ How are my investments taxed? 4 questions to ask ](https://www.ameriprise.com/financial-goals-priorities/taxes/how-are-my-investments-taxed)
+### Get investment recommendations personalized to you.
+Search for a financial advisor by ZIP Code
+Enter 5-digit ZIP Code
+[Find my location](https://www.ameriprise.com/financial-goals-priorities/investing/types-of-stocks)
+Or, [request an appointment online](http://ameriprise-aac.secure.force.com/cts?Id=a292A00000crdEbQAI) to speak with an advisor. 
+Background and qualification information is available at [FINRA's BrokerCheck website](https://brokercheck.finra.org/).
+This information is being provided only as a general source of information and is not a solicitation to buy or sell any securities, accounts or strategies mentioned. The information is not intended to be used as the primary basis for investment decisions, nor should it be construed as a recommendation or advice designed to meet the particular needs of an individual investor. Please seek the advice of a financial advisor regarding your particular financial situation.
+Not all stocks are available for purchase at Ameriprise Financial.
+Ameriprise Financial cannot guarantee future financial results.
+The initial consultation provides an overview of financial planning concepts. You will not receive written analysis and/or recommendations.
+**Dividend** payments are not guaranteed and the amount, if any, can vary over time.
+**Stock** investments involve risk, including loss of principal. High-quality stocks may be appropriate for some investment strategies. Ensure that your investment objectives, time horizon and risk tolerance are aligned with investing in stocks, as they can lose value.
+**International** investing involves certain risks and volatility due to potential political, economic, social, or currency instabilities and different financial and accounting standards. These risks are enhanced for **emerging markets**.
+**Growth** securities, at times, may not perform as well as value securities or the stock market in general and may be out of favor with investors.
+Generally, **large-cap** companies are more mature and have limited growth potential compared to smaller companies. In addition, large companies may not be able to adapt as easily to changing market conditions, potentially resulting in lower overall performance compared to the broader securities markets during different market cycles.
+Investments in **small cap and mid-cap** companies involve risks and volatility greater than investments in larger, more established companies.
+**Preferred stock** is subject to issuer default risk. In general, the prices of preferred stocks fall when interest rates rise and vice versa. Yields may vary. The market value of these securities may fall, fail to rise or fluctuate, sometimes rapidly and unpredictably.
+**Value** securities may be unprofitable if the market fails to recognize their intrinsic worth or the portfolio manager misgauged that worth.
+**Asset allocation** and **diversification** do not assure a profit or protect against loss.
+Ameriprise Financial, Inc. and its affiliates do not offer tax or legal advice. Consumers should consult with their tax advisor or attorney regarding their specific situation.
+The **S &P 500 Index** is a basket of 500 stocks that are considered to be widely held. The S&P 500 index is weighted by market value (shares outstanding times share price), and its performance is thought to be representative of the stock market as a whole. The S&P 500 index was created in 1957 although it has been extrapolated backwards to several decades earlier for performance comparison purposes. This index provides a broad snapshot of the overall US equity market. Over 70% of all US equity value is tracked by the S&P 500. Inclusion in the index is determined by Standard & Poor’s and is based upon their market size, liquidity, and sector.
+An index is a statistical composite that is not managed. It is not possible to invest directly in an index.
+**Investment products are not insured by the FDIC, NCUA or any federal agency, are not deposits or obligations of, or guaranteed by any financial institution, and involve investment risks including possible loss of principal and fluctuation in value.**
+Securities offered by Ameriprise Financial Services, LLC. Member FINRA and SIPC.
+![Ameriprise Financial Logo](https://www.ameriprise.com/webfiles/latest/assets/ampcom/onetrust/consent/0866eeeb-c335-49a1-8d13-6d89b75e93eb/0dff06d0-d239-4075-8df8-a4580e5cd778/logos/837dd163-1ba0-4d7c-873f-f8f8446e76c8/4835302a-176a-45d7-b509-db7bfb752c39/c8ea69d4-5da2-4ba3-927e-475fd5abf0c8/am_f_rgb_regular.png)
+Your Opt Out Preference Signal is Honored
+## Preference center
+When you visit our website, we store cookies on your browser to collect information. We use cookies to share information with our advertising partners to assist in our marketing efforts. Specifically, we share your website activity with marketing providers to market products to you on other websites—cross-contextual behavioral advertising. We also use other cookies that are strictly necessary to ensure the proper functioning of our website and preserve your preferences. Those cookies are not used to market to you and cannot be turned off or limited. Further information is available in our [Cookie Notice](https://www.ameriprise.com/privacy-security-fraud/internet-privacy-statement).   
   
-**Securities and Exchange Commission (SEC**)
-A U.S. government oversight agency responsible for regulating the securities markets and protecting investors. 
-**Share**
-A share represents partial ownership of a company. An owner of a share is considered to have an equity position in the corporate structure of that company, which gives them voting rights on different issues. Additionally, shareholders can collect dividends if the company distributes some of its earnings to shareholders. Shares can also be referred to as common stock, stock, or equity securities.
-**Short selling**
-Short selling involves borrowing a security and selling it on the open market. You then purchase it later at a lower price, pocketing the difference after repaying the initial loan. For example, let's say a stock is trading at $50 a share. You borrow 100 shares and sell them for $5,000. If the price suddenly declines to $25 a share, at which point you purchase 100 shares to replace those you borrowed, you net $2,500 in the bargain.
-**Spread**
-The difference between an equity award price and the fair market price of stock on a specific date.
-**Standard and Poor's S &P 500® Index**
-This is a stock market index tracking the stock performance of 500 of the largest companies listed on stock exchanges in the United States. It is one of the most commonly followed equity indices.
-**Stock Appreciation Rights (SARs)**
-Stock Appreciation Rights (SARs) are a form of equity compensation tied to your company's stock performance over a specific period. If the stock's value climbs during that preset time, you have the right to receive a portion of the increase in either cash or stocks. 
-**Stock**
-Stock is partial ownership of a company. An owner of a company's stock is considered to have an equity position in the corporate structure of that company, which gives them voting rights on different issues. Additionally, stockholders can collect dividends if the company distributes some of its earnings to stockholders. Stock can also be referred to as equity securities, common stock, or shares.
-**Stock option**
-A stock option gives you the right but not the obligation to buy stock at a specific price in the future for a set period of time. 
-**Stock slices**
-Stock slices are fractional shares. Fractional shares allow you to invest in stocks based on a dollar amount, so you may end up with a fraction of a share, a whole share, or more than one share. Fractional shares pay dividends proportionate to the percentage of the share you own.
-**Stock symbol**
-See ticker symbol.
-**Stock ticker**
-The continuously updated price of a security during the trading session. 
-**Strike price**
-The price you pay per share when you exercise your options. Also referred to as an option price, exercise price, or grant price.
-## T:
-**Tax-deferred**
-Tax-deferred contributions and earnings are not usually subject to federal, state, or local taxes until you withdraw them from your retirement account.
-**Tax-loss harvesting**
-Tax-loss harvesting is the process of selling a security at a loss with the goal of offering current or future capital gains realized from selling securities at a profit. This allows investors to generate tax deductions for federal income tax purposes that can be used to offset recognized capital gains and up to $3,000 of ordinary income a year. Additional captured losses can be carried forward into future years if not used in the year in which they occurred.
-**Thematic investing**
-Thematic investing is an investment approach that uses research to identify trends, opportunities, and relevant companies and groups them into overarching themes to invest in.
-**Ticker symbol**
-An arrangement of letters or characters that represent securities (stocks, mutual funds, etc.) that are publicly traded. For example: AMZN for Amazon.com Inc., AAPL for Apple Inc., and IBM for International Business Machines Corporation (IBM). A ticker symbol is also referred to as a stock symbol.
-**Time horizon**
-The time when you plan to withdraw the money you've invested. Goals like saving for college or retirement tend to have longer time horizons than saving for a vacation or a down payment on a house. In general, the longer your time horizon, the more risk you can assume because you have more time to recover from a loss.
-**Traditional IRA**
-A Traditional Individual Retirement Account (IRA) is a type of IRA in which you can make pre-tax contributions that can grow tax-deferred. With a traditional IRA, you'll pay ordinary income tax on your withdrawals, and you must start taking distributions once you reach your RMD age.
-## U:
-**Underwater**
-The award price of a stock option is greater than the current market price of the underlying stock.
-**Unvested grant**
-The portion of a grant that has not yet met the vesting criteria as set forth in the grant agreement.
-## V:
-**Vest/vesting**
-When an equity award is generally no longer subject to forfeiture and the employee acquires either the stock or the right to exercise a stock option.
-**Vested grant**
-A grant that has met the vesting criteria as set forth in the grant agreement. When an RSU vests, in most countries it's a taxable event and tax withholding is due. The most common method of funding this tax liability is to sell a portion of the now-vested shares.
-**Vesting period**
-The length of time or waiting period before an award vests.
-**Vesting schedule**
-A schedule that establishes the number of stock awards that vest each year over a specific period of time.
-**Volatility**
-Volatility refers to the fluctuation of a company's stock price, or to fluctuation of stock prices throughout the market.
-## W:
-**W-8BEN**
-The W-8BEN is an IRS form used by non-U.S. citizens to certify their foreign status. Non-U.S. citizens are typically taxed less than U.S. citizens. Having a valid W-8BEN on file helps ensure non-U.S. citizens will be taxed at the correct rate.
-**W-9**
-The form used by U.S. persons, including resident aliens, to certify their Taxpayer Identification Number or Social Security number. A W-9 also certifies that the person is not subject to backup withholding (unless you are a U.S. exempt payee).
-* * *
-## Looking for professional investment advice?
-[See how Schwab can help](https://www.schwab.com/invest-with-us/wealth-management-services)
-* * *
-## More from Charles Schwab
-Investing involves risk, including loss of principal.
-The information on this website is for educational purposes only and is not intended to be a substitute for specific individualized tax, legal, or investment planning advice. Where specific advice is necessary or appropriate, you should consult with a qualified tax advisor, CPA, Financial Planner, or Investment Manager.
-1223-3XLV
-
-==================================================
-
-SOURCE: https://www.google.com/share.google?q=jaylQtziqqnb7a7U9
-[ Skip to main content ](https://ndbf.nebraska.gov/terms-know-investing-0#main-content)
-# 
-#  Terms to Know: Investing
-![Investing terms](https://ndbf.nebraska.gov/sites/default/files/img/Investing%20-%20MCMS_1.jpg)
-Investing your hard-earned money can be intimidating, so understanding key terms is an important first step. Here are some basic investing terms to know.
-**_Basic Investment Concepts_**
-**_Stock Categories_**
-**_Common Investment Products_**
-**_Investment Strategies_**
-**_Real Estate & Alternative Investments_**
-**_Advanced Investing Concepts_**
-**_Retirement Plans & Dividend Strategies_**
-# More about financial services in Nebraska
-[](https://ndbf.nebraska.gov/)
-PO Box 95006  
-1526 K St #300  
-Lincoln, NE 68508 
-[Home](https://makecentsmakesense.nebraska.gov/index)  
-[Get Started](https://makecentsmakesense.nebraska.gov/get-started)  
-[Protect Your Money](https://makecentsmakesense.nebraska.gov/protect-your-money)  
-
-[News](https://makecentsmakesense.nebraska.gov/news)  
-[Check a License](https://makecentsmakesense.nebraska.gov/check-a-license)  
-[File a Complaint](https://makecentsmakesense.nebraska.gov/file-a-complaint)  
-
-Copyright 2026 Nebraska Department of Banking and Finance
-Website design and development by Jacht Ad Agency
-
-==================================================
-
-SOURCE: https://www.google.com/share.google?q=Mt8yYtTgEmlBBIbwd
-[ Skip to main content ](https://www.irs.gov/individuals/international-taxpayers/effectively-connected-income-eci#main-content)
-# Effectively connected income (ECI)
-Generally, when a foreign person engages in a trade or business in the United States (USTB), all income from sources within the United States (U.S.) connected with the conduct of that trade or business is considered to be Effectively Connected Income (ECI). Generally, a foreign person must be engaged in a U.S. trade or business during the tax year to be able to treat income received in that year as ECI, which is taxable in the U.S. A foreign person can be a nonresident alien (NRA) or a foreign corporation.
-If a foreign person owns and operates a business in the U.S. selling services, products, or merchandise, the foreign person is, with certain exceptions, engaged in a trade or business in the U.S. For example, profit from the sale in the U.S. of inventory property purchased either in the U.S. or in a foreign country is effectively connected trade or business income.
-This applies whether or not there is any connection between the income and the trade or business being carried on in the U.S. during the tax year. If the USTB sells inventory, the resulting income is clearly ECI. If a foreign corporation’s head office, which is located in another country, also directly sells inventory to U.S. customers, without involvement by the USTB, that income may also be ECI if title to the inventory passes in the U.S.
-Foreign persons generally are engaged in a U.S. trade or business when personal services are performed in the U.S. However, the business activities must be “considerable, continuous and regular” to qualify as a USTB.
-ECI is taxed at graduated rates or lesser rates under a tax treaty on the net ECI. That is, deductions are allowed against gross ECI to arrive at taxable net ECI.
-The discussions that follow will help you determine whether you are engaged in a trade or business in the U.S.
-Certain kinds of [fixed, determinable, annual, or periodical (FDAP)](https://www.irs.gov/individuals/international-taxpayers/fixed-determinable-annual-or-periodical-fdap-income "Fixed, determinable, annual, or periodical \(FDAP\) income") income are treated as ECI income because:
-The following categories of income are usually considered to be connected with a trade or business in the United States.
-**Note:** If your only U.S. business activity is trading in stocks, securities, or commodities (including hedging transactions) through a U.S. resident broker or other agent, you are NOT engaged in a trade or business in the U.S.
-**Note:** Certain kinds of income, which are normally treated as ECI or FDAP for income tax purposes, may not be treated as ECI or FDAP for withholding tax purposes.
-## Applicable tax rate
-Income you receive during the tax year that is effectively connected with your trade or business in the United States is, after allowable deductions, taxed at the graduated rates that apply to U.S. citizens and resident aliens.
-## Tax year
-Generally, you can receive effectively connected income only if you are a nonresident alien, or a foreign corporation, engaged in a trade or business in the U.S. during the tax year. However, income received in another tax year from the sale or exchange of property, the performance of services, or any other transaction is treated as effectively connected in that year, if it would have been effectively connected in the year the transaction took place or when services were performed.
-## Related
-Page Last Reviewed or Updated: 05-May-2025 
-Copy link
-✓
-Thanks for sharing!
-Find any service
-[](https://www.addtoany.com "Share Buttons")
-[More…](https://www.irs.gov/individuals/international-taxpayers/effectively-connected-income-eci#addtoany "Show all")
-
-==================================================
-
-SOURCE: https://www.google.com/share.google?q=U6H2oKBtlEeb2PLZl
-[ Skip to main content ](https://campaignlegal.org/update/congressional-stock-trading-and-stock-act#main-content)
-#  Congressional Stock Trading and the STOCK Act 
-September 5, 2025
-[Facebook](https://campaignlegal.org/#facebook)[Twitter](https://campaignlegal.org/#twitter)[Bluesky](https://campaignlegal.org/#bluesky)[Email](https://campaignlegal.org/#email)
-Issues
-[Ethics](https://campaignlegal.org/issues/ethics)
-Image
-![A black and white drawing of the U.S. Capitol Building with the jagged red line of a stock graph behind it.](https://campaignlegal.org/sites/default/files/styles/400x475/public/2022-01/iStock-1299327981.jpg?h=85aa454c&itok=BDVuwo3h)
-Elected officials craft laws that directly impact the lives of Americans. Voters have a right to know lawmakers’ decisions are in the public’s best interest, not for personal financial gain. 
-Congress ([with Campaign Legal Center's support](https://campaignlegal.org/press-releases/us-congress-insider-trading-regs-covering-congress-insufficient-stock-act-should-not)) passed the Stop Trading on Congressional Knowledge (STOCK Act) in 2012, following more than 10 years of allegations that members of Congress were insider trading. 
-Over a decade after its passage, the STOCK Act has not lived up to its promise of preventing the appearance of corruption and has fallen short of ensuring the public that Congress is prioritizing the needs of everyday Americans over their personal wealth. 
-Now, members of Congress can stop this problem for good. To increase government accountability, Campaign Legal Center calls on Congress to pass the bipartisan [Restore Trust in Congress Act](https://campaignlegal.org/update/solving-the-congressional-stock-trading-problem) and finally ban stock trading by sitting members and their families. 
-#### The Problem of Congressional Stock Trading 
-Members of Congress hold incredibly powerful positions that allow them to make policy decisions that impact all Americans. As a result, legitimate [conflicts of interest](https://campaignlegal.org/update/understanding-corruption-and-conflicts-interest-government) may arise when an elected official has significant financial interests tied to an area over which they have significant influence. 
-Elected officials are also privy to information before the broader public and may be incentivized to use this information to line their own pockets before they use it to inform policymaking — like they did [shortly after](https://campaignlegal.org/update/congressional-stock-trading-during-pandemic-diminishes-public-trust) the onset of the COVID-19 pandemic. 
-The possibility that congressional information would be used for corrupt purposes is exactly what alerted the public to the problem with congressional stock trading — several members of Congress benefited greatly from stock trades made shortly after a closed-door briefing on the state of the economy prior to the Great Recession.
-#### The STOCK Act — and the Failed Effort to Stop Insider Trading 
-![Graphic with text describing the three principal objectives related to congressional stock trading](https://campaignlegal.org/sites/default/files/styles/max_1300x1300/public/2025-04/STOCK%20Act%20graphic.png?itok=bXAJwBzO)
-Following public outrage and former President Barack Obama’s call for a ban on insider trading by members of Congress, the STOCK Act passed with overwhelming support and was signed into law on April 4, 2012. 
-The act requires members of Congress to file financial disclosures of their stock trades within 30 days (previously they were only required to file annual disclosures) and placed new penalties on members who used information for insider trading. 
-There is one major problem with this legislation: The penalty for a member of Congress violating the STOCK Act is $200 — a hardly impactful deterrence from the potential millions to be made off the stock market. 
-While the STOCK Act has helped expose the extent of potential conflicts of interest and provided the public with transparency into lawmakers’ financial activities, a lack of enforcement has stopped it from achieving the goal of curbing insider trading. 
-Representatives either [hide their stock holdings](https://campaignlegal.org/update/how-congress-hides-stock-holdings-plain-sight) in plain sight or receive no penalties when they do violate the law. No member of Congress has ever been prosecuted for insider trading under the STOCK Act.
-#### Congressional Stock Trading Today
-![Text graphic detailing statistics of the stock ownership of the 118th Congress.](https://campaignlegal.org/sites/default/files/styles/max_1300x1300/public/2025-03/Stock%20and%20the%20118th%20Congress%20Graphic.png?itok=-iv8R0TL)
-Nearly 15 years later, the STOCK Act has given us a clearer picture of just how many conflicts of interest our lawmakers have. 
-In the last congressional session, only 5% of senators and representatives combined did not own stock. A majority of freshman members in the [119th Congress](https://campaignlegal.org/document/congressional-stock-trading-numbers) own stock.
-Stock ownership in Congress is a bipartisan problem. Out of the all the members of Congress who own stock, 59% are Republican and 41% are Democrats. For the full picture on stock trading today, check out our [overview of stock ownership in the 118th Congress.](https://campaignlegal.org/document/congressional-stock-trading-numbers-118th-congress)
-Campaign Legal Center uses this data to file complaints — 15 in total, representing between $14.3 million and $52.1 million in undisclosed or untimely disclosed stock trading — and call for accountability when a member of Congress appears to have either violated disclosure requirements or engaged in insider trading. 
-The stock holding patterns of members of Congress reflect how different wealthy special interests become increasingly intertwined with our politics at different times. The crypto industry [poured more money](https://campaignlegal.org/update/crypto-political-fundraising-raises-questions-about-senate-ethics-committee-efficacy) into the 2024 election than it ever had before, close to $119 million. 
-The STOCK Act helps us understand how representatives — who may soon be considering legislation for this nascent technology — are tied to the industry. Ten members of Congress currently hold between $750,000 and $2 million in crypto assets. 
-![Blue graphic detailing the three Congress members with the highest Crypto holdings on a blue background.](https://campaignlegal.org/sites/default/files/styles/max_1300x1300/public/2025-04/Crypto%20Assets.png?itok=lRVOxpDg)
-For more information on the crypto industry’s ties to the current administration, check out CLC’s research into [crypto assets in the current Congress](https://campaignlegal.org/document/crypto-conundrum-what-know-about-crypto-congress-and-conflicts-interest).
-The prevalence of stock trading, and the clear pattern of engaging with industries that are looking to expand their political influence, shows how the STOCK Act has not solved the problems with congressional stock trading. Rather, the transparency afforded to us by the STOCK Act makes it abundantly clear to the public that their elected officials carry enormous financial holdings — and therefore the potential for enormous conflicts of interest. 
-The 2025 government shutdown underscores this very point; while their constituents navigated the longest lapse of federal funding in history and shouldered consequences like missed paychecks and drained SNAP benefits, lawmakers engaged in nearly 200 trades, representing anywhere from $3 to $9 million in financial assets. 
-#### Solving the Problem
-The public overwhelmingly wants reform:[ 86% of people across party lines](https://publicconsultation.org/united-states/stock-trading-by-members-of-congress/) support prohibiting members of Congress from trading stocks.
-A bipartisan solution offers a pathway to vital reforms that can rebuild public confidence in our federal government. A bipartisan coalition of lawmakers in the U.S. House of Representatives have brought forward a new bill — the Restore Trust in Congress Act — to fully ban stock trading by lawmakers, their spouses and their dependents.
-As long as sitting members of Congress are allowed to hold and trade stock connected to the industries they have a hand in regulating, the public will question whether their policy decisions are for the public’s best interest or their own personal financial gain. The House has an opportunity to address this bipartisan problem with a bipartisan solution — pass the Restore Trust in Congress Act and work with the U.S. Senate to deliver a final bill to the president’s desk. 
-Campaign Legal Center has called on Congress to ban stock trading by lawmakers for more than ten years and urges policymakers to finally deliver a guarantee to Americans that their elected officials are working solely for the public good.
-Deep Dive: Congressional STOCK Act
-Learn more about congressional stock trading and preventing conflicts of interest for our lawmakers here. 
-[Taking Stock of the STOCK Act ](https://campaignlegal.org/update/stock-act-failed-effort-stop-insider-trading-congress)
-The first in our three-part series detailing the history of the STOCK Act, where it went wrong, and how to improve legislation. 
-[Cryptocurrency Holdings in the 119th Congress ](https://campaignlegal.org/document/crypto-conundrum-what-know-about-crypto-congress-and-conflicts-interest)
-Check out our research on which members of Congress hold significant crypto assets today. 
-[STOCK Act 101](https://campaignlegal.org/sites/default/files/2022-03/CLC_StockTrading_1-pager_v2.pdf)
-A quick summary and resource for anyone looking to learn the basics on the STOCK Act. 
-[Congress, Stock Trading & Tariffs](https://campaignlegal.org/sites/default/files/2025-07/Congress%20Stock%20Trading%20and%20Tariffs%20_%20FINAL%207-24.pdf)
-## You might also like...
-####  [Maurene Comey's Unlawful Dismissal Is a Threat to the First Amendment](https://campaignlegal.org/update/maurene-comeys-unlawful-dismissal-threat-first-amendment)
-####  [Can President Trump Do That?](https://campaignlegal.org/CanTrumpDoThat)
-####  [Solving the Congressional Stock Trading Problem](https://campaignlegal.org/update/solving-the-congressional-stock-trading-problem)
-## Stay up to date on democracy
-##  Stay up to date. Get the latest from CLC in your inbox. 
-Copy link
-✓
-Thanks for sharing!
-Find any service
-[](https://www.addtoany.com "Share Buttons")
-[More…](https://campaignlegal.org/update/congressional-stock-trading-and-stock-act#addtoany "Show all")
-![](https://t.co/i/adsct?bci=3&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%268%2624%261080%26600%260%26na&eci=2&event_id=735b0ee3-d4b2-4ec0-ba9d-14626b98165d&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=02b7eb6a-1756-4b8a-9c66-521d67be8f55&pt=Congressional%20Stock%20Trading%20and%20the%20STOCK%20Act%20%7C%20Campaign%20Legal%20Center&tw_document_href=https%3A%2F%2Fcampaignlegal.org%2Fupdate%2Fcongressional-stock-trading-and-stock-act&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o21sn&type=javascript&version=2.3.35)![](https://analytics.twitter.com/i/adsct?bci=3&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%268%2624%261080%26600%260%26na&eci=2&event_id=735b0ee3-d4b2-4ec0-ba9d-14626b98165d&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=02b7eb6a-1756-4b8a-9c66-521d67be8f55&pt=Congressional%20Stock%20Trading%20and%20the%20STOCK%20Act%20%7C%20Campaign%20Legal%20Center&tw_document_href=https%3A%2F%2Fcampaignlegal.org%2Fupdate%2Fcongressional-stock-trading-and-stock-act&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o21sn&type=javascript&version=2.3.35)
+You have a right to request we not share your data for cross-contextual behavioral advertising. Use the below toggle slider to confirm your preferences. Toggle color Gray means you have opted out of data sharing and we won't sell or share your data with third party agencies. You can change your preferences and confirm your choices anytime. 
+###  Manage consent preferences
+#### Necessary Cookies
+Necessary Cookies
+#### Share or sale of personal data
+Share or sale of personal data
+Under the CPRA, you have the right to opt out of the sale or sharing of your personal information to third-parties. These cookies collect information for analytics to personalize your experience with targeted ads. You may exercise your right to opt out of the sale or sharing of personal information by using this toggle switch. If you opt out, we will not be able to offer you personalized ads and will not hand over your personal information to any third-parties. If you have enabled privacy controls on your browser (such as a plugin), we have to take that as a valid request to opt out. Therefore we would not be able to track your activity through the web. This may affect our ability to personalize ads according to your preferences.
+### Cookie List
+Search Icon
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+[![Powered by Onetrust](https://www.ameriprise.com/webfiles/latest/assets/ampcom/onetrust/consent/0866eeeb-c335-49a1-8d13-6d89b75e93eb/0dff06d0-d239-4075-8df8-a4580e5cd778/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
+![](https://bat.bing.com/action/0?ti=23004516&Ver=2&mid=5f657f5d-2614-43da-a775-fe0176dd3d6d&bo=1&sid=0acf4460f6d211f0a21a6b4b05067177&vid=0acf3480f6d211f0b17ad57a33650419&vids=1&msclkid=N&uach=pv%3D10.0&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=What%20are%20the%20different%20types%20of%20stocks%3F%20%7C%20Ameriprise%20Financial&p=https%3A%2F%2Fwww.ameriprise.com%2Ffinancial-goals-priorities%2Finvesting%2Ftypes-of-stocks&r=&lt=2225&evt=pageLoad&sv=2&cdb=AQER&rn=435013)
 
 ==================================================
 

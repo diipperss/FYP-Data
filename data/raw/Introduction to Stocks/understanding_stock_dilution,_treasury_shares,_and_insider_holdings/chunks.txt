@@ -1,0 +1,428 @@
+SOURCE: https://centerpointsecurities.com/stock-dilution/
+Stock Dilution - How it Works and What to Be Aware Of
+# The Ultimate Guide to Stock Dilution
+![The Ultimate Guide To Stock Dilution](https://centerpointsecurities.com/wp-content/uploads/2021/01/The-Ultimate-Guide-To-Stock-Dilution.jpg)
+When a publicly traded company announces a secondary offering, the underlying stock price tends to fall sharply. When a public company announces an all stock based acquisition of another company, usually the acquiring company’s share price also tends to sell-off. Logically, you would think an acquisition would improve the acquirer’s value. So why are investors selling the shares causing the price to drop? 
+In this article, we are going to discuss stock dilution and how it can impact trading activity.
+## **Understanding a Company’s Share Structure**
+With publicly traded companies, it’s important to separate the actual business operations from the publicly traded stock. While a stock’s price may reflect a company’s valuation and investor sentiment, it can also be influenced by its [share structure](https://centerpointsecurities.com/stock-share-structure/) and the events that impact it. 
+## **What Do You Own When You Buy a Stock?**
+Stocks that freely trade on the U.S. stock exchanges are common shares. Common shares represent a piece of the underlying company. If you buy 100 shares of a company comprised of 10,000 shares, then you would theoretically own 1% of the company. Common shares also tend to include voting rights enabling investors to caste their votes on proposals and proxies put forth by the board of directors, often at the annual meeting (IE: executive bonus plans, mergers, adding or removing directors). 
+## **Company Share Structure**
+Publicly listed companies decide how they want to allocate ownership with their share structure.
+When a company is created, it must state the total **authorized shares** it can issue upon inception. These are the maximum number of shares that can be issued. Companies don’t issue all authorized shares immediately nor will they likely ever issue all authorized shares.
+The **outstanding shares** are the total number of shares that are issued, excluding shares held by the company which are called treasury stock. Outstanding shares include both free trading common shares and restricted shares.
+**Free trading shares** are **common shares** that are bought and sold in the markets with no restrictions.
+**Restricted stock** must be converted to free trading shares by removal of restrictions. Restricted shares can’t be transferred or sold and are usually issued as compensation for employees, consultants and insiders. Restrictions tend to involve vesting time periods and or performance milestones and benchmarks. When restrictions are removed, the free trading shares are added to the float.
+## **What is Dilution?**
+In a nutshell, dilution occurs when a company increases its outstanding shares. If a company issues 1000 shares, your 100 share purchase gives you a 10% ownership stake. However, if the company issues another 1000 shares through a [secondary offering](https://centerpointsecurities.com/secondary-offerings/), your 100 share ownership stake drops to 5% because of dilution (100/1000 vs. 100/2000). It’s like a big pizza pie where every time a slice gets cut into more pieces, the pie stays the same, but each piece of the pie gets smaller. As an investor, your 100 votes are now worth 50 votes at the annual meeting. Naturally, this would upset you as long term shareholders despise dilution. 
+![Stock Dilution Example](https://centerpointsecurities.com/wp-content/uploads/2021/01/Stock-Dilution-Example.jpg)
+## **Why Dilution can be a Red Flag**
+The fact that dilution minimizes the original ownership stake for existing shareholders is why selling tends to occur. Dilution reduces the value of positions held by current shareholders. 
+When a company increases its share count, it causes the ownership stake for each share to shrink. It’s like cutting the original large pizza pie from 8 slices to 16 slices. It’s still the original large pizza pie but with more slices and each slice is smaller. If you’re just getting to the table, then you may not mind. However, if you had an original slice that is about to get smaller, you might consider selling your slice to avoid the dilution.
+![The Dangers Of Stock Dilution](https://centerpointsecurities.com/wp-content/uploads/2021/01/The-Dangers-Of-Stock-Dilution.jpg)
+No one likes having their stake diluted. This is why events and actions that cause stock dilution are met with sharp selling resulting in falling share prices. Announcements for secondary offerings are met with sharp stock declines. 
+![Stock Dilution Falling Share Prices](https://centerpointsecurities.com/wp-content/uploads/2021/01/Stock-Dilution-Falling-Share-Prices.jpg)
+## **Types of Dilution**
+Dilution of often occurs when the company is trying to raise cash. This can occur by executing a **secondary offering** that adds more shares to the outstanding shares. 
+![Stock Dilution After Secondary Offering Example](https://centerpointsecurities.com/wp-content/uploads/2021/01/Stock-Dilution-After-Secondary-Offering-Example.jpg)
+It can also occur by **selling warrants** which are a form of long-term options where the company receives cash from the warrant sale and more cash when the warrants are exercised. When warrants are issued, that technically dilutes shareholders but not until the warrants are exercised.
+When warrants are exercised, that’s when the common sells shares at deeply discounted prices to the warrant holder. Often times, they may turn around and sell those shares in the open market. However, in many cases the warrant holders may actually short stock in the open market and cover by exercising the warrants. This can put a ceiling on rising stock prices until the warrants are exercised. Investors tend to be weary of company that issue lots of warrants due to the dilutive nature.
+## **How to Factor Dilution into Your Trading**
+It’s easy to conclude that share dilution only affects long-term investors and doesn’t impact day trading, but that’s not always the case. Dilution impacts liquidity which impacts price action. Also, certain events that trigger dilution have very material impacts on price action near-term and longer term. It’s prudent to be aware of this and plan accordingly. 
+### **Look for Outstanding Warrants**
+The total number of outstanding warrants can be found in form 8-K and 10-Q filings. Companies with a ton of outstanding warrants are susceptible to new shares flooding the market soon, which may present directional trading opportunities. 
+### **Recognize That Offerings are Usually Red Flags**
+Most company’s stock prices drop upon announcing a secondary stock offering. Companies tend to price secondaries after a sharp spike in share prices. The secondary offerings tend to be priced at a discount to the market, which accelerates price drops. Small cap stocks are notorious for this as well as companies that are burning through cash.
+![Stock Dilution After Spike In Share Prices](https://centerpointsecurities.com/wp-content/uploads/2021/01/Stock-Dilution-After-Spike-In-Share-Prices.jpg)
+### **Identify Serial Diluters**
+Some companies are infamous for announcing offerings after every major price spike. Be weary of holding shares in these companies as there are often bag holders after each spike. Recognize these companies and strongly consider closing out positions before the bell to avoid getting stuck during an announcement afterhours. 
+Dilution provides opportunity to those traders that are aware of it and factor it into their trading. While dilution alone is not the basis for placing a trade, it can trigger price action or explain inaction for those who recognize it.
+  
+### Related Content
+[![Market Makers vs. ECNs](https://centerpointsecurities.com/wp-content/uploads/2023/06/Market-Makers-vs-ECNs-400x250.jpg)](https://centerpointsecurities.com/market-makers-vs-ecns/)
+##  [Market Makers vs. ECNs](https://centerpointsecurities.com/market-makers-vs-ecns/)
+Introduction When you place an order to trade stocks, there are typically two ways in which it can be processed: by a market maker or by an electronic communications network (ECN). Market makers and ECNs are critical for keeping the market running smoothly and play...
+[![Level 1 vs. Level 2 Market Data](https://centerpointsecurities.com/wp-content/uploads/2023/06/Level-1-vs-Level-2-Market-Data-400x250.jpg)](https://centerpointsecurities.com/level-1-vs-level-2-market-data/)
+##  [Level 1 vs. Level 2 Market Data](https://centerpointsecurities.com/level-1-vs-level-2-market-data/)
+Successful trading relies on having good information about the market for a stock. Price information is often visualized through technical charts, but traders can also benefit from data about the outstanding orders for a stock. This type of data is known as Level 1...
+##  [Inverse Head and Shoulders Pattern: The Complete Guide](https://centerpointsecurities.com/inverse-head-and-shoulders-pattern/)
+In this article, we'll be detailing the inverse version of the well-known head and shoulders chart pattern so you can start effectively incorporating it into your trading. An inverse head and shoulders pattern is a technical analysis pattern that signals a potential...
+[![What is a Shelf Offering?](https://centerpointsecurities.com/wp-content/uploads/2023/06/Shelf-Offerings-400x250.jpg)](https://centerpointsecurities.com/shelf-offerings/)
+##  [What is a Shelf Offering?](https://centerpointsecurities.com/shelf-offerings/)
+Have you ever seen a stock exhibiting normal trading behavior and then all of a sudden the stock price drastically drops out of nowhere? This type of price action could be related to the announcement of a shelf offering or the execution of an “at-the-market” sale from...
+[![Float Rotation – What It Is and Why it Matters](https://centerpointsecurities.com/wp-content/uploads/2023/06/Float-Rotation-400x250.jpg)](https://centerpointsecurities.com/float-rotation/)
+##  [Float Rotation – What It Is and Why it Matters](https://centerpointsecurities.com/float-rotation/)
+Float rotation describes the number of times that a stock’s floating shares turn over in a single trading day. For day traders who focus on low-float stocks, float rotation is an important factor to watch when volatility spikes. In this guide, we’ll explain what float...
+[![How to Recognize a Short Squeeze](https://centerpointsecurities.com/wp-content/uploads/2023/06/Recognize-a-Short-Squeeze-400x250.jpg)](https://centerpointsecurities.com/how-to-recognize-a-short-squeeze/)
+##  [How to Recognize a Short Squeeze](https://centerpointsecurities.com/how-to-recognize-a-short-squeeze/)
+Short squeezes can introduce a lot of volatility into stocks and send share prices sharply higher. These squeezes offer opportunities for trading, but they often require different strategies and more caution than traditional breakouts. In this article, we’ll take a...
+![](https://t.co/1/i/adsct?bci=4&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=32d787c6-139c-4e7d-9b92-157b9260e343&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=2fb77f2e-fa2f-4659-ac9d-792becf6e4a2&pt=Stock%20Dilution%20-%20How%20it%20Works%20and%20What%20to%20Be%20Aware%20Of&tw_document_href=https%3A%2F%2Fcenterpointsecurities.com%2Fstock-dilution%2F&tw_iframe_status=0&txn_id=nyf3a&type=javascript&version=2.3.35)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=32d787c6-139c-4e7d-9b92-157b9260e343&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=2fb77f2e-fa2f-4659-ac9d-792becf6e4a2&pt=Stock%20Dilution%20-%20How%20it%20Works%20and%20What%20to%20Be%20Aware%20Of&tw_document_href=https%3A%2F%2Fcenterpointsecurities.com%2Fstock-dilution%2F&tw_iframe_status=0&txn_id=nyf3a&type=javascript&version=2.3.35)
+
+==================================================
+
+SOURCE: https://www.stocktitan.net/articles/share-count-and-dilution-basics
+# Share Count and Dilution Basics: Understanding How Stock Ownership Changes
+## ![Share Count and Dilution Basics: Understanding How Stock Ownership Changes](https://www.stocktitan.net/img/articles/share-count-dilution-basics.png)
+## What Is Share Count?
+Share count refers to the total number of shares a company has issued and are currently held by all shareholders. This number is important because it directly affects ownership stakes, [earnings per share](https://www.stocktitan.net/articles/eps-explained-simple-example "Read: EPS Explained with a Simple Example: The Most Important Stock Metric") calculations, and the overall value of each share.
+Think of it this way: if a company is a pizza, the share count determines how many slices that pizza is cut into. The more slices (shares), the smaller each individual piece becomes—even though the total pizza (company value) might remain the same.
+**Note:** Share count is dynamic and can change frequently through various corporate actions. It's not a fixed number.
+### Key Share Count Metrics
+When analyzing share count, you'll encounter several important terms:
+## Understanding Share Dilution
+Share dilution occurs when a company issues additional shares, reducing the ownership percentage of existing shareholders. It's like adding more water to soup—the total volume increases, but the concentration of ingredients (your ownership) decreases.
+### How Dilution Works
+Let's break down the mechanics with a simple example:
+#### Before Dilution:
+#### After Company Issues 250,000 New Shares:
+**Result:** Your ownership percentage changed from 1.0% to 0.8% even though you hold the same number of shares.
+### Calculating Dilution Impact
+Understanding how to calculate dilution helps you assess the impact on ownership. Here's the formula:
+### Dilution Percentage Formula
+```
+Dilution % = (New Shares Issued) / (Original Shares + New Shares Issued) × 100
+
+Where:
+• New Shares Issued = Number of additional shares created
+• Original Shares = Shares outstanding[](https://www.stocktitan.net/articles/float-vs-shares-outstanding "Read: Float vs Shares Outstanding: Understanding the Key Difference") before issuance
+  
+```
+
+### Dilution Impact Calculator
+Current Shares Outstanding:
+New Shares to be Issued:
+Your Share Holdings:
+Current Share Price ($):
+#### Dilution Analysis Results:
+Your Ownership Before: 1.000%
+Your Ownership After: 0.800%
+Ownership Dilution: 20.0%
+Overall Dilution %: 20.0%
+Your Position Value: $500,000.00
+Implied New Share Price: $40.00
+## Common Causes of Share Dilution
+Understanding what triggers dilution helps you anticipate and evaluate its impact. Here are the most common causes:
+### 1. Stock Options and RSUs
+Companies often compensate employees with stock options or restricted stock units (RSUs). When these vest and are exercised, new shares are created, diluting existing shareholders. Tech companies are particularly known for high levels of stock-based compensation.
+**Pro Tip:** Check the "Share-Based Compensation" line in a company's income statement to gauge potential future dilution from employee stock programs.
+### 2. Convertible Securities
+Convertible bonds and preferred shares can be converted into common stock at predetermined ratios. While they provide flexibility for companies to raise capital at lower interest rates, they represent potential future dilution.
+### 3. Secondary Offerings
+When companies need to raise capital, they may conduct secondary offerings, creating and selling new shares to the public. This immediate dilution is often accompanied by a stock price adjustment as the market responds to the increased supply.
+### 4. Warrants
+Warrants give holders the right to purchase shares at a specific price within a certain timeframe. Often issued during financings or as sweeteners in deals, exercised warrants create new shares and dilute existing holders.
+### 5. Acquisitions Using Stock
+Companies frequently use their own stock as currency for acquisitions. Instead of paying cash, they issue new shares to the selling shareholders, diluting existing owners but potentially adding value through the acquired assets.
+### 6. PIPE Transactions
+Private Investment in Public Equity (PIPE) deals involve selling shares directly to institutional investors. While they provide quick capital, they dilute existing shareholders immediately.
+## Types of Shares: Basic vs. Diluted
+When analyzing share count, you'll encounter two critical metrics that paint different pictures of potential ownership:
+### Basic Share Count
+This represents the actual number of common shares currently outstanding. It's the current number that reflects actual ownership distribution.
+### Fully Diluted Share Count
+This includes all potential shares that could exist if every convertible security, option, and warrant were exercised. It represents the maximum potential dilution.
+### Fully Diluted Shares Calculation
+```
+Fully Diluted Shares = Basic Shares Outstanding
+                      + Exercisable Stock Options
+                      + Unvested RSUs
+                      + Convertible Bond Shares
+                      + Convertible Preferred Shares
+                      + Warrant Shares
+  
+```
+
+**Important:** Consider using fully diluted share count when calculating valuation metrics like market cap or P/E ratios for a more comprehensive assessment.
+## Real-World Examples
+Let's examine how dilution plays out in practice with some notable examples:
+### Example 1: Tech Company Stock Compensation
+Technology companies often issue significant stock-based compensation. A typical tech company might dilute shareholders through employee stock programs. Over time, this compounds—what started as 100 million shares could become significantly more through ongoing stock compensation programs.
+### Example 2: Biotech Capital Raises
+Biotechnology companies frequently raise capital through secondary offerings to fund research and development. A pre-revenue biotech might conduct multiple offerings as they progress through clinical trials, significantly changing the share count over time.
+### Example 3: SPAC Dilution
+Special Purpose Acquisition Companies (SPACs) often involve complex dilution structures. Between sponsor shares, warrants, and PIPE investments, the final share count can be substantially different from the initial public offering.
+#### Illustrative Dilution Scenario:
+Consider a hypothetical company merger via SPAC:
+## Monitoring Share Count Changes
+Tracking share count changes requires regular monitoring of company filings and announcements:
+### Key Documents to Monitor
+**Note:** Companies typically report both basic and diluted weighted average shares in their earnings reports. The difference between these two numbers indicates potential dilution from existing securities.
+### Tracking Methodologies
+To effectively monitor dilution:
+## Understanding Dilution Impact
+Evaluating dilution requires context and analysis beyond just the numbers:
+### 1. Research Historical Patterns
+### 2. Monitor Ongoing Changes
+### 3. Evaluate Dilution Context
+Not all dilution has the same impact. Consider:
+**Warning:** Be cautious with companies that show consistent quarterly increases in share count without corresponding business growth. This pattern may indicate challenges in capital management.
+### 4. Consider Protective Measures
+Some investment vehicles offer features related to dilution:
+## Frequently Asked Questions
+### What's the difference between dilution and stock splits?
+Stock splits increase the share count but don't change ownership percentages. If you own 1% of a company before a 2-for-1 split, you still own 1% after (just with twice as many shares). Dilution, however, changes your ownership percentage because new shares go to other parties.
+### How do I track dilution in companies I follow?
+Monitor quarterly and annual reports for changes in shares outstanding. Compare the basic and diluted share counts to understand potential dilution. Track SEC filings for announcements of new offerings or stock compensation plans.
+### Can dilution ever benefit existing shareholders?
+Dilution can be beneficial if the capital raised or assets acquired generate value exceeding the dilution cost. For example, if dilution funds profitable expansion or valuable acquisitions, the company's overall value may increase despite individual ownership percentages decreasing.
+### How do I calculate my adjusted cost basis after dilution?
+Your cost basis doesn't change due to dilution, but the value per percentage of ownership increases. If significant dilution occurs, you may need to consider the impact on your investment thesis and expected returns.
+### Why do companies choose equity financing over debt?
+Equity financing through share issuance doesn't require regular interest payments or principal repayment, providing more financial flexibility. It's often preferred by high-growth or pre-revenue companies. However, it permanently changes the ownership structure.
+### How can I find a company's fully diluted share count?
+Look in the company's latest 10-Q or 10-K filing, specifically in the notes to the financial statements. Companies report both basic and diluted weighted average shares outstanding. The diluted count includes the potential impact of options, warrants, and convertible securities.
+### About StockTitan Research Team
+The Stock Titan Research Team is a group of market analysts and data scientists who specialize in transforming complex financial data into actionable insights.
+Our team continuously monitors and integrates data from official sources including SEC filings, stock exchanges, and verified financial data providers directly into the StockTitan platform.
+We maintain a **neutral, unbiased approach** to market analysis. Our goal is to present verified data clearly and accurately, helping investors of all experience levels understand market trends, sector performance, and individual stock movements.
+Every article undergoes multi-source verification to ensure data accuracy and reliability.
+**Our mission:** Make complex financial data accessible to everyone through thorough research, verified sources, and clear explanations.
+_The information provided in this article is for educational and informational purposes only. It does not constitute financial advice, investment recommendation, or an endorsement of any particular investment strategy. Past performance does not guarantee future results. Investors should conduct their own research and consult with a qualified financial advisor before making investment decisions._
+#  This site can’t be reached
+**gpsb-reims.criteo.com** ’s server IP address could not be found.
+Try:
+ERR_NAME_NOT_RESOLVED
+Check your Internet connection
+Check any cables and reboot any routers, modems, or other network devices you may be using.
+Check your DNS settings
+Contact your network administrator if you're not sure what this means.
+Try disabling network prediction
+Go to the Chromium menu > Settings > Show advanced settings… and deselect "Use a prediction service to load pages more quickly." If this does not resolve the issue, we recommend selecting this option again for improved performance.
+Allow Chromium to access the network in your firewall or antivirus settings.
+If it is already listed as a program allowed to access the network, try removing it from the list and adding it again.
+If you use a proxy server…
+Go to the Chromium menu > Settings > System > Open your computer's proxy settings and make sure your configuration is set to "no proxy" or "direct."
+**gpsb-reims.criteo.com** ’s server IP address could not be found.
+![](https://pixel.rubiconproject.com/token?pid=49096&us_privacy=1YNY)
+✕
+Do not sell or share my personal information.
+You have chosen to opt-out of the sale or sharing of your information from this site and any of its affiliates. To opt back in please click the "Customize my ad experience" link.  
+  
+This site collects information through the use of cookies and other tracking tools. Cookies and these tools do not contain any information that personally identifies a user, but personal information that would be stored about you may be linked to the information stored in and obtained from them. This information would be used and shared for Analytics, Ad Serving, Interest Based Advertising, among other purposes.  
+  
+For more information please visit this site's Privacy Policy.
+CANCEL
+CONTINUE
+Information from your device can be used to personalize your ad experience.   
+  
+[Do not sell or share my personal information.](https://www.stocktitan.net/)
+A Raptive Partner Site
+
+==================================================
+
+SOURCE: https://public.com/learn/what-is-stock-dilution
+[](https://public.com/)
+[ Sign up ](https://public.sng.link/Ag0a8/f14v?_ios_dl=matador%3A%2F%2F&_android_dl=public%3A%2F%2F&_smtype=3)
+[](https://public.sng.link/Ag0a8/f14v?_ios_dl=matador%3A%2F%2F&_android_dl=public%3A%2F%2F&_smtype=3)[](https://public.sng.link/Ag0a8/f14v?_ios_dl=matador%3A%2F%2F&_android_dl=public%3A%2F%2F&_smtype=3)
+As an investor, understanding the dynamics of stock ownership is crucial, especially when factors like stock dilution come into play. Stock dilution, while often misunderstood, can significantly impact your portfolio. Whether it’s a result of a company raising capital or issuing employee stock options, dilution reshapes the landscape of your investment. In this blog, we’ll break down the concept and its effects and provide actionable insights to help you confidently navigate its implications, regardless of when you’re investing.
+### Table of contents
+### Key takeaway
+
+
+## What is stock dilution?
+Stock dilution, also known as equity dilution, occurs when a company issues additional shares of stock, reducing the ownership percentage of existing shareholders. It’s a common corporate strategy, but it can have significant implications for your investment. Understanding stock dilution is key to navigating its effects and making informed decisions about your portfolio.
+When[ investing in stocks](https://public.com/learn/how-to-invest-in-stocks), it’s essential to recognize how and why dilution occurs, how it can influence your holdings, and what you can do to stay ahead. This blog breaks down the concept with clear examples and actionable insights to help you make sound choices as an investor.
+[![General 2](https://public.com/wp-content/uploads/2024/10/General-2-1024x386.png)](https://public.sng.link/Ag0a8/f14v?_ios_dl=matador%3A%2F%2F&_android_dl=public%3A%2F%2F&_smtype=3)
+## Types of stock dilution
+Understanding the different types of stock dilution is crucial for assessing its impact on shareholders. Here’s a closer look at the key types:
+### 1. Strategic partnership dilution:
+### 2. Debt-to-equity conversion:
+**3. Private placements:**
+### 4. Follow-on offerings (Secondary offerings):
+### 5. Non-Traditional dilution:
+## Why does stock dilution occur?
+No investor wants to see their shares go down in value, so why would a company choose to dilute their shares? There are several reasons, and not all of them are negative:
+### 1. Raising funds for growth 
+If a company needs money to expand, pay off debt, or sustain operations, it may issue additional shares for [investors to buy](https://public.com/learn/how-to-buy-stocks-online). While dilution initially reduces the value of existing shares, it can lead to long-term benefits if the capital raised is used effectively to generate higher returns.
+### 2. Employee stock options (ESOs) 
+Companies, especially startups, often offer stock options as part of employee compensation. When employees exercise these options, new shares are created, diluting existing ownership percentages.
+### 3. Misconceptions about stock splits 
+It’s important to note that [stock splits](https://public.com/learn/what-is-a-stock-split) do not dilute shares. For example, if a company conducts a 2-for-1 stock split, your one share at $20 becomes two shares at $10 each. The total value of your investment remains the same, as does the company’s market capitalization.
+In summary, stock dilution often reflects strategic decisions by a company. However, its outcomes, positive or negative, depend on how the raised funds are utilized.
+[![public.com](https://public.com/wp-content/uploads/2024/03/General-1-2-1024x386.png)](https://public.sng.link/Ag0a8/f14v?_ios_dl=matador%3A%2F%2F&_android_dl=public%3A%2F%2F&_smtype=3)
+## How stock dilution impacts investors?
+Investors should pay close attention to stock dilution, as it can significantly affect the value of their investments. When a company issues new shares, the ownership percentage and value of each existing share decrease. In many cases, share ownership also provides [voting rights](https://public.com/learn/voting-vs-non-voting-shares) in major company decisions, such as electing the board of directors. A reduction in share ownership percentage due to dilution directly translates to diminished voting power.
+Stock dilution can also impact a company’s [earnings per share (EPS)](https://public.com/learn/earnings-per-share). EPS is calculated by dividing net income by the total number of outstanding shares, serving as a measure of a company’s profitability. Since stock dilution increases the number of shares outstanding, it can lower EPS. However, if the funds raised through the issuance of new shares are effectively utilized, such as for growth or acquisitions, the resulting increase in net income may offset the dilution’s effect on EPS.
+The potential for stock dilution can influence an investor’s decision to buy or sell shares in a company. If a company signals the need for additional funding to grow or acquire new business, it may indicate that more shares will be issued. Investors should monitor these indicators and weigh the benefits of staying invested in a company that may experience dilution in the near future.
+## How to calculate stock dilution?
+If you are an investor in a company that recently issued new shares and want to calculate the diluted value of your ownership, you can follow this simple method:
+### Example:
+To simplify this process for more complex scenarios, consider using an [online calculator](https://www.educba.com/dilution-formula/) to determine diluted share values quickly and accurately.
+## Bottom line
+Stock dilution is a vital concept for any investor to understand. While it can initially reduce the value of existing shares, dilution often reflects strategic decisions like raising capital for growth or retaining talent. Its effects, positive or negative, depend on how effectively the raised funds are utilized. By understanding the types and causes of dilution, along with calculating its impact, you can make more informed decisions about your investments.
+We use cookies and similar technologies as described in our [privacy policy](https://public.com/privacy-policy). You can manage your cookie settings at any time.
+![](https://bat.bing.com/action/0?ti=148020268&tm=gtm002&Ver=2&mid=a15bf74c-40cf-47ea-8d17-373fdc867d91&bo=1&sid=604bca80f6d211f0a352e3ec0896e0dd&vid=604bd580f6d211f0823e1d77b1762b6f&vids=1&msclkid=N&gtm_tag_source=1&uach=pv%3D10.0&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=What%20is%20stock%20dilution%20and%20how%20it%20impacts%20investors%3F&p=https%3A%2F%2Fpublic.com%2Flearn%2Fwhat-is-stock-dilution&r=&evt=pageLoad&sv=2&cdb=AQAQ&rn=23767)
+![](https://t.co/i/adsct?bci=3&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=2&event_id=dcb14ec9-01cd-477e-94ab-f72313972dd4&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=56c73533-1e8a-49f7-9325-569e4fa24f75&pt=What%20is%20stock%20dilution%20and%20how%20it%20impacts%20investors%3F&tw_document_href=https%3A%2F%2Fpublic.com%2Flearn%2Fwhat-is-stock-dilution&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o2cbz&type=javascript&version=2.3.35)![](https://analytics.twitter.com/i/adsct?bci=3&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=2&event_id=dcb14ec9-01cd-477e-94ab-f72313972dd4&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=56c73533-1e8a-49f7-9325-569e4fa24f75&pt=What%20is%20stock%20dilution%20and%20how%20it%20impacts%20investors%3F&tw_document_href=https%3A%2F%2Fpublic.com%2Flearn%2Fwhat-is-stock-dilution&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o2cbz&type=javascript&version=2.3.35)![](https://t.co/1/i/adsct?bci=5&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=fba7027b-2207-4b31-b0b1-27a49786a1c9&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=56c73533-1e8a-49f7-9325-569e4fa24f75&pt=What%20is%20stock%20dilution%20and%20how%20it%20impacts%20investors%3F&tw_document_href=https%3A%2F%2Fpublic.com%2Flearn%2Fwhat-is-stock-dilution&tw_iframe_status=0&txn_id=o2cbz&type=javascript&version=2.3.35)![](https://analytics.twitter.com/1/i/adsct?bci=5&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=fba7027b-2207-4b31-b0b1-27a49786a1c9&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=56c73533-1e8a-49f7-9325-569e4fa24f75&pt=What%20is%20stock%20dilution%20and%20how%20it%20impacts%20investors%3F&tw_document_href=https%3A%2F%2Fpublic.com%2Flearn%2Fwhat-is-stock-dilution&tw_iframe_status=0&txn_id=o2cbz&type=javascript&version=2.3.35)
+
+==================================================
+
+SOURCE: https://ramp.com/blog/what-is-dilution
+October 7, 2025
+# What is share dilution? Guide for founders in 2025
+![](https://ramp.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6jz6vxxd%2Fproduction%2F3e61e938b236a69c751dc026e3e3a53885b2a3c1-1200x600.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)
+[](https://x.com/intent/post?url=&text=)[](https://www.linkedin.com/shareArticle?mini=true&url=&title=)[](https://www.facebook.com/sharer.php)_mail_
+In this article
+![Sidebar CTA](https://ramp.com/_next/image?url=%2Fassets%2Fimages%2Fblog%2Fsidebar-cta-default.webp&w=750&q=75&dpl=dpl_2eUqMkuCgq4Wm1hd3wdyMUNu3pCW)
+2,000+5 star reviews
+Spending made smarter
+Easy-to-use cards, funds, approval flows, vendor payments —plus an average savings of 5%.1
+Explore this topic with AI[Open ChatGPT](https://chatgpt.com/?q=Based%20on%20Ramp's%20blog%20post%20https%3A%2F%2Framp.com%2Fblog%2Fwhat-is-dilution%2C%20what%20are%20the%20most%20effective%20strategies%20for%20minimizing%20equity%20dilution%20during%20fundraising%20rounds%2C%20and%20how%20can%20modern%20financial%20operations%20platforms%20like%20Ramp%20help%20startups%20extend%20runway%20and%20reduce%20the%20need%20for%20frequent%20fundraising%20by%20automating%20expense%20management%20and%20improving%20cash%20flow%20visibility%3F%20Feel%20free%20to%20question%20me%20to%20get%20more%20information%20about%20my%20business%20afterwards.)
+Nearly every founder faces the prospect of dilution when raising capital. Each new investment round or equity grant shifts ownership and influence across the cap table.
+In finance, dilution happens when your ownership percentage decreases because new shares are issued. As a founder, this occurs whenever you raise capital, issue employee stock options, or convert debt into equity. While some equity dilution is unavoidable for growth, understanding how it works helps you protect your stake and control.
+It influences ownership, [valuation](https://ramp.com/blog/how-to-evaluate-your-409a-valuation), and voting power. Founders who know how to calculate and model dilution can raise capital strategically and preserve more equity over time.
+## What is share dilution?
+Dilution is the reduction of existing shareholders’ ownership percentage, earnings per share (EPS), or voting power when a company issues new shares.
+Think of it as your slice of the pie staying the same size while the pie itself gets bigger. You still own the same number of shares, but they represent a smaller portion of the company.
+To understand share dilution, we first need to define some key concepts:
+There are three main types of dilution, each affecting ownership and control differently:
+Type of dilution | What happens | Impact on founders  
+---|---|---  
+Ownership dilution | New shares are issued to investors or employees, reducing each existing shareholder’s percentage | Founders own a smaller portion of the company  
+Economic dilution | Earnings per share or valuation decrease because profits are divided among more shares | The company may appear less profitable even if revenue is stable  
+Voting dilution | Additional shares lower existing shareholders’ voting influence | Founders may lose control over company decisions  
+## How dilution of ownership happens
+Dilution of ownership occurs when a company issues additional shares, reducing the percentage held by existing shareholders. It’s similar to how [equity financing](https://ramp.com/blog/equity-financing) changes a company’s ownership structure over time.
+Say you have 2 out of 8 slices of pizza, or 25%. If the pizza is recut into 16 slices and you still hold 2, your share of the pizza drops to 12.5%.
+Each issuance reshapes the cap table, shifting control and influence. Founders can’t avoid dilution entirely, but understanding when and why it happens helps determine whether the tradeoff supports long-term value creation.
+Companies issue new shares for several reasons:
+definition
+##### Simple agreement for future equity (SAFE)
+A simple agreement for future equity, or SAFE, is a funding mechanism used by early-stage companies to raise capital from investors in exchange for the promise of future equity.
+## How to calculate stock dilution step by step
+Modeling stock dilution helps you see how new investments or equity grants change your ownership stake. Founders who model dilution before raising can better predict the impact of each round.
+### Step 1: Identify pre-money shares
+Start with the total number of shares before any new issuance. Include founder shares, investor shares from previous rounds, and vested employee options. Don’t forget to account for shares reserved in your option pool that haven’t yet been granted.
+### Step 2: Add new shares issued
+Calculate the additional shares created from the current funding round, option pool expansion, or convertible note conversions. For a priced round, divide the investment amount by the price per share. For SAFEs or convertible notes, use their conversion terms to determine the number of new shares.
+### Step 3: Calculate post-money ownership percentages
+Divide your original share count by the new total number of shares outstanding. For example, if you own 1 million shares out of 4 million total (25%) and the company issues 1 million new shares, your ownership drops to 20% (1M / 5M).
+### Step 4: Model future rounds and option pool increases
+Project future dilution scenarios for each anticipated funding round. Factor in typical option pool expansions of 10–20% and expect roughly 15–25% dilution per round when planning long-term ownership.
+tip
+##### Understand pre-money vs. post-money valuation
+Pre-money valuation is the company’s value before new investment is added. Post-money valuation includes the new capital after closing. Understanding the difference helps founders anticipate how much ownership they’re trading in each round.
+## Stock dilution examples for public and private companies
+Dilution affects companies differently depending on why and how new shares are issued. The examples below show how dilution in finance changes ownership, valuation, and control in both public and private companies.
+Scenario | Description | Example figures | Resulting dilution | Key takeaway  
+---|---|---|---|---  
+Public company secondary offering | A public company issues additional shares to raise capital for acquisitions or growth. | 100M shares outstanding increases to 120M after issuance; stock trades at $50 per share; raises $1B. | An investor owning 0.1% now owns 0.083%. | Ownership percentage falls, but if the capital drives growth, the higher valuation can offset equity dilution.  
+Startup Series A with SAFE conversions | A startup raises a Series A funding round after earlier SAFEs convert to equity. | Founders hold 8M shares; SAFEs of $2M at a $10M cap create 2M new shares; Series A adds $5M for 3.33M shares. | Founders’ stake drops from 100% to 60%. | Early investors and convertible securities amplify dilution, but added capital can boost growth and long-term value.  
+In both cases, dilution can strengthen the business when the new capital fuels sustainable growth. The key is ensuring that each issuance creates value greater than the ownership lost.
+## Economic vs. voting dilution explained
+Equity dilution changes more than ownership; it affects both financial value and voting rights. Understanding these two forms of dilution helps founders protect their influence and returns.
+Economic dilution reduces your claim on the company’s profits, [earnings per share (EPS)](https://ramp.com/blog/how-to-calculate-earnings-per-share), and exit proceeds. When new shares are issued, each existing share represents a smaller portion of future value. This isn’t always negative; if the new capital drives profitability or increases valuation, you may still own a smaller piece of a larger business. That’s often considered good dilution.
+Voting dilution weakens your control over company decisions. Some share classes carry different voting rights, so preferred or major investors may hold enhanced or super-voting shares. As additional shares are issued, your ownership percentage—and, therefore, your ability to influence outcomes—can decline faster than your economic value.
+Both forms of dilution matter. You may own a smaller percentage yet still gain more total value if the company grows. The goal isn’t to avoid dilution but to ensure each round produces growth that outweighs the ownership trade-off.
+## Common causes of dilution: Option pools, convertibles, M&A
+Three common triggers drive dilution in finance, each affecting ownership and control in different ways. Understanding the timing and impact of these events helps founders plan fundraising, hiring, and growth without giving up more equity than necessary.
+### Employee option pool expansion
+Expanding the option pool before a funding round dilutes only existing shareholders, while post-round expansion dilutes everyone, including new investors. Most venture investors require a 10–20% pool pre-money, meaning it comes out of founders’ equity.
+#### Example
+If your stake is 40% and the option pool increases from 10% to 20% pre-money, your new stake is:
+0.40 * (0.80 / 0.90) = 35.56%
+This top-up adds pool shares equal to 12.5% of the current total, increasing the denominator by roughly 1.125x.
+### SAFE or convertible note conversion
+Convertible securities such as SAFEs and convertible notes convert into equity during a funding round, usually at a discount or valuation cap. The more SAFEs you’ve issued and the lower their caps, the more dilution you’ll face.
+#### Example
+Raising $3 million across several SAFEs at different caps can create thousands of new shares at varying prices, compounding dilution and reducing founders’ ownership stake faster than expected.
+### Share-based mergers and acquisitions
+Companies often issue stock instead of cash to acquire another business. This preserves cash but dilutes existing shareholders immediately.
+#### Example
+If your company issues 30% additional shares to buy a competitor, your ownership stake drops by that same amount, even if the combined company’s valuation rises.
+## Typical dilution benchmarks from seed to Series C
+Typical dilution in finance varies by funding stage, industry, and market conditions. According to data from Carta, dilution per round has [declined slightly in recent years](https://carta.com/data/dilution-q1-2024/?utm_source=chatgpt.com), but founders should still expect meaningful ownership shifts through early rounds.
+Funding stage | Typical dilution range | What founders should expect  
+---|---|---  
+Seed | 18–22% | Early institutional investors often take around 20% ownership. Carta found median dilution of ~20.1% in 2024.  
+Series A | 16–22% | The largest single dilution event for most startups. Carta reports ~20.5% historical median and ~17.9% in Q1 2025.  
+Series B | 12–18% | Growth capital rounds average ~16.7% median dilution per [Carta’s Q1 2025 report](https://carta.com/data/state-of-private-markets-q4-2024/).  
+Series C | 10–15% | Later-stage rounds typically see 10–15% dilution as valuations rise, per [SaaStr’s analysis of Carta data](https://www.saastr.com/carta-the-actual-real-dilution-from-series-a-b-c-and-d-rounds/).  
+Series D (and beyond) | 8–12% | Mature rounds generally result in ~10% dilution, according to SaaStr.  
+For founders, these ranges are helpful benchmarks rather than fixed rules. Actual dilution depends on valuation, investor demand, and round timing.
+On top of that, note that dilution compounds across rounds. If you begin with 50% ownership after seed and experience 20%, 20%, and 15% dilution in later rounds, you'd retain:
+0.50 * 0.80 * 0.80 * 0.85 = 27%
+## 5 tactics to minimize dilution
+You can’t avoid dilution entirely, but you can control when and how it happens. These tactics help founders raise capital efficiently and protect ownership along the way:
+### 1. Raise only the capital you need
+Every funding round introduces dilution. Taking more money than required can reduce your ownership faster than your company’s valuation grows. Calculate your true runway needs, add a six-month buffer, and raise that amount. Overshooting by even $2 million could mean 5–10% extra dilution you didn’t need.
+### 2. Negotiate higher valuations with traction metrics
+A strong 409A valuation protects ownership. Before raising, focus on metrics that build investor confidence: >20% monthly recurring revenue growth, 150% net revenue retention, or 50% gross margins. Waiting one quarter to show stronger traction can raise your valuation from $15 million to $20 million, cutting dilution from 25% to 20%.
+### 3. Time option-pool expansions post-round
+Investors often ask to expand the employee stock option pool pre-money, which dilutes founders' equity before new capital arrives. Push for a post-money expansion instead. This timing shift can save 2–3% dilution per round. If investors insist on pre-money, negotiate a smaller increase and agree to revisit the pool after closing.
+### 4. Use debt or revenue-based financing for non-core needs
+Not every expense requires equity funding. Use [venture debt](https://ramp.com/blog/what-is-venture-debt), revenue-based financing, or traditional loans for predictable, low-risk costs such as equipment or marketing spend. You’ll preserve ownership for growth initiatives that truly require equity capital.
+### 5. Model scenarios before signing term sheets
+Before you commit, build three scenarios: base, downside, and upside. Include future rounds, option grants, and possible down rounds. Understanding how each case affects ownership helps you negotiate better terms and avoid surprises later.
+Strategic fundraising isn’t about avoiding dilution; it’s about trading ownership for growth on your own terms.
+## Dilution tracker tools and cap table modeling tips
+Tracking dilution accurately prevents surprises and helps founders plan future fundraising rounds. Start simple, then upgrade your tools as your company’s equity structure becomes more complex.
+### Spreadsheet templates
+Early-stage startups can manage ownership tracking in Excel or Google Sheets. Build a simple cap table listing shareholder names, number of shares, and ownership percentage. Copy the sheet to model future rounds and see how each scenario affects founder and investor stakes.
+Your spreadsheet should include:
+### Specialized cap-table software
+Once you introduce multiple share classes, option grants, or convertible notes, manual spreadsheets become error-prone. Platforms such as Carta and Pulley automatically calculate dilution, generate [investor reports](https://ramp.com/blog/financial-reporting), and sync with legal documents.
+Key features to look for include:
+### Integrate real-time expense and runway data
+Knowing your [cash flow](https://ramp.com/blog/business-banking/cash-flow-management) and burn rate helps you raise the right amount of capital and avoid unnecessary equity dilution. Tools such as Ramp automate expense tracking and provide real-time visibility into spending trends. With accurate data, you can pinpoint when to raise, how much to raise, and preserve ownership while scaling efficiently.
+## Spend your capital smarter with Ramp
+Every round of funding affects your ownership, valuation, and long-term control. The goal isn’t to avoid dilution entirely—it’s to understand your capital needs and raise with confidence. That starts with complete visibility into how your company spends and scales.
+Ramp gives you [real-time insights](https://ramp.com/reporting) into your cash flow and spending efficiency so you can forecast runway and plan your next round with data, not guesswork. When your expenses, accounting, and financial systems connect, you’ll always know where capital is going and how it impacts your growth and ownership.
+When you can see every trend before it becomes a problem, you can raise at the right time, on your own terms, and preserve more equity in every round. [Explore Ramp](https://try.ramp.com) to see how finance automation helps you scale efficiently and protect what you’ve built.
+Try Ramp for free
+Share with
+[](https://x.com/intent/post?url=&text=)[](https://www.linkedin.com/shareArticle?mini=true&url=&title=)[](https://www.facebook.com/sharer.php)_mail_
+![](https://ramp.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6jz6vxxd%2Fproduction%2F8d268a6e4feac06a285fe1a39bab13ef576ef1dc-800x800.jpg%3Ffit%3Dmax%26auto%3Dformat&w=1920&q=75)
+[Richard Moy•Finance Writer, Ramp](https://ramp.com/authors/richard-moy)
+Richard Moy has written extensively about procurement and vendor management topics for companies like BetterCloud, Stack Overflow, and Ramp. His writing has also appeared in The Muse, Business Insider, Fast Company, Mashable, Lifehacker, and more.
+Ramp is dedicated to helping businesses of all sizes make informed decisions. We adhere to strict [editorial guidelines](https://ramp.com/editorial-guidelines) to ensure that our content meets and maintains our high standards.
+## FAQs
+Diluting shares means issuing new shares of stock that reduce existing shareholders’ ownership percentage and voting power. Even though shareholders still own the same number of shares, those shares now represent a smaller piece of the company. This is known as share dilution or equity dilution.
+When a company issues new shares, each outstanding stock option or equity grant represents a smaller portion of the total company. However, if the valuation increases after the round, employees can still benefit because their options may be worth more even as their ownership percentage shrinks.
+Yes. A stock buyback reduces the total number of shares outstanding, which increases the ownership percentage and earnings per share (EPS) for remaining shareholders. Companies often repurchase shares to offset prior dilution or signal financial strength.
+Dilution in finance isn’t always negative. If the new capital is used effectively, it can help the company grow faster than ownership decreases. This “good dilution” increases overall valuation, benefiting all shareholders even if their individual stakes are smaller.
+You can limit dilution by negotiating higher valuations, timing option-pool expansions after funding rounds, and raising only the capital you need. Modeling future rounds before signing term sheets helps preserve ownership and control.
+## Don't miss these
+“Ramp gives us one structured intake, one set of guardrails, and clean data end‑to‑end— that’s how we save 20 hours/month and buy back days at close.”
+David Eckstein
+CFO, Vanta
+[Read customer story](https://ramp.com/customers/vanta)
+![How Vanta runs finance on Ramp with programmatic spend for 3 days faster close](https://ramp.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6jz6vxxd%2Fproduction%2F50b8a15c12c6667397ac15c251731fc923e61881-1200x800.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)
+“Ramp is the only vendor that can service all of our employees across the globe in one unified system. They handle multiple currencies seamlessly, integrate with all of our accounting systems, and thanks to their customizable card and policy controls, we're compliant worldwide.” ”
+Brandon Zell
+Chief Accounting Officer, Notion
+[Read customer story](https://ramp.com/customers/notion)
+![How Notion unified global spend management across 10+ countries](https://ramp.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6jz6vxxd%2Fproduction%2Fcd88fba700d83498f62d3ec80b95344a4e559e29-1620x1080.jpg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)
+“When our teams need something, they usually need it right away. The more time we can save doing all those tedious tasks, the more time we can dedicate to supporting our student-athletes.”
+Sarah Harris
+Secretary, The University of Tennessee Athletics Foundation, Inc.
+[Read customer story](https://ramp.com/customers/university-of-tennessee-athletics-foundation)
+![How Tennessee built a championship-caliber back office with Ramp](https://ramp.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6jz6vxxd%2Fproduction%2F5223e44b8a98d2de357af307ade296e7d0d77723-1200x800.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)
+“Ramp had everything we were looking for, and even things we weren't looking for. The policy aspects, that's something I never even dreamed of that a purchasing card program could handle.”
+Doug Volesky
+Director of Finance, City of Mount Vernon
+[Read customer story](https://ramp.com/customers/city-of-mount-vernon)
+![City of Mount Vernon addresses budget constraints by blocking non-compliant spend, earning cash back with Ramp](https://ramp.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6jz6vxxd%2Fproduction%2F3b63bd1e845f4fd95526914a21219be66ef598d1-1200x800.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)
+“Switching from Brex to Ramp wasn’t just a platform swap—it was a strategic upgrade that aligned with our mission to be agile, efficient, and financially savvy.”
+Lily Liu
+CEO, Piñata
+[Read customer story](https://ramp.com/customers/pinata)
+![How Piñata halved its finance team’s workload after moving from Brex to Ramp](https://ramp.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6jz6vxxd%2Fproduction%2Fc2c083b6fc50e2c7772af2e8720ac46c3e6c2372-1200x800.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)
+“With Ramp, everything lives in one place. You can click into a vendor and see every transaction, invoice, and contract. That didn’t exist in Zip. It’s made approvals much faster because decision-makers aren’t chasing down information—they have it all at their fingertips.”
+Ryan Williams
+Manager, Contract and Vendor Management, Advisor360°
+[Read customer story](https://ramp.com/customers/advisor360)
+![How Advisor360° cut their intake-to-pay cycle by 50%](https://ramp.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6jz6vxxd%2Fproduction%2F17808d7d2105d1c703b53395ba036d24a0c84775-1200x800.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)
+“The ability to create flexible parameters, such as allowing bookings up to 25% above market rate, has been really good for us. Plus, having all the information within the same platform is really valuable.”
+Caroline Hill
+Assistant Controller, Sana Benefits
+[Read customer story](https://ramp.com/customers/sana-benefits)
+![How Sana Benefits improved control over T&E spend with Ramp Travel](https://ramp.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6jz6vxxd%2Fproduction%2Fefdc769d1fd8beb31ab646a38eef24d6290b6620-1200x630.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)
+“More vendors are allowing for discounts now, because they’re seeing the quick payment. That started with Ramp—getting everyone paid on time. We’ll get a 1-2% discount for paying early. That doesn’t sound like a lot, but when you’re dealing with hundreds of millions of dollars, it does add up.”
+James Hardy
+CFO, SAM Construction Group
+[Read customer story](https://ramp.com/customers/sam-construction-group)
+![How SAM Construction Group LLC gained visibility and supported scale with Ramp Procurement](https://ramp.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F6jz6vxxd%2Fproduction%2Ff5c0f7cc0e761fba7dd9c74a90864a9759903f2c-1200x800.jpg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)
+
+==================================================
+

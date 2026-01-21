@@ -1,0 +1,255 @@
+SOURCE: https://www.schwab.com/learn/story/3-order-types-market-limit-and-stop-orders
+Limit Orders, Stop Orders, & Market Orders | Charles Schwab
+* * *
+[Order Types](https://www.schwab.com/learn/topic/order-types)
+# 3 Order Types: Market, Limit, and Stop Orders
+Market orders, limit orders, and stop orders are common order types used to buy or sell stocks and ETFs. Learn how and when a trader might use them.
+June 11, 2024 • Beginner
+![](https://educationcontent.schwab.com/sites/g/files/eyrktu1071/files/3x2OrderTypes.jpg?imwidth=3840)
+* * *
+  
+It helps to think of each order type as a distinct tool suited to its own purpose. Whether you're buying or selling, it's important to identify your primary goal— whether it's having your order filled quickly at the prevailing market price or controlling the price of your trade. Then you can determine which order type is most appropriate to achieve your goal.
+## What is a market order and how do I use it?
+A [**market order**](https://www.schwab.com/learn/story/mastering-order-types-market-orders) is an order to buy or sell a stock at the market's best available price. It typically ensures an execution but doesn't guarantee a specific price. When the primary goal is to execute the trade _immediately_ , a market order is optimal. It's generally appropriate when you think a stock is priced right, when you're sure you want a fill on your order, or when you want an immediate execution.  
+  
+A few caveats: A stock's quote typically includes the highest bid potential buyers are willing to pay to acquire the stock, the lowest offer potential sellers are willing to accept to sell the stock, and the last price at which the stock traded. However, the last trade price may not necessarily be current, particularly in the case of less-liquid stocks, whose last trade may have occurred minutes or hours ago. This might also be the case in fast-moving markets when stock prices can change significantly in a short period of time. Therefore, when placing a market order, the current bid and offer prices are generally of greater importance than the last trade price.  
+  
+Market orders are usually placed when the market is already open. A market order placed when markets are closed would be executed at the next market open, which could be significantly higher or lower from its prior close. Between market sessions, numerous factors can impact a stock's price, such as the release of earnings, company news or economic data, or unexpected events that affect an entire industry, sector, or the market as a whole.
+* * *
+## Want to put your knowledge into action?
+[Explore trading at Schwab](https://www.schwab.com/trading)
+* * *
+## What is a limit order and how does it work?
+A [**limit order**](https://www.schwab.com/learn/story/mastering-order-types-limit-orders) is an order to buy or sell a stock with a restriction on the maximum price to be paid (with a buy limit) or the minimum price to be received (with a sell limit). If the order is filled, it will only be at the specified limit price or better. However, there is no assurance of execution. A limit order may be appropriate when you think you can buy at a price lower than—or sell at a price higher than—the current quote. The thinkorswim® chart below illustrates the use of market orders versus limit orders.
+![This shows a market order to buy or sell will be executed at or near the current price. A buy limit is sometimes placed below the market price, and a sell limit is placed above the current price.  ](https://educationcontent.schwab.com/sites/g/files/eyrktu1071/files/3%20Order%20Types1c.png?imwidth=3840)
+Source: thinkorswim platform
+In this example, the last trade price was $149.50. Let's review the scenarios for each order type:
+Note, even if the stock reached the specified limit price, the order may not fill because there may be orders ahead of yours. In that case, there may not be enough (or additional) sellers (or buyers) willing to sell (or buy) at that limit price, so your order wouldn't fill. (Limit orders are generally executed on a first-come, first-served basis.) That said, it's also possible your order could fill at an even better price. For example, a buy order could execute below a limit price, and a sell order could execute for more than a limit price. 
+### A few words about timing
+At Schwab, you have several choices for how long your limit order stays active. 
+While placing orders in extended hours is sometimes viable, traders will want to consider some of the downsides as well. First, only limit orders are accepted in extended orders; market and stop orders are not. Second, trading activity often falls sharply at the end of normal trading hours and the lack of liquidity in extended hours can pose additional risks, especially during the GTC+ extended-hours time frame. For example, an earnings report or other news event might trigger a sharp drop in the stock and fill a buy limit order, only to see the stock continue to move lower against the trader.
+## What is a stop order, and how is it used?
+A [**stop order**](https://www.schwab.com/learn/story/stop-orders-mastering-order-types) is an order to buy or sell a stock **at the market price** once the stock has traded at or through a specified price (the "stop price"). If the stock reaches the stop price, the order becomes a live market order and is typically filled at the next available market price. If the stock fails to reach the stop price, the order isn't executed.
+A stop order may be appropriate in various scenarios:
+A **sell stop order** is sometimes referred to as a "stop-loss" order because it can be used to help protect an unrealized gain or seek to minimize a loss. A sell stop order is entered at a stop price below the current market price. If the stock drops to the stop price (or trades below it), the stop order to sell is triggered and becomes a market order to be executed at the market's current price. A sell stop order is not guaranteed to execute near your stop price. A stop order may also be used to buy. A **buy stop order i** s entered at a stop price above the current market price (in essence, "stopping" the stock from getting away from you as it rises).
+Let's revisit our previous example but look at the potential impacts of using a stop order to buy and a stop order to sell—with the stop prices the same as the limit prices previously used.
+While the two graphs may look similar, note that the position of the red and green lines is reversed: The stop order to sell would trigger when the stock price hit $144 (or less) and would be executed as a market order at the current price. So, if the stock were to fall further after hitting the stop price, it's possible that the order could be executed at a price that's lower than the stop price. Conversely, for the stop order to buy, if the stock price of $164 is reached, the buy stop order could be executed at a higher price.
+![While a market order typically executes near the current price, sell stops are often placed below the market price and buy stops above the market price.](https://educationcontent.schwab.com/sites/g/files/eyrktu1071/files/3%20Order%20Types2b.png?imwidth=3840)
+Source: thinkorswim platform
+## What are price gaps?
+A **price gap** occurs when a stock's price makes a sharp move up or down with no trading occurring in between. It can happen because of factors like earnings announcements, a change in an analyst's outlook, or a news release. Gaps frequently occur when exchanges open or when news or events outside of trading hours have created an imbalance in supply and demand.
+### Stop orders and price gaps
+Remember that the key difference between a limit order and a stop order is that the limit order will only be filled at the specified limit price or better; whereas, once a stop order triggers at the specified price, it will be filled at the prevailing price in the market—which means it could be executed at a price significantly different than the stop price.
+### What is a stop limit order?
+Another order type combines a stop order and a limit order. The **stop limit order** specifies the price that the order should be triggered and the price that the trader wants to execute the trade. It gives the trader a traditional stop order, but once triggered, a limit order at their specified price instead of a market order. While the trader might prefer to sell at their limit price, execution isn't guaranteed, and the trader has risk of the stock moving lower after triggering.
+The chart below shows a stock that "gapped down" from more than $34 to around $32 between a previous closing price and the next opening price. A stop order to sell at a stop price of $34—which would trigger at the market's open because the stock's price fell below the stop price and, as a market order, executes at $32—could be significantly lower than intended, and worse for the seller. In the case of a stop limit order with the stop set at $34 and the limit at $33, for example, the trader could be watching the stock trade lower and "hoping" or "waiting" for the stock to return to $33 before being executed.
+#### Stop order: Gaps down can result in an unexpected lower price.
+![If the stock falls sharply and gaps lower, a stop order to sell at $34 might execute at a lower price, such as $32. ](https://educationcontent.schwab.com/sites/g/files/eyrktu1071/files/3%20Order%20Types3.png?imwidth=3840)
+Source: thinkorswim platform
+### Limit orders and price gaps
+In a similar way that a "gap down" can work against you with a stop order to sell, a "gap up" can work in your favor in the case of a limit order to sell. In the next example, a limit order to sell is placed at a limit price of $105. The stock's prior closing price was $104. If the stock opened at $110 due to positive news released after the prior market's close, the trade would be executed at the market's open at that price—higher than anticipated and better for the seller.
+#### Limit order: Gap up can result in an unexpected higher price.
+![If a stock rallies and gaps higher, a limit order to sell at $105 could potentially be executed at a higher price, such as $110.](https://educationcontent.schwab.com/sites/g/files/eyrktu1071/files/3%20Order%20Types4.png?imwidth=3840)
+Source: thinkorswim platform
+## Bottom line
+Many factors can affect trade executions. In addition to using different order types, traders can specify other conditions that affect an order's time in effect, volume, or price constraints. Before placing your trade, become familiar with the various ways you can control your order. That way, you'll be much more likely to receive the outcome you're seeking.
+Modal Window
+* * *
+## Want to put your knowledge into action?
+[Explore trading at Schwab](https://www.schwab.com/trading)
+* * *
+## More from Charles Schwab
+## Explore more topics
+The information provided here is for general informational purposes only and should not be considered an individualized recommendation or personalized investment advice. The investment strategies mentioned here may not be suitable for everyone. Each investor needs to review an investment strategy for his or her own particular situation before making any investment decision.
+All expressions of opinion are subject to change without notice in reaction to shifting market conditions. Data contained herein from third-party providers is obtained from what are considered reliable sources. However, its accuracy, completeness, or reliability cannot be guaranteed.
+Examples provided are for illustrative purposes only and not intended to be reflective of results you can expect to achieve.
+Investing involves risk, including loss of principal.
+The information and content provided herein is general in nature and is for informational purposes only. It is not intended, and should not be construed, as a specific recommendation, individualized tax, legal, or investment advice. Tax laws are subject to change, either prospectively or retroactively. Where specific advice is necessary or appropriate, individuals should contact their own professional tax and investment advisors or other professionals (CPA, Financial Planner, Investment Manager) to help answer questions about specific situations or needs prior to taking any action based upon this information.
+Extended Hours Trading may not be suitable for all investors and poses certain risks. These risks include, but are not limited to, lower liquidity, higher volatility and wider spreads. To learn more call 1-800-435-4000.
+0624-5L7W
+
+==================================================
+
+SOURCE: https://investor.vanguard.com/investor-resources-education/online-trading/stock-order-types
+About
+Learn about stock order types, including market, limit, and stop orders. Understand how they work and when to use them for smarter trading decisions.
+Investing strategies
+Online trading
+Education
+Page
+Stocks
+ETFs
+Investing strategies
+# Stock and ETF order types: Understanding market, limit, and stop orders
+Stock and ETF order types: Understanding market, limit, and stop orders
+success
+You have saved this article
+14 minute read
+success
+You have saved this article
+![Smiling woman with laptop laying on couch.](https://investor.vanguard.com/content/dam/retail/digital/en/photos/af20250711134116-smiling-woman-with-laptop-laying-on-couch.jpg)
+## Points to know
+## Buy orders vs. sell orders
+In the [stock market](https://investor.vanguard.com/investor-resources-education/portfolio-management/stock-market), buy orders and sell orders are the building blocks of transactions. A buy order is a request to purchase a security, while a sell order is a request to sell a security.
+When trading, you're typically buying or selling at the current market price—and those prices can fluctuate rapidly. To [manage volatility risk](https://investor.vanguard.com/investor-resources-education/online-trading/trading-during-volatile-markets), traders can use specific order types that give more control over the price you're willing to pay or sell for. For example, a limit order lets you set a maximum price to buy a security or a minimum price to sell a security. This way, you can help protect yourself from market swings and avoid trading at a price you don't want. The limit order is one among several order types that can help you refine your trading strategy.
+## Types of stock and ETF orders
+To trade a stock or ETF, you submit an order to buy or sell a specific number of shares near a set price. There are several order types, each with distinct rules and advantages.
+Choosing the right order type is crucial for your trading strategy. If you choose the wrong order type, you might end up paying more than you want, selling for less than you want, or even missing out on a trade altogether. Here are the 4 most common order types, along with their benefits and risks:
+Order Type |  Description |  Benefits |  Risks  
+---|---|---|---  
+**Limit order** | Buy/sell at a specific price (or better). | Price control. | May not be executed.  
+**Market order** |  Buy/sell at the current market price. |  Fast execution. |  No price control.  
+**Stop-loss order** |  Buy or sell once a specific price is reached. (Once a stop-loss order is triggered it becomes a a market order to sell.) |  Loss protection. |  May sell for a price less than or buy for a price higher than the desired stop price.  
+**Stop-limit order** |  Combination of a stop-loss order. (Once a stop limit order is triggered the order becomes a limit order to buy or sell.) |  Price control and loss protection. |  More complex. May not be executed, and can buy above stop price or sell below stop price if the market jumps quickly.  
+  
+Description:
+Benefits:
+Risks:
+Description:
+Benefits:
+Risks:
+Description:
+Benefits:
+Risks:
+Description:
+Benefits:
+Risks:
+Additional Vanguard capabilities for large positions or illiquid securities:
+For oversized stock or ETF orders, clients at Vanguard may request that an order be designated as "not held." This gives Vanguard's Block Desk the discretion to determine the optimal timing and method of execution, using advanced tools such as algorithmic strategies and access to non-displayed liquidity to minimize market impact and seek best execution.
+When immediate execution is preferred, Vanguard may facilitate a negotiated trade exclusively for ETF transactions. This involves initiating a request for quote process, where multiple liquidity providers are invited to competitively quote prices. The best-priced quote is selected for execution, offering price certainty and immediate liquidity. This approach ensures flexibility and efficiency in the handling of larger ETF orders.
+Eligibility and acceptance of "not held" orders requiring special handling is at the sole discretion of Vanguard Brokerage. These orders can only be facilitated over the phone. For more details, please contact a Vanguard Brokerage Block desk associate.
+## Limit orders: Setting parameters
+A limit order is an order to buy or sell a stock at a specific price (or better) that you set. It's like setting a budget for a stock purchase or sale. With a limit order, you're essentially saying, "I'm willing to pay up to $X for this stock" (buy limit) or "I'm willing to sell this stock for at least $Y" (sell limit).
+**Buy limit orders:**
+**Sell limit orders:**
+Limit orders ensure you get the price you want, but they don't guarantee execution. If there's no buyer or seller willing to meet your price, your order might not be filled.
+**Buy limit order**
+You want to purchase XYZ stock, which is trading at $15 a share. You'll buy if it drops to $13, so you place a buy limit order with a limit price of $13. The order will only execute at or below your $13 limit.
+**Sell limit order**
+You own a stock that's trading at $12 a share. You'll sell if the price rises to $13, so you place a sell limit order with a limit price of $13. The order will only execute at or above your $13 limit.
+##  Broker/broker-dealer 
+A licensed individual or firm that executes orders to buy or sell mutual funds or other securities for the public and usually gets a commission for doing so.
+## Market orders: A basic request
+When you think of buying and selling stocks or ETFs, a market order is probably the first thing that comes to mind. You place the order, a broker sends it to the market to execute as quickly as possible, and the order is completed.
+A market order is an order to buy or sell a security at the best available price in the market at the time the order is received. This type of order prioritizes execution over price, meaning your order will be filled as long as there are willing buyers or sellers in the market.
+##  Liquidity 
+The degree of a security's marketability; that is, how quickly the security can be sold at a fair price and converted to cash.
+[Find out about trading during volatile markets](https://investor.vanguard.com/investor-resources-education/online-trading/trading-during-volatile-markets)
+Market orders can be a good choice for some trades, but not all. Be mindful of trading hours and liquidity of the security before placing a market order. If you place a market order when the market is closed, you may see a large jump or drop in price from one day to another.
+Here are some key points to know when placing market orders:
+**Consider using market orders with:**
+**Be cautious with:**
+Let's say you want to buy 100 shares of XYZ stock, which is trading at $15 a share. You're willing to pay the current market price, whatever it is.
+**How it works:**
+## Stop-loss orders: Setting trigger prices
+A stop-loss order is an order that becomes a market order when the security reaches a specific price, known as the stop price. It's also commonly called a "stop order."
+**Sell stop-loss orders:**
+**Buy stop-loss orders:**
+The terms "stop-loss order" and "stop order" are sometimes used interchangeably, but it's important to understand that a stop-loss order doesn't guarantee protection from losses as a result of poor execution. That's because once the stop price is reached, the order becomes a market order, potentially leading the execution price to differ from the stop price, especially in volatile markets.
+Placing a "stop-limit order" may help manage some of the risks associated with stop-loss orders.
+Here are some additional points to know:
+**Consider using stop-loss orders to:**
+**Use caution when dealing with:**
+**Buy stop-loss order**
+You want to purchase a stock that is currently trading at $20.50 a share. Since you think the price will continue to rise, you decide you're willing to buy if it increases to $22.20 a share, and you place a buy stop-loss order with a stop price of $22.20.
+Once the stock hits $22.20 or higher, you buy the stock at the current market price, which may be significantly higher than your $22.20 stop price.
+**Sell stop-loss order**
+You own a stock that's trading at $18.25 a share. You'll sell if its price falls to $15.10 or lower, so you place a sell stop-loss order with a stop price of $15.10.
+Once the stock drops to $15.10 or lower, your stock is sold at the current market price, which may vary significantly from the stop price.
+Here's the risk: If the stock closed at $18 one day and opened at $12 the next day due to news about that stock, the $12 opening price would activate your stop price and trigger a market order. In this situation, your execution price would be significantly different from your stop price. The price of the stock could recover later in the day, but you would've already sold your shares.
+## Stop-limit orders: Getting a price
+A stop-limit order is a type of stop-loss order that combines the features of a stop-loss order and a limit order. When the stock price reaches or passes through the stop price, the stop-limit order is triggered, but instead of turning into a market order, it becomes a limit order to buy or sell at the specified limit price. Your stop price triggers the order; the limit price sets your sales floor or purchase ceiling.
+For example, if you own a stock trading at $50 and set a stop price at $45 and a limit price at $44, the stop-limit order will only sell your shares if the price falls to $45 or lower, but only if you can get at least $44 per share.
+**When to use**
+**Important factors**
+**Buy stop-limit order**
+You want to buy a stock that's trading at $25.25 once it starts to show an upward trend. You don't want to overpay, so you put in a stop-limit order to buy with a stop price of $27.20 and a limit of $29.50.
+If the stock trades at the $27.20 stop price or higher, your order activates and turns into a limit order that won't be filled for more than your $29.50 limit price.
+**Sell stop-limit order**
+You own a stock that's trading at $18.50 a share. You'll sell if its price falls to $15.20, but you won't sell for anything less than $14.10. You place a sell stop-limit order with a stop price of $15.20 and a limit price of $14.10.
+A stop-loss order is triggered when the stock drops to $15.20 or lower, and the order will only execute at or above your $14.10 limit price.
+## Order timing and extended hours trading
+When making your stock order, it's important to use timing options wisely. Day orders remain active only for the trading day on which they're placed and expire if not executed. Good-till-canceled orders remain active for up to 60 calendar days, unless they're executed or canceled.
+Extended hours trading (premarket and after-hours) can be risky due to lower liquidity and increased volatility. Prices can fluctuate more dramatically, and news events may not be fully reflected in the market until the trading day begins. You can use limit orders to get more control over execution prices and mitigate these risks.
+## Price gaps and their impact on orders
+Price gaps occur when the opening price of a security is significantly higher or lower than its previous closing price. These gaps can be caused by various factors, such as earnings reports, major news events, or significant market movements.
+Gaps can have a significant impact on stop and stop-limit orders. For instance, a stop-loss order set below the current price might be triggered by a gap down, causing the order to be executed at a much lower price than anticipated. For example, if a stock closes at $100 and gaps down to $90 the next day due to a negative earnings report, a stop-loss order set at $95 would be executed at $90, resulting in a larger loss than expected.
+## Choosing the right order type for your strategy
+When investing, there are many factors outside of our control, but careful order type selection is one way to influence the impact of your trade. Market orders are best for immediate execution at the current price, while limit orders allow you to set a specific price for buying or selling. Stop-loss orders are useful for setting a price to exit a position if the market moves against you, and stop-limit orders combine the benefits of stop and limit orders by setting both a trigger price and a limit price.
+For beginners, it's often best to start with market and limit orders to get a feel for the market. Advanced traders might find stop and stop-limit orders more useful for managing risk and executing complex strategies. Key factors to consider when choosing an order type include your trading objectives, risk tolerance, and the specific market conditions you're facing.
+However you use stock orders, investing is a great tool for meeting your financial goals and building the life you want.
+#### Want to see your money multiply?
+Investing means giving your money the chance to grow.
+[ See your money's potential ](https://investor.vanguard.com/tools-calculators/potential-growth-tool)
+We offer expert guidance at the low cost you'd expect from Vanguard.
+[Compare advice options](https://investor.vanguard.com/advice)
+Ready to get started?
+[ Open an account ](https://personal1.vanguard.com/mmx-move-money/welcome)
+Articles you might like
+Investing strategies
+##### [How to start investing: A guide for beginners  ](https://investor.vanguard.com/investor-resources-education/article/how-to-start-investing "How to start investing: A guide for beginners")
+success
+Retirement
+##### [Get started on retirement saving  ](https://investor.vanguard.com/investor-resources-education/retirement/savings "Get started on retirement saving")
+success
+Personal finance
+##### [Understanding investment goals and goals based investing  ](https://investor.vanguard.com/investor-resources-education/investing-goals "Understanding investment goals and goals based investing ")
+success
+All investing is subject to risk, including the possible loss of the money you invest. Diversification does not ensure a profit or protect against a loss.
+Vanguard's advice services are provided by Vanguard Advisers, Inc. ("VAI"), a registered investment advisor, or by Vanguard National Trust Company ("VNTC"), a federally chartered, limited-purpose trust company.
+The services provided to clients will vary based upon the service selected, including management, fees, eligibility, and access to an advisor. [Find VAI's Form CRS and each program's advisory brochure here for an overview](https://personal1.vanguard.com/ngf-next-gen-form-webapp/forms).
+VAI and VNTC are subsidiaries of The Vanguard Group, Inc., and affiliates of Vanguard Marketing Corporation. Neither VAI, VNTC, nor its affiliates guarantee profits or protection from losses.
+![](https://adservice.google.com/ddm/fls/z/dc_pre=CK-Hw4XnnJIDFQuVZgIdFksAgw;u1=15669315400414310191108820296830403224;u6=https%3A%2F%2Finvestor.vanguard.com%2Finvestor-resources-education%2Fonline-trading%2Fstock-order-types;u7=us%3Aen%3Aretail%3Aweb%3Ainvestor%3Ainvestor-resources-education%3Aonline-trading%3Astock-order-types;u8=https%3A%2F%2Finvestor.vanguard.com%2Finvestor-resources-education%2Fonline-trading%2Fstock-order-types;cat=vgent0;num=2287750299216;ord=1;src=12332392;gdpr=%24%7BGDPR%7D;type=allla0;gdpr_consent=%24%7BGDPR_CONSENT_755%7D)
+![](https://adservice.google.com/ddm/fls/z/dc_pre=CO78woXnnJIDFUWKZgIdeKk9JQ;u1=15669315400414310191108820296830403224;u3=new;u4=%25user_visitNumber%25;u5=logged%20out;cat=vgent0;num=9509680044591;ord=1;src=12332392;gdpr=%24%7BGDPR%7D;type=visit0;gdpr_consent=%24%7BGDPR_CONSENT_755%7D)
+![Company Logo](https://corp-pmj.web.vanguard.com/files/us_b2c/cc/prod/onetrust/consent/767da967-88bb-4648-bd02-c7a263423698/0197e560-3794-7b02-8a8d-69a9ce80cbbb/logos/e23663a9-a49c-4250-9892-0022f609291d/c3d93706-3ccf-4e23-aec5-3af38fdcc954/d2097a83-ab1d-4d11-84ea-83fc12092ed1/Vanguard.png)
+## Your privacy
+#### Your privacy
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose to set some types of cookies to “Off.” However, setting cookies to “Off” may impact your experience on the site and the services we are able to offer. Click on the different category headings to find out more and to change your default settings, where possible. Clearing cookies on your device will delete your preferences. To learn more, view the [Vanguard Privacy Center.](https://investor.vanguard.com/privacy-center)
+#### Strictly necessary cookies
+Always on
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+#### Performance cookies
+Performance cookies On
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies, we will not know when you have visited our site and will not be able to monitor its performance. To manage Performance cookies on our website, move the toggle to the right to turn them on or move the toggle to the left to turn them off. Then be sure to click the “Confirm my choices” button to save your preferences. If you click the “Accept all cookies” button, all cookie types will be set to “On.”
+#### Functional cookies
+Functional cookies On
+These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third-party providers whose services we have added to our pages. If you do not allow these cookies, then some or all of these services may not function properly. To manage Functional cookies on our website, move the toggle to the right to turn them on or move the toggle to the left to turn them off. Then be sure to click the “Confirm my choices” button to save your preferences. If you click the “Accept all cookies” button, all cookie types will be set to “On.”
+#### Targeting cookies
+Targeting cookies On
+### Cookie List
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+checkbox label label
+[![Powered by Onetrust](https://corp-pmj.web.vanguard.com/files/us_b2c/cc/prod/onetrust/consent/767da967-88bb-4648-bd02-c7a263423698/0197e560-3794-7b02-8a8d-69a9ce80cbbb/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
+
+==================================================
+
+SOURCE: https://www.finra.org/investors/investing/investment-products/stocks/order-types
+[ Skip to main content ](https://www.finra.org/investors/investing/investment-products/stocks/order-types#main-content)
+# Order Types
+When you place an order to buy or sell securities, in some cases the price quoted to you at the time of the sale may not exactly match the price you pay for your securities. This can happen because quotes may be delayed, trades take time to execute and, in highly [volatile](https://www.finra.org/investors/investing/investing-basics/volatility) markets, millions of shares can trade in microseconds causing price swings.
+You do, however, have the power to exercise some control over these factors by choosing the type of order you place. Understand the benefits and risks of various types of orders to help avoid unintended losses and better ensure that your trades are executed in a timely manner and at a price with which you are comfortable.
+### **Common Order Types**
+Orders fall into three primary categories:
+**Market Order.** This is the most common type of investor order, and brokerage firms typically enter your order as a market order unless you specify otherwise. This type of order provides the most certainty that your order will be executed because it's not tied to any restrictions. A market order generally will execute at or near the current bid or ask prices in the marketplace during normal trading hours, 9:30 a.m. to 4 p.m. Eastern Time. On the downside, you might not get the price you saw or were originally quoted, especially in fast-moving markets. Also, if you place your order [before or after](https://www.finra.org/investors/insights/extended-hours-trading) normal trading hours, consider the possibility that news events or other factors might significantly impact the price of the security when the market opens again.
+**Limit Order.** This is an order to buy or sell a security at or better than a specified price (a "limit price"). Limit orders are for investors who know the price they want for a particular securities transaction and want to manage market risk, and they are often used when obtaining the right price is more important than quick execution. While market orders can leave a buyer or seller exposed to changes in the current price available in the market, limit orders allow you to decide at what price you want to buy or sell. A **buy** limit order can be executed only at or below the limit price; a **sell** limit order can be executed only at or above the limit price. This means you're guaranteed to get your limit price or a better price if your order is executed. 
+However, there's a chance your order doesn't get executed at all. For example, if the market price fails to match or better your limit price while your order remains active, it will not be executed. Some limit orders include a time limit within which the trade must be placed at (or better than) the specified price. These orders generally might have higher execution costs than market orders.
+**Stop Order.** This is an order to buy or sell a security once the price of the security reaches a specified price, known as the "stop price." When this stop price is reached, the order automatically turns into a market order and is executed as soon as possible at the current market price. There are different types of stop orders:
+Investors use stop orders as a tool to manage [market risk](https://www.finra.org/investors/investing/investing-basics/risk). You can generally use sell-stop orders to limit a loss or protect a profit position in the event the stock’s price changes. If you have a short position, you can generally use stop-buy orders to limit losses in the event the stock’s price increases. Some investors like stop orders because they don't have to continually monitor price movements to sell (or buy) at a specific price target.
+[Learn more](https://www.finra.org/investors/insights/stop-orders-factors-consider-during-volatile-markets) about stop orders.
+### **Time Mandates and Other Conditions**
+Market, limit and stop orders can include time mandates and other conditions. Some of the most common examples include day orders, which expire at the end of the trading day if they aren’t executed; good ‘til canceled orders, which remain in effect until they’re executed by the brokerage firm or canceled by the customer; and market-on-open and market-on-close orders, which are executed as close as possible to the beginning or end of regular trading hours or canceled.
+[Learn more](https://www.finra.org/investors/insights/time-parameters-qualifiers-stock-orders) about time mandates and other order parameters.
+### **Know Your Options**
+Before building a buy or sell strategy on certain types of orders, ask your brokerage firm what types of orders you can place and what they cost. Because not all orders are handled the same way, ask about your firm’s procedures for handling the execution of securities transactions and different order types, particularly during volatile market conditions. Market orders typically receive the highest priority, followed by limit orders.
+When you use order types with automatic triggers, consider that these transactions might have unintended tax consequences. For example, you could end up paying a higher tax rate on your capital gains.
+No matter what type of order you choose, you cannot completely eliminate market and investment [risks](https://www.finra.org/investors/investing/investing-basics/risk). You cannot predict when periods of market volatility will hit, so it's often best to decide what is most important to you based on your investment goals and objectives.
+[Back to Top](https://www.finra.org/investors/investing/investment-products/stocks/order-types#main-wrapper)
+### Recent Investor Insights
+[View All](https://www.finra.org/investors/insights)
+![](https://t.co/i/adsct?bci=3&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=2&event_id=5acf6c7f-e44a-47d0-980e-dcd70143ce13&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5014fb32-17df-4152-a660-dfad2b1e4bb1&pt=Order%20Types%20%7C%20FINRA.org&tw_document_href=https%3A%2F%2Fwww.finra.org%2Finvestors%2Finvesting%2Finvestment-products%2Fstocks%2Forder-types&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=nzcb7&type=javascript&version=2.3.35)![](https://analytics.twitter.com/i/adsct?bci=3&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=2&event_id=5acf6c7f-e44a-47d0-980e-dcd70143ce13&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5014fb32-17df-4152-a660-dfad2b1e4bb1&pt=Order%20Types%20%7C%20FINRA.org&tw_document_href=https%3A%2F%2Fwww.finra.org%2Finvestors%2Finvesting%2Finvestment-products%2Fstocks%2Forder-types&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=nzcb7&type=javascript&version=2.3.35)
+
+==================================================
+

@@ -1,0 +1,652 @@
+SOURCE: https://www.investopedia.com/articles/basics/04/092404.asp
+Part of the Series 
+How to Invest with Confidence 
+[ Investing: An Introduction ](https://www.investopedia.com/articles/basics/11/3-s-simple-investing.asp)
+##  What Are Stock Exchanges? 
+Stock exchanges are organized marketplaces where shares of ownership in companies are traded between buyers and sellers. These exchanges play a vital role in the global economy by providing a centralized location for businesses to raise capital and investors to buy and sell securities. While the concept dates back to 17th-century Amsterdam, modern stock exchanges have evolved into sophisticated, often digital, platforms for rapid, high-volume trading.1
+This article will explore how these exchanges operate and their impact on individual investors and the broader economy. We'll review key concepts like initial public offerings (IPOs), market indices, and the difference between primary and secondary markets. By understanding stock exchanges, investors can better navigate the complex world of equity investing and grasp how these institutions shape the financial landscape. 
+### Key Takeaways
+The two largest exchanges in the world by market capitalization, the NYSE and Nasdaq have also undergone and vast expansion in trading value in the past decade.
+##  How Stock Exchanges Operate 
+The journey of a stock to an exchange begins with an IPO. During an IPO, a company sells shares to a set of public shareholders in what's known as the primary market. After the IPO floats shares into the hands of public shareholders, these shares can be freely bought and sold on an exchange, now part of the secondary market. 
+### Fast Fact
+Exchanges require the efforts of [market makers](https://www.investopedia.com/terms/m/marketmaker.asp), financial firms that provide liquidity to the market by constantly quoting both buy and sell prices for a security. They act as intermediaries, standing ready to buy or sell at publicly quoted prices, which helps ensure smooth trading and reduces price volatility in the market.2
+At that point, the ebb and flow of supply and demand determines a stock's price. The exchange tracks the flow of orders for each stock and relays this information to all participants. For example, an [asking price](https://www.investopedia.com/terms/a/ask.asp) of $41 means that a seller is willing to part with their shares for $41. The $1 difference between this price and, say, the $40 bid someone makes is called the bid-ask spread, representing the cost of the transaction. 
+Modern exchanges run predominantly through electronic systems, enabling lightning-fast transactions and real-time price updates. However, some exchanges, like the New York Stock Exchange (NYSE), still have a physical trading floor alongside their electronic systems.3
+### Tip
+The general public can trade shares on the secondary market after a company's [IPO](https://www.investopedia.com/terms/i/ipo.asp).
+##  Different Kinds of Stock Exchanges 
+There are a few different types of stock exchanges, each with unique features. It's important to understand how each works: 
+###  Understanding Auction Exchanges 
+Brokers and traders communicate physically and verbally on the trading floor or pit to buy and sell securities. Although this system has mostly been replaced by electronic trading, some exchanges, including the NYSE, still use the auction system; the NYSE closing auction is the last event of the trading day when the closing price for each stock is determined by bringing all buyers and sellers together.4
+### Important
+The NYSE closing auction is one of the busiest trading times in the U.S. equity markets, with an average of almost 223 million shares traded.3
+###  Navigating Dealer Markets 
+[Dealer markets](https://www.investopedia.com/terms/d/dealersmarket.asp) rely on specific dealers to facilitate transactions rather than using an auction system. Dealers post prices at which they buy and sell specific stocks, and they profit from the bid-ask spread. 
+###  Exploring Electronic Exchanges 
+Electronic exchanges don't rely on a single physical location. Instead, trades happen online without the need for dealers. The rise in electronic exchanges has helped give rise to high-frequency and [algorithmic trading systems](https://www.investopedia.com/terms/a/algorithmictrading.asp). 
+### Fast Fact
+The evolution of exchanges from open-outcry pits to electronic platforms has dramatically increased market efficiency, but it's also introduced new challenges in market stability and fairness.
+###  Understanding Over-the-Counter Markets 
+[OTC](https://www.investopedia.com/terms/o/otc.asp) exchanges are where investors can buy and sell stocks that aren't traded on major centralized exchanges. They typically rely on broker-dealer networks. OTC stocks usually fail to meet listing requirements for other exchanges, meaning that they have very low market capitalization or can't afford the fee to get listed on an exchange like the NYSE of Nasdaq. OTC markets also include cryptocurrencies, foreign currencies, and certain derivatives. 
+##  Key Exchanges in the United States 
+###  New York Stock Exchange (NYSE) 
+Located at 11 Wall St. in the Financial District of Lower Manhattan in New York City, the NYSE was formed in 1792 by 24 brokers signed the Buttonwood Agreement. Today, it’s the largest stock exchange when ranked by the value of securities traded.
+Travelpix Ltd. / Getty Images
+The NYSE is the world's largest equities exchange.5 The [parent company](https://www.investopedia.com/financial-edge/0311/who-owns-the-stock-exchanges.aspx) of the NYSE is the Intercontinental Exchange (ICE) due to the merger with the European exchange Euronext in 2007.67
+The NYSE remains one of the world's leading auction markets, meaning specialists are physically present on its trading floors.8 Each specialist specializes in a particular stock, trading the stock in the auction. Companies listed on the NYSE meet initial [listing requirements](https://www.investopedia.com/terms/l/listingrequirements.asp) and follow annual maintenance requirements.9
+Investors who trade on the NYSE benefit from a set of minimum protections, which include a requirement that equity incentive plans must receive shareholder approval, the majority of the board of directors' members must be independent, the compensation committee must be entirely composed of independent directors, and the audit committee must include at least one person who possesses accounting or related financial management expertise.1011
+###  Listing Requirements 
+To get listed on the NYSE, a stock must meet one of these requirements:12
+In addition, the company must meet all these requirements: 
+###  Nasdaq 
+The Nasdaq MarketSite is at 4 Times Square (43rd & Broadway) in midtown Manhattan, New York City.
+Alan Schein Photography / Getty Images
+The [Nasdaq](https://www.investopedia.com/terms/n/nasdaq.asp) is where buyers and sellers are only connected by computers over a network. Nasdaq is one of the world's leading electronic exchanges.13 Market makers, also known as dealers, carry their inventory of stock. They stand ready to buy and sell stocks on the Nasdaq and post bid and ask prices.14
+The exchange has listing and governance requirements like the NYSE. If a company doesn't maintain these requirements, [it can be delisted](https://www.investopedia.com/investing/the-dirt-on-delisted-stocks/) to an OTC market.15
+###  Listing Requirements 
+To get listed on the Nasdaq, a stock must meet one of these sets of requirements:16
+Or 
+Or 
+Or 
+In each case, the minimum bid price for a share must be $4.  
+
+###  Over-The-Counter (OTC) 
+OTC markets are those other than large organized exchanges. OTC markets generally list small companies or those delisted from other exchanges. The Over-the-Counter Bulletin Board ([OTCBB](https://www.investopedia.com/terms/o/otcbb.asp)) was an electronic community of market makers with no quantitative minimums for annual sales or assets required to list. The OTC Bulletin Board was closed in November 2021.17  
+
+###  Listing Requirements 
+Though companies that trade OTC don't meet the listing standards of major exchanges, some organizations that facilitate OTC trades have their own listing requirements. 
+For example, OTC Market Group, which enables most OTC trades, requires that companies meet at least one of these requirements:20
+Companies must all meet these requirements: 
+##  International Exchanges 
+Many exchanges are located throughout the world, including: 
+The [Shanghai Stock Exchange](https://www.investopedia.com/terms/s/shanghai-stock-exchange.asp) is the largest in mainland China. Many investments are traded on the exchange, including stocks, bonds, and mutual funds.21 The Shenzhen Stock Exchange is the second-largest stock exchange operating independently in China.22
+Euronext is Europe's largest stock exchange, and although it has undergone multiple mergers, it was formed by the mergers of the Amsterdam, Paris, and Brussels stock exchanges.2324
+The London Stock Exchange is located in the United Kingdom. Within the LSE is the Financial Times Stock Exchange 100 Share Index. The “Footsie” contains the top 100 well-established publicly traded companies or blue-chip stocks. 
+In 2024, India surpassed Hong Kong as the fourth-largest stock market in the world by market capitalization.25
+##  Steps to Start Investing in the Stock Market 
+Investing in the stock market is accessible to nearly everyone. Here's a step-by-step guide to get started: 
+Remember, investing in the stock market involves risk, and it's normal for the value of your investments to fluctuate. Financial advisors often argue that the key is maintaining a long-term perspective and avoiding making emotional decisions based on short-term market movements. 
+##  Choosing the Right Brokerage House 
+If you want to start investing, you need to open an account with a brokerage. In general, there are two types of brokerages, full-service brokerages and discount brokerages. 
+###  Full-Service Brokerages 
+[Full-service brokerages](https://www.investopedia.com/articles/stocks/08/fees-commission-value.asp) offer a larger suite of services. Beyond just facilitating your investments, they may provide investment advice, financial planning services, accounting services, and more. 
+Often, you can work with a full-service brokerage to have someone else handle your investments on your behalf. You will, however, have to pay a fee for this service. Often, you'll pay as much as 1% or 2% of the amount you have invested each year. 
+If you have complex finances or want help with managing your money, this type of brokerage may be a good fit. 
+###  Discount Brokerages 
+[Discount brokerages](https://www.investopedia.com/terms/d/discountbroker.asp) are brokerages that focus more on price than on offering a variety of services. While they may lack things like investment advisors or financial planning services, they charge much lower fees. Some don't even charge a commission for the trades you make. 
+If you feel confident in your ability to manage your finances and make good investment choices or feel that you don't have complex finances, a discount broker can help you save a lot of money. 
+##  Exploring Alternative Trading Systems 
+[Electronic communication networks](https://www.investopedia.com/terms/e/ecn.asp) are part of an exchange class called alternative trading systems (ATSs). Regulated by the SEC, alternative trading systems electronically match orders for buyers and sellers. An ATS is not a national securities exchange but is considered a "dark pool."28
+###  Insight Into Dark Pools 
+[Dark pools](https://www.investopedia.com/articles/markets/050614/introduction-dark-pools.asp) are private exchanges for trading securities that are not accessible by the investing public. Also known as "dark pools of liquidity," these markets allow institutional investors to buy or sell large blocks of shares without revealing their intentions to other market participants. 
+Unlike traditional stock exchanges, dark pools do not display bid and ask prices to the public—hence their name. The lack of transparency allows large players to trade without significantly impacting the market price, which could happen if a large order was placed on a public exchange. 
+### Tip
+Dark pools emerged in the 1980s as a way for institutional investors to conduct large trades without causing market impact. Estimates for the amount of trading within these dark pools are all over the map. Financial media often report figures nearing about 40% of exchange-based trading by volume.2930 More sobering estimates have put dark pool trading between 12% and 15% in recent years.313233
+While dark pools serve a legitimate purpose in the financial ecosystem, they have also faced criticism. Critics argue that dark pools create an uneven playing field, giving large institutions an unfair advantage over retail investors. There are also concerns about potential conflicts of interest, particularly when the dark pool operator is also a major trader.32
+##  Overview of Cryptocurrency Exchanges 
+Coinbase is licensed as a cryptocurrency exchange in multiple U.S. states.34 Binance is a major global exchange for cryptocurrencies, claiming an average trading volume of 65 billion per day.35
+## How Does the SEC Regulate Markets in the United States?
+Within the U.S. Securities and Exchange Commission, the Division of Trading and Markets maintains standards for "fair, orderly, and efficient markets." The Division regulates securities market participants, broker-dealers, stock exchanges, Financial Industry Regulatory Authority, clearing agencies, and transfer agents.36
+## What Is the Difference Between Stock Exchange and Stock Market?
+A stock exchange is a marketplace or the infrastructure that facilitates equity trading. Meanwhile, a stock market is an umbrella term representing all stocks that trade in a particular region or country.
+## Are There Stock Exchanges in Other Countries?
+Yes. Most countries have their own stock exchanges. For example, Japan has multiple stock exchanges, including the [Tokyo Stock Exchange](https://www.investopedia.com/terms/t/tokyo.asp) and Osaka Securities Exchange. The United Kingdom has the London Stock Exchange.
+## Are There Exchanges for Trading Derivatives?
+Derivatives are a type of security that derive their value from other things, including other securities like stocks. There are some exchanges, like the [Cboe Options Exchange](https://www.investopedia.com/terms/c/cboe.asp), which are dedicated exchanges for derivatives.
+##  The Bottom Line 
+Stock exchanges provide essential platforms for companies to raise capital and investors to trade securities. From traditional open outcry pits to modern electronic networks, exchanges have evolved to meet the changing needs of market participants. Each type of exchange has specific characteristics that serve the fundamental purpose of enabling [price discovery](https://www.investopedia.com/terms/p/pricediscovery.asp) and easy trading. Understanding these different exchange types is crucial for investors navigating today's complex financial landscape. 
+Article Sources
+Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our [editorial policy.](https://www.investopedia.com/legal-4768893#EditorialPolicy)
+Compare Accounts
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+Part of the Series 
+How to Invest with Confidence 
+[ Investing: An Introduction ](https://www.investopedia.com/articles/basics/11/3-s-simple-investing.asp)
+Take the Next Step to Invest
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+## Related Articles
+Newsletter Sign Up
+Newsletter Sign Up
+
+==================================================
+
+SOURCE: https://investor.vanguard.com/investor-resources-education/portfolio-management/stock-exchanges
+About
+Wondering what a stock exchange is? Learn how stock exchanges such as the New York Stock Exchange play a role in the market by connecting buyers and sellers.
+Investing strategies
+Managing portfolios
+Education
+Page
+Financial terms
+ETFs
+Stocks
+Investing strategies
+# Stock exchanges
+Stock exchanges
+success
+You have saved this article
+4 minute read
+success
+You have saved this article
+![NYSE electronic sticker, in New York City.](https://investor.vanguard.com/content/dam/retail/publicsite/en/photography/lifestyles/ire-aspot-stock-exchanges-phlife-gi.jpg)
+## Points to know
+## A trading post for stocks
+Some exchanges have physical locations—for example, the New York Stock Exchange (NYSE) located on Wall Street in Manhattan. But some exchanges are completely electronic, like the Nasdaq Stock Market.
+Countries and regions around the world have their own exchanges, like the Tokyo Stock Exchange.
+Stocks can be "listed"—offered for trading—on one stock exchange or on multiple exchanges.
+##  Stock 
+A security that represents part ownership, or equity, in a corporation. Each share of stock is a proportional stake in the corporation's assets and profits, some of which could be paid out as dividends.
+##  ETF (exchange-traded fund) 
+An investment with characteristics of both mutual funds and individual stocks. Many ETFs track an index, a commodity, or a basket of assets. Unlike mutual funds, ETFs can be traded throughout the day. ETFs often have lower expense ratios but must be purchased and sold through a broker, which means you may incur commissions.
+##  Share 
+A single unit of ownership in a mutual fund or an exchange-traded fund (ETF) or, for stocks, a corporation. 
+##  Capitalization 
+A determination of a company's value, calculated by multiplying the total number of company stock shares outstanding by the price per share. Also called market capitalization.
+##  American depositary receipts 
+A receipt that represents a specific number of shares of a foreign-based corporation held by a U.S. bank and entitles the holder to all dividends and capital gains. Through ADRs, U.S. investors can buy shares of foreign-based companies in the United States instead of in foreign markets.
+##  Liquidity 
+The degree of a security's marketability; that is, how quickly the security can be sold at a fair price and converted to cash.
+## How exchanges work
+On a physical exchange like the NYSE, "market makers" who specialize in a particular stock will buy and sell that stock to brokers. The trading floor functions like an auction house, with bid and offer prices changing throughout the trading day.
+In the U.S. stock market, trading sessions are held Monday through Friday (excluding certain holidays) from 9:30 a.m. to 4 p.m., Eastern time.
+Electronic exchanges work in a similar way, except that it's computers that connect buyers and sellers.  
+
+### Listing requirements
+Other types of requirements involve the way the company reports its financial information and the kinds of board members the company has.
+If a company can't maintain the requirements for an exchange, it will be "delisted." But stocks that don't trade on an exchange can still be traded "over the counter," or through a network of dealers.  
+
+### Over-the-counter (OTC) markets
+Effective April 28, 2022, Vanguard no longer accepts purchases and transfers in of most over-the-counter (OTC) securities. **Clients can continue to hold and sell their existing positions in these securities.** They can also make additional purchases of a small selection of global [American Depositary Receipts (ADRs)](https://investor.vanguard.com/investor-resources-education/portfolio-management/stock-exchanges#modal-american-depositary-receipts).
+Here's how to determine if an ADR  _won't_ be restricted. All three of the following criteria  _must_ apply to the ADR:
+Stocks can be traded over the counter if they don't meet an exchange's requirements or if the company issuing the stock wants to avoid the costs associated with meeting those requirements. ADRs also often trade over the counter.
+Stocks traded over the counter may be very similar to those traded on the exchanges. Some, however, are different—they have very low share prices ("penny stocks") and minimal [liquidity](https://investor.vanguard.com/investor-resources-education/portfolio-management/stock-exchanges#modal-liquidity) (buyers and sellers are harder to come by so orders may not be filled right away or even at all).
+[Learn more about OTC markets at otcmarkets.com](http://www.otcmarkets.com)
+![Icon of a money tree.](https://investor.vanguard.com/investor-resources-education/portfolio-management/stock-exchanges)
+###  Saving for retirement or college? 
+See guidance that can help you make a plan, solidify your strategy, and choose your investments.
+[ Start with your investing goals ](https://investor.vanguard.com/investor-resources-education/investing-goals)
+![A dollar sign with arrows around it.](https://investor.vanguard.com/investor-resources-education/portfolio-management/stock-exchanges)
+###  Already know what you want? 
+From mutual funds and ETFs to stocks and bonds, find all the investments you're looking for, all in one place.
+[ Find investment products ](https://investor.vanguard.com/investment-products)
+## Get more from Vanguard
+Talk with one of our investment specialists
+Call [800-962-5028](tel:800-962-5028)
+Monday through Friday  
+8 a.m. to 8 p.m., Eastern time
+* * *
+Ready to start?
+[ Start investing now ](https://personal1.vanguard.com/mmx-move-money/welcome)
+## Get more from Vanguard
+Talk with one of our investment specialists
+Call [800-962-5028](tel:800-962-5028)
+Monday through Friday  
+8 a.m. to 8 p.m., Eastern time
+* * *
+Ready to start?
+[ Start investing now ](https://personal1.vanguard.com/mmx-move-money/welcome)
+Articles you might like
+Investing strategies
+##### [How to start investing: A guide for beginners  ](https://investor.vanguard.com/investor-resources-education/article/how-to-start-investing "How to start investing: A guide for beginners")
+success
+Retirement
+##### [Get started on retirement saving  ](https://investor.vanguard.com/investor-resources-education/retirement/savings "Get started on retirement saving")
+success
+Personal finance
+##### [Understanding investment goals and goals based investing  ](https://investor.vanguard.com/investor-resources-education/investing-goals "Understanding investment goals and goals based investing ")
+success
+All investing is subject to risk, including the possible loss of the money you invest.
+Advice services are provided by Vanguard Advisers, Inc., a registered investment advisor, or by Vanguard National Trust Company, a federally chartered, limited-purpose trust company.
+![](https://adservice.google.com/ddm/fls/z/dc_pre=CK3d7vjmnJIDFVaMZgIdbBM02Q;u1=47549802460092356360786990636292191040;u6=https%3A%2F%2Finvestor.vanguard.com%2Finvestor-resources-education%2Fportfolio-management%2Fstock-exchanges;u7=us%3Aen%3Aretail%3Aweb%3Ainvestor%3Ainvestor-resources-education%3Aportfolio-management%3Astock-exchanges;u8=https%3A%2F%2Finvestor.vanguard.com%2Finvestor-resources-education%2Fportfolio-management%2Fstock-exchanges;cat=vgent0;num=6835991414185;ord=1;src=12332392;gdpr=%24%7BGDPR%7D;type=allla0;gdpr_consent=%24%7BGDPR_CONSENT_755%7D)
+![](https://adservice.google.com/ddm/fls/z/dc_pre=CMHW8vjmnJIDFY-CZgId0V02QQ;u1=47549802460092356360786990636292191040;u3=new;u4=%25user_visitNumber%25;u5=logged%20out;cat=vgent0;num=3681533478538;ord=1;src=12332392;gdpr=%24%7BGDPR%7D;type=visit0;gdpr_consent=%24%7BGDPR_CONSENT_755%7D)
+![Company Logo](https://corp-pmj.web.vanguard.com/files/us_b2c/cc/prod/onetrust/consent/767da967-88bb-4648-bd02-c7a263423698/0197e560-3794-7b02-8a8d-69a9ce80cbbb/logos/e23663a9-a49c-4250-9892-0022f609291d/c3d93706-3ccf-4e23-aec5-3af38fdcc954/d2097a83-ab1d-4d11-84ea-83fc12092ed1/Vanguard.png)
+## Your privacy
+#### Your privacy
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose to set some types of cookies to “Off.” However, setting cookies to “Off” may impact your experience on the site and the services we are able to offer. Click on the different category headings to find out more and to change your default settings, where possible. Clearing cookies on your device will delete your preferences. To learn more, view the [Vanguard Privacy Center.](https://investor.vanguard.com/privacy-center)
+#### Strictly necessary cookies
+Always on
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+#### Performance cookies
+Performance cookies On
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies, we will not know when you have visited our site and will not be able to monitor its performance. To manage Performance cookies on our website, move the toggle to the right to turn them on or move the toggle to the left to turn them off. Then be sure to click the “Confirm my choices” button to save your preferences. If you click the “Accept all cookies” button, all cookie types will be set to “On.”
+#### Functional cookies
+Functional cookies On
+These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third-party providers whose services we have added to our pages. If you do not allow these cookies, then some or all of these services may not function properly. To manage Functional cookies on our website, move the toggle to the right to turn them on or move the toggle to the left to turn them off. Then be sure to click the “Confirm my choices” button to save your preferences. If you click the “Accept all cookies” button, all cookie types will be set to “On.”
+#### Targeting cookies
+Targeting cookies On
+### Cookie List
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+checkbox label label
+[![Powered by Onetrust](https://corp-pmj.web.vanguard.com/files/us_b2c/cc/prod/onetrust/consent/767da967-88bb-4648-bd02-c7a263423698/0197e560-3794-7b02-8a8d-69a9ce80cbbb/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
+
+==================================================
+
+SOURCE: https://www.sofi.com/learn/content/different-stock-exchanges/
+🎉 Get up to $1,000 in stock when you fund a new SoFi Active Invest account.* [Learn more](https://www.sofi.com/invest/?sticky-banner=claw)
+You are now leaving the SoFi website and entering a third-party website. SoFi has no control over the content, products or services offered nor the security or privacy of information transmitted to others via their website. We recommend that you review the privacy policy of the site you are entering. SoFi does not guarantee or endorse the products, information or recommendations provided in any third party website. 
+[Okay](https://www.sofi.com/) Close
+##  Select a product to get started. 
+[Or just create an account.](https://www.sofi.com/b/registration)
+Stock exchanges are physical, electronic, or online venues where investors can buy and sell shares of publicly-traded stocks. They exist in major markets globally, giving investors access to companies on the global market. In the U.S., there are two major exchanges: The New York Stock Exchange (NYSE) and the Nasdaq. There are many others around the world.
+Although most of us think we know what stock exchanges are, our knowledge probably doesn’t go beyond a visual of a clanging bell in a big room, followed by a bunch of people in suits yelling at each other as they trade stocks . As it turns out, it’s fairly more complex than that.
+## How a Stock Exchange Works
+Stock exchanges function as a part of the broader global stock market. They typically work like a marketplace, allowing investors to [buy and sell shares of publicly-traded companies](https://www.sofi.com/invest/active/).
+Additionally, stock exchanges play a vital role for companies that want to raise money by selling shares to the public through an [initial public offering (IPO)](https://www.sofi.com/learn/investing/what-is-an-ipo/). These companies can then put the capital raised back into the business, while investors who buy shares can ideally profit from their investment.
+The stock exchanges, along with government entities that regulate securities trading, set rules and regulations for what companies can trade on the exchanges. These guidelines provide safety for investors and help ensure that the market is fair and transparent.
+A stock’s share price is determined by supply and demand, and the price of the stock typically reflects how well traders think a company will do in the future.
+Those who think a company will do well bid the price up, while those who believe it won’t do well often push the stock’s price down when they sell.
+## What Are the Different Types of Exchanges?
+Not all stock exchanges are the same, and there are different types that investors should know about.
+### Auction Markets
+In an auction market, buyers and sellers are paired based on the lowest price the seller will accept for the shares of their stocks and the highest [price the buyer is willing to pay](https://www.sofi.com/learn/content/what-determines-stock-price/).
+When those two figures match up, a trade can take place between the buyer and seller. The matching pairs are put together, and the buy and sell orders are executed.
+For example, say two sellers are trying to sell shares of Company X, one for $10 and one for $10.50. At the same time, two buyers are trying to buy shares of Company X, one for $11 and one for $10.50. The seller and buyer offering $10.50 are paired together, and for the moment, the new price for the stock is $10.50.
+The New York Stock Exchange is a prime example of an auction market. The exchange does the pairing of buyers and sellers to make the process as efficient as possible, avoiding direct negotiations between buyers and sellers.
+### Electronic Communication Networks (ECNs)
+Electronic communication networks (ECNs) allow investors to trade listed stocks and other exchange-traded products. They are required to register with the Securities and Exchange Commission (SEC) and are classified as an alternative trading system (ATS).
+To place a trade with an ECN, investors must be subscribers, and for the most part, only broker-dealers and some [institutional traders](https://www.sofi.com/learn/content/institutional-vs-retail-investors/) are allowed to become subscribers. Individual investors must have an account with a broker to place an order.
+ECN systems allow investors to [trade outside regular trading hours](https://www.sofi.com/learn/content/24-7-trading/) when the major stock exchanges are closed.
+### Electronic Trading
+Electronic trading uses the internet to allow individuals to connect to a stock exchange or an ECN.
+The method became popular in the nineties and has swiftly replaced much of the traditional floor trading and phone trading that used to take place.
+Electronic trading offers significant advantages over traditional trading, including the fact that it can be done remotely, so there is no need for brokers to be physically present at the stock exchange.
+It’s fast, too — stocks can be bought and sold almost instantaneously. Electronic trading is also cheaper than traditional forms of trading. These savings may be passed on to individual investors through low- or no-fee trading.
+### Over-the-Counter
+[Over-the-counter (OTC) stocks](https://www.sofi.com/learn/content/otc-stocks-explained/) tend to be cheap and offered by small companies that trade outside of the traditional stock exchanges. By not paying to be listed on large stock exchanges, companies can keep stock prices down, helping to draw in investors.
+OTC stocks are generally traded through a network of brokers and dealers outside the major exchanges, and, as a result, they are known as “unlisted.”
+Investors who want to trade OTC stocks will still need to go through a broker. Brokers may have higher fees for trading OTC stocks than for listed stocks, and trades may take longer than those traded through an exchange.
+Unlike companies traded on large exchanges, which file reports with the SEC, some OTC companies may not need to file any audited financial reporting. As a result, OTC stocks may require more research and due diligence before purchase.
+💡 _**Recommended:** [What Are Stock Delistings and Why Do They Occur?](https://www.sofi.com/learn/content/what-happens-if-a-stock-is-delisted/)_
+## What Are the Different US Stock Exchanges?
+There are two main stock exchanges in the United States: the New York Stock Exchange and the Nasdaq.
+### The New York Stock Exchange
+The NYSE was founded in 1792 at 68 Wall Street. Twenty-four brokers and merchants signed the Buttonwood Agreement — named for the tree under which they gathered — to codify the rules for trading securities. Despite its humble beginnings, the NYSE is the largest exchange in the world.
+The NYSE is an auction market and allows electronic trades or trade through traditional floor traders. These are the traders usually shown in popular portrayals of Wall Street. They use the outcry trading system, utilizing verbal communication and hand signals to execute trades in the trading pit.
+At an auction market, buyers set a “bid” price, the price they are willing to pay for a stock. Sellers set an “ask” price, the price they are willing to sell a stock.
+💡 _**Recommended:** [How Bid and Ask Price Work in Trading](https://www.sofi.com/learn/content/bid-and-ask-price/)_
+A brokerage company acts on behalf of most individual investors. The NYSE must approve brokers and be issued a trading license.
+Dealers, sometimes called [market makers](https://www.sofi.com/learn/content/what-is-a-market-maker/), must also be approved by the NYSE and licensed. They play the role of matchmaker between brokers and stock sellers. They collect the difference between the bid and ask prices for their work.
+Companies must meet several criteria to list on the NYSE. For example, companies must have 400 shareholders and 1.1 million publicly held shares. They must also have a minimum share price of $4. The collective value of the shares must equal $100 million or more.
+### The Nasdaq
+The National Association of Securities Dealers Automated Quotations System, [or Nasdaq](https://www.sofi.com/learn/content/nasdaq-listing-requirements/), is an electronic-only stock exchange. It is the second largest exchange by market capitalization, which measures the total dollar value of the stocks traded there.
+Many tech stocks are traded on the Nasdaq, and because it offers lower fees for listing than the NYSE, it is also a place where companies with little or no revenue may list first.
+For example, biotech companies still in their development phases may choose to list on the Nasdaq for its cheaper fees and more lenient standards for listing.
+The Nasdaq was created in 1971 by the National Association of Securities Details (NASD) as the first [electronic market](https://www.sofi.com/invest/us-stock-market/sectors/electronic-technology/) in the world. Initially, the newly formed Nasdaq couldn’t execute trades. Instead, it was a facilitator of OTC trading. It later added automated trading and became the first exchange to offer online trading.
+Companies must meet several financial and liquidity requirements to be listed on the Nasdaq exchange.
+When people say “the Nasdaq,” they often refer to one of a pair of [market indexes](https://www.sofi.com/learn/content/market-index/): the Nasdaq Composite Index and the Nasdaq 100. These should not be confused with the exchange itself.
+The Nasdaq Composite Index tracks the performance of nearly every stock listed on the exchange and can be used to measure market advances and market corrections. The Nasdaq 100 tracks the 100 biggest non-[financial stocks](https://www.sofi.com/invest/us-stock-market/sectors/finance/) on the Nasdaq exchange.
+Both indices are heavily weighted toward the [technology sector](https://www.sofi.com/invest/us-stock-market/sectors/technology-services/). Analysts often use the Nasdaq Composite as a barometer for the tech industry’s health.
+### Other U.S. Exchanges
+The NYSE American, formerly known as the American Stock Exchange (AMEX), was once the third largest exchange in the U.S. Its members were originally known as “curbstone brokers” since they would trade on the street in front of the NYSE.
+Historically, it attracted smaller companies from emerging industries that might not have met the requirements for listing on the NYSE. The exchange has also been an important market for specialized investments, such as options and [exchange-traded funds (ETFs)](https://www.sofi.com/learn/content/what-is-an-etf/).
+Other U.S. Exchanges include:
+• Philadelphia Stock Exchange, now known as Nasdaq PHLX, was the first official securities exchange in the U.S when it was founded in 1790. The exchange now focused on [options trading](https://www.sofi.com/invest/options-trading/).
+• Boston Stock Exchange, now known as Nasdaq BX, was founded in 1834.
+• NYSE Arca is an electronic securities exchange that facilitates the trading of ETFs and equities.
+## International Stock Exchanges
+Though U.S. investors generally focus on stocks that trade on the NYSE and Nasdaq, there are many other stock exchanges throughout the world.
+10 Largest Stock Exchanges by Market Capitalization of Listed Companies   
+---  
+Exchange  |  Location  |  Market capitalization (in trillions)*  
+New York Stock Exchange (NYSE)  |  U.S.  |  $28.8   
+Nasdaq  |  U.S.  |  $25.43   
+Euronext  |  Europe  |  $7.15   
+Shanghai Stock Exchange  |  China  |  $6.52   
+Tokyo Stock Exchange  |  Japan  |  $6.25   
+London Stock Exchange  |  U.K.  |  $5.63   
+Shenzhen Stock Exchange  |  China  |  $4.29   
+National Stock Exchange of India  |  India  |  $4.53   
+Hong Kong Exchanges  |  Hong Kong  |  $3.97   
+Saudi Stock Exchange  |  Saudi Arabia  |  $2.86   
+*As of August 2024   
+💡 _**Recommended:** [A Guide To Investing in International Stocks](https://www.sofi.com/learn/content/investing-in-international-stocks-guide/)_
+## The Takeaway
+It helps to know how stock exchanges work if you want to be a well-rounded investor. By learning about the different stock exchanges and their rules, you can better understand the stock market. This knowledge can help you make investment decisions, from investing in large stocks trading on the NYSE or Nasdaq to trading penny stocks over-the-counter.
+Ready to invest in your goals? It’s easy to get started when you open an investment account with SoFi Invest. You can invest in stocks, exchange-traded funds (ETFs), mutual funds, alternative funds, and more. SoFi doesn’t charge commissions, but other fees apply ([full fee disclosure here](https://www.sofi.com/wealth/assets/documents/sofi-invest-fee-schedule.pdf)). 
+  
+
+_Opening and funding an Active Invest account gives you the opportunity to get up to $1,000 in the stock of your choice.¹_
+  
+_¹Probability of Member receiving $1,000 is a probability of 0.026%; If you don’t make a selection in 45 days, you’ll no longer qualify for the promo. Customer must fund their account with a minimum of $50.00 to qualify. Probability percentage is subject to decrease. See full[terms and conditions](https://www.sofi.com/invest/clawpromotion/rules)._
+## FAQ
+### What is a simple definition of a stock exchange?
+A stock exchange is a marketplace where investors, brokers, and market makers can buy and sell shares of publicly-traded companies.
+### What is the difference between a stock exchange and the stock market?
+A stock exchange is a physical or electronic marketplace where traders can buy and sell stocks. The stock market is a collection of all the stocks traded on all the stock exchanges.
+* * *
+**INVESTMENTS ARE NOT FDIC INSURED • ARE NOT BANK GUARANTEED • MAY LOSE VALUE**
+SoFi Invest is a trade name used by SoFi Wealth LLC and SoFi Securities LLC offering investment products and services. Robo investing and advisory services are provided by SoFi Wealth LLC, an SEC-registered investment adviser. Brokerage and self-directed investing products offered through SoFi Securities LLC, Member [FINRA](http://www.finra.org/)/[SIPC](http://www.sipc.org/).   
+  
+For disclosures on SoFi Invest platforms visit SoFi.com/legal. For a full listing of the fees associated with Sofi Invest please view our [fee schedule](https://www.sofi.com/wealth/assets/documents/sofi-invest-fee-schedule.pdf).   
+  
+**Financial Tips & Strategies:** The tips provided on this website are of a general nature and do not take into account your specific objectives, financial situation, and needs. You should always consider their appropriateness given your own circumstances.   
+  
+**¹Claw Promotion:** Probability of Member receiving $1,000 is a probability of 0.026%; If you don’t make a selection in 45 days, you’ll no longer qualify for the promo. Customer must fund their account with a minimum of $50.00 to qualify. Probability percentage is subject to decrease. [See full terms and conditions](https://www.sofi.com/invest/clawpromotion3x/rules).   
+
+SOIN-Q324-022
+**Share**
+Close modal
+**See what SoFi can do for you and your finances.**
+Select a product below and get your rate in just minutes.
+## [Student Loan   
+Refinancing ](https://www.sofi.com/b/registration?appType=refi) ## [Personal  
+Loans ](https://www.sofi.com/b/registration?appType=pl) ## [Online  
+✝ To check the rates and terms you may qualify for, SoFi conducts a soft credit pull that will not affect your credit score. However, if you choose a product and continue your application, we will request your full credit report from one or more consumer reporting agencies, which is considered a hard credit pull and may affect your credit. 
+©2026 Social Finance, LLC All rights reserved. 
+TLS 1.2 Encrypted
+Equal Housing Lender
+Copy link
+✓
+Thanks for sharing!
+Find any service
+[](https://www.addtoany.com "Share Buttons")
+[More…](https://www.sofi.com/learn/content/different-stock-exchanges/#addtoany "Show all")
+![](https://www.sofi.com/measure/pixel/refer?referrer=https://www.sofi.com)
+![Company Logo](https://cdn.cookielaw.org/logos/75b0b94d-5898-42e0-a11e-374a4bb72ea1/62a05241-4d4e-4324-8fac-d84d73d9f38b/d48bdbd5-c622-4329-a8be-98a7ff7e8373/Sofi_83x40@2x.png)
+## Privacy Preference Center
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.   
+[More information](https://cookiepedia.co.uk/giving-consent-to-cookies)
+###  Manage Consent Preferences
+#### Functional Cookies
+Functional Cookies
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+#### Performance Cookies
+Performance Cookies
+We use different tools so that we can measure and improve the performance of our site. We use these cookies to provide you with the best experience possible. In part, they help us know which pages are the most and least popular and see how visitors use and move around the site.
+#### Strictly Necessary Cookies
+Always Active
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. 
+#### Targeting Cookies
+Targeting Cookies
+  
+For more information, please review our [Privacy Policy](https://www.sofi.com/online-privacy-policy/).
+#### Selling/Sharing Personal Information
+Selling/Sharing Personal Information
+### Back
+Search Icon
+checkbox label label
+Consent Leg.Interest
+Switch Label label
+Switch Label label
+Switch Label label
+[![Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
+
+==================================================
+
+SOURCE: https://en.wikipedia.org/wiki/Stock_exchange
+[Jump to content](https://en.wikipedia.org/wiki/Stock_exchange#bodyContent)
+[ Wikipedia began as an impossible dream. Today, we celebrate 25 years of humanity at its best. Join us ](https://wikimediafoundation.org/wikipedia25/?utm_campaign=wp25cn&utm_source=wp25cnout&utm_medium=out)
+From Wikipedia, the free encyclopedia
+Organization that provides services for stock brokers and traders to trade securities
+Not to be confused with [Stack Exchange](https://en.wikipedia.org/wiki/Stack_Exchange "Stack Exchange").
+---  
+[Financial markets](https://en.wikipedia.org/wiki/Financial_market "Financial market")  
+[![Looking up at a computerized stocks-value board at the Philippine Stock Exchange](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Philippine-stock-market-board.jpg/250px-Philippine-stock-market-board.jpg)](https://en.wikipedia.org/wiki/File:Philippine-stock-market-board.jpg)  
+[Bond market](https://en.wikipedia.org/wiki/Bond_market "Bond market")  
+[Stock market](https://en.wikipedia.org/wiki/Stock_market "Stock market")  
+Other markets  
+[Alternative investment](https://en.wikipedia.org/wiki/Alternative_investment "Alternative investment")  
+[Over-the-counter (off-exchange)](https://en.wikipedia.org/wiki/Over-the-counter_\(finance\) "Over-the-counter \(finance\)")  
+[Trading](https://en.wikipedia.org/wiki/Trader_\(finance\) "Trader \(finance\)")  
+Related areas  
+Part of a [series](https://en.wikipedia.org/wiki/Category:Finance "Category:Finance") on  
+---  
+[Finance](https://en.wikipedia.org/wiki/Finance "Finance")  
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Philippine-stock-market-board.jpg/250px-Philippine-stock-market-board.jpg)](https://en.wikipedia.org/wiki/File:Philippine-stock-market-board.jpg)  
+---  
+[Participants](https://en.wikipedia.org/wiki/Financial_market_participants "Financial market participants")  
+[Locations](https://en.wikipedia.org/wiki/Financial_centre "Financial centre")  
+[Instruments](https://en.wikipedia.org/wiki/Financial_instrument "Financial instrument")  
+[Corporate](https://en.wikipedia.org/wiki/Corporate_finance "Corporate finance") |  General  
+---  
+Transactions  
+[Taxation](https://en.wikipedia.org/wiki/Corporate_tax "Corporate tax")  
+[Personal](https://en.wikipedia.org/wiki/Personal_finance "Personal finance")  
+---  
+[Government revenue](https://en.wikipedia.org/wiki/Government_revenue "Government revenue")  
+---  
+---  
+[Economic history](https://en.wikipedia.org/wiki/Economic_history "Economic history")  
+## History
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=1 "Edit section: History")]
+### 18th century
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=2 "Edit section: 18th century")]
+### 19th century onwards
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=3 "Edit section: 19th century onwards")]
+In 1986, the BSE developed the S&P [BSE SENSEX](https://en.wikipedia.org/wiki/BSE_SENSEX "BSE SENSEX") index, giving the BSE a means to measure the overall performance of the exchange. In 2000, the BSE used this index to open its derivatives market, trading S&P BSE SENSEX futures contracts. The development of S&P BSE SENSEX options along with equity derivatives followed in 2001 and 2002, expanding the BSE's trading platform. 
+## Roles
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=4 "Edit section: Roles")]
+---|---  
+Stock exchanges have multiple roles in the economy. This may include the following:[[21]](https://en.wikipedia.org/wiki/Stock_exchange#cite_note-21)
+### Raising capital for businesses
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=5 "Edit section: Raising capital for businesses")]
+#### Alternatives to stock exchanges for raising capital
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=6 "Edit section: Alternatives to stock exchanges for raising capital")]
+Alternative investment funds refer to funds that include **hedge funds, venture capital, private equity, angel funds, real estate, commodities, collectibles, structured products** , etc. Alternative investment funds are an alternative to traditional investment options (stocks, bonds, and cash). 
+##### Research and Development limited partnerships
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=7 "Edit section: Research and Development limited partnerships")]
+##### Venture capital
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=8 "Edit section: Venture capital")]
+##### Corporate partners
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=9 "Edit section: Corporate partners")]
+Another alternative source of cash for a private company is a corporate partner, usually an established multinational company, which provides capital for the smaller company in return for marketing rights, patent rights, or equity. Corporate partnerships have been used successfully in a large number of cases. 
+### Mobilizing savings for investment
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=10 "Edit section: Mobilizing savings for investment")]
+### Facilitating acquisitions
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=11 "Edit section: Facilitating acquisitions")]
+### Facilitating company growth
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=12 "Edit section: Facilitating company growth")]
+### Redistribution of wealth
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=13 "Edit section: Redistribution of wealth")]
+### Profit sharing
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=14 "Edit section: Profit sharing")]
+### Corporate governance
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=15 "Edit section: Corporate governance")]
+Many banks and companies worldwide utilize securities identification numbers ([ISIN](https://en.wikipedia.org/wiki/ISIN "ISIN")) to identify, uniquely, their stocks, bonds and other securities. Adding an ISIN code helps to distinctly identify securities and the ISIN system is used worldwide by funds, companies, and governments. 
+However, when poor financial, ethical or managerial records become public, [stock investors](https://en.wikipedia.org/wiki/Stock_investor "Stock investor") tend to lose money as the stock and the company tend to lose value. In the stock exchanges, shareholders of underperforming firms are often penalized by significant share price decline, and they tend as well to dismiss incompetent management teams. 
+### Creating investment opportunities for small investors
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=16 "Edit section: Creating investment opportunities for small investors")]
+As opposed to other businesses that require huge capital outlay, investing in shares is open to both the large and small stock investors as minimum investment amounts are minimal. Therefore, the stock exchange provides the opportunity for small investors to own shares of the same companies as large investors. 
+As opposed to other businesses that require huge capital outlay, investing in shares is open to both the large and small stock investors as minimum investment amounts are minimal. Therefore, the stock exchange provides the opportunity for small investors to own shares of the same companies as large investors. 
+### Government capital-raising for development projects
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=17 "Edit section: Government capital-raising for development projects")]
+### Barometer of the economy
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=18 "Edit section: Barometer of the economy")]
+### Employment opportunities
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=19 "Edit section: Employment opportunities")]
+### Regulation of companies
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=20 "Edit section: Regulation of companies")]
+The stock exchange plays a role in regulating companies by exerting a significant influence on their management practices.[[32]](https://en.wikipedia.org/wiki/Stock_exchange#cite_note-32)[[27]](https://en.wikipedia.org/wiki/Stock_exchange#cite_note-:0-27) To be listed on a stock exchange, a company is required to adhere to a set of rules and regulations established by the exchange itself. These regulations serve as a framework for corporate governance, financial transparency, and accountability, thereby ensuring that listed companies operate in a manner that is conducive to investor confidence and market stability. By imposing these standards, stock exchanges contribute to the overall integrity and reliability of the financial markets, fostering an environment where companies are held accountable for their actions and decisions, ultimately benefiting both investors and the broader economy. 
+## Listing requirements
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=21 "Edit section: Listing requirements")]
+Each stock exchange imposes its own [listing requirements](https://en.wikipedia.org/wiki/Listing_requirements "Listing requirements") upon companies that want to be listed on that exchange. Such conditions may include minimum number of shares outstanding, minimum market capitalization, and minimum annual income. 
+### Examples
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=22 "Edit section: Examples")]
+The listing requirements imposed by some stock exchanges include: 
+## Ownership
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=23 "Edit section: Ownership")]
+## Stock market capitalization ranking
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=24 "Edit section: Stock market capitalization ranking")]
+**Top ten traditional[stock exchanges by total market capitalization](https://en.wikipedia.org/wiki/List_of_major_stock_exchanges "List of major stock exchanges") (as of November 2025)**
+Rank  | Stock exchange  | Country  | Market capitalization (in trillion dollars)   
+---|---|---|---  
+## Other types of exchanges
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=25 "Edit section: Other types of exchanges")]
+## See also
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=26 "Edit section: See also")]
+**Lists** : 
+## References
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=27 "Edit section: References")]
+## External links
+[[edit](https://en.wikipedia.org/w/index.php?title=Stock_exchange&action=edit&section=28 "Edit section: External links")]
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png)](https://en.wikipedia.org/wiki/File:Wiktionary-logo-en-v2.svg)
+[![](https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png)](https://en.wikipedia.org/wiki/File:Commons-logo.svg)
+Wikimedia Commons has media related to [Stock exchanges](https://commons.wikimedia.org/wiki/Category:Stock_exchanges "commons:Category:Stock exchanges").
+[Financial markets](https://en.wikipedia.org/wiki/Financial_market "Financial market")  
+---  
+Types of [markets](https://en.wikipedia.org/wiki/Capital_market "Capital market") |   
+Types of [stocks](https://en.wikipedia.org/wiki/Stock "Stock") |   
+[Share capital](https://en.wikipedia.org/wiki/Share_capital "Share capital") |   
+Participants |   
+Trading venues |   
+[Stock valuation](https://en.wikipedia.org/wiki/Stock_valuation "Stock valuation") |   
+Trading theories  
+and [strategies](https://en.wikipedia.org/wiki/Trading_strategy "Trading strategy") |   
+Related terms |   
+[Largest stock exchanges by market capitalization](https://en.wikipedia.org/wiki/List_of_major_stock_exchanges "List of major stock exchanges")  
+---  
+[World Federation of Exchanges](https://en.wikipedia.org/wiki/World_Federation_of_Exchanges "World Federation of Exchanges")  
+---  
+Members |   
+Associates |   
+Affiliates |   
+Correspondents |   
+---  
+International |   
+National |   
+Other |   
+Retrieved from "[https://en.wikipedia.org/w/index.php?title=Stock_exchange&oldid=1333127965](https://en.wikipedia.org/w/index.php?title=Stock_exchange&oldid=1333127965)"
+[Categories](https://en.wikipedia.org/wiki/Help:Category "Help:Category"): 
+Hidden categories: 
+Stock exchange
+[Add topic ](https://en.wikipedia.org/wiki/Stock_exchange)
+[](https://en.wikipedia.org/wiki/Stock_exchange?action=edit)
+
+==================================================
+
+SOURCE: https://www.ig.com/en/trading-strategies/what-are-the-largest-stock-exchanges-in-the-world--180905
+[ Skip to content ](https://www.ig.com/en/trading-strategies/what-are-the-largest-stock-exchanges-in-the-world--180905#main-content)
+CFDs are complex instruments. 71% of retail client accounts lose money when trading CFDs, with this investment provider. You can lose your money rapidly due to leverage. Please ensure you understand how this product works and whether you can afford to take the high risk of losing money.  CFDs are complex instruments. 71% of retail client accounts lose money when trading CFDs, with this investment provider. You can lose your money rapidly due to leverage. Please ensure you understand how this product works and whether you can afford to take the high risk of losing money. 
+More from IG
+English
+My account
+[IG](https://www.ig.com/en)
+English
+[ Create live account ](https://www.ig.com/en/application-form)
+Search
+No results found
+[View more search results](https://www.ig.com/en/trading-strategies/what-are-the-largest-stock-exchanges-in-the-world--180905)
+1 2 3 4 5 6 7 8 9 10
+Related search:  [Market Data](https://www.ig.com/en/trading-strategies/what-are-the-largest-stock-exchanges-in-the-world--180905)
+Market Data  |  Type of market   
+---|---  
+[See all Market data search results >](https://www.ig.com/en/trading-strategies/what-are-the-largest-stock-exchanges-in-the-world--180905)
+# What are the largest stock exchanges in the world?
+There are 60 major global stock exchanges that range in size and trading volume – from the New York Stock Exchange to tiny local exchanges. Here we take a look at the largest stock exchanges in the world by market capitalisation.
+![London Stock Exchange](https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/news-article-image-folder/BG_london_stock_exchange_LSE.jpg/jcr:content/renditions/original-size.webp) Source: Bloomberg
+## What is a stock exchange?
+A stock exchange is a marketplace for the buying and selling of shares, bonds and securities. Stock exchanges can serve as a measure for the health of the national economy, and can also be a key indicator of world economic strength. This is because the growth of the financial market equates to higher standards of living and employment rates.
+Traditionally, stock exchanges were physical buildings in each country of operation, but with the shift toward electronic trading many have closed their trading floors and switched to online platforms. However, the institutions themselves are still around, and some of them are bigger than ever with market capitalisations of trillions of dollars.
+## Top 10 largest stock exchanges in the world
+![Top 10 largest stock exchanges by market capitalisation](https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/ContentImage/Largest-stock-exchanges-in-the-world-page-content3.png)
+![Top 10 largest stock exchanges by market capitalisation](https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/ContentImage/Largest-stock-exchanges-in-the-world-page-content3.png)
+We’re taking a look at the top 10 stock exchanges in the world based on their market capitalisation in March 2018, which have all been adjusted to the US dollar.1 These are:
+## New York Stock Exchange
+The New York Stock Exchange (NYSE) is located on Wall Street in New York. It was founded in 1817, but it didn’t operate under the NYSE name until 1963. The New York Stock Exchange Group had a turbulent road to its top spot, with infamous events such as the Wall Street Crash in 1929 and Black Tuesday in 1987. But it has remained the largest stock exchange in the world by market capitalisation ever since the end of World War I, when it overtook the London Stock Exchange. In 2012, the NYSE was taken over by an American futures exchange group, Intercontinental Exchange.
+## NASDAQ
+The NASDAQ stock exchange is also in New York, located in the famous Times Square. It stands for National Association of Securities Dealers Automated Quotations and was founded by a group of local stockbrokers in 1971. The NASDAQ is unusual in that it never operated on an open outcry system; instead it has always used a computer and telephone-based system of trading, which made it the first electronic stock exchange.
+## Tokyo Stock Exchange
+The Tokyo Stock Exchange (TSE) was founded in 1878 and is the largest stock exchange in Japan. The TSE did face problems post World War II – and was even suspended between August 1945 and April 1949 – due to the country’s involvement in the war. It was rebranded in 1949, and is now commonly known under the name of its owner: Japan Exchange Group. The group was formed in the merger between the Osaka Securities Stock Exchange and the TSE in 2013. The Tokyo Stock Exchange now partners with other exchanges all over the world, including the London Stock Exchange.
+## Shanghai Stock Exchange
+The Shanghai Stock Exchange (SSE) is one of three independent stock exchanges in the People’s Republic of China – the other two being Shenzhen and Hong Kong, which also feature on this list. The Shanghai Stock Exchange is the fourth largest stock exchange in the world, despite the fact it was only founded in 1990. The exchange’s origins do actually date back to 1866, but it was suspended in 1949 due to the Chinese revolution.
+Each stock listed on the SSE has ‘A’ shares that are priced in the local yuan currency, and ‘B’ shares that are quoted in US dollars. ‘A’ shares are for domestic investment only, with the exception of investors who qualify for the foreign investment scheme, while ‘B’ shares are available to both domestic and foreign investors.
+The Shanghai Stock Exchange’s market capitalisation reached $5.01 trillion in March 2018. Traders can track the performance of stocks listed on the Shanghai Stock Exchange using the SSE Composite index, also known as the Shanghai Composite. This includes the largest stocks on the Shanghai Stock Exchange, such as PetroChina, the Industrial and Commercial Bank of China and the Agricultural Bank of China.
+## Hong Kong Stock Exchange
+The Hong Kong Stock Exchange (SEHK) was founded in 1891 by the Association of Stockbrokers in Hong Kong – it was renamed the Hong Kong Stock Exchange in 1914. The SEHK is one of the three stock exchanges in China, but the physical trading floor of the SEHL was closed in 2017 because of the shift toward electronic trading.
+## London Stock Exchange
+The [London Stock Exchange](https://www.ig.com/en/shares/markets-shares/london-stock-exchange-plc-LSE-UK) (LSE) was founded in 1801, but its origins date back to 1698 when the LSE’s service was nothing more than a twice-weekly paper publication of market prices. This makes it the one of the oldest stock exchanges in the world. It was actually the largest stock exchange in the world up until the end of World War I, when it was dethroned by the NYSE. The LSE is now the sixth largest stock exchange in the world, and the largest stock exchange in Europe.
+The LSE is owned by the London Stock Exchange Group, which was created in 2007 when the LSE merged with the Borsa Italiana. It is the most international stock exchange, with over 3000 companies across 70 countries.
+## Euronext Stock Exchange
+The Euronext Stock Exchange is based in Amsterdam, Netherlands, but it is a pan-European exchange – it spans the Netherlands, Portugal, Belgium, France, Ireland and the UK. It was founded in 2000 to represent the economy of Europe as a whole, which is why it operates in euros.
+In 2007, Euronext merged with the NYSE Group to form NYSE Euronext, and in 2013, Intercontinental Exchange took over the exchange completely. Then, in June 2014, Euronext went public in order to become a standalone company again.
+## Shenzhen Stock Exchange
+The Shenzhen Stock Exchange (SZSE) is the third exchange of the People’s Republic of China. Although it was founded in 1987, it wasn’t formally operational until 1990. The SZSE is a self-regulated body, but it is supervised by the China Securities Regulatory Commission (CSRC).
+The Shenzhen Stock Exchange had a market capitalisation of $3.49 trillion in March 2018, which made it the eighth largest stock exchange in the world.
+The SZSE trades shares in Chinese yuan because the companies listed on the Shenzhen Stock Exchange are primarily based in China. The Shenzhen Stock Exchange is also home to the SME Board established in 2004 for businesses in the manufacturing sector, and the ChiNext board, which was launched in 2009 to replicate the NASDAQ’s focus on technology start-ups.
+## Toronto Stock Exchange
+The Toronto Stock Exchange (TSX) was founded in 1852. It is the largest stock exchange in Canada, with over 1500 companies listed. In 2009, the TSX merged with the Montreal Stock Exchange and so the parent company was renamed from TSX Group to TMX Group. The TMX Group was in talks to merge with the London Stock Exchange in 2011, but this fell through after it failed to get approval from shareholders.
+## Frankfurt Stock Exchange
+The Frankfurt Stock Exchange (FWB) was founded in 1585 to fix currency rates, but in the following centuries it became considered as one of the first stock exchange’s in the world – alongside the London Stock Exchange and Paris Stock Exchange. It was only after World War II that the Frankfurt Stock Exchange was officially established as Germany’s leading stock exchange.
+In 1993, ownership of the Frankfurt Stock Exchange was transferred to the company Deutsche Bӧrse AG, which was also in talks to take over the London Stock Exchange. These talks fell through in 2005.
+## Trading stock exchanges
+You cannot trade on the price of a stock exchange directly, but you can gain exposure to the overall performance of companies on the largest stock exchanges by trading the stock indices mentioned throughout this article.
+Alternatively, you could trade or invest in the shares of individual companies on the exchanges, or an exchange traded fund (ETF) – which tracks the performance of a basket of shares.
+To gain exposure to stock exchanges, you can:
+If you don’t feel ready to start trading, you can learn more about financial markets with[ IG Academy’s](https://www.ig.com/en/learn-to-trade/ig-academy) range of online courses. 
+1 <https://www.stockmarketclock.com/exchanges>
+  
+
+This information has been prepared by IG, a trading name of IG Markets Limited. In addition to the disclaimer below, the material on this page does not contain a record of our trading prices, or an offer of, or solicitation for, a transaction in any financial instrument. IG accepts no responsibility for any use that may be made of these comments and for any consequences that result. No representation or warranty is given as to the accuracy or completeness of this information. Consequently any person acting on it does so entirely at their own risk. Any research provided does not have regard to the specific investment objectives, financial situation and needs of any specific person who may receive it. It has not been prepared in accordance with legal requirements designed to promote the independence of investment research and as such is considered to be a marketing communication. Although we are not specifically constrained from dealing ahead of our recommendations we do not seek to take advantage of them before they are provided to our clients.
+![](https://a.c-dn.net/c/content/dam/publicsites/igcom/shared/News%20and%20analysis%20images/Strategy_promo_banner_small.jpg/jcr:content/renditions/original-size.webp)
+## Explore the markets with our free course
+Discover the range of markets and learn how they work - with IG Academy's online course.
+## You might be interested in…
+Find out what charges your trades could incur with our transparent fee structure.
+Discover why so many clients choose us, and what makes us a world-leading provider of CFDs.
+Stay on top of upcoming market-moving events with our customisable economic calendar.
+### [Markets](https://www.ig.com/en/markets-to-trade)
+[Share CFDs](https://www.ig.com/en/shares)
+[Forex](https://www.ig.com/en/forex)
+[Indices](https://www.ig.com/en/indices)
+[Commodities](https://www.ig.com/en/commodities)
+[Other markets](https://www.ig.com/en/other-markets)
+### [Trading platforms](https://www.ig.com/en/trading-platforms)
+[Web platform](https://www.ig.com/en/trading-platforms)
+[Trading apps](https://www.ig.com/en/trading-platforms/trading-apps)
+[TradingView](https://www.ig.com/en/trading-platforms/tradingview)
+[MetaTrader 4](https://www.ig.com/en/trading-platforms/metatrader-4)
+[ProRealTime](https://www.ig.com/en/trading-platforms/prorealtime)
+[Compare features](https://www.ig.com/en/trading-platforms/compare-trading-platforms)
+[Demo ](https://www.ig.com/en/demo-account)
+### [Learn to trade](https://www.ig.com/en/trading-skills)
+[News and trade ideas](https://www.ig.com/en/news-and-trade-ideas)
+[Trading strategy](https://www.ig.com/en/trading-strategies)
+### [About](https://www.ig.com/en/about-us)
+[Charges and margins](https://www.ig.com/en/charges)
+[Premium services](https://www.ig.com/en/premium-services)
+[Refer a friend](https://www.ig.com/en/refer-a-friend)
+[Marketing partnerships](https://www.ig.com/en/marketing-partnership)
+[Corporate accounts](https://www.ig.com/en/corporate-accounts)
+## [Contact us](https://www.ig.com/en/contact-us)
+Follow us online:
+^IG International Limited is part of the IG Group and its ultimate parent company is IG Group Holdings Plc. IG Group established in London in 1974, and is a constituent of the FTSE 250 index.
+The risks of loss from investing in CFDs can be substantial and the value of your investments may fluctuate. 71% of retail client accounts lose money when trading CFDs, with this investment provider. CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how this product works, and whether you can afford to take the high risk of losing your money.
+CFD Accounts provided by IG International Limited. IG International Limited is licensed to conduct investment business and digital asset business by the Bermuda Monetary Authority.
+IG provides an execution-only service. The information in this site does not contain (and should not be construed as containing) investment advice or an investment recommendation, or an offer of or solicitation for transaction in any financial instrument. IG accepts no responsibility for any use that may be made of these comments and for any consequences that result.
+The information on this site is not directed at residents of the United States and is not intended for distribution to, or use by, any person in any country or jurisdiction where such distribution or use would be contrary to local law or regulation.
+IG International Limited is part of the IG Group and its ultimate parent company is IG Group Holdings Plc. IG International Limited receives services from other members of the IG Group including IG Markets Limited.
+© 2003-2026
+We use a range of cookies to give you the best possible browsing experience. By continuing to use this website, you agree to our use of cookies. You can view our cookie policy and [edit your settings here](https://www.ig.com/au/cookies), or by following the link at the bottom of any page on our site.
+![Company Logo](https://cdn-ukwest.onetrust.com/logos/325f5627-4c8f-4290-b47d-ebd2466ce1c5/6dc2b76e-4bd0-4f24-9ca9-7cf8a6f502de/8df34c2a-33eb-4737-8bf0-1bcafd1c9b6c/IG-logo.png)
+## Privacy Preference Center
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.   
+[More information](https://cookiepedia.co.uk/giving-consent-to-cookies)
+###  Manage Consent Preferences
+#### Strictly Necessary Cookies
+Always Active
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+#### Functional Cookies
+Functional Cookies
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+#### Performance Cookies
+Performance Cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+#### Targeting Cookies
+Targeting Cookies
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+### Performance Cookies
+Search Icon
+checkbox label label
+Consent Leg.Interest
+Switch Label label
+Switch Label label
+Switch Label label
+[![Powered by Onetrust](https://cdn-ukwest.onetrust.com/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
+![](https://t.co/1/i/adsct?bci=4&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=5040d448-328a-4201-b565-fcb38b49e6f5&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=a2035202-bb39-4d31-b724-19499f11a11b&pt=Largest%20Stock%20Exchanges%20in%20the%20World%20by%20Market%20Cap%20%7C%20IG%20International&tw_document_href=https%3A%2F%2Fwww.ig.com%2Fen%2Ftrading-strategies%2Fwhat-are-the-largest-stock-exchanges-in-the-world--180905&tw_iframe_status=0&txn_id=o51kw&type=javascript&version=2.3.35)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=5040d448-328a-4201-b565-fcb38b49e6f5&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=a2035202-bb39-4d31-b724-19499f11a11b&pt=Largest%20Stock%20Exchanges%20in%20the%20World%20by%20Market%20Cap%20%7C%20IG%20International&tw_document_href=https%3A%2F%2Fwww.ig.com%2Fen%2Ftrading-strategies%2Fwhat-are-the-largest-stock-exchanges-in-the-world--180905&tw_iframe_status=0&txn_id=o51kw&type=javascript&version=2.3.35)
+
+==================================================
+

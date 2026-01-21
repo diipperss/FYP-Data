@@ -1,0 +1,248 @@
+SOURCE: https://www.investopedia.com/ask/answers/06/preaftermarket.asp
+Part of the Series 
+Guide to Extended Trading 
+![Trader on the floor of the New York Stock exchange looking at multiple screens](https://www.investopedia.com/thmb/ZuAfs-54FYb7YzZKwdDOn22HC1E=/1500x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\):format\(webp\)/GettyImages-1785916354-7a122dff80a547f59f3d64e5cf3e4b55.jpg)
+[Michael M. Santiago](https://www.gettyimages.com/search/photographer?photographer=Michael%20M.%20Santiago) / Staff / Getty Images
+### Key Takeaways
+##  When Does the Stock Market Open? 
+U.S. stock market exchanges—notably the New York Stock Exchange (NYSE) and the Nasdaq—typically open at 9:30 a.m. and close at 4:00 p.m. Eastern time (ET) on U.S. weekdays.12
+In addition, the growth of electronic trading networks has fundamentally changed how and when people can access markets, with extended hours available starting at 4:00 a.m. and going until 8:00 p.m.12
+Some brokers also offer overnight trading, making it possible to buy and sell stocks anytime. Read on to learn more. 
+##  What Is Pre-Market and After-Hours Trading? 
+Pre-market trading generally happens from 6:30 a.m. to 9:30 a.m. ET, though it can start as early as 4:00 a.m. After-hours trading starts at 4:00 p.m. and can run as late as 8:00 p.m. ET.12
+You can see the hours available for certain popular brokers below:  
+
+Take the Next Step to Invest
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+##  How Pre-Market and After-Hours Trading Works 
+Because an exchange doesn't handle pre-market and after-hours trading, [electronic communication networks](https://www.investopedia.com/terms/e/ecn.asp) handle the trades digitally. Some of the most important market moves can occur outside the NYSE and Nasdaq’s regular trading sessions.3
+###  Pre-Market 
+Before the market opens, traders can log into their brokerage accounts and look for prospects to get ahead of the market, especially if reports are released during the trading day. Traders can then place orders through their brokers. Generally, these orders can only be [limit orders](https://www.investopedia.com/terms/l/limitorder.asp), where traders place an order to buy or sell a specific quantity of an equity at a certain price.3
+Brokers may also have specific off-hours trading criteria—for example, Schwab lets you place limit orders from 8:05 p.m. ET (previous trading day) to 9:25 a.m. ET for execution from 7:00 a.m. to 9:25 a.m. ET.4
+###  After-Hours 
+After-hours trading works like pre-market trading; a trader can log into their brokerage account and place limit orders for their brokers to execute. For instance, Schwab’s after-hours trading lets you place orders from 4:05 p.m. to 8 p.m. ET and executes the orders through the electronic market.4
+##  Overnight Trading 
+The popularity of the U.S. stock market worldwide in places with vastly different time zones from North America is responsible for driving demand to extend trading hours, and brokers, armed with the technology to cater to this demand, are responding. 
+Investors have a few choices if they want to trade stocks overnight and beyond the pre-market and after-hours time slots, meaning from 8:00 p.m. ET to 4:00 a.m. ET. 
+Brokers that offer this option include Interactive Brokers and Robinhood, both of which offer overnight trading facilities, and Charles Schwab, which allows clients to trade all S&P 500 and Nasdaq-100 stocks as well as hundreds of exchange-traded funds (ETFs) at any time Monday through Friday.564
+The overnight session fills the gap between pre-market and after-market hours, allowing investors to trade on qualifying exchanges whenever they want during weekdays. 
+### Fast Fact
+Even with extended and overnight hours, the market remains closed between Friday's close at 4:00 p.m. and Monday at 9:30 a.m.21
+##  How Extended Hours Trading Affects Stock Prices 
+One issue that arises when trading pre-market or after-hours is that there is not as much liquidity or trade volume because of the lower number of traders. However, [stock prices](https://www.investopedia.com/ask/answers/05/saleafterhours.asp) tend to act the same as they do during the trading day. 
+In addition, stock prices can change from the closing price because after-hours and pre-market traders may have access to information that regular-hour traders do not. Prices can rise or fall based on extended-hours trading and carry forward to the next regular trading session.7
+### Fast Fact
+The NYSE Arca exchange shifted to 22-hour-per-day trading (1:30 a.m. ET to 11:30 p.m. weekdays) in 2025.8
+##  Where to Find Pre-Market and After-Hours Market Data 
+The first place investors should look to find information about pre-market and after-hours activity is their brokerage account’s data service, if they have one. 
+Brokerage information services often provide the most detailed off-hours market trading data and usually come free with a brokerage account. Traders can often see the current bid and ask prices for specific securities and the change in prices compared with a previous period’s close. 
+If you don’t have a brokerage account or your broker doesn’t provide this service, several free sites give you access to pre-market and after-hours data. 
+### Important
+Pre-market and after-hours trading are also known collectively as extended trading.
+Although the NYSE’s website doesn't offer such a detailed service in terms of depth, the quoting service on its site shows you the last movements of the stocks during the off-hours market. 
+Other platforms, such as Yahoo! Finance, will show the last trade made in the pre-market and after-hours markets. These services will usually cover all stocks, whether they trade on the NYSE, Nasdaq, or another exchange. 
+##  Pre-Market Hours 
+The pre-market is a period of trading activity that occurs before the stock market opens. Though its trading session typically occurs from 6:30 a.m. to 9:30 a.m. ET each trading day, several [direct-access brokers](https://www.investopedia.com/terms/d/directaccessbroker.asp) allow access to pre-market trading to begin as early as 4:00 a.m.12
+However, very little activity occurs for most stocks early in the morning unless there is news. The liquidity is also extremely thin, with most stocks only showing [stub quotes](https://www.investopedia.com/terms/s/stub-quote.asp). 
+Although pre-market trading gives you an early jump to react to news—especially events in Europe or the United Kingdom—the limited volume can be deceptive about a stock’s strength or weakness. Trading during these hours can be risky because of the possible [slippage](https://www.investopedia.com/terms/s/slippage.asp) from wide bid-ask spreads.9
+Most early birds wait to begin pre-market access at 8:00 a.m. Pre-market trading can only be executed with limit orders through electronic communication networks, such as NYSE Arca, Instinet, and Bloomberg Tradebook.10
+##  After-Market Hours 
+The NYSE introduced after-market trading in June 1991 by extending trading hours by an hour. The move responded to increased competition from international exchanges in London and Tokyo, as well as private exchanges, which offered more trading hours.11
+Today, after-hours trading starts at 4:00 p.m. ET and can run as late as 8:00 p.m., although volume typically thins out much earlier in the session; the majority is done by 6:30 p.m. As in the pre-market hours, trading in the after-hours is conducted through electronic communication networks.10
+After-hours trading is something traders or investors can do if news breaks after closing. The changes in share prices during after-hours trading are a valuable barometer of the market reaction to the new information released. 
+However, after-hours price changes are more volatile than regular-hour prices. As with the pre-market, illiquidity and lack of volume can pose a problem.9
+Institutional or major investors may choose not to participate in after-hours trading, regardless of the news or the event. As a result, a stock can fall suddenly after hours, only to rise when the regular trading session resumes the next day. 
+##  Advantages and Disadvantages of Pre-Market and After-Hours Trading 
+Pros
+Cons
+###  Pros of Pre-Market and After-Hours Trading 
+### Tip
+The pros and cons of pre-market and after-hours trading are also applicable to overnight trading. In general, the liquidity risks are greater for the latter.
+###  Cons of Pre-Market and After-Hours Trading 
+## Does After-Hours Affect Pre-Market?
+After-hours might affect pre-market prices and volume based on the information that after-hours traders use to make trades. Both extended-hours sessions can affect regular-hours trading as well.
+## Can You Buy During Pre-Market Hours?
+You can place buy and sell limit orders during pre-market hours. Some [brokers](https://www.investopedia.com/terms/s/stockbroker.asp) are allowed to enter orders from the market close to pre-market open; the orders are queued until the pre-market opens at 4:00 a.m. ET.12
+## Does After-Hours Trading Go All Night?
+After-hours trading hours can vary by broker. In the U.S., it usually starts at 4:00 p.m. ET and runs up to 8:00 p.m. ET on weekdays. A handful of brokers also offer the ability to trade beyond those hours all the way through the night.
+## What Are the Hours for Overnight Trading?
+Overnight trading occurs in the time between after-market and pre-market trading. In the U.S., that means it commonly runs from 8 p.m. ET to 4 a.m. ET on weekdays, although some brokers may offer slightly shorter time frames.12
+## Is Overnight Trading the Same As Pre-Market?
+Not exactly. Overnight trading and pre-market trading cover different time slots. However, they are both considered extended trading as they occur outside of regular market hours, and part of the pre-market trading hours occur during the night.
+##  The Bottom Line 
+Pre-market, after-hours, and overnight trading are conducted outside regular trading hours through electronic networks that match buyers with sellers. 
+Though they let traders react to news items outside regular trading hours, pre-market and after-hours trading carry several risks, such as illiquidity and price volatility. This trading also enables investors to react to news and company events, such as earnings, outside regular trading hours.  
+
+Article Sources
+Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our [editorial policy.](https://www.investopedia.com/legal-4768893#EditorialPolicy)
+Compare Accounts
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+Part of the Series 
+Guide to Extended Trading 
+## Related Articles
+Newsletter Sign Up
+Newsletter Sign Up
+
+==================================================
+
+SOURCE: https://www.schwab.com/stocks/extended-hours-trading
+Extended Hours Trading: Pre-Market & After-Hours Trading | Charles Schwab
+< [Stocks Overview ](http://www.schwab.com/stocks)
+#  Extended Hours Trading 
+Trade equities even when the U.S. exchanges are closed and get award-winning support 24/7.
+[ Open an account ](https://www.schwab.com/open-an-account/brokerage)
+[ Already a client? Log in to get started ](https://client.schwab.com/app/trade/tom/#/trade)
+![A city skyline at night. ](https://www.schwab.com/sites/g/files/eyrktu1401/files/ExtendedHours-Marquee_0.jpg)
+##  Around the clock trading at Schwab 
+Take advantage of breaking news and events when they happen—24 hours a day, 5 days a week.
+###  24/5 trading for over 1,100 popular stocks and ETFs. 
+Trade all S&P 500, NASDAQ 100, and Dow 30 stocks, plus over 600 ETFs, on any thinkorswim® platform 24 hours a day, 5 days a week. You can also trade any listed equity during extended hours on all Schwab platforms.
+###  24/7 help from trading specialists: When you're up, we're up. 
+Enjoy the same high-quality trade support Schwab is known for even when the exchanges are closed, whether it's early in the morning or late at night.
+Connect with our support team 24/7 via phone and chat on Schwab.com or the thinkorswim platforms.
+##  Extended hours trading sessions 
+Outside of the regular U.S. exchange market hours of 9:30 a.m. to 4:00 p.m. ET, Schwab offers extended pre-market and after-hours trading sessions on all of our platforms. Additionally, extended+overnight (24/5) trading of over 1,100 equities is available on any thinkorswim platform, including all stocks in the S&P 500, Nasdaq 100, and Dow 30, plus over 600 exchange-traded funds (ETFs).
+![The sun in the morning illustration.](https://www.schwab.com/sites/g/files/eyrktu1401/files/Premarket-IMG.png)
+###  Pre-market session: 7:00 a.m. to 9:25 a.m. 
+Orders eligible for pre-market execution must be placed between 8:05 p.m. (previous trading day) and 9:25 a.m. ET.
+![The sun setting illustration.](https://www.schwab.com/sites/g/files/eyrktu1401/files/AfterHours-IMG.png)
+###  After-hours session: 4:05 p.m. to 8:00 p.m. 
+Orders eligible for after-hours execution must be placed between 4:05 p.m. and 8:00 p.m. ET.
+![The moon sleeping illustration. ](https://www.schwab.com/sites/g/files/eyrktu1401/files/Overnight-IMG.png)
+###  Extended + Overnight sessions: 13- or 24-hour continuous 
+Orders eligible for continuous execution during extended hours (7:00 a.m. to 8:00 p.m.) and extended+overnight hours (24 hours) can be placed at any time.
+##  Benefits and drawbacks of trading outside regular U.S. exchange hours 
+###  Benefits 
+**Flexibility to trade on your schedule**
+Extended hours trading provides added access, flexibility, and convenience for investors to place trades outside regular U.S. exchange hours—convenient for investors who want the freedom to trade on their own schedule.   
+
+**Ability to react in real time to news and events**
+Extended hours trading lets investors respond immediately to late-breaking news—whether it's earnings announcements, global market movements, or unexpected events—so investors don't have to wait until the next day's open and risk missing meaningful price swings.
+###  Drawbacks 
+**Variable or lower liquidity**
+Liquidity can be limited outside regular hours, leading to wider spreads between bid (highest buyer offer) and ask (lowest seller offer) prices. All extended hours sessions may face low liquidity or sudden volume spikes, impacting execution and price stability.   
+
+**Uncertain prices**
+In extended hours, quote prices may only reflect one trading venue, potentially differing from other quote systems for the same security. Additionally, foreign markets opening or closing can temporarily affect pricing.   
+
+**Lack of calculation of index value**
+During extended hours, some index-based products may lack updates to their underlying index values, as these are typically calculated during regular trading hours.
+##  Regular market vs. extended and overnight hours sessions for equities 
+###  Here’s how to access extended hours quotes on Schwab platforms: 
+Regular market vs. extended and overnight hours sessions for equities  |  **Regular market hours trading sessions** |  **Extended hours trading sessions**  
+---|---|---  
+Time  |  Orders can be placed at any time and will only be valid from 9:30 a.m. to 4:00 p.m. ET.  |  Orders in extended hours sessions can be placed outside of regular exchange market hours (9:30 a.m. to 4:00 p.m. ET) and are eligible for execution for the following times:   
+**For orders placed on Schwab.com, Schwab Mobile, and thinkorswim platforms:**   
+Pre-market: Orders placed between 8:05 p.m. (previous trading day) and 9:25 a.m. ET will be eligible for execution between 7:00 a.m. and 9:25 a.m. ET.   
+After hours: Orders placed between 4:05 p.m. and 8:00 p.m. ET will be eligible for execution during that time period.   
+Extended hours (13 hours continuous†): Orders placed anytime will be eligible for execution between 7:00 a.m. and 8:00 p.m.   
+**For orders placed on thinkorswim platforms:**   
+Extended + Overnight (24 hours continuous†): Orders placed anytime will be eligible for execution 24 hours a day, each market day. Unless GTC is selected, orders expire at 8:00 p.m. each day.   
+†Except for 5-minute closures that occur before and after regular exchange hours.  
+Trading venues  |  Trading occurs on exchanges like the New York Stock Exchange (NYSE) and Nasdaq and through a variety of venues, including market makers and other market centers.  |  Similar to regular market sessions, trading occurs on exchanges like the New York Stock Exchange and Nasdaq and through a variety of venues, including market makers and other market centers.   
+Order types  |  Many order types and conditions are accepted, including: market, limit, stop-limit, all-or-none, etc.  |  Only limit orders are accepted.   
+Time in force  |  Different timing choices are available, including Day, GTC, IOC, and FOK.  |  Different timing choices are available depending on the extended hours session and platform used:   
+**For Schwab.com and Schwab Mobile:**   
+Extended hours a.m.: Pre-market Day order   
+Extended hours p.m.: After-hours Day order   
+Extended hours: 13-hour Day or GTC order (Day orders expire at 8:00 p.m. ET each day.)   
+**For thinkorswim platforms:**   
+EXT AM: Pre-market Day order   
+EXT PM: After-hours Day order   
+EXT 13h: 13 hours continuous Day or GTC order (Day orders expire at 8:00 p.m. ET each day.)   
+EXTO 24h: 24 hours continuous Day or GTC order (Day orders expire at 8:00 p.m. ET each day.)  
+Liquidity  |  In general, higher-volume trading activity means more liquidity and a greater likelihood of order execution.  |  Lower volume trading activity may result in lower likelihood of order execution, wider spreads, and greater price fluctuation.   
+Quotes  |  The quotes you receive are consolidated and represent the best available prices across all trading venues.  |  Quotes and fills are not consolidated and represent the current prices available through the market. As a participant in the extended hours trading network, the market may also offer access to prices available in other participating markets but not necessarily all venues open for extended hours trading. Best execution is not guaranteed.   
+On thinkorswim platforms, mark, bid, ask, size, and level-2 quotes are shown. For EXTO (extended hours overnight) orders, the last trade price is not displayed.  
+##  Here's how to access extended hours quotes on Schwab platforms: 
+###  Schwab.com: 
+Use the Quick Quote feature at the bottom of the page to access extended hours quotes.  
+
+###  thinkorswim: 
+###  Schwab Mobile: 
+Search for symbols under the Trade tab on the Schwab Mobile app.  
+
+##  Frequently asked questions about extended hours trading 
+Because of limited trading activity in the extended hours, the difference, or spread, between available buy and sell orders is likely to be greater than during regular market hours. Wider spreads often result in more volatile prices. But remember, when you place an extended hours limit order, although there is no guarantee your order will be filled, you are ensured your limit order price or better if your order is executed. Trading after normal market hours comes with unique and additional risks, such as lower liquidity and higher price volatility. Your order may only be partially executed or not at all.
+Currently, most listed securities are available for extended hours trading. However, during any given extended hours session, certain securities may not trade due to a lack of trading interest.
+The overnight trading session in thinkorswim is available for many of the most liquid stocks and ETFs. You can view and monitor the securities eligible for overnight trading in thinkorswim using Watchlists. Open the Watchlists menu, select "Public," then select "24 Hour Trading" to load the symbol list.
+Both limited trading activity and orders placed ahead of yours may reduce the likelihood of your order being filled. Remember, extended hours orders are only executed when there is a matching buy or sell order in the system. If there is no matching buy or sell order at your limit order price, your order will not be executed. It's important to note that orders filled in an overnight trading session will be immediately visible in thinkorswim, but you may see a delay in viewing them in your Schwab.com transaction history.
+Yes, the extended hours session functions independently from the regular market session. Orders for the regular market can be placed anytime before, during, or after the extended hours sessions. Clients should select the appropriate order timing based on which trading session they want.
+A new trading day begins at 8:00 p.m. ET, the same time that the overnight trading session opens. For example:
+A buy order executed at 8:01 p.m. ET with a corresponding sell order executed at 7:59 p.m. ET the next calendar day is counted as a day trade.
+A buy order executed at 7:59 p.m. ET followed by a sell order executed at 8:01 p.m. ET is not counted as a day trade.  
+
+Extended hours trading sessions are completely independent from the regular trading sessions, and you must specify which type of trading session (regular or extended) you intend for your order. 
+Equity orders placed during regular hours using "Day + Extended" on Schwab.com will carry over into that day's extended hours session. Stop orders will not be eligible for execution during an extended hours session. 
+Extended hours orders must be placed during an extended hours trading session on Schwab.com, Schwab Mobile, thinkorswim, or by calling [888-245-6864](tel:888-245-6864) and asking for an extended hours trading representative. 
+The overnight trading session is available exclusively on thinkorswim trading platforms. Log in to thinkorswim and select EXT (pre-market and after-market) or EXTO (extended overnight trading) to place an overnight trading session order. Only select securities qualify for an extended hours overnight session. Please make sure to specify EXT or EXTO when placing the order.
+To view all securities eligible for overnight trading, open the Watchlist menu, select "Public," then select "24 Hour Trading" to load the symbol list.  
+
+Please call [800-435-4000](tel:8004354000) to talk to a trading specialist.
+##  Additional resources 
+[ WHY TRADE STOCKS AT SCHWAB? See the benefits and tools available when trading stocks at Schwab.  ](https://www.schwab.com/stocks/stock-trading)
+[ AFTER HOURS PREPARATION Learn about important trading preparation when the markets are closed.  ](https://www.schwab.com/learn/story/using-after-hours-trading-to-plan-next-day)
+[ STOCKS FOR BEGINNERS Explore the potential steps and process of buying stocks.  ](https://www.schwab.com/learn/story/how-to-buy-stocks-4-steps-beginners)
+[ EXTENDED HOURS TRADING Learn about the rules, drawbacks, and benefits of extended hours trading.  ](https://www.schwab.com/learn/story/after-hours-trading-will-it-work-you)
+##  Not yet a Schwab client? 
+[ Open an account ](https://www.schwab.com/open-an-account/brokerage)
+##  Already a client? 
+[ Log in to get started ](https://client.schwab.com/app/trade/tom/#/trade)
+##  Have questions about extended hours trading? We're here to help. 
+###  Call 
+[888-245-6864](tel:8882456864)
+###  Chat 
+[ Professional answers 24/7  ](https://www.schwab.com/stocks/extended-hours-trading#0)
+###  Visit 
+[ Find a Schwab branch near you ](https://client.schwab.com/public/branchlocator/accessschwab.aspx)
+![](https://insight.adsrvr.org/track/evnt/?ct=0:2ovpoyp&adv=trd1yy4&fmt=4)
+
+==================================================
+
+SOURCE: https://en.wikipedia.org/wiki/Extended-hours_trading
+[Jump to content](https://en.wikipedia.org/wiki/Extended-hours_trading#bodyContent)
+[ Wikipedia began as an impossible dream. Today, we celebrate 25 years of humanity at its best. Join us ](https://wikimediafoundation.org/wikipedia25/?utm_campaign=wp25cn&utm_source=wp25cnout&utm_medium=out)
+From Wikipedia, the free encyclopedia
+Stock trading outside of trading hours
+---|---  
+Part of a series on  
+---  
+[Financial markets](https://en.wikipedia.org/wiki/Financial_market "Financial market")  
+[![Looking up at a computerized stocks-value board at the Philippine Stock Exchange](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Philippine-stock-market-board.jpg/250px-Philippine-stock-market-board.jpg)](https://en.wikipedia.org/wiki/File:Philippine-stock-market-board.jpg)  
+[Bond market](https://en.wikipedia.org/wiki/Bond_market "Bond market")  
+[Stock market](https://en.wikipedia.org/wiki/Stock_market "Stock market")  
+Other markets  
+[Alternative investment](https://en.wikipedia.org/wiki/Alternative_investment "Alternative investment")  
+[Over-the-counter (off-exchange)](https://en.wikipedia.org/wiki/Over-the-counter_\(finance\) "Over-the-counter \(finance\)")  
+[Trading](https://en.wikipedia.org/wiki/Trader_\(finance\) "Trader \(finance\)")  
+Related areas  
+[![](https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Screenshot-Google-Finance-AMZN-Extended-Hours-Trading.png/250px-Screenshot-Google-Finance-AMZN-Extended-Hours-Trading.png)](https://en.wikipedia.org/wiki/File:Screenshot-Google-Finance-AMZN-Extended-Hours-Trading.png)Example chart of extended-hours trading, via Google Finance
+## See also
+[[edit](https://en.wikipedia.org/w/index.php?title=Extended-hours_trading&action=edit&section=1 "Edit section: See also")]
+## References
+[[edit](https://en.wikipedia.org/w/index.php?title=Extended-hours_trading&action=edit&section=2 "Edit section: References")]
+## External links
+[[edit](https://en.wikipedia.org/w/index.php?title=Extended-hours_trading&action=edit&section=3 "Edit section: External links")]
+[Financial markets](https://en.wikipedia.org/wiki/Financial_market "Financial market")  
+---  
+Types of [markets](https://en.wikipedia.org/wiki/Capital_market "Capital market") |   
+Types of [stocks](https://en.wikipedia.org/wiki/Stock "Stock") |   
+[Share capital](https://en.wikipedia.org/wiki/Share_capital "Share capital") |   
+Participants |   
+Trading venues |   
+[Stock valuation](https://en.wikipedia.org/wiki/Stock_valuation "Stock valuation") |   
+Trading theories  
+and [strategies](https://en.wikipedia.org/wiki/Trading_strategy "Trading strategy") |   
+Related terms |   
+  
+
+---|---  
+Retrieved from "[https://en.wikipedia.org/w/index.php?title=Extended-hours_trading&oldid=1267374479](https://en.wikipedia.org/w/index.php?title=Extended-hours_trading&oldid=1267374479)"
+[Categories](https://en.wikipedia.org/wiki/Help:Category "Help:Category"): 
+Hidden categories: 
+Extended-hours trading
+[Add topic ](https://en.wikipedia.org/wiki/Extended-hours_trading)
+[](https://en.wikipedia.org/wiki/Extended-hours_trading?action=edit)
+
+==================================================
+

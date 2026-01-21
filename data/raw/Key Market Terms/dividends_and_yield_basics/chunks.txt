@@ -1,0 +1,508 @@
+SOURCE: https://www.investopedia.com/terms/d/dividendyield.asp
+Part of the Series 
+Guide to Dividend Investing 
+[ Dividends: What They Are, How They Work, and Important Dates ](https://www.investopedia.com/terms/d/dividend.asp)
+Definition
+Dividend yield is a ratio that demonstrates a company's annual dividends relative to its shares' market price.
+##  What Is the Dividend Yield? 
+A stock's dividend yield is a ratio showing how much a company pays out in dividends each year relative to its stock price. The reciprocal of the dividend yield is the dividend payout ratio. 
+### Key Takeaways
+Investopedia / Michela Buttignol
+##  Understanding Dividend Yield 
+Dividends are payments made by a corporation to its shareholders, usually derived from the company's profits. These payments represent a portion of the company's earnings that is distributed to its investors as a reward for their ownership. 
+The dividend yield is an estimate of the dividend-only [return](https://www.investopedia.com/terms/r/return.asp) of a stock investment. Assuming the dividend is not raised or lowered, the yield will rise when the stock price falls. Conversely, it will fall when the price of the stock rises. 
+Because dividend yields change relative to the stock price, it can often look unusually high for stocks that are falling in value quickly. New companies that are relatively small, but still growing quickly, may pay a lower average dividend than mature companies in the same sectors. Generally, mature companies that aren't growing very quickly pay the highest dividend yields. 
+Dividends can be issued in various forms, including cash payments, additional shares of stock, or other property. The most common form is cash dividends. 
+###  REITs, MLPs, and BDCs 
+Along with REITs, master limited partnerships (MLPs) and [business development companies](https://www.investopedia.com/terms/b/bdc.asp) (BDCs) typically also have very high dividend yields. The structure of these companies is such that the U.S. Treasury requires them to pass on the majority of their income to their shareholders.2 This is referred to as a "pass-through" process, and it means that the company doesn't have to pay income taxes on profits that it distributes as dividends.3
+### Fast Fact
+A high dividend yield may not always be great. For example, a company may be better off retaining cash to expand its business, so investors are rewarded with higher capital gains via stock price appreciation.
+##  Calculating the Dividend Yield 
+The formula for dividend yield is as follows:
+Dividend Yield=Annual Dividends Per SharePrice Per Share\begin{aligned}&\text{Dividend Yield} = \frac{ \text{Annual Dividends Per Share} }{ \text{Price Per Share} } \\\\\end{aligned}​Dividend Yield=Price Per ShareAnnual Dividends Per Share​​
+The dividend yield can be calculated from the last full year's financial report. Alternatively, investors can also add the last four quarters of dividends, which captures the trailing 12 months of dividend data. Using a trailing dividend number is acceptable, but it can make the yield too high or too low if the dividend has recently been cut or raised.
+Because dividends are paid quarterly, many investors multiply the last quarterly dividend by four and use the product as the annual dividend for the yield calculation. 
+Finally, some companies pay a dividend more frequently than quarterly. A monthly dividend could result in a dividend yield calculation that is too low. When deciding how to calculate the dividend yield, an investor should look at the [history of dividend payments](https://www.investopedia.com/articles/markets/071616/history-sp-500-dividend-yield.asp) to decide which method will give the most accurate results. 
+##  Advantages and Disadvantages of Dividend Yields 
+###  Advantages 
+Historical evidence suggests that focusing on dividends may amplify returns rather than slow them down. For example, according to analysts at Hartford Funds, 85% of the total returns from the [S&P 500](https://www.investopedia.com/terms/s/sp500.asp) are from reinvested dividends. This assumption is based on the fact that investors are likely to reinvest their dividends back into the S&P 500, which then compounds their ability to earn more dividends in the future.4 Note that any historical dividend statistics may not reflect dividends in the future. 
+A company's ability to consistently pay and increase dividends is often a strong indicator of its financial health and stability. Companies that generate sufficient profits and cash flow are more likely to distribute dividends to their shareholders. Therefore, a stable or growing dividend yield can be a signal that a company is in good financial standing. 
+Regular dividend payments can also boost shareholder confidence, signaling that management is confident in the company's future and earnings potential. This consistent payout demonstrates that the company generates sufficient profits to share with its shareholders. Not only is this another signal of good financial health, but it can also indicate that management has a plan for the future and believes it does not need cash flow for future success. 
+###  Disadvantages 
+High dividend yields may be attractive, but they may also come at the expense of the potential growth of the company. It can be assumed that every dollar a company pays in dividends to its shareholders is a dollar that the company is not reinvesting to grow and generate more [capital gains](https://www.investopedia.com/terms/c/capitalgain.asp). Even without earning any dividends, shareholders have the potential to earn higher returns if the value of their stock increases while they hold it as a result of company growth. 
+It's not recommended that investors evaluate a stock based on its dividend yield alone. Dividend data can be old or based on erroneous information. Many companies have a very high yield as their stock is falling. If a company's stock experiences enough of a decline, it may reduce the amount of the dividend or eliminate it. 
+Investors should exercise caution when evaluating a company that looks distressed and has a higher-than-average dividend yield. Because the stock's price is the denominator of the dividend yield equation, a strong downtrend can increase the quotient of the calculation dramatically. 
+Pros
+Cons
+##  Dividend Yield vs. Dividend Payout Ratio 
+When comparing measures of corporate dividends, it's important to note that the dividend yield tells you what the simple rate of return is in the form of [cash dividends](https://www.investopedia.com/terms/c/cashdividend.asp) to shareholders. 
+The dividend payout ratio represents how much of a company's net earnings are paid out as dividends. While the dividend yield is the more commonly used term, many believe the dividend payout ratio is a better indicator of a company's ability to distribute dividends consistently in the future. The dividend payout ratio is highly connected to a company's cash flow. 
+The dividend yield shows how much a company has paid out in dividends over the course of a year. The yield is presented as a percentage, not as an actual dollar amount. This makes it easier to see how much return the shareholder can expect to receive per dollar they have invested. 
+### Fast Fact
+Dividends can be awarded as additional stock, cash, or other forms of consideration. Keep this in mind when calculating the value of dividends received.
+##  Tax Considerations of Dividends 
+The manner in which dividends are taxed is just as important as how they are paid. Dividend income tax treatment varies significantly across different jurisdictions and can ultimately influence investors' net returns. 
+For example, [qualified dividends](https://www.investopedia.com/terms/q/qualifieddividend.asp) are taxed in the United States at a lower rate than ordinary income, with rates ranging from 0% to 20% depending on the investor's tax bracket. This preferential treatment is designed to encourage investment in dividend-paying stocks. Non-qualified dividends, however, are taxed at the individual's regular income tax rate, which can be substantially higher. 
+The reason this is important to note is that the dividend yield may not ultimately be an investor's rate of return. If the taxpayer has a high individual tax rate, the investor's true net take-home proceeds may be 20% less than the dividend yield. Just as capital gains can vary based on the retirement vehicle in which they are held, dividends and their associated dividend yield may be impacted by taxes. 
+##  Dividend Yields and Inflation 
+Dividend yields can serve as an effective hedge against inflation, helping investors preserve their purchasing power over time. When companies pay dividends, they provide a regular income stream that can be particularly valuable during periods of rising prices. For instance, as a company's revenue grows, potentially due to charging higher prices to capture inflationary pressure, that growth could be passed along to investors. 
+However, this is only true when dividend payments increase. Should a company decide to retain cash flow for growth purposes, a stable dividend yield may be unfavorable, especially during inflationary periods. For instance, during the global pandemic, the United States experienced an unprecedented government stimulus that resulted in high inflation; corporations that did not increase their dividend yield actually eroded the purchasing power of those dividends.5
+##  Examples of Dividend Yield 
+Suppose Company A's stock is trading at $20 and pays annual dividends of $1 per share to its shareholders. Suppose that Company B's stock is trading at $40 and also pays an annual dividend of $1 per share. 
+This means Company A's dividend yield is 5% ($1 ÷ $20), while Company B's dividend yield is only 2.5% ($1 ÷ $40). Assuming all other factors are equivalent, an investor looking to use their portfolio to supplement their income would likely prefer Company A over Company B because it has double the dividend yield. 
+###  Real-World Example 
+To calculate the dividend yield for a company like Microsoft, you would follow these steps: 
+## What Does a 10% Dividend Yield Mean?
+A 10% dividend yield means a company annually pays 10% of its stock price in dividends. A company might be able to afford this high yield, but it might indicate an issue with its stock price. Additionally, the company should consider reinvesting more of its profits into growth.
+## Is Dividend Yield Monthly?
+Dividend yield is calculated using total annual dividend amounts, not monthly or quarterly.  
+
+## What Is a Good Dividend Yield for a Stock?
+It depends on the company and its financial circumstances. Generally, less than 4% is considered safe, while higher percentages increase risk. A careful analysis of the company, its financial reports, and market conditions should be conducted to determine whether a higher yield is good.  
+
+##  The Bottom Line 
+Many stocks pay dividends to reward their shareholders. [High-yielding dividend stocks](https://www.investopedia.com/the-best-dividend-stocks-8783124) can be a good buy for some value investors, but may also signal that a stock's share price has recently fallen by quite a bit, making the legacy dividend comparatively higher in relation to the share price. A high dividend yield could also suggest that a company is distributing too high a portion of its profits as dividends rather than investing in growth opportunities or new projects. 
+Article Sources
+Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our [editorial policy.](https://www.investopedia.com/legal-4768893#EditorialPolicy)
+Compare Accounts
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+Part of the Series 
+Guide to Dividend Investing 
+[ Dividends: What They Are, How They Work, and Important Dates ](https://www.investopedia.com/terms/d/dividend.asp)
+Take the Next Step to Invest
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+## Related Articles
+Newsletter Sign Up
+Newsletter Sign Up
+
+==================================================
+
+SOURCE: https://www.schwab.com/learn/story/what-is-dividend-yield
+What Is Dividend Yield? | Charles Schwab
+* * *
+[Trading](https://www.schwab.com/learn/topic/trading)
+# What Is Dividend Yield?
+Want to know how much cash flow you're getting for every dollar you've invested in a company? For companies that pay dividends, the Dividend Yield can give you an idea how a company's dividend payments relate to its stock price.
+January 16, 2024 • Beginner
+* * *
+Modal Window
+* * *
+## Dive deeper into your trading strategy.
+[Explore thinkorswim®](https://www.schwab.com/trading/thinkorswim)
+* * *
+## More from Charles Schwab
+## Explore more topics
+The information provided here is for general informational purposes only and should not be considered an individualized recommendation or personalized investment advice. The investment strategies mentioned here may not be suitable for everyone. Each investor needs to review an investment strategy for his or her own particular situation before making any investment decision.
+Investing involves risk including loss of principal.
+©2023 Charles Schwab & Co., Inc. All rights reserved. Member [SIPC](https://www.sipc.org/). (1123-30BS).
+1123-30BS
+
+==================================================
+
+SOURCE: https://heygotrade.com/en/blog/dividend-yield-explained
+# Dividend Yield Explained: Formula, Example, and Risks
+![Author](https://heygotrade.com/en/blog/dividend-yield-explained/)
+Erwanto
+Jan 6, 2026
+![](https://heygotrade.com/static/verified-f366e4532f25eace6678d07f63133607.svg)Reviewed by Gotrade Internal Analyst
+![Dividend Yield Explained: Formula, Example, and Risks](https://files-tr8.s3.ap-southeast-1.amazonaws.com/blog_images/dividendyield_1767694121.webp)
+Share this article
+## When investors look for income from stocks, [dividends](https://www.heygotrade.com/en/blog/what-is-a-dividend/) are often the first thing they consider. But the size of a dividend alone does not tell you much. What matters is how that dividend compares to the stock’s price. This is where dividend yield comes in.
+Dividend yield helps investors understand how much income a stock generates relative to its price. It is widely used in income investing, portfolio comparison, and valuation analysis.
+This guide explains the dividend yield meaning, how the dividend yield formula works, and the key risks investors should understand before relying on it.
+## What Is Dividend Yield?
+Dividend yield shows how much a company pays in dividends each year as a percentage of its stock price.
+In simple terms, it tells you how much income you earn from dividends for every dollar you invest in a stock.
+Dividend yield is usually expressed as a percentage and is updated as stock prices and dividend payments change.
+## How Does Dividend Yield Work?
+Dividend yield combines two simple inputs: the annual dividend and the current stock price.
+### 1. Understand the dividend yield formula
+The basic dividend yield formula is:
+**_Dividend Yield = Annual dividend per share ÷ Stock price_**
+This formula helps standardize dividend income so investors can compare different stocks more easily.
+### 2. Stock price affects yield
+Dividend yield changes even if the dividend stays the same.
+This is why dividend yield should always be viewed alongside price movement and company fundamentals.
+### 3. Dividends are not guaranteed
+Dividends are paid at the company’s discretion. They can be increased, reduced, or suspended depending on profits and financial conditions.
+## Dividend Yield Example
+Imagine [a stock ](https://www.heygotrade.com/en/blog/what-is-a-stock/)trading at 50 dollars per share.
+The company pays an annual dividend of 2 dollars per share.
+Using the dividend yield formula:
+Dividend Yield = 2 ÷ 50 = 4 percent
+This means you earn 4 percent per year in dividend income, before taxes, assuming the dividend stays the same and the stock price does not change.
+If the stock price falls to 40 dollars and the dividend remains 2 dollars, the yield rises to 5 percent. If the price rises to 80 dollars, the yield falls to 2.5 percent.
+## Why Investors Use Dividend Yield?
+### It helps compare income potential
+Dividend yield allows investors to compare income from different stocks, even if their prices are very different.
+### It supports income focused strategies
+Income investors often target stocks or [ETFs](https://www.heygotrade.com/en/blog/what-is-an-etf-definition-how-to-invest/) with consistent and sustainable dividend yields.
+### It provides context for total return
+Dividend yield is one part of [total return](https://www.heygotrade.com/en/blog/total-return-is-definition/), alongside price appreciation.
+### It helps evaluate valuation signals
+Unusually high dividend yields can sometimes signal undervaluation, but they can also signal trouble.
+## Risks of Relying on Dividend Yield
+Dividend yield is useful, but it comes with important risks.
+### High yield can be misleading
+A very high dividend yield may result from a falling stock price rather than a strong dividend policy. This can be a warning sign.
+### Dividends can be cut
+Companies can reduce or eliminate dividends during downturns, even if they paid consistently in the past.
+### Yield ignores growth
+Focusing only on yield may cause investors to miss companies that reinvest profits for long term growth rather than paying high dividends.
+### Taxes reduce actual income
+Dividend income is often taxable, which lowers the effective yield investors receive.
+## Dividend Yield vs Dividend Payout
+Dividend yield and dividend payout are related but different.
+A sustainable dividend usually requires a balance between yield and payout.
+## Conclusion
+Dividend yield shows how much income a stock generates relative to its price. It is a useful tool for comparing income potential, but it should never be used in isolation.
+By understanding how dividend yield works and the risks behind it, investors can make better decisions and avoid chasing yields that may not last.
+If you want to explore dividend paying US stocks or ETFs, you can do so through the Gotrade app. Fractional shares make it easier to build income focused positions while staying diversified.
+[DOWNLOAD & ACCESS NOW](https://heygo.trade/download-and-access-now-button)
+**FAQ**
+**What is dividend yield in simple terms?**  
+Dividend yield is the annual dividend income divided by the stock price, shown as a percentage.
+**Is a higher dividend yield always better?**  
+Not necessarily. Very high yields can signal falling prices or potential dividend cuts.
+**How often is dividend yield paid?**  
+Dividend yield itself is not paid. It reflects dividends, which are usually paid quarterly or annually.
+**Can dividend yield change over time?**  
+Yes. It changes when dividends or stock prices change.
+**Reference:**
+**Disclaimer**
+_Gotrade is the trading name of Gotrade Securities Inc., which is registered with and supervised by the Labuan Financial Services Authority (LFSA). This content is for educational purposes only and does not constitute financial advice. Always do your own research (DYOR) before investing._
+* * *
+Share
+## Related Articles
+![](https://heygotrade.com/en/blog/dividend-yield-explained/)![AppLogo](https://heygotrade.com/static/5507b8ed8d889e18a99cc848622fd481/fd127/app-logo.png)
+Gotrade
+[](https://heygotrade.com/app-download/)
+![](https://t.co/1/i/adsct?bci=4&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=1c5a81d5-7224-41c4-ad83-2366212e8d20&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=66abbb29-58b6-4414-816b-bf5459d3c40b&pt=Dividend%20Yield%20Explained%3A%20Formula%2C%20Example%2C%20and%20Risks&tw_document_href=https%3A%2F%2Fheygotrade.com%2Fen%2Fblog%2Fdividend-yield-explained%2F&tw_iframe_status=0&txn_id=oc2is&type=javascript&version=2.3.35)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FSingapore%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%261080%26600%2612%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=1c5a81d5-7224-41c4-ad83-2366212e8d20&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=66abbb29-58b6-4414-816b-bf5459d3c40b&pt=Dividend%20Yield%20Explained%3A%20Formula%2C%20Example%2C%20and%20Risks&tw_document_href=https%3A%2F%2Fheygotrade.com%2Fen%2Fblog%2Fdividend-yield-explained%2F&tw_iframe_status=0&txn_id=oc2is&type=javascript&version=2.3.35)
+
+==================================================
+
+SOURCE: https://www.fidelity.com/learning-center/trading-investing/dividend-yield
+September 15, 2025
+![Estimate Time](https://www.fidelity.com/bin-public/600_Fidelity_Com_English/images/article/time-clock-circle.svg)6 min
+* * *
+Great, you have saved this article to you My Learn Profile page.
+* * *
+Dividend yield: What it is and how to calculate it | Fidelity
+Clicking a link will open a new window.
+[Print ![Print](https://www.fidelity.com/bin-public/600_Fidelity_Com_English/images/article/Print.svg)](https://www.fidelity.com/learning-center/trading-investing/dividend-yield#print)
+![](https://www.fidelity.com/bin-public/600_Fidelity_Com_English/images/learning-center/heros/what-is-dividend-yield-326444632-banner.png)
+### Key takeaways
+Some companies make dividend payments as a way of sharing some of their profits with stockholders. [Dividend investing](https://www.fidelity.com/learning-center/smart-money/dividend-stocks "Dividend investing") can potentially help provide steady investment income—even during periods when the market is down. Dividend yield can come in handy when comparing dividend stocks and deciding which ones to invest in. Here’s a closer look at what it is, how it works, and how to calculate it.
+![Fidelity Viewpoints](https://www.fidelity.com/bin-public/600_Fidelity_Com_English/images/migration/callouts/viewpoints-logo-subscription-jump-image.png)
+Sign up for _Fidelity Viewpoints_ weekly email for our latest insights.   
+
+  
+
+[Subscribe now](https://www.fidelity.com/learning-center/trading-investing/dividend-yield#subscribe-container)
+###  What is dividend yield?
+Dividend yield is the percentage return rate that a company pays in dividends, based on its current dividend rate and stock price. It gives investors an idea of how much annual income they might expect from dividend payments, assuming the dividend doesn’t change.
+As a quick example, if a company pays $1 in annual dividends per share, and its share price is currently $25, its dividend yield would be 4%. (Keep reading for more on the calculation.)
+###  How does dividend yield work?
+Keep in mind that the dividend yield is a ratio. If either the share price or the dividend payment changes, the yield will also change.
+**What increases the dividend yield?**
+The dividend yield can increase if:
+**What causes the dividend yield to drop?**
+The dividend yield can fall if:
+However, these effects can also cancel each other out or magnify each other. For example, if the dividend payment and the stock price both rise, the dividend yield could end up staying the same.
+###  What is the dividend yield formula?
+Dividend yield is a simple formula:
+**Dividend yield = (annual dividends per share) / (current share price)**
+That will give you a decimal figure, which you can convert to a return rate by multiplying by 100. For example, a decimal dividend yield of 0.05 represents a return rate of 5%.
+How do you figure out the annual dividends that a stock pays out per share? There are 2 ways of doing this:
+###  How to calculate dividend yield
+To calculate a stock’s dividend yield, just take the total annual dividends that the company pays out (using one of the methods above) and divide that number by the company’s current share price.
+Let’s consider a company with a current share price of $100. Over the past year, the stock has paid out the following quarterly dividend payments:
+Using the backward-looking method, add up all 4 payments and divide by 100. This method would result in a dividend yield of 3.04%.
+Using the forward-looking method, take the most recent dividend payment and multiply by 4. Following this method, you’d have a slightly higher dividend yield of 3.08%.
+###  FAQs about dividend yields
+**Do all companies pay dividends?**
+No, not all companies pay dividends. Large, established companies often do. Young or high-growth companies often do not.
+**Where can I find a company’s dividend yield?**
+Visit Fidelity’s [stock research](https://digital.fidelity.com/prgw/digital/research/src "stock research") page, and search for the company’s name or ticker symbol. In the “Detailed quote” section of the page, look for “Estimated distribution rate/yield.” For dividend stocks the estimated distribution yield is the dividend yield.
+**How do I find companies with the highest dividend yield?**
+Fidelity customers can screen and sort companies by dividend yield using the [Fidelity stock screenerLog In Required](https://research2.fidelity.com/pi/stock-screener "Fidelity Stock Screener") . However, as the next section explains further, just because a company has the highest dividend yield doesn’t necessarily mean it’s the strongest or highest-returning investment.
+###  What is a good dividend yield?
+It can be tempting to go with the [stocks that offer the highest yields](https://www.fidelity.com/learning-center/trading-investing/high-dividend-stocks "stocks that offer the highest yields"). After all, a high yield means you’re earning more from your investment, right? Not necessarily. Companies can decrease or stop their dividends at any time, so the current dividend yield is not a guaranteed return rate.
+In fact, a very high dividend yield can actually be a red flag that the company is struggling. For example, it could indicate that:
+That’s why dividend investors often focus instead on looking for steady dividend payers—companies that have a long track record of paying consistent dividends without cuts—instead of simply highest dividend payers.
+It’s also important to note that high-growth companies often don’t pay dividends, because they choose instead to reinvest all of their profits back into the business. This can help fuel future earnings growth—potentially helping to lift the stock price down the line.
+The key takeaway here is that a high dividend yield isn’t necessarily a good thing and a low dividend yield isn’t necessarily a bad thing.
+###  What is the average dividend yield?
+Dividend yield can vary significantly depending on the company and industry. Average dividend yields across the market can also shift over time. For example, dividend yields are often higher when interest rates are higher and lower when interest rates are lower.
+That said, dividend yields of major market indexes can be helpful yardsticks. The dividend yield of the S&P 500® Index was 1.24% as of July 31, 2025.1
+###  What affects dividend yield?
+Again, dividend yield is directly affected by a stock’s share price and dividend payments. When either of these things change, it affects the stock’s dividend yield. Bear in mind that share prices are constantly in flux. So a company’s dividend yield can change even day to day.
+###  How are dividend yields taxed?
+A stock’s dividend yield is a financial ratio, not a payment to investors, so the dividend _yield_ itself is not something that can be taxed. Dividend payments, on the other hand, are taxable.
+For a dividend to be qualified, investors must generally meet certain [holding period requirements](https://www.fidelity.com/tax-information/tax-topics/qualified-dividends "holding period requirements").
+###  Why is dividend yield important?
+Dividend yield is an important factor to weigh before purchasing a stock, particularly if you’re buying a stock for its dividend income. Unlike the dollar value of a company’s dividend payments, dividend yield is a standardized metric, which means investors can use it to compare stocks with each other.
+Just be sure to understand the metric’s limitations, and always do thorough research before buying individual stocks.
+##  Choose the criteria. See stocks that match. 
+Our Stock Screener matches your ideas with potential investments. 
+[ Find stocks ](https://digital.fidelity.com/prgw/digital/research/src)
+## More to explore
+###  [Stock trading at Fidelity](https://www.fidelity.com/stock-trading/overview)
+Learn about Fidelity's research and online commission rates. 
+###  [Investing for income](https://www.fidelity.com/learning-center/trading-investing/investing-for-income)
+Learn more about income investments. 
+## Subscribe to  _Fidelity Viewpoints ®_
+Timely news and insights from our pros on markets, investing, and personal finance.(debug tcm:2365-349569)
+###  Looking for more ideas and insights? 
+We'll deliver them right to your inbox. 
+###  Thanks for subscribing! 
+Check out your Favorites page, where you can: 
+###  We're on our way, but not quite there yet 
+Good news, you're on the early-access list.   
+But we're not available in your state just yet. As soon as we are, we'll let you know. In the meantime, boost your crypto brainpower in our Learning Center. 
+###  Oh, hello again! 
+Good news, you’re already on the early-access list. Keep an eye on your email for your invitation to Fidelity Crypto. 
+### Thanks for subscribing to 
+Looking for more ideas and insights?   
+You might like these too:
+### Looking for more ideas and insights? You might like these too:
+###  _Fidelity Viewpoints ®_
+Timely news and insights from our pros on markets, investing, and personal finance.(debug tcm:2 ...
+### Decode Crypto
+Clarity on crypto every month. Build your knowledge with education for all levels.
+###  _Fidelity Smart Money ℠_
+What the news means for your money, plus tips to help you spend, save, and invest.
+### Active Investor
+Our most advanced investment insights, strategies, and tools.
+###  _Insights from Fidelity Wealth Management_ ℠
+Timely news, events, and wealth strategies from top Fidelity thought leaders.
+### Women Talk Money
+Real talk and helpful tips about money, investing, and careers.
+### Educational Webinars and Events
+Free financial education from Fidelity and other leading industry professionals.
+_Fidelity Viewpoints ®_
+Timely news and insights from our pros on markets, investing, and personal finance.(debug tcm:2 ...
+Decode Crypto 
+Clarity on crypto every month. Build your knowledge with education for all levels.
+_Fidelity Smart Money ℠_
+What the news means for your money, plus tips to help you spend, save, and invest.
+Active Investor 
+Our most advanced investment insights, strategies, and tools.
+_Insights from Fidelity Wealth Management_ ℠
+Timely news, events, and wealth strategies from top Fidelity thought leaders.
+Women Talk Money 
+Real talk and helpful tips about money, investing, and careers.
+Educational Webinars and Events 
+Free financial education from Fidelity and other leading industry professionals.
+Loading
+1. "Factsheet: S&P 500, July 31, 2025" S&P Dow Jones Indices, A Division of S&P Global, accessed on August 6, 2025, https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview. 
+Past performance and dividend rates are historical and do not guarantee future results.
+Stock markets are volatile and can fluctuate significantly in response to company, industry, political, regulatory, market, or economic developments. Investing in stock involves risks, including the loss of principal.
+This information is intended to be educational and is not tailored to the investment needs of any specific investor.
+As with all your investments through Fidelity, you must make your own determination whether an investment in any particular security or securities is consistent with your investment objectives, risk tolerance, financial situation, and evaluation of the security. Fidelity is not recommending or endorsing this investment by making it available to its customers.
+_Keep in mind that investing involves risk. The value of your investment will fluctuate over time, and you may gain or lose money._
+The Fidelity Stock, Preferred Security, ETF/ETP and Closed End Fund Screeners (Screener(s)) are research tools provided to help self-directed investors evaluate these types of securities. The criteria and inputs entered are at the sole discretion of the user, and all screens or strategies with pre-selected criteria (including expert ones) are solely for the convenience of the user. Expert Screens are provided by independent companies not affiliated with Fidelity. Information supplied or obtained from these Screeners is for informational purposes only and should not be considered investment advice or guidance, an offer of or a solicitation of an offer to buy or sell securities, or a recommendation or endorsement by Fidelity of any security or investment strategy. Fidelity does not endorse or adopt any particular investment strategy or approach to screening or evaluating stocks, preferred securities, exchange traded products or closed end funds. Fidelity makes no guarantees that information supplied is accurate, complete, or timely, and does not provide any warranties regarding results obtained from their use. Determine which securities are right for you based on your investment objectives, risk tolerance, financial situation and other individual factors and re-evaluate them on a periodic basis. 
+Fidelity Brokerage Services LLC, Member NYSE, [SIPC](https://www.sipc.org/), 900 Salem Street, Smithfield, RI 02917
+1218198.1.0 
+icon-alert-warning-filledicon-alert-warning-filled
+When you visit our website, it may store or retrieve information on your browser, mostly in the form of cookies. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience on this site and the services we are able to offer.
+* * *
+Strictly Necessary Cookies
+These cookies are necessary for this website to function and cannot be switched off in our systems. You can set your browser to block or alert you about these cookies, but if you block these cookies, some parts of the site will not work. These cookies do not store any personally identifiable information.
+* * *
+Performance Cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+* * *
+Functional Cookies
+These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+* * *
+Targeting or Advertising Cookies
+* * *
+
+==================================================
+
+SOURCE: https://www.ssga.com/us/en/intermediary/resources/education/what-is-dividend-investing-understanding-how-it-works
+[Skip to main content](https://www.ssga.com/us/en/intermediary/resources/education/what-is-dividend-investing-understanding-how-it-works#main-wrapper)
+ETF Education
+#  What Is Dividend Investing? Understanding How It Works
+**What is dividend investing? A dividend investment strategy focuses on stocks that distribute dividends. Learn more about dividend investing, its benefits and risks, and how to avoid making common mistakes.**
+6 min read
+Share
+Print [ ](https://www.ssga.com/us/en/intermediary/resources/education/what-is-dividend-investing-understanding-how-it-works)
+Dividend investing is an investment strategy that focuses on stocks that distribute dividends. Dividends are payments made by companies — in the form of stock or cash dividend — typically on a quarterly basis.
+When investing in dividend-payers, investors can potentially profit in two ways:
+## Dividend Stocks: What They Are and How They Work
+Every company makes a capital allocation decision on how much of their net income to reinvest towards growth versus returning to shareholders. A dividend is the portion of income that the company decides to return to shareholders. Companies can issue dividends in the form of additional stock or cash.
+Companies that issue consistent dividends provide returns to investors in the form of steady income. By contrast, many growth companies believe in their ability to generate higher value for shareholders by using proceeds for expansion or capital investments. The board of directors decide whether to pay out the company’s profit in dividends.
+Mutual funds and exchange traded funds (ETFs) also issue dividends. This usually is the result of underlying stocks held by the fund issuing a dividend, which are then passed to shareholders of the fund. 
+Quick Quiz
+Are higher dividends always better than lower dividends? If ETF A issues a dividend of $4 per unit and ETF B issues a dividend of $3, is ETF A better?
+You are right! Higher dividends are not necessarily better than lower dividends. Read the section "What is Dividend Yield?" to learn more.
+Higher dividends are not necessarily better than lower dividends. Read the section "What is Dividend Yield?" to find out why.
+## What is Dividend Investing?
+Dividend investing is an investment strategy focused on instruments that issue regular dividends. You can invest directly in stocks that have a history of issuing regular dividends or in ETFs or mutual funds that invest in a portfolio of dividend-yielding stocks.
+## What is Dividend Yield?
+Not all dividends are created equal. To judge the comparative attractiveness of a dividend, you need a measure that normalizes for underlying stock price to provide an equal footing for evaluation.
+One such measure is the dividend yield. To calculate dividend yield, divide a company’s annual dividend per share by the current share price. Dividend yield is the measure of dividend you have earned for every dollar invested.
+_Dividend Yield = (annual dividend received per unit or share)/(price per unit or share)_
+For example, imagine ETF A issues a dividend of $4 per unit and ETF B issues a dividend of $3 and that each unit of ETF A costs $40 and each unit of ETF B costs $20. The dividend yield of ETF A works out to be ($4/$40) 10%, whereas the dividend yield of ETF B works out to be ($3/$20) 15%. If all else is equal, ETF B with its higher dividend yield would provide a higher return than ETF A.
+## Types of Dividend Investing Strategies  
+
+Broadly, dividend investing strategies fall into one of two categories based on the criteria being followed and the investment goals targeted.
+**High Dividend-yield Strategies** target companies with high levels of dividend yield. These strategies have the potential to offer a high level of dividend income and the opportunity for capital appreciation.
+**Dividend Growth Strategies** focus on investing in companies with a history of consistently growing their dividends. The ability to grow dividends consistently over long periods of time demonstrates qualitative attributes, such as fiscal discipline and operational efficiencies, and can potentially lead to growth from dividend income as well as capital appreciation. ETFs built with this strategy usually track indices of stocks that have grown their dividends over consistently long periods of time.
+## Benefits of Dividend Investing
+Investing in stocks that provide high dividend yields helps investors to:
+1
+Generate Passive Income 
+Dividend-paying stocks can be a source of passive and regular income. Companies use stable and increasing dividends as a signal of confidence in their firm’s prospects, while market participants consider such track records a sign of corporate maturity and balance sheet strength.
+2
+Reduce Risk/Volatility 
+Dividend payments potentially can provide a cushion to losses that occur from a decline in stock price. The embedded quality bias of companies that consistently increase dividends may also weather market drawdowns better than broad market indices.¹
+3
+Limit Tax Impacts 
+Qualified dividends are taxed at lower rates than ordinary income for certain investors, making those dividends potentially a tax-efficient means of obtaining income.
+## Risks of Dividend Investing
+When considering where and how to invest, consider:
+**Tax Implications  
+**Some dividends may be taxed as income, unless they are in tax-advantaged accounts like 401(k)s or an IRA. Thus, dividend investing may increase your tax liability. This is true of reinvested dividends as well.
+**Low Growth Potential  
+**Companies that pay regular dividends are naturally reinvesting less into growing the company, which could impact the total return.
+**Possible Policy Changes  
+**Even companies that have a history of offering regular dividends may decide not to issue dividends in a particular year in reaction to changing economic conditions or company-specific factors. As companies are not obligated to distribute dividends, dividend income is not guaranteed.
+## Dividend Investing Mistakes to Avoid
+When implementing any investing strategy, investors run the risk of overlooking factors that can end up having a large impact on returns.
+**The Dividend Value Trap  
+**Relying solely on dividend yield as a metric for investing often leads investors to chase high yields at the cost of high risk to their capital. A high dividend yield may not always signify high total return. The average dividend yield from S&P 500 companies fluctuates between 3% and 5%.2 It’s prudent to be wary of very high payout ratios that are funded by debt and declining cash flows.
+**Choosing Dividend over Company Fundamentals  
+**Chasing dividend payouts without considering the quality and durability of a company can lead to issues like shrinking dividend yields, loss of capital, and volatility in total returns. Therefore, look for companies with competitive strength, long-term expected earnings growth, strong cash flow, and a low debt-to-equity ratio.
+## How Do Dividend ETFs Benefit Investors (and Limit Risks)?
+The ETF structure itself provides some [potentially useful benefits](https://www.ssga.com/us/en/intermediary/resources/education/etf-benefits-for-investors). The following benefits can enable dividend investors to:
+1
+Reduce Tax Liability 
+Because ETFs rarely distribute capital gains, ETFs can potentially [reduce the tax liability](https://www.ssga.com/us/en/intermediary/resources/education/etfs-and-tax-efficiency-what-you-need-to-know) of investors. By reinvesting profits rather than declaring dividends, ETFs can offset the tax implications that come with dividend investing. Make sure your ETF due diligence includes checking the fund’s history of dividend distributions.
+2
+Rely on Index Tracking to Pick High Dividend Companies 
+Since many high dividend yield ETFs track indexes, the process of vetting companies is done for you. 
+3
+Reduce Costs 
+ETFs typically have lower management fees and operating expenses compared to mutual funds. The average expense ratio for index ETFs is 0.57% versus 0.87% for mutual funds.³ When expenses and fees are low, investors keep more of their returns.
+## Looking to Expand Your Knowledge of Investing?
+##  Invest in Your ETF Education 
+##  Invest in Your ETF Education 
+Whether you’re new to investing or a seasoned investor, our ETF Education Hub can help you discover how to evaluate ETFs, use them in a portfolio, and more.
+[Start Learning](https://www.ssga.com/us/en/intermediary/resources/education/etf-education)
+**Dividend Equities  
+**Equity securities that pay dividends. A dividend is a distribution of a portion of a company’s earnings, decided by the board of directors, to a class of its shareholders. Dividends can be issued as cash payments, as shares of stock, or other property. Equity, also known as stock, is a type of security that signifies ownership in a corporation and represents a claim on part of the corporation’s assets and earnings.  
+  
+**Dividend Equity Investing  
+**A style of investing focused on owning companies or a portfolio of companies that make distributions and, in turn, reinvesting those dividends regularly with a view to slowly accumulating wealth over the long term. 
+**Dividend Paying Stock  
+**An equity security that pays a portion of company earnings in a payout to certain shareholders, usually on a quarterly basis. In recent years, increasing numbers of mutual funds and ETFs have begun combining such dividend-paying stocks into larger equity portfolios designed to augment income-generation at a time of low bond yields.
+**Exchange Traded Fund (ETF)  
+**An ETF is an open-ended fund that provides exposure to underlying investment, usually an index. Like an individual stock, an ETF trades on an exchange throughout the day. Unlike mutual funds, ETFs can be sold short, purchased on margin and often have options chains attached to them.
+**Tax Efficiency  
+**A term that describes various approaches to investing that minimize tax liability. Certain types of investments, including funds like ETFs or securities like municipal bonds are valued for their tax efficiency, as are tax-protected accounts such as Individual Retirement Accounts (IRAs) or Roth IRAs. Also, certain practices, such as tax-loss harvesting, which is designed to lighten tax obligations, are considered ways to pursue greater tax efficiency.
+**Value Trap  
+**A stock or stock fund that appears to be trading below its intrinsic value, but that fails to increase in price. The stagnant share prices of value trap investments might indicate that a particular company or entire sector may be challenged, and that valuations may not be moving higher.
+**Volatility**  
+The tendency of a market index or security to jump around in price. Volatility is typically expressed as the annualized standard deviation of returns. In modern portfolio theory, securities with higher volatility are generally seen as riskier due to higher potential losses.
+1 S&P Global, [Why Did Dividend Indices Underperform during the Coronavirus Sell-Off?](https://www.spglobal.com/en/research-insights/articles/why-did-dividend-indices-underperform-during-the-coronavirus-sell-off), May 19, 2020.  
+2 Multpl, [S&P 500 Dividend Yield by Year](https://www.multpl.com/s-p-500-dividend-yield/table/by-year), as of December 31, 2024.  
+3 Morningstar, as of December 31, 2024 based on US-listed ETFs and Mutual Funds, and mutual funds with oldest share classes.
+The information provided does not constitute investment advice and it should not be relied on as such. It should not be considered a solicitation to buy or an offer to sell a security. It does not take into account any investor's particular investment objectives, strategies, tax status or investment horizon. You should consult your tax and financial advisor.
+Frequent trading of ETFs could significantly increase commissions and other costs, such that they may offset any savings from low fees or costs.
+Investing involves risk including the risk of loss of principal.
+The whole or any part of this work may not be reproduced, copied or transmitted or any of its contents disclosed to third parties without SSGA’s express written consent.
+All information is from SSGA unless otherwise noted and has been obtained from sources believed to be reliable, but its accuracy is not guaranteed. There is no representation or warranty as to the current accuracy, reliability or completeness of, nor liability for, decisions based on such information and it should not be relied on as such.
+© 2025 State Street Corporation - All Rights Reserved.
+AdTrax: 6521436.2.1.AM.RTL  
+Expiry: April 30, 2026
+Share
+Print [ ](https://www.ssga.com/us/en/intermediary/resources/education/what-is-dividend-investing-understanding-how-it-works)
+##  More on ETF Education 
+[View All ETF Education Insights](https://www.ssga.com/insights?g=functional-topic-tags:etf-education)
+[](https://www.ssga.com/us/en/intermediary/resources/education/what-is-dividend-investing-understanding-how-it-works "Back To Top")
+[![State Street Investment Management](https://www.ssga.com/library-content/images/site/state-street-investment-management-logo.svg)](https://www.ssga.com/)
+![State Street Investment Management](https://www.ssga.com/library-content/images/site/state-street-investment-management-logo.svg)
+You are visiting the United States site as a/an Financial Professional
+Select a Location
+United States United Kingdom Japan / 日本 Australia Austria / Österreich Belgium Canada Czech Republic Denmark Finland France Germany / Deutschland Greece Hong Kong / 香港 Iceland Ireland Italy / Italia Japan / 日本 Luxembourg Netherlands / Nederland New Zealand Norway Poland Portugal Singapore Spain Sweden Switzerland / Schweiz United Arab Emirates United Kingdom United States
+Select Investor Type
+Institutional Investor Financial Professional Individual Investor[Prospectus & ETF Information Only](https://www.ssga.com/us/en/intermediary/resources/education/what-is-dividend-investing-understanding-how-it-works)
+IMPORTANT INFORMATION  
+  
+
+PLEASE READ THESE TERMS & CONDITIONS CAREFULLY. BY CLICKING "ENTER SITE" AND ACCESSING THE INFORMATION THEREIN (THE "SITE"), YOU AGREE TO BE BOUND BY THESE TERMS & CONDITIONS AS WELL AS OUR PRIVACY POLICY AND ANY FUTURE REVISIONS. IF YOU DO NOT AGREE TO THE TERMS & CONDITIONS BELOW, DO NOT ACCESS THIS SITE, OR ANY PAGES THEREOF.  
+
+The products and services described on this Site are available to be marketed within the U.S. and to certain non-U.S. investors who may be eligible to receive certain product information in accordance with local jurisdiction private placement restrictions. The information provided on this Site is only for such persons and is not directed to any person in any jurisdiction where, by reason of that person's nationality, domicile, residence or otherwise, the publication or availability of this Site and the information within is prohibited. Persons under these restrictions must not access the Site.  
+
+**It is your responsibility to be aware of and to observe all applicable laws and regulations of any relevant jurisdiction.  
+**
+**No Offer / Local Restrictions  
+**
+Nothing contained in or on this Site should be construed as a solicitation of an offer to buy or offer, or a recommendation, to acquire or dispose of any security, commodity, investment or to engage in any other transaction. State Street Global Advisors and its affiliates (“SSGA”) offer a number of products and services designed specifically for various categories of investors. Not all products will be available to all investors. SSGA recommends that you seek independent financial advice before making any investment decisions The information provided on the Site is not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation.  
+
+**No Warranty  
+**
+THE INFORMATION ON THE SITE IS PROVIDED "AS IS". NEITHER SSGA NOR ITS AFFILIATES WARRANTS THE ACCURACY OF THE MATERIALS PROVIDED HEREIN, EITHER EXPRESSLY OR IMPLIEDLY, FOR ANY PARTICULAR PURPOSE AND EACH EXPRESSLY DISCLAIMS ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.  
+
+**No Reliance  
+**
+Information contained in the Site is checked and updated by SSGA on a regular basis. However, data on the Site may become outdated. In addition, due to the risk that the Internet may be subject to interruption, transmission blackout, delayed transmission due to internet traffic, or incorrect data transmission due to public nature of the internet, the information contained in the Site may be incomplete, altered or tampered with, and may not present complete and accurate information. Therefore, SSGA does not assume any liability or guarantee for the timeliness, accuracy and completeness of the information provided. SSGA uses reasonable efforts to obtain information from sources which it believes to be reliable; however, SSGA makes no representation that the information or opinions contained on the Site is accurate, reliable or complete.  
+
+The information on the Site is provided for informational purposes only and is subject to change without notice. The investments and strategies discussed in the contents may not be suitable for all investors and are not obligations of, or guaranteed by, SSGA. Nothing contained on the Site constitutes investment, legal, tax or other advice nor is to be relied on in making an investment or other decision. You should obtain relevant and specific professional advice before making any investment decision. In particular, the information on this Site does not take into account your investment objectives, financial situation or particular needs. Before making an investment decision you should consider with the assistance of your professional securities adviser whether the information on this Site is appropriate in light of your particular investment needs, objectives and financial circumstances.  
+
+**Exchange Traded Fund Disclosures  
+**
+ETFs trade like stocks, are subject to investment risk, fluctuate in market value and may trade at prices above or below the ETFs net asset value. Brokerage commissions and ETF expenses will reduce returns.  
+
+
+Distributor: State Street Global Advisors Funds Distributors, LLC (SSGA FD), Member [FINRA](http://www.finra.org/) and an indirect wholly owned subsidiary of State Street Corporation. References to State Street may include State Street Corporation and its affiliates. One Congress Street Boston, MA 02114. ALPS Distributors, Inc. (ALPS) is the distributor for SPY, MDY, and DIA, all unit investment trusts. SSGA FD and ALPS are not affiliated.
+**GENERAL RISK FACTORS  
+**
+Historical performance is not necessarily indicative of future performance of an investment. The value of Units/Shares (as defined below) and the income from them may fall as well as rise and investors may not get back the amount invested.  
+
+Applications to create or redeem interests in any exchange traded fund referred to on this Site ("Units/Shares") may only be effected through participating dealers, and are generally only issued or redeemed in large blocks. Investors may request participating dealers to apply on their behalf for the creation and/or redemption of Units/Shares. Once listed, investors can also acquire or dispose of Units/Shares on the exchange on which such Units/Shares are listed like other publicly traded shares. However, listing does not guarantee a liquid market for Units/Shares. Units/Shares are traded on the relevant exchange at market price, which may be different from the net asset value per Unit/Share, and may be delisted.  
+
+The prospectus in respect of the offer of the Units in the relevant fund referred to on this Site is available and may be obtained upon request. Investors should read the relevant prospectus before deciding whether to acquire Units in the relevant fund. Units in the relevant fund are not obligations of, deposits in, or guaranteed by, SSGA or any of its affiliates. Investors who are not participating dealers or approved applicants have no right to request SSGA to redeem their Units while the Units are listed (see the relevant prospectus for details).  
+
+Please read carefully the risk disclosures in the relevant prospectus or other offering document before making any investment decision.  
+
+**Limitations of Liability  
+**
+Except to the extent to which any law prohibits such exclusion, SSGA excludes all liability for loss or damage of any kind (including direct, indirect and consequential loss and damage of business revenue, loss of profits, loss or corruption of data, failure to realise expected profits or savings or other commercial or economic loss of any kind), however caused, in contract, tort, under any statute or otherwise (including negligence) arising out of or in any way related to this Site. In no event, including negligence, will SSGA or its affiliates be liable for any loss or damage of any kind, including any direct, special indirect or consequential damages arising out of or in connection with the access of, use of, performance of, browsing in or linking to other sites from the Site.  
+
+**Indemnification  
+**
+As a condition of your use of the Site, you agree to indemnify and hold SSGA and its affiliates harmless from and against any and all claims, losses, liability, costs and expenses (including but not limited to attorneys' fees) arising from your use of the Site, or from your violation of these Terms.  
+
+**Linked Websites  
+**
+Should the viewer leave the Site via a link contained in the Site, the viewer does so at its own risk. The content to which you link will not have been developed, checked for accuracy, or otherwise reviewed by SSGA, and SSGA will not accept any responsibility whatsoever for the content of such sites or any losses related thereto.
+**SSGA Trademark  
+**
+"State Street Global Advisors," and "SSGA" are trademarks of State Street Corporation. Copyright, trademark and other forms of proprietary rights protect the contents at the site. From time to time, the trademarks of other unaffiliated entities may be referred to on the Site and their respective owners own these trademarks. Trademark owners are not responsible for and have not reviewed this site and no representation or warranty, express or implied, as to its accuracy, or completeness of the materials presented on it. Please also see "Copyright" for further information.  
+
+**Privacy  
+**
+Please see the "Privacy" section for information on how SSGA handles personal data, what information is collected and how it is used and your rights in respect of any of your personal data collected by SSGA on this Site.  
+
+**Changes and Modifications  
+**
+SSGA reserves the right to change, modify, add, or delete, any content and these Terms & Conditions without notice. Users are advised to periodically review the contents of this website to be familiar with any modifications.  
+
+**Governing Law and Jurisdiction  
+**
+Any action arising out of these Terms & Conditions or the Site shall be litigated in, and only in, courts located in the Commonwealth of Massachusetts, and you agree to submit to the exclusive jurisdiction of those courts and further agree that they are a convenient forum for you.
+From Sectors and Smart Beta to Fixed Income, SPDR Exchange Traded Funds (ETFs) give you wide access to diverse investment opportunities. Find out more.
+[Okay](https://www.ssga.com)
+[Accept](https://www.ssga.com/us/en/intermediary/resources/education/what-is-dividend-investing-understanding-how-it-works)
+[Decline](https://www.ssga.com/us/en/intermediary/resources/education/what-is-dividend-investing-understanding-how-it-works)
+[](https://www.ssga.com/us/en/intermediary/resources/education/what-is-dividend-investing-understanding-how-it-works)
+[](https://www.ssga.com/us/en/intermediary/resources/education/what-is-dividend-investing-understanding-how-it-works)
+[](https://www.ssga.com/us/en/intermediary/resources/education/what-is-dividend-investing-understanding-how-it-works)
+[](https://www.ssga.com/us/en/intermediary/resources/education/what-is-dividend-investing-understanding-how-it-works)
+
+==================================================
+

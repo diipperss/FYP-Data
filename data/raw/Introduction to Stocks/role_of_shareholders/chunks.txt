@@ -1,0 +1,211 @@
+SOURCE: https://corporatefinanceinstitute.com/resources/equities/shareholder/
+# Shareholder
+A person, company, or organization that owns a share or shares of stock in a given company 
+Written by [CFI Team](https://corporatefinanceinstitute.com/about-cfi/)
+Read Time 3 minutes 
+Over 2.8 million + professionals use CFI to learn accounting, financial analysis, modeling and more. Unlock the essentials of corporate finance with our free resources and get an exclusive sneak peek at the first module of each course.  [ Start Free Start Free](https://learn.corporatefinanceinstitute.com/auth/registration)
+## What is a Shareholder?
+Also called a stockholder, they have the right to vote on certain matters with regard to the company and to be elected to a seat on the [board of directors](https://corporatefinanceinstitute.com/resources/management/board-of-directors/).
+![Shareholder](data:image/svg+xml,<svg%20id="L4"%20xmlns="http://www.w3.org/2000/svg"%20xmlns:xlink="http://www.w3.org/1999/xlink"%20x="0px"%20y="0px"%20viewBox="0%200%201024%20654"%20xml:space="preserve"></svg>)
+If the company is getting liquidated and its assets are sold, the shareholder may receive a portion of that money, provided that the creditors have already been paid. When such a situation arises, the advantage of being a stockholder lies in the fact that they are not obliged to shoulder the [debts](https://corporatefinanceinstitute.com/resources/commercial-lending/senior-and-subordinated-debt/) and financial obligations incurred by the company, which means creditors cannot compel stockholders to pay them.
+### Roles of a Shareholder
+Being a shareholder isn’t all just about receiving profits, as it also includes other responsibilities. Let’s look at some of these responsibilities.
+### Types of Shareholders
+Common shareholders are those that own a company’s common stock. They are the more prevalent type of stockholders and they have the right to vote on matters concerning the company. As they have control over how the company is managed, they have the right to file a [class-action lawsuit](https://www.consumersafety.org/resources/class-action-lawsuits/) against the company for any wrongdoing that can potentially harm the organization.
+Preferred shareholders, on the other hand, are more rare. Unlike common shareholders, they own a share of the company’s preferred stock and have no voting rights or any say in the way the company is managed. Instead, they are entitled to a fixed amount of annual dividend, which they will receive before the common shareholders are paid their part.
+Though both common stock and preferred stock see their value increase with the positive performance of the company, it is the former that experiences higher capital gains or losses.
+### Can the Shareholder be a Director?
+The shareholder and director are two different entities, though a shareholder can be a director at the same time.
+The shareholder, as already mentioned, is a part-owner of the company and is entitled to privileges such as receiving profits and exercising control over the management of the company. A director, on the other hand, is the person hired by the shareholders to perform responsibilities that are related to the company’s daily operations with the intent of improving its status.
+### [Shareholder vs. Stakeholder](https://corporatefinanceinstitute.com/resources/accounting/stakeholder-vs-shareholder/)
+Shareholder and Stakeholder are often used interchangeably, with many people thinking that they are one and the same. However, the two terms don’t mean the same thing. A shareholder is an owner of a company as determined by the number of shares they own. A stakeholder does not own part of the company but does have some interest in the performance of a company just like the shareholders. However, their interest may or may not involve money.
+For example, a chain of hotels in the US that employs 3,000 people has several stakeholders, including its employees because they rely on the company for their job. Other stakeholders include the local and national governments because of the taxes the company must pay annually.
+### Shareholder vs. Subscriber
+Before a company becomes public, it starts out first as a private limited company that is run, formed, and organized by a group of people called “subscribers.” The subscribers are considered the first members of the company whose names are listed in the memorandum of association. Once the company goes public, their names continue to be written in the public register and they remain as such even after their departure from the company.
+### Additional Resources
+Thank you for reading CFI’s guide to Shareholder. To keep learning and advancing your career, the following CFI resources will be helpful:
+###  Accounting Crash Courses 
+Learn accounting fundamentals and how to read financial statements with CFI’s[ online accounting classes](https://corporatefinanceinstitute.com/collections/accounting/).  
+These courses will give you the confidence to perform world-class financial analyst work. Start now!
+Boost your confidence and master accounting skills effortlessly with CFI’s expert-led courses! Choose CFI for unparalleled industry expertise and hands-on learning that prepares you for real-world success.
+Get Certified for Financial Modeling (FMVA)®
+Gain in-demand industry knowledge and hands-on practice that will help you stand out from the competition and become a world-class financial analyst.
+[Learn MoreLearn More](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
+[ Corporate Finance Institute ](https://corporatefinanceinstitute.com/)
+[Back to Website](https://corporatefinanceinstitute.com)
+0 search results for ‘
+People also search for:  excel  power bi  esg  accounting  balance sheet  fmva  real estate 
+Explore Our Certifications 
+[ Financial Modeling & Valuation Analyst (FMVA)®  ](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
+[ Commercial Banking & Credit Analyst (CBCA)®  ](https://corporatefinanceinstitute.com/certifications/commercial-banking-credit-analyst-certification-cbca/)
+[ Capital Markets & Securities Analyst (CMSA)®  ](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
+[ Certified Business Intelligence & Data Analyst (BIDA)®  ](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)
+[ Financial Planning & Wealth Management Professional (FPWMP)®  ](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
+[ FinTech Industry Professional (FTIP)®  ](https://corporatefinanceinstitute.com/certifications/fintech-industry-professional/)
+Resources 
+[ Mastering Excel Shortcuts for PC and Mac  Work Smarter in Excel with Keyboard Shortcuts If you're still reaching for the mouse every few seconds, it's time to level up. The best Excel keyboard...  ](https://corporatefinanceinstitute.com/resources/excel/excel-shortcuts-pc-mac/)
+[ Financial Modeling Guidelines  CFI’s free Financial Modeling Guidelines is a thorough and complete resource covering model design, model building blocks, and common tips, tricks,...  ](https://corporatefinanceinstitute.com/resources/financial-modeling/free-financial-modeling-guide/)
+[ SQL Data Types  What are SQL Data Types? The Structured Query Language (SQL) comprises several different data types that allow it to store different types of information...  ](https://corporatefinanceinstitute.com/resources/data-science/sql-data-types/)
+[ Structured Query Language (SQL)  What is Structured Query Language (SQL)? Structured Query Language (known as SQL) is a programming language used to interact with a database....  ](https://corporatefinanceinstitute.com/resources/data-science/structured-query-language-sql/)
+[ See All Resources See All ](https://corporatefinanceinstitute.com/resources/)
+Popular Courses 
+[ See All Courses See All ](https://corporatefinanceinstitute.com/collections/)
+Recent Searches 
+Suggestions 
+### Create a free account to unlock this Template
+Access and download collection of free Templates to help power your productivity and performance.
+[Create a Free AccountCreate a Free Account](https://corporatefinanceinstitute.com/resources/equities/shareholder/)
+Already have an account? [Log in](https://corporatefinanceinstitute.com/resources/equities/shareholder/)
+### Supercharge your skills with Premium Templates
+Take your learning and productivity to the next level with our Premium Templates.
+Upgrading to a paid membership gives you access to our extensive collection of plug-and-play Templates designed to power your performance—as well as CFI's full course catalog and accredited Certification Programs.
+[Discover Paid MembershipsDiscover Paid Memberships](https://corporatefinanceinstitute.com/pricing/)
+Already have a Self-Study or Full-Immersion membership? [Log in](https://corporatefinanceinstitute.com/resources/equities/shareholder/)
+### Access Exclusive Templates
+Gain unlimited access to more than 250 productivity Templates, CFI's full course catalog and accredited Certification Programs, hundreds of resources, expert reviews and support, the chance to work with real-world finance and research tools, and more.
+[Discover Full-Immersion MembershipDiscover Full-Immersion Membership](https://corporatefinanceinstitute.com/pricing/)
+Already have a Full-Immersion membership? [Log in](https://corporatefinanceinstitute.com/resources/equities/shareholder/)
+
+==================================================
+
+SOURCE: https://www.investopedia.com/terms/s/shareholder.asp
+Definition
+Shareholders own a corporation in tandem with other shareholders, each in a percentage equivalent to the number of shares of stock they hold.
+##  What Is a Shareholder? 
+### Key Takeaways
+Yurle Villegas / Investopedia
+##  Understanding Shareholders 
+A shareholder is an entity that owns one or more shares in a company’s stock or a mutual fund. Shareholders are also often called stockholders. Being a shareholder comes with certain rights and responsibilities. A shareholder is also permitted to vote on certain issues that affect the company or the fund in which they hold shares along with sharing in its overall financial success. 
+A single shareholder who owns and controls more than 50% of a company’s [outstanding shares](https://www.investopedia.com/terms/o/outstandingshares.asp) is referred to as a majority shareholder. Those who hold less than 50% of a company’s stock are classified as minority shareholders. 
+Corporate shareholders aren't personally liable for the company’s debts and other financial obligations. Its creditors can't target a shareholder’s personal assets if the company becomes [insolvent](https://www.investopedia.com/terms/i/insolvency.asp). 
+### Important
+Shareholders are entitled to collect any proceeds that are left over after a company liquidates its assets but creditors, bondholders, and preferred stockholders have precedence over common stockholders who may be left with nothing after all the debts are paid.
+##  Rights and Responsibilities 
+Being a shareholder comes with certain rights and responsibilities as well as tax implications. 
+###  Shareholder Rights 
+Shareholders traditionally enjoy the [following rights](https://www.investopedia.com/investing/know-your-shareholder-rights/) according to a corporation’s charter and bylaws: 
+###  Shareholders and the Internal Revenue Service (IRS) 
+Any gains or losses you realize when selling shares must be reported on your personal income tax return if you're a shareholder. Gains would contribute to your taxable income and losses will be deducted from your taxable income.2 Any dividends paid to shareholders are also taxable income.3
+An [S corporation](https://www.investopedia.com/terms/s/subchapters.asp) is another type of corporation with different tax treatment. These corporations are typically small to midsize businesses that have fewer than 100 shareholders. The S corporation differs from a regular corporation in that it passes taxation through to its shareholders rather than double the taxation. 
+This stands in contrast to shareholders of [C corporations](https://www.investopedia.com/terms/c/c-corporation.asp). Profits within this business structure are taxed at the corporate level and again at the personal level for shareholders.4
+Shareholders incur taxable capital gains or losses when selling shares, however, just as with shares of a regular corporation. 
+“Shareholders of S corporations report the flow-through of income and losses on their personal tax returns and are assessed tax at their individual income tax rates. This allows S corporations to avoid double taxation on corporate income. S corporations are responsible for tax on certain built-in gains and passive income at the entity level," according to the [Internal Revenue Service (IRS)](https://www.investopedia.com/terms/i/irs.asp).5  
+
+##  Types of Shareholders 
+Many companies issue two types of stock: [common and preferred](https://www.investopedia.com/ask/answers/difference-between-preferred-stock-and-common-stock/). Common stock is more prevalent than preferred stock and it's what ordinary investors typically buy in the stock market. 
+Common stockholders generally enjoy voting rights but preferred stockholders do not. Preferred stockholders have a priority claim to dividends, however, and the dividends paid to preferred stockholders are fixed even if profits decline. Common stock dividends may decline or not be paid at all during periods of poor corporate performance. 
+Some companies further divide their share issues into separate classes with different voting rights. A share in a company's Class A stock might come with 10 votes while Class B shares might have only one vote. There are no hard rules but Class A shares tend to have the highest voting power. 
+## What Are the Main Types of Shareholders?
+A majority shareholder owns and controls more than 50% of a company’s outstanding shares. This type of shareholder is often a company founder or their descendant. Minority shareholders hold less than 50% of a company’s stock and it may even be as little as one share.
+## What Are Some Key Shareholder Rights?
+Shareholders have the right to inspect the company’s books and records, the power to sue the corporation for the misdeeds of its directors and/or officers, and the right to vote on critical corporate matters such as naming board directors.
+They also have the right to decide whether to green-light potential mergers, to receive dividends, to attend annual meetings, to vote on crucial matters by proxy, and to claim a proportionate allocation of proceeds if a company liquidates its assets.
+## What's the Difference Between Preferred and Common Shareholders?
+The main difference is that preferred shareholders typically have no voting rights but common shareholders do. Preferred shareholders have a priority claim to income, however. They're paid dividends before common shareholders.
+Common shareholders are last in line regarding company assets. They're paid after creditors, bondholders, and preferred shareholders.
+##  The Bottom Line 
+Shareholders or stockholders are the owners of a corporation. Shareholders can receive profits in the share of dividends or sell their shares in the market for a profit. They can also participate in corporate elections. Anyone can become a shareholder by buying stock in that company. Corporations may also offer employee stock options as a benefit for workers in many countries. 
+Shareholders assume a level of risk. Common shareholders are last in line for repayment if a company goes bankrupt. Shareholders can lose their entire investment in some cases. 
+Article Sources
+Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our [editorial policy.](https://www.investopedia.com/legal-4768893#EditorialPolicy)
+## Related Articles
+Newsletter Sign Up
+Newsletter Sign Up
+
+==================================================
+
+SOURCE: https://springerlawfirm.com/blog/what-are-the-rights-and-responsibilities-of-shareholders-in-a-corporation/
+[Skip to main content](https://www.springerlawfirm.com/blog/what-are-the-rights-and-responsibilities-of-shareholders-in-a-corporation/#main-content)
+![](https://res.cloudinary.com/debi2p5ek/image/upload/fl_progressive:steep,q_50,w_800/v1/1990/38652-interior_herooriginal_52original-d1773d0e.jpg)
+**GUIDING YOU EVERY STEP OF THE WAY** [SCHEDULE A FREE CONSULTATION](https://www.springerlawfirm.com/blog/what-are-the-rights-and-responsibilities-of-shareholders-in-a-corporation/#consultation)
+![Three shareholders engaged in discussion seated at conference table in modern office](https://res.cloudinary.com/debi2p5ek/image/upload/w_1140/v1/1990/79537-three-professionals-engaged-in-discussion-seated-at-conference-table-in-m_tp2d8zx.png)
+# What Are the Rights and Responsibilities of Shareholders in a Corporation?
+The Law Offices of Steven E. Springer June 10, 2025
+* * *
+When people invest in a corporation, they often focus on financial returns—but being a shareholder carries more than just the hope of earning dividends. Shareholders play an integral role in shaping the direction of a corporation and protecting their own interests through defined rights and responsibilities. 
+At [**The Law Offices of Steven E. Springer**](https://www.springerlawfirm.com/), we work with corporate clients throughout San Jose, California, to help them understand what it means to share ownership in a business. From voting rights to the obligation to act in good faith, shareholders have legal protections but must also act in ways that support corporate stability. 
+We’ll walk through the rights shareholders can expect to exercise, the responsibilities they’re expected to fulfill, and how working with a commercial litigation attorney can help when disputes arise.
+## Key Rights Shareholders Hold in a Corporation
+Let’s start by examining the most important legal rights shareholders typically possess. These rights give them the ability to influence corporate decisions and protect their investments:
+While these rights offer meaningful protections, their scope can vary depending on the type of shares a person holds and what’s outlined in the corporation’s bylaws.
+## What Responsibilities Do Shareholders Have?
+Shareholders don’t just have rights—they also have important duties to the corporation and to fellow investors. These responsibilities help maintain corporate integrity and promote shared success:
+These responsibilities help protect the corporation’s financial health and legal standing while encouraging ethical conduct among investors.
+## How Shareholders Influence Corporate Governance
+Corporate governance defines how decisions get made—and shareholders play a critical role in shaping that process. They’re not just passive investors; they help set the tone for leadership and accountability:
+These contributions help create a more accountable and responsive corporate environment—especially when guided by a commercial litigation attorney who understands shareholder rights.
+## What Happens When Shareholder Rights Are Violated?
+When corporations fail to respect shareholder rights, it can lead to costly disputes and damaged investor trust. In these cases, legal action may be necessary to defend shareholder interests:
+Shareholder lawsuits don’t just protect individual rights—they also help maintain accountability within corporate leadership.
+## Steps Corporations Can Take to Avoid Shareholder Conflicts
+Proactive governance and legal planning can help minimize the risk of internal disputes. A commercial litigation attorney will help corporations structure their governance to avoid costly shareholder battles:
+A commercial litigation attorney often plays a behind-the-scenes role in setting up these systems, helping businesses operate smoothly and transparently.
+## How Shareholders Can Protect Themselves
+Corporations aren’t the only ones who need to prepare—shareholders should also take active steps to protect their own interests:
+Active, informed shareholders are an asset to any corporation and can make a difference in governance and accountability.
+## Contact Us Today
+Whether you're a majority shareholder in a growing corporation or a minority investor looking to protect your rights, it's important to understand the legality that supports shared ownership. We’re proud to help corporations and investors across San Jose, California; Morgan Hill, California; and throughout Santa Clara County take the right steps to promote transparency, fairness, and legal integrity. Contact a commercial litigation attorney from The Law Offices of Steven E. Springer today to learn more.
+
+==================================================
+
+SOURCE: https://www.onboardmeetings.com/blog/shareholder/
+[Skip to content](https://www.onboardmeetings.com/blog/shareholder/#content)
+[ FREE TRIAL ](https://www.onboardmeetings.com/board-portal/trial-request/)
+Reading Time:  4 minutes
+A company’s [board of directors](https://www.onboardmeetings.com/blog/board-director-structure-roles-responsibilities/) holds considerable authority within an organization, but they’re not the only voice that matters. Shareholders play a big role in determining the direction of a business. The exact rights of a shareholder change depending on the company and the type of shares they hold. 
+This article explains the general powers of shareholders and explains how [OnBoard software](https://www.onboardmeetings.com/why-onboard/directors-trustees/) helps improve the working dynamic between shareholders and senior management.
+## What is a Shareholder?
+**A shareholder is a person, group, or[legal entity](https://www.onboardmeetings.com/blog/legal-entity/) that owns at least one share of an organization’s stock. You can become a shareholder by investing your own money in the company, obtaining the shares of an incumbent stockholder, or subscribing to the company constitution during incorporation. Owning shares provides each shareholder with rights and obligations regarding the direction of the company.**
+## Shareholder Roles and Responsibilities
+### 1. Voting
+One of the main selling points of becoming a shareholder is that each party gets voting rights during shareholder meetings, but this is only true if you own a certain form of stock. Typically, organizations present two types of stock: common and preferred. Common stocks impart shareholders with the right to vote. These are the most readily available form of shares and what most investors acquire via the stock market. 
+The other type of stock is known as preferred shares. While preferred stocks don’t give shareholders the right to vote, they do give stockholders a priority claim to dividends, meaning they receive payment before anyone with common stock. Creditors and bondholders are also paid before common shareholders.
+### 2. Monitoring Management
+While the day-to-day management of the organization is left to others, shareholders play a vital role within a company’s [corporate structure](https://www.onboardmeetings.com/blog/basics-corporate-structure/). Their equity in the business entitles them to certain governance rights and the final say on decisions, such as:
+Shareholder rights are outlined in the organization’s [articles of association](https://www.onboardmeetings.com/blog/articles-of-association/). 
+Shareholder decisions are officially made during general meetings (any formal gathering involving a quorum of shareholders), annual general meetings (a yearly meeting between shareholders and board members), or extraordinary general meetings (meetings called to address a pressing matter). 
+### 3. Engagement
+Shareholder engagement refers to the process of investors and companies developing a healthy working relationship where they exchange and discuss pertinent business information to consistently make quality decisions. Through meetings, private dialogue, and other activities, each party works to create a mutually beneficial exchange that ultimately leads to a better performance in the marketplace and an enhanced reputation for the company. 
+### 4. Risk Assessment
+Shareholders are also tasked with doing their part to help the company plan and execute its risk management strategy. Their different perspectives help companies identify potential risks before they become serious problems. Mitigating risks early on helps organizations remain legally compliant with all enforced standards and regulations, as well as use their time and resources more efficiently.
+### 5. Promoting Sustainability and Corporate Social Responsibility
+Lastly, the oversight of shareholders can push a company to consider more sustainable ways to do business and to practice corporate social responsibility (CSR). CSR is a business model where an organization actively works to take the societal, environmental, and ethical consequences of its decisions into account. This becomes a more pertinent topic as the corporation becomes bigger and more successful. CSR can provide a boost to employee morale and brand reputation, two qualities that can only help a business grow over time. 
+## How to Improve Shareholder Relations
+It’s natural for shareholders and the board of directors to disagree on occasion. Their goals aren’t always in alignment. Shareholders typically focus on short-term results. Boards of directors may operate on a much longer timeline. Here’s how to cultivate a good rapport between board members and shareholders.
+### Effective Communication
+All good relationships, whether they’re personal or business, are built on open communication among all parties. Establishing clear communication channels between shareholders and board members helps streamline the exchange of information and address any potential conflicts in a constructive frame of mind. Regular meetings, newsletters, and specified online portals can be helpful tools in this regard. The appointment of an [independent director](https://www.onboardmeetings.com/blog/independent-director/) is another way to bridge the gap between shareholders and management. 
+### Accessibility and Engagement
+Shareholder mood will also be improved if they have reasonable access to the board of directors on a consistent basis. Creating an environment where investors can express their opinions through meetings, forums, or online platforms will help them feel empowered and valued.
+### Corporate Governance and Transparency
+For shareholders to fully understand company strategy, board members need to be transparent about the financial and legal status of the company. Providing ample information about the business helps manage expectations and make better decisions.
+Free Tool
+[Minutes Template](https://www.onboardmeetings.com/board-meeting-minutes-template/)
+## Efficiently track and document board decisions with our Meeting Minutes Template
+[ FREE TEMPLATE ](https://www.onboardmeetings.com/board-meeting-minutes-template/)
+## How OnBoard Powers Effective Boards
+The success or failure of a business can hinge on management’s ability to connect and collaborate with shareholders. OnBoard’s board portal software provides the platform for companies to organize information and conduct highly efficient meetings. 
+[Portal features](https://www.onboardmeetings.com/board-portal/features/) board members find particularly valuable include:
+**See OnBoard in action****with our free[Board Meeting Minutes Template](https://www.onboardmeetings.com/board-meeting-minutes-template/).**
+#### About The Author
+![Adam Wire](https://www.onboardmeetings.com/wp-content/uploads/2022/08/Adam-Wire-150x150.png) 
+
+Adam Wire 
+     Adam Wire is a Content Marketing Manager at OnBoard who joined the company in 2021. A Ball State University graduate, Adam worked in various content marketing roles at Angi, USA Football, and Adult & Child Health following a 12-year career in newspapers. His favorite part of the job is problem-solving and helping teammates achieve their goals. He lives in Indianapolis with his wife and two dogs. He’s an avid sports fan and foodie who also enjoys lawn and yard work and running. 
+##### Latest entries
+#### Get In Touch
+#### [Meeting Lifecycle](https://www.onboardmeetings.com/meeting-operations/)
+#### [System of Record](https://www.onboardmeetings.com/board-decisions-actions/)
+#### [Director Engagement](https://www.onboardmeetings.com/communication-engagement/)
+#### [Board Continuity](https://www.onboardmeetings.com/board-life-cycle-management/)
+#### Security & Integrations
+#### [OnBoard AI](https://www.onboardmeetings.com/board-life-cycle-management/)
+#### [Industries](https://www.onboardmeetings.com/board-life-cycle-management/)
+#### [Roles](https://www.onboardmeetings.com/board-life-cycle-management/)
+#### [Pain Points](https://www.onboardmeetings.com/board-life-cycle-management/)
+#### [Resources](https://www.onboardmeetings.com/board-life-cycle-management/)
+#### [Company](https://www.onboardmeetings.com/board-life-cycle-management/)
+Copyright @ 2026 OnBoard. All Rights Reserved.
+[Do Not Sell or Share My Personal Information](https://www.onboardmeetings.com/opt-out/)
+
+==================================================
+

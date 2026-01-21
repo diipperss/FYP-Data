@@ -38,6 +38,7 @@ async def crawl_and_chunk(urls, output_path):
         for url in urls:
             print(f"Crawl starting: {url}")
             result = await crawler.arun(url=url, config=run_config)
+            print(f"Result = {result}")
 
             if result.success and result.markdown:
                 clean_content = getattr(result, 'fit_markdown', result.markdown)

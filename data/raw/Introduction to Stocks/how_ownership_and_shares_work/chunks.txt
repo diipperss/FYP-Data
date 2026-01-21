@@ -1,0 +1,366 @@
+SOURCE: https://www.investopedia.com/terms/s/shares.asp
+Definition
+Shares can be classified as common or preferred and represent units of equity ownership in a company.
+##  What Are Shares? 
+Shares are units of ownership in a company that investors can purchase. The terms "shares" and "stocks" are often used interchangeably; however, they are technically distinct. "Stock" is the financial instrument a company issues, and a "share" is a single instance of that financial instrument. 
+Companies can issue common or preferred shares, which differ in who can purchase them and their perks. Preferred shares have priority over common shares (of which there are also many more) during distributions. Shares are non-reimbursable, but issuers can repurchase them from investors. They can also redeem them if a set call price is specified at the time of issue. 
+### Key Takeaways
+Investopedia / Sydney Saporito
+##  How Shares Function in the Corporate Structure 
+When establishing a corporation, owners may choose to issue stock to raise capital. Companies then divide their stock into shares, which are sold to investors. These investors are generally investment banks or brokers that, in turn, sell the shares to other investors individually or through instruments like a mutual fund or exchange-traded fund. 
+Shares are the equivalent of ownership in a corporation. Because they represent ownership, not debt, there is no legal obligation for the company to reimburse the shareholders if something happens to the business. However, some companies may distribute payments to shareholders through dividends. Others may elect not to do so, preferring to put all revenues towards operation, growth, and securing the company's future. 
+##  Issuing and Regulating Company Shares 
+A company's board sets a limit on the number of shares it can issue, known as authorized shares. Issued shares are those actually sold to shareholders. For example, a company may authorize 10 million shares but issue only 8 million.  
+
+Shareholders can vote to change the number of authorized shares, which affects ownership stakes. They meet to reach an agreement if they decide to increase this number. 
+The shares of publicly traded companies are listed on public exchanges, generally through a process called an initial public offering (IPO). This is an expensive, highly regulated, and lengthy process in which a company goes through fund-raising phases and scrutiny by regulators. 
+### Note
+Private company shares are generally issued through company stock options or as other incentives to certain employees. These shares are still regulated but usually do not meet the [Securities and Exchange Commission's](https://www.investopedia.com/terms/s/sec.asp) criteria to be listed on an exchange.
+The issue and distribution of shares in public and private markets are regulated by the Securities and Exchange Commission (SEC). Share trading on the secondary market is overseen by the SEC and the [Financial Industry Regulatory Authority (FINRA)](https://www.investopedia.com/terms/f/finra.asp).12  
+
+##  Exploring Different Types of Shares 
+As mentioned, any company can issue shares, but publicly traded companies are more likely to divide their stock into two different types of shares. 
+###  What You Need to Know About Common Stock Shares 
+Many companies issue [common stock](https://www.investopedia.com/terms/c/commonstock.asp), which is divided into shares. These are generally called common shares. These provide the purchasers—called shareholders—with a residual claim on the company and its profits, providing potential investment growth through both capital gains and dividends. 
+Common shares also come with [voting rights](https://www.investopedia.com/terms/v/votingright.asp), giving shareholders more control over the business. 
+These rights allow the shareholders of a company to vote on specific corporate actions, elect members to the board of directors, and approve issuing new securities or payment of dividends. In addition, common stock can include [preemptive rights](https://www.investopedia.com/terms/p/preemptiveright.asp), ensuring that shareholders may buy new shares and retain their percentage of ownership when the corporation issues new stock. 
+###  Understanding Preferred Stock Shares 
+[Preferred stocks](https://www.investopedia.com/terms/p/preferredstock.asp) can also be divided into shares, commonly called preferred shares. Compared to common shares, preferred shares typically do not offer much market appreciation in value or voting rights in the corporation. However, this type of stock typically has set payment criteria, like a dividend paid out regularly, making the stock less risky than common stock. 
+Because preferred stock takes priority over common stock if the business files for bankruptcy and is forced to repay its lenders, preferred shareholders receive payment before common shareholders but after bondholders. This priority treatment reduces the risk even further compared to common shares.  
+
+##  Advantages of Issuing Corporate Shares 
+If a company wanted, it could issue it's equity as one simple ownership stake and not divide its equity offering. There are obvious reasons why a company wouldn't want to do this; here are some of the benefits of dividing its stock into individual pieces: 
+### Fast Fact
+A company could technically issue only one share of stock. There would be significant drawbacks to doing so.
+##  What Are Fractional Shares? 
+Fractional shares are portions of a single full share of a company's stock. Traditionally, investors bought whole shares, but [fractional shares](https://www.investopedia.com/terms/f/fractionalshare.asp) let them buy a part of a stock based on how much money they want to invest.  
+
+For example, if a stock trades at $1,000 per share, an investor with only $100 to invest could purchase 0.1 shares of that stock. Fractional shares help more people afford to buy and sell stock, especially those with less money to invest. 
+However, it's important to note that not all brokers offer fractional shares, and there can be limitations on which stocks are available for fractional investing. Additionally, while fractional shareholders typically have proportional rights to dividends, they may not always have voting rights, depending on the broker and the specific arrangement. 
+##  The Role of Shares in Determining Market Capitalization 
+Market capitalization is a measure of a company's total value in the stock market. It's directly related to the number of shares of stock a company issues. 
+To calculate [market capitalization](https://www.investopedia.com/terms/m/marketcapitalization.asp), multiply the total number of outstanding shares by the current share price. Issuing more shares raises the market cap if the share price stays the same. When a company buys back shares, the market cap decreases if the price per share remains steady. 
+Let's look at an example. A company's stock is trading at $50. The company has 100,000 outstanding shares of stock. Therefore, the company's market capitalization is $5 million. If the price of the stock goes up to $60, the company's market capitalization is now $6 million. If the price stays at $60 and the company issues an additional 10,000 shares, the company's 110,000 total outstanding shares have a market capitalization of $6,600,000. 
+The reason this is important is because the value of a company isn't inherently in the price per share, it is in the total number of shares multiplied by the stock price. Let's look at another example. Imagine Company A and Company B, each with a stock price of $100. However, Company A has twice as many shares outstanding compared to Company B. This means it has twice the market capitalization (i.e. it is twice as big) even though the stock price is the same. 
+##  Comparing Authorized, Issued, and Outstanding Shares 
+Last, let's touch on the different stages of shares. At the beginning of the article, we talked about the authorized number of shares. The authorized number of shares is the maximum number of shares that a company is legally permitted to issue. 
+A company issues a different number of shares than it authorizes. [Shares issued](https://www.investopedia.com/terms/i/issuedshares.asp) are those sold to shareholders and are less than or equal to authorized shares. After going public, a company may issue more shares through secondary offerings or stock options. 
+Last, the company can have an even different number of [shares outstanding](https://www.investopedia.com/terms/o/outstandingshares.asp). Shares outstanding represent the number of shares that are currently held by all shareholders. This includes company insiders, institutional investors, and the general public. This number is equal to the number of issued shares minus any shares held as treasury stock. 
+Let's look at an example. Consider a technology startup. At its founding, the company set its authorized shares at 100 million in its charter. As it grew and went public, it issued 50 million shares through its IPO and subsequent offerings. The company then repurchased 5 million shares that are now held as treasury stock. The company has 100 million authorized shares, 50 million issued shares, and 45 million outstanding shares. 
+## Can You Buy One Share of Stock?
+Yes, you can buy one share of stock. One share is typically the minimum number of shares you can buy at some brokerage firms that do not offer fractional shares.
+## What's the Difference Between a Share and a Stock?
+A stock is an equity instrument issued by a corporation that represents ownership of that company. A share is one unit of that ownership. You would say "I own 10 shares of Apple stock" for example.
+## What Is a Stock Split?
+A stock split occurs when a company divides its existing shares into multiple shares. This increases the number of shares outstanding while proportionally decreasing the price per share. For example, in a 2-for-1 split, each share becomes two shares, each worth half the original price.
+## How Do You Calculate Earnings per Share?
+Earnings per share (EPS) is calculated by dividing a company's net income by its number of outstanding shares. It's a key metric for assessing a company's profitability on a per-share basis. A higher EPS generally indicates higher profitability.
+##  The Bottom Line 
+Stock is a broad term for fundraising instruments issued by a corporation. They are sold to investors and traders to raise equity capital. Shares are a unit of ownership in a corporation, issued as preferred or common shares, which come with varying degrees of ownership, governance rights, and dividends. 
+Brokers offer investing products, such as mutual funds, that fractionalize shares (create smaller shares from the existing shares) to allow investors with limited capital to access the shares. 
+Corporate boards govern the number of shares they are authorized to issue. The business will then track the number of shares it has issued to all investors (including treasury shares) and the number of outstanding shares it has sold to investors (excluding treasury shares). Market capitalization is a measure of a corporation's size in the market, representing the total market value of all outstanding shares. 
+Article Sources
+Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our [editorial policy.](https://www.investopedia.com/legal-4768893#EditorialPolicy)
+Compare Accounts
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+Take the Next Step to Invest
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+## Related Articles
+Newsletter Sign Up
+Newsletter Sign Up
+
+==================================================
+
+SOURCE: https://carta.com/learn/equity/
+Select your region to see content and products tailored to your location.
+Asia Pacific / Middle East
+[Continue](https://carta.com/sg/en/learn/equity/)
+[Learn](https://carta.com/learn/)/
+[Equity](https://carta.com/learn/equity/)
+![Equity in business: A founder's perspective](https://images.ctfassets.net/y88td1zx1ufe/75eRY24bhBOUQhH6Iy3JOm/f9a00271e1d14550641d6cc8f9b5fc76/Types-of-equity-2-e1683660833953.png?fm=webp)
+# Equity in business: A founder's perspective
+Author: 
+The Carta Team
+|
+Read time: 
+16 minutes
+Published date: 
+December 16, 2025
+Learn the fundamentals of company equity, including the different types you will issue and how to manage ownership as you build your business.
+Contents
+[Request a demo](https://carta.com/demo/request/)
+Owning equity in a company means you have an ownership stake. A wide range of people and entities can own equity in a company, including the company’s founders, investors, employees, advisors, and consultants.
+You might have heard the term equity used in other contexts, like home equity, but the concept is the same—it’s your ownership stake. As a founder, you will use a few specific types of equity to build and grow your company, often creating compensation packages that are a strategic[ blend of cash and equity](https://hbr.org/2023/09/when-it-comes-to-compensation-more-equity-isnt-always-better) to attract top talent.
+The greatest advantage of this kind of shared ownership is that it can align equity holders with the overall prosperity of a business: If the value of the company increases, so does the financial stake held by equity owners.
+Equity can also provide a path to wealth for wage earners through the outsized returns that could come from long-term equity ownership, especially in early- and growth-stage private companies. In this article, you’ll learn the basics of business equity ownership.
+## What is equity in business?
+In the simplest terms, equity in business is ownership. In a [private company](https://carta.com/learn/startups/private-companies/), equity represents the total ownership divided among the people who have a stake in it, including founders, employees, and investors. This ownership gives them a claim on the company's future profits and assets, and it's important for all holders to understand the resulting taxes on equity, including capital gains.
+You may see equity called “shareholders’ equity” (public companies) or “owners’ equity” (private companies). In each case the definition is the same: Equity is the portion of ownership shareholders have in a company.
+You can think of business equity using a basic accounting formula: Assets - Liabilities = Equity. If a company were to sell all of its assets and pay off all of its debts, the value that remains is the equity. This is the core meaning of equity and represents the net worth of the business.
+While a textbook definition of equity comes from the accounting formula of total assets minus total liabilities, this doesn't capture the full picture for a startup. The true value of a company’s equity isn't just what’s on the balance sheet today, but what the company could be worth in the future.
+This future potential is what makes equity so compelling: It represents a stake in the upside you and your team are working to create. Understanding how equity works, the principles of[ equity management](https://carta.com/learn/startups/equity-management/), and how to use this powerful asset are some of the most important skills a business owner can develop.
+For a founder, equity is the most powerful tool you have to build your company, serving as the currency you use to raise money, attract a great team, and align everyone around a shared vision. It's how you reward the people who take a risk on your vision before there's any revenue or profit to show for it.
+For employees, the ability to own equity can be an incentive to join a company, stay at the company for longer, and feel more invested in the company’s success. Many businesses, including most startups, include equity as part of their overall compensation to employees.
+## What are the types of equity?
+The two main types of equity issued by private companies are shares of [common stock and preferred stock](https://carta.com/learn/equity/common-stock-vs-preferred-stock/). Both types offer different benefits to shareholders. In general, shares of common stock are issued to founders and employees, while shares of preferred stock are issued to investors.
+![](https://images.ctfassets.net/y88td1zx1ufe/6ZjuoVV5BYQc1v5KIoOCFi/5d38fce5b2fa9c05731a01149ffe50ed/dashboard-cta.png)
+Carta’s Equity 101 deck
+A presentation deck for GCs and CFOs to educate their employees on the basics of an equity grant.
+[Download the deck](https://carta.com/learn/resources/equity-101-deck-download/?ir=classroom)
+### Common shares
+[Common shares](https://carta.com/learn/equity/common-stock-vs-preferred-stock/#what-is-common-stock), or shares of common stock, are generally issued to a company’s early founders and its employees. It represents a direct ownership stake and is granted with certain rights, such as voting rights, which allows holders to have a say in company decisions. This type of equity is the foundation of your company's ownership structure.
+The major disadvantage of common shares versus preferred shares is that they receive a [lower preference](https://carta.com/learn/equity/liquidity-events/liquidation-preferences/pari-passu/) if there is a liquidity event—common shareholders generally only receive a payout after preferred shareholders have received at least their initial investment back.
+### Preferred shares
+These additional rights are why people call it "preferred." Investors take on significant financial risk, and these preferences are designed to protect their investment. Understanding the terms of preferred stock is critical when you negotiate a funding round.
+### Employee equity
+Companies can issue several different types of equity to employees depending on the company’s [compensation philosophy](https://carta.com/learn/startups/compensation/compensation-philosophy/), fundraising stage, or option pool. Issuing equity to employees can create a possibility of profit if the company’s share price grows over time. Like all investments, however, gains are never guaranteed, and ‌shares can become worthless if the company fails, reaches insolvency, or otherwise never reaches a liquidity event, like an IPO or a merger with another company.
+| **Restricted stock award (RSA)** | **Incentive stock option (ISO)** | **Non-qualified stock option (NSO)** | **Restricted stock unit (RSU)**  
+---|---|---|---|---  
+**When to issue** | Before raising outside funds | After fundraising | After fundraising | When your company reaches a stable valuation  
+#### Stock options
+Companies generally distribute options from an [option pool](https://carta.com/learn/startups/equity-management/option-pool/), which is a reserved set of shares from which equity can be issued to service providers in the future. Those people could include advisors, consultants, and independent contractors, as well as employees.
+The two types of employee stock options in the United States are incentive stock options (ISOs) and non-qualified stock options (NSOs). Both enable equity ownership and are offered to service providers depending on different factors. ISOs and NSOs mainly differ in [how and when they’re taxed](https://carta.com/learn/equity/stock-options/taxes/)—ISOs could qualify for favorable tax treatment.
+#### Other types of equity awards
+Other types of equity awards like restricted stock awards (RSAs) and restricted stock units (RSUs) are two examples of equity alternatives to stock options. Companies usually switch to RSUs as they grow larger to reduce [share dilution](https://carta.com/learn/startups/equity-management/share-dilution/) and to make the awards attractive and affordable to employees.
+While stock options offer you the “option” to buy shares at a fixed price, RSAs and RSUs are grants of stock subject to certain conditions. Although recipients sometimes pay nothing up front for these types of equity awards, they don’t take full ownership of the stock until their award fully vests.
+[**→ Learn more about RSUs vs. options.**](https://carta.com/learn/equity/rsu-vs-stock-options/)
+[**→ Learn more about RSAs vs. RSUs**](https://carta.com/learn/equity/rsa-vs-rsu/)
+![](https://images.ctfassets.net/y88td1zx1ufe/5wmUr7SFs2ZiMPSMDT4UT3/b930e43965cc2f7d8fffb90e22ef8c96/equity-calculator-cta.png)
+Free stock option vs. RSU calculator
+See how a payout changes if an employee was granted options or RSUs.
+[Download the calculator](https://carta.com/learn/resources/option-vs-rsu-calculator/?ir=classroom)
+### Convertible instruments
+## Types of equity in an LLC
+### Types of interests
+For companies like[ Relativity](https://carta.com/customer-stories/relativity/), a legal technology company structured as an LLC, managing this complexity was a major challenge. As Timothy Cha, Relativity’s senior manager for compensation, explains, “Carta’s LLC platform made it easy for us to offer a consistent equity experience to our employees around the world.”
+![](https://images.ctfassets.net/y88td1zx1ufe/7xDEWN9qBdhXULPgVgDLoL/8c9a7646d61160819763572cd8d29591/compensation-cta.png)
+LLC blueprints eBook
+Your step-by-step guide to choosing the right equity plan for your company.
+[Download the eBook](https://carta.com/learn/resources/llc-blueprints-ebook/?ir=classroom)
+## Vesting
+At most companies, employees must work for a certain period of time or meet specific milestones to earn their equity awards. This is called [vesting](https://carta.com/learn/equity/stock-options/vesting/).
+The lifecycle of an option usually looks like this:
+![After a stock option is granted, it has a vesting cliff, then it vests, then it's exercised, then it can be sold.](https://carta.com/_next/image/?url=https%3A%2F%2Fimages.ctfassets.net%2Fy88td1zx1ufe%2F6wUJmXTz8RCy5p1zcCEaiS%2F61760be6c391b2f868f2c843fd89569b%2FLifecycle.png&w=3840&q=75)
+Your [option grant](https://carta.com/learn/equity/stock-options/stock-grant/) will outline a vesting schedule, which details when you’ll earn the right to exercise your options or when you officially own your shares (e.g., 1,000 options over four years).
+Some equity plans can allow [early exercising](https://carta.com/learn/equity/stock-options/exercising/early-exercise/), which lets you exercise options before they are vested. This can produce tax advantages, because the recipient is purchasing the shares before the company’s FMV has increased, thus minimizing the income tax they must pay upon acquiring the shares.
+The three common types of vesting schedules are time-based, milestone-based, and a hybrid of time-based and milestone-based.
+## How does equity turn into cash?
+For everyone involved—founders, employees, and investors—the equity they hold is just on paper until a specific event happens. The process of converting that paper ownership into actual cash happens during[ liquidity events](https://carta.com/learn/equity/liquidity-events/). A liquidity event is the moment when the years of hard work can finally pay off and equity becomes a tangible asset. Without a liquidity event or the prospect of a liquidity event, equity in a business is virtually meaningless.
+The biggest advantage of investing in the public market is its liquidity: Publicly traded stocks are typically easy to buy and sell on a daily basis. All types of investors can enter the public market, while only accredited investors or qualified purchasers are able to freely invest in the private market.
+The following are some of the paths to liquidity for privately held companies:
+### Merger and acquisition (M&A)
+### Initial public offering (IPO)
+For startups, M&A and IPO are the two most[ common exit options](https://carta.com/data/mergers-acquisitions-2023/), but in 2023, there were nearly four times as many acquisitions of venture-backed companies on Carta as there were IPOs in the entire U.S. market.
+### Secondary market transactions
+Private market secondaries can be:
+#### Tender offer
+A [tender offer](https://carta.com/learn/equity/liquidity-events/tender-offer/) is when multiple sellers (usually employees) can sell their company shares either to an investor, a group of investors, or back to the company. Tender offers happen when a company is still private, allowing shareholders to liquidate equity without having to wait for the company to go public or get acquired. It is the most common type of secondary transaction.
+Share buybacks and third-party tender offers are the two types of private company tender offers.
+## How to calculate your equity’s value
+Knowing how much shares are worth is essential to understanding the value of your equity. In the public markets, the share price of all companies listed on stock market exchanges is publicly available in real time, and is based on supply and demand. Private companies that offer equity calculate share prices in a different way—they use a [409A valuation](https://carta.com/learn/startups/equity-management/409a-valuation/) (an independent appraisal of the FMV of common stock) to calculate the FMV of each share for compliance purposes and to establish the exercise price. Most companies use financial platforms like Carta to track ownership, allowing employees to see how many shares they own and what their company’s latest FMV is.
+For a new company, the definition of equity ties to the promise of what it could become. This is the value into which investors and early employees are investing their time, money, and careers. The calculation of this future value is complex, especially in a market where a decade-high number of[ flat or down rounds](https://pitchbook.com/news/articles/why-us-startups-decade-high-flat-down-rounds-2024) occur, but it's the foundation upon which you'll build your company.
+To evaluate an equity offer from a prospective company, or to [calculate the value of your existing employee equity](https://carta.com/learn/equity/startup-equity-calculator/), employees can consider:
+Over time, an employee or other equity holder can monitor the FMV of the company; most companies conduct 409A valuations on an annual basis, or even more frequently. If the valuation of the company rises relative to the strike price, that is a sign that the shares are growing in value. However, any actual profit would only come after several steps: The employee must exercise the shares (or fully vest their restricted stock), the company must have a liquidity event (either an IPO, M&A, or secondary transaction), and the employee must sell their shares at a current market price that is higher than the price for which they purchased their shares.
+Equity holders in a company typically are not allowed to sell shares during a lock-up period following an IPO, usually 90 or 180 days.
+## Why does equity matter for your startup?
+While a fair market salary offers predictable income, the potential value of an ownership stake provides a financial upside that cash alone cannot. For many talented people, the decision to join a startup is a bet on the company's vision and the once-in-a-lifetime economic opportunity that equity represents—the allure of a massive return, driven by the fact that[ just 3.6% of exits](https://nvca.org/wp-content/uploads/2025/01/Q4-2024-PitchBook-NVCA-Venture-Monitor.pdf) have historically accounted for nearly 80% of the total value created.
+Managing equity professionally from the start is also key to building credibility. A messy or unclear equity story can be a major red flag for potential investors and can seriously complicate your fundraising efforts—a critical issue when[ nearly 30% of all startups](https://www.embroker.com/blog/startup-statistics/#startup_success_rates) that fail do so because they run out of money. It signals to investors that you may not be organized or serious about the financial health of your company.
+![](https://images.ctfassets.net/y88td1zx1ufe/rHEOw78bXn0yzqIJ1X0VZ/94fa45de95047592ee109b066b7f37ec/demo-cta-image-6.jpg)
+The leading cap table platform—free
+Get tools and resources to manage your cap table, issue equity, and fundraise day one.
+[Get started for free](https://app.carta.com/launch/create-account/?ir=classroom&utm_source=direct)
+## Equity in public markets vs. private markets
+A common way to own equity in a company is to invest in a publicly traded company listed on a stock exchange. For public companies, information about the company is transparent. Anyone can invest in the stock market, and companies are legally required to make information about the company’s financial situation available to investors so they can make informed decisions. Employees who work for public companies may own stock in the company as part of their employment, as well.
+Note that owning equity in a private company as an investor or employee is a different idea than [private equity](https://carta.com/learn/private-funds/private-equity/), which refers to a specific type of investment partnership in which large investment firms buy later-stage private companies and manage them.
+## The ownership economy
+What if issuing equity were as easy and cheap as paying payroll? Could we make ownership as ubiquitous as salaries?
+That’s the concept behind the ownership economy. Equity keeps employees invested in their work. It allows them to own a piece of the company and gives them a personal reason to help it succeed.
+[At Carta, we create more owners](https://carta.com/about/). More than 50,000 companies use our platform to map and expand equity ownership to over 2.5 million shareholders.
+## Managing your equity with confidence
+As you've seen, the journey of managing equity is complex, with many critical decisions to make at every stage. Many founders start by tracking ownership in a spreadsheet, but this approach is prone to human error and can lead to costly mistakes and lost investor confidence. You don't have to manage it alone.
+An end-to-end[ equity management platform](https://carta.com/equity-management/) can grow with you, including issuing your first SAFE to modeling a complex exit waterfall. By partnering with an expert, you can turn equity from an administrative burden into a strategic advantage. This allows you to focus on what you do best: building a great company.
+[Request a demo](https://carta.com/demo/request/) to see how Carta can help.
+![](https://images.ctfassets.net/y88td1zx1ufe/1DYGLSurTj7ANPrtVYt22U/a8f5bd7b9dc2171a59856ffaac29d5af/demo-cta-image-1.jpg)
+One platform, unlimited potential
+Carta’s platform of software and services lays the groundwork so you can focus on building the future.
+[Get started](https://carta.com/demo/request/?ir=classroom)
+### Frequently asked questions about equity
+#### What does owning a percentage of equity in a company mean?
+Owning a percentage of equity means you own that portion of the company's total value. The monetary worth of your stake will change as the company's valuation grows or shrinks over time.
+#### What is the difference between equity and stock?
+Equity is the broad concept of ownership in a company. Stock is the specific security that represents a unit of that ownership, giving the holder a direct claim on the company's assets and earnings.
+#### How much equity should I give to early employees?
+There's no single right answer when deciding how much equity to give early employees, as the ideal amount depends on the role, the employee’s experience, and your company's stage. However, you don't have to make these decisions in a vacuum. Benchmark data can provide a concrete starting point for making competitive offers. For example, Carta regularly publishes reports with[ additional equity compensation](https://carta.com/data/startup-compensation-h2-2023/) data, including median equity grants for a startup’s first 10 employees, which can help you see what’s standard in the market.
+#### What does a 10% equity stake mean?
+An equity stake of this size means you own that percentage of the company’s total outstanding shares on a fully-diluted basis, and its value changes as the company’s valuation grows or shrinks.
+#### How is equity paid out?
+Equity is paid out when a shareholder sells their shares for cash during a liquidity event, such as an acquisition, IPO, or a secondary transaction like a tender offer.
+#### What is dilution and should I worry about it?
+Dilution is the decrease in your ownership percentage when new shares are issued to investors or employees, but it's a necessary part of growing a company and making the overall pie much larger.
+![The Carta Team](https://images.ctfassets.net/y88td1zx1ufe/3NUunpYQon5SRBWGU061bP/eff07a366b9521eccf493bfe7e6707d0/carta-logo.png)
+Author: [The Carta Team](https://carta.com/author/the-carta-team/)
+Carta's best-in-class software, services, and resources are designed to promote clarity and connection in the private capital ecosystem. By combining industry experience with proprietary data and real customer stories, our content offers expert guidance and clear, actionable insights for companies and investors.
+DISCLOSURE: This communication is on behalf of eShares, Inc. dba Carta, Inc. ("Carta"). This communication is for informational purposes only, and contains general information only. Carta is not, by means of this communication, rendering accounting, business, financial, investment, legal, tax, or other professional advice or services. This publication is not a substitute for such professional advice or services nor should it be used as a basis for any decision or action that may affect your business or interests. Before making any decision or taking any action that may affect your business or interests, you should consult a qualified professional advisor. This communication is not intended as a recommendation, offer or solicitation for the purchase or sale of any security. Carta does not assume any liability for reliance on the information provided herein. © 2026 Carta. All rights reserved. Reproduction prohibited.
+## Related Content
+
+==================================================
+
+SOURCE: https://investor.vanguard.com/investor-resources-education/understanding-investment-types/what-is-a-stock
+About
+Learn what a stock is, how it works, and the benefits of investing. Understand stock types, dividends, and how to start buying and managing shares.
+Investment types
+Stocks
+Education
+Page
+Understanding investment types
+Dividends
+Investment types
+# What is a stock?
+What is a stock?
+success
+You have saved this article
+8 minute read
+success
+You have saved this article
+![Two older women look at a cellphone together, smiling.](https://investor.vanguard.com/content/dam/retail/digital/en/photos/as232652320-female-friends-coffee-conversation-comparison.jpg)
+## Points to know
+See if stocks are a good fit for your investment portfolio.
+[Explore our resources](https://investor.vanguard.com/investment-products/stocks)
+## Why invest in stocks?
+When people talk about investing in stocks, they're usually referring to common stock. These investments let you share in the success of publicly traded companies—with the potential to grow your portfolio with them.
+When you purchase stock, you become a part owner of that company. If the company performs well, your investment may increase in value. Conversely, if the company performs poorly, your investment may decline in value.
+This ownership can benefit investors in two primary ways.
+### Appreciation
+When the price of each [**share**](https://investor.vanguard.com/investor-resources-education/understanding-investment-types/what-is-a-stock#modal-share) of stock increases in value, the total value of your investment grows. For example, if you purchase 50 shares of stock at $10 per share and the price rises to $15 per share, your investment increases by $250.
+### Dividends
+Some companies share a portion of their profits with shareholders through [**dividends**](https://investor.vanguard.com/investor-resources-education/understanding-investment-types/what-is-a-stock#modal-dividend). If a company announces a $2 dividend per share, you would receive $100 for your 50 shares. You can take the payout as cash or reinvest your dividends to purchase more shares, potentially boosting your long-term returns.
+However, not all companies pay dividends. Many growing companies choose to reinvest their profits back into the business instead.
+##  Share 
+A single unit of ownership in a mutual fund or an exchange-traded fund (ETF) or, for stocks, a corporation. 
+##  Dividend 
+The distribution of the interest or income produced by a mutual fund's holdings to the fund's shareholders, or a payment of cash or stock from a company's earnings to each stockholder. Dividends can be distributed monthly, quarterly, semiannually, or annually.
+## **How do stocks work**?
+Stock prices change from day to day, and often for reasons beyond a company's actual performance. Market trends, economic conditions, and even news headlines can cause a stock's price to move up or down.
+For example, if a competitor releases a new product or a company's growth slows, investors may grow concerned and the stock price may dip accordingly. On the other hand, strong earnings or positive industry developments can boost investor confidence and push prices higher.
+While short-term fluctuations are common, a stock's long-term performance is typically tied to the underlying company’s financial strength and ability to grow. Over time, financially sound companies may deliver more stable returns, even though short-term stock prices may still fluctuate.
+Understanding the stock market can help you make better investment decisions.
+[Learn more](https://investor.vanguard.com/investor-resources-education/portfolio-management/stock-market)
+## **Key factors to consider when choosing stocks**
+When choosing a company to invest in, it's important to look closely at the fundamentals, like the company's financials, leadership, and competitive position, along with broader industry trends. These factors can help you assess potential risks and long-term opportunities—and make more informed choices.
+This process is known as **fundamental analysis** , and it typically includes:
+![A red outline icon depicting two buildings, one taller and one shorter, with a large dollar sign inside a circle in the foreground.](https://investor.vanguard.com/investor-resources-education/understanding-investment-types/what-is-a-stock)
+###  Company financials 
+Earnings reports, revenue growth, profit margins, and debt levels can indicate financial strength.
+![A red icon featuring a magnifying glass overlaid on a bar chart with three vertical bars of varying heights.](https://investor.vanguard.com/investor-resources-education/understanding-investment-types/what-is-a-stock)
+###  Valuation metrics 
+Ratios like price/earnings (P/E) and price/book (P/B) can help you understand how a stock is priced relative to its earnings or assets.
+![A red pie chart icon with a dollar sign on the bottom left segment and a percentage symbol on the top right segment.](https://investor.vanguard.com/investor-resources-education/understanding-investment-types/what-is-a-stock)
+###  Dividend history 
+If you're income focused, consider whether the company pays regular dividends—and whether those payments have remained stable or grown.
+![A red icon depicting a bar chart with four vertical bars of varying heights and a line graph with four data points connected by lines above the bars.](https://investor.vanguard.com/investor-resources-education/understanding-investment-types/what-is-a-stock)
+###  Industry and market trends 
+Evaluate how the company is positioned within its sector and how economic or technological trends might impact its growth.
+![A red icon depicting an open hand with a dollar sign coin above it. Three arrows point upwards from the coin, indicating growth or increase.](https://investor.vanguard.com/investor-resources-education/understanding-investment-types/what-is-a-stock)
+###  Competitive advantages 
+Look for strong leadership, innovation, and other characteristics that set the company apart.
+## **How to determine if stocks are the right investment for you**
+Stocks can be a powerful investment option with the potential for higher long-term returns, but they can also carry more risk. Before investing, it's important to consider how that risk aligns with your goals and tolerance.
+If you're comfortable with market ups and downs—and have a longer timeline—individual stocks may be a good fit. If you're aiming for a more predictable income stream, a lower-risk option like bonds may better suit your needs.
+If you do decide to invest in stocks, understanding how they're categorized can make it easier to align your investments with your strategy. Stock classifications highlight key characteristics and market trends.
+Here are some of the most common categories of stocks:
+### **Growth vs. value stock**
+Most stocks fall into one of two broad categories based on how they generate returns for investors:
+### **Stocks by market capitalization**
+Stocks are also commonly grouped by the total value of a company's outstanding shares, known as its market capitalization. “Market cap” is a key measure of company size and potential risk and return. 
+Stocks typically fall into one of three categories:
+At the extremes, you may also see mega-cap (over $200 billion) and micro-cap (under $300 million) stocks.
+### **Sector-based stocks**
+Stocks can also be grouped by sector, based on the type of business a company operates. Each sector responds differently to economic shifts. For example, sectors like consumer discretionary or communication services may be more sensitive to downturns, since people tend to cut back on nonessential spending. But utilities, health care, and consumer staples often remain more stable because they're essential.
+Here's a sample classification system and the types of companies that would fall under each sector.
+Companies that manufacture products and provide services considered to be nonessential.
+Examples:
+Companies providing direct-to-consumer products that, based on consumer purchasing habits, are typically considered nondiscretionary.
+Examples:
+Companies involved in the exploration and production of energy products, such as oil, natural gas, and coal.
+Examples:
+Companies that provide financial services.
+Examples:
+Companies involved in providing medical or health care products, services, technology, or equipment.
+Examples:
+Companies that convert unfinished goods into products used to manufacture other goods or provide services.
+Examples:
+Companies that serve the electronics and computer industries or that manufacture products based on the latest applied science.
+Examples:
+Companies that extract or process raw materials.
+Examples:
+Companies that provide phone, data-transmission, cellular, or wireless communication services.
+Examples:
+Companies that distribute electricity, water, or gas, or that operate as independent power producers.
+Examples:
+### **Domestic vs. international stocks**
+Stocks can also be categorized by where a business is headquartered. Domestic stocks are shares of companies in your home country. International stocks are shares of companies outside your home country.
+[**Investing in international stocks**](https://investor.vanguard.com/investor-resources-education/understanding-investment-types/why-invest-internationally) helps diversify your portfolio, reduce dependence on a single economy, and give you access to growth opportunities across different regions. While U.S. companies make up a large portion of the global market, they don’t account for all the investment opportunities worldwide.
+### **Common vs. preferred stocks**
+Stocks are typically issued as either common or preferred. Each has unique characteristics that make them suitable for different types of investors.
+Common stock is the most widely held type of stock. It represents ownership in a company and typically includes voting rights on key corporate matters. Common shareholders may receive dividends, but payments are not guaranteed and are issued only after preferred shareholders are paid. Common stocks tend to be more volatile, but also offer greater potential for long-term growth.
+Preferred stock typically does not include voting rights but offers other advantages. Preferred shareholders typically receive fixed-rate dividends—paid before any dividends are issued to common shareholders—and have a higher claim on company assets in the event of liquidation. Preferred stocks may appeal to investors who prioritize a more stable income stream and are comfortable with more modest growth potential.
+### **Dividend stocks**
+Dividend stocks are shares of companies that regularly distribute a portion of their profits to shareholders in the form of dividends. These payments are typically made on a quarterly basis and can offer a reliable source of income.
+Dividends can help reduce the impact of market volatility by providing consistent returns, even when stock prices are flat or declining.
+Companies that pay dividends are often more established and financially sound, but not all dividend stocks are created equal. It is important to evaluate a company's financials, payout ratio, and history of maintaining or growing its dividends over time.
+## **Dividends and income from stocks**
+When you invest in stocks, you can earn income in two primary ways: through capital gains or through dividends.
+Capital gains occur when the value of a stock increases and you sell it for more than you paid. This type of income depends on the performance of the stock and overall market conditions.
+Dividends, on the other hand, are typically paid in cash, though some companies offer them in the form of additional shares. While dividend stocks regularly distribute their profits, some companies prefer to reinvest their profits back into the business to fuel growth.
+As with all earnings, you will have to pay [**taxes on dividend income**](https://investor.vanguard.com/investor-resources-education/taxes/dividends).
+## **Diversifying with stocks**
+Spreading your investments across a variety of companies, sectors, and regions—rather than a single stock or a handful of stocks—helps reduce risk and makes it less likely that a single company or sector will significantly impact your overall performance.[**Portfolio diversification**](https://investor.vanguard.com/investor-resources-education/portfolio-management/diversifying-your-portfolio) can't eliminate risk entirely, but it can help create a more stable investment experience over time.
+You can diversify your stock holdings in several ways:
+##  Mutual fund 
+A type of investment that pools shareholder money and invests it in a variety of securities. Each investor owns shares of the fund and can buy or sell these shares at any time. Mutual funds are typically more diversified, low-cost, and convenient than investing in individual securities, and they're professionally managed.
+##  ETF (exchange-traded-fund) 
+A type of investment with characteristics of both mutual funds and individual stocks. ETFs are professionally managed and typically diversified, like mutual funds, but they can be bought and sold at any point during the trading day using straightforward or sophisticated strategies.
+## **What's next?**
+Whatever your financial goals—whether you're new to investing or looking for expanded options—Vanguard is here to support you on your journey.
+## Start investing today
+[ Get started ](https://personal1.vanguard.com/mmx-move-money/registration-check)
+Articles you might like
+Investing strategies
+##### [How to start investing: A guide for beginners  ](https://investor.vanguard.com/investor-resources-education/article/how-to-start-investing "How to start investing: A guide for beginners")
+success
+Retirement
+##### [Get started on retirement saving  ](https://investor.vanguard.com/investor-resources-education/retirement/savings "Get started on retirement saving")
+success
+Personal finance
+##### [Understanding investment goals and goals based investing  ](https://investor.vanguard.com/investor-resources-education/investing-goals "Understanding investment goals and goals based investing ")
+success
+All investing is subject to risk, including the possible loss of the money you invest. Diversification does not ensure a profit or protect against a loss.
+Investments in stocks and bonds issued by non-U.S. companies are subject to risks including country/regional risk, which is the chance that political upheaval, financial troubles, or natural disasters will adversely affect the value of securities issued by companies in foreign countries or regions; and currency risk, which is the chance that the value of a foreign investment, measured in U.S. dollars, will decrease because of unfavorable changes in currency exchange rates.  
+
+Funds that concentrate on a relatively narrow market sector face the risk of higher share-price volatility.
+![](https://adservice.google.com/ddm/fls/z/dc_pre=CIDW5c_mnJIDFQ6nZgId0iUEJQ;u1=83069378595275073742076604789151254227;u6=https%3A%2F%2Finvestor.vanguard.com%2Finvestor-resources-education%2Funderstanding-investment-types%2Fwhat-is-a-stock;u7=us%3Aen%3Aretail%3Aweb%3Ainvestor%3Ainvestor-resources-education%3Aunderstanding-investment-types%3Awhat-is-a-stock;u8=https%3A%2F%2Finvestor.vanguard.com%2Finvestor-resources-education%2Funderstanding-investment-types%2Fwhat-is-a-stock;cat=vgent0;num=3427107450977;ord=1;src=12332392;gdpr=%24%7BGDPR%7D;type=allla0;gdpr_consent=%24%7BGDPR_CONSENT_755%7D)
+![Company Logo](https://corp-pmj.web.vanguard.com/files/us_b2c/cc/prod/onetrust/consent/767da967-88bb-4648-bd02-c7a263423698/0197e560-3794-7b02-8a8d-69a9ce80cbbb/logos/e23663a9-a49c-4250-9892-0022f609291d/c3d93706-3ccf-4e23-aec5-3af38fdcc954/d2097a83-ab1d-4d11-84ea-83fc12092ed1/Vanguard.png)
+## Your privacy
+#### Your privacy
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose to set some types of cookies to “Off.” However, setting cookies to “Off” may impact your experience on the site and the services we are able to offer. Click on the different category headings to find out more and to change your default settings, where possible. Clearing cookies on your device will delete your preferences. To learn more, view the [Vanguard Privacy Center.](https://investor.vanguard.com/privacy-center)
+#### Strictly necessary cookies
+Always on
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+#### Performance cookies
+Performance cookies On
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies, we will not know when you have visited our site and will not be able to monitor its performance. To manage Performance cookies on our website, move the toggle to the right to turn them on or move the toggle to the left to turn them off. Then be sure to click the “Confirm my choices” button to save your preferences. If you click the “Accept all cookies” button, all cookie types will be set to “On.”
+#### Functional cookies
+Functional cookies On
+These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third-party providers whose services we have added to our pages. If you do not allow these cookies, then some or all of these services may not function properly. To manage Functional cookies on our website, move the toggle to the right to turn them on or move the toggle to the left to turn them off. Then be sure to click the “Confirm my choices” button to save your preferences. If you click the “Accept all cookies” button, all cookie types will be set to “On.”
+#### Targeting cookies
+Targeting cookies On
+### Cookie List
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+checkbox label label
+[![Powered by Onetrust](https://corp-pmj.web.vanguard.com/files/us_b2c/cc/prod/onetrust/consent/767da967-88bb-4648-bd02-c7a263423698/0197e560-3794-7b02-8a8d-69a9ce80cbbb/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
+
+==================================================
+

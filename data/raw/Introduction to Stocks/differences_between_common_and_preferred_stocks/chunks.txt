@@ -1,0 +1,373 @@
+SOURCE: https://www.investopedia.com/ask/answers/difference-between-preferred-stock-and-common-stock/
+##  Preferred vs. Common Stock: An Overview 
+Both preferred and common stock represent a fractional ownership in a company and both are tools that investors can purchase to try to profit from the future successes of the business. There are significant differences between them, however. An important difference is that preferred stock shareholders have priority over a company's income. They're paid dividends before common stock shareholders. They're also paid first if a company is liquidated. 
+Preferred stock usually doesn't give shareholders voting rights. Common or ordinary stock does, usually at one vote per share owned.1  
+
+### Key Takeaways
+##  Preferred Stock 
+Preferred stock is a type of security that shares [characteristics of bonds and stocks](https://www.investopedia.com/ask/answers/06/preferredstock.asp). They provide investors with a predictable flow of income like bonds do because their dividends are determined when the stock is issued. They represent ownership in a company and are traded on an exchange. 
+###  Bond-like Aspects 
+Preferred stock has a par value that's affected by interest rates. When interest rates rise, the value of the preferred stock declines and vice versa. The price of preferred stock is normally less volatile than the price of common stock. 
+Preferreds also have a callability feature similar to bonds that gives the issuer the right to [redeem the shares](https://www.investopedia.com/terms/r/redemption.asp) from the market after a predetermined time. 
+Investors who buy preferred shares have a real opportunity for these shares to be called back at a redemption rate that represents a significant premium over their purchase price. The market for preferred shares often anticipates callbacks and prices may be bid up accordingly. 
+Preferred stock shareholders have a priority claim on a company's assets and earnings in the case of bankruptcy or liquidation. This is also true during the company's good times when it has excess cash and decides to distribute money to investors through [dividends](https://www.investopedia.com/terms/d/dividend.asp). 
+###  Dividends 
+Preferred stock shareholders are paid dividends before common stock shareholders who may or may not receive dividends. A company must first pay any arrears to preferred stock shareholders before paying common stock shareholders if it misses a dividend payment.1
+The dividends for preferred stock are usually higher than those for common stock as well. The annual dividend per share is calculated by multiplying the dividend rate by the stock's par value. The [dividend yield](https://www.investopedia.com/terms/d/dividendyield.asp) of a preferred stock is calculated by dividing the dollar amount of a dividend by the price of the stock. 
+###  Voting Rights 
+Preferred stock confers no [voting rights](https://www.investopedia.com/terms/v/votingright.asp). Preferred shareholders have no voice in the future of the company when it comes time for a company to elect a board of directors or vote on any form of corporate policy. 
+### Pros and Cons of Preferred Stock
+Pros
+Cons
+### Important
+##  Common Stock 
+Common stock represents shares of ownership in a corporation and a claim on profits. It's the type of stock in which most people invest. The great majority of stock is issued in this form. Share value is determined by [supply and demand](https://www.investopedia.com/ask/answers/040215/how-does-law-supply-and-demand-affect-stock-market.asp). 
+###  Voting rights 
+Common shares confer voting rights. Investors usually receive one vote per share owned. They vote to elect board members who oversee the major decisions made by management. Stockholders can therefore exercise some control over corporate policy and management issues. 
+###  Growth 
+Common stock tends to outperform preferred shares and offers a greater potential for long-term growth. The value of a common stock can go up if a company does well but the stock's value normally goes down if the company does poorly. 
+###  Dividends 
+A company's board of directors decides whether to pay out dividends to common stockholders. They're never guaranteed. Many companies don't pay common stock dividends at all. The common stock shareholder gets paid after those holding preferred shares if a company misses a dividend. 
+The claim on a company's income and earnings is most important during times of insolvency. Common stock shareholders are last in line for the company's assets in this case.1 The company pays all creditors and bondholders first, then preferred shareholders, and finally common stockholders when the company must [liquidate](https://www.investopedia.com/terms/l/liquidate.asp). 
+### Pros and Cons of Common Stock
+Pros
+Cons
+### Fast Fact
+The first common stock was issued by the Dutch East India Company in 1602.2
+##  Differences Between Preferred and Common Stock 
+| Preferred Stock  | Common Stock  
+---|---|---  
+Bond Similarity | Yes | No  
+Income Stream | A fixed dividend | May or may not receive dividends  
+Voting Rights | Usually none | Yes, usually one vote per share owned  
+Payment Priority | Senior to common stock shareholder | None  
+Growth Potential  | Limited | Unlimited  
+Volatility | Less than common stock | Greater than preferred stock  
+Liquidity | Less liquid; may be hard to sell | Usually highly liquid  
+##  How Will I Use This in Real Life 
+Let's say you have a choice between investing in preferred stock or common stock of a company you have your eye on. Which is the best option for you? It can all come down to your investment goals and your personal concerns. 
+Is your financial position such that some periodic payments might be appreciated? You might be better off with preferred stock in this situation because the company will pay dividends. 
+Do you have a stake in the company, emotionally or otherwise, so you want some control over certain aspects of its management? Common stock might be right for you in this case. 
+How’s your risk tolerance? You’d most likely be more comfortable with preferred stock if you don’t tolerate volatility well and want to ensure that you’re paid first before common stock shareholders in the event of a worst-case scenario liquidation. 
+## Why Might Investors Seek Out Preferred Stock?
+Investors might want to invest in preferred stock because of the steady income and high yields that they can offer, because dividends are usually higher than those for common stock, and for their stable prices.
+## Which Offers More Growth Potential, Common or Preferred Stock?
+Common stock offers greater potential growth in value because its price tends to move to a much greater degree. Capital gains are a greater possibility with common stock.
+## Which Is Riskier, Common or Preferred Stock?
+Each has its risks but preferred stock is generally seen as less risky because its price moves are less volatile. Its shareholders are always paid dividends before common stock shareholders.
+##  The Bottom Line 
+Preferred stock and common stock can both be attractive securities for investors. Preferred stock may offer a steady source of income compared to common stock but its share price normally has less growth potential. 
+Common stock shareholders get voting rights while shareholders of preferred stock normally do not. They therefore can't influence company decisions concerning important matters such as the selection of board members, acquisitions, and stock splits. 
+Article Sources
+Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our [editorial policy.](https://www.investopedia.com/legal-4768893#EditorialPolicy)
+Compare Accounts
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+Take the Next Step to Invest
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+## Related Articles
+Newsletter Sign Up
+Newsletter Sign Up
+
+==================================================
+
+SOURCE: https://carta.com/learn/equity/common-stock-vs-preferred-stock/
+[___](https://carta.com/learn/equity/common-stock-vs-preferred-stock/)
+Select your region to see content and products tailored to your location.
+Asia Pacific / Middle East
+[Continue](https://carta.com/sg/en/learn/equity/common-stock-vs-preferred-stock/)
+[Learn](https://carta.com/learn/)/
+[Equity](https://carta.com/learn/equity/)/
+[Preferred Stock vs. Common Stock](https://carta.com/learn/equity/common-stock-vs-preferred-stock/)
+![Preferred stock vs. common stock](https://images.ctfassets.net/y88td1zx1ufe/38Qd8YVXnni21uFlpChQRq/822da3c802c983644b8e0fae8fc84c62/2022-Employee-Stock-Options-Report.png?fm=webp)
+# Preferred stock vs. common stock
+Author: 
+The Carta Team
+|
+Read time: 
+3 minutes
+Published date: 
+June 5, 2025
+Common stock and preferred stock offer different benefits to shareholders. Learn about the differences between common shares vs preferred shares in this article.
+Contents
+[Request a demo](https://carta.com/demo/request/)
+## What is common stock?
+Common stock is a type of security that represents a fractional equity ownership stake in a company. Common stockholders (or common shareholders) are granted certain rights, such as voting rights on company decisions. These rights depend on the company’s charter or stockholders’ agreements, as well as the corporate law of the company’s state of incorporation.
+## What is preferred stock?
+The special rights and protections attached to preferred shares give investors a certain level of security, predictability, and flexibility in exchange for their capital. Since preferred shareholders get primary access to company assets during a liquidity event or bankruptcy, preferred stock is considered less risky than common stock.
+The terms of preferred stock can vary depending on the negotiated agreement between the company and its investors.
+## Differences between common stock vs. preferred stock
+| **Common stock** | **Preferred stock**  
+---|---|---  
+**Ownership** | Represents basic ownership in the company. | Represents ownership with preferential rights.  
+**Recipients** | Founders and early employees. | Investors, usually during a funding round.  
+**Voting rights** | Common stockholders can typically vote on important company matters, such as who the CEO is. | Preferred stockholders may receive special voting privileges and protections in private companies.  
+**Convertibility** | Generally can’t be converted into other types of stock. | Typically includes conversion rights to convert into common stock.  
+**Liquidation payout** | Common stockholders only receive liquidity after preferred stockholders have been paid. | If the company liquidates its assets or goes bankrupt, preferred stockholders are more likely to get their money back than common stockholders.  
+**Risk level** | Higher risk due to lower liquidation priority. | Lower risk due to liquidation priority over common stock.  
+[](https://www.youtube.com/channel/UCvBn8nuwr7NKboWMaVtHEAA?embeds_referring_euri=https%3A%2F%2Fcarta.com%2F&embeds_referring_origin=https%3A%2F%2Fcarta.com)
+Carta
+20.7K subscribers
+[Startup school | Common vs. preferred shares (from Cap Table 101)](https://www.youtube.com/watch?v=qyNSCGcv6sI)
+[](https://carta.com/learn/equity/common-stock-vs-preferred-stock/)
+Carta
+If playback doesn't begin shortly, try restarting your device.
+You're signed out
+Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+## More videos
+Share
+Include playlist
+An error occurred while retrieving sharing information. Please try again later.
+[Why am I seeing this?](https://support.google.com/youtube/answer/9004474?hl=en)
+[Watch on](https://www.youtube.com/watch?v=qyNSCGcv6sI&embeds_referring_euri=https%3A%2F%2Fcarta.com%2F&embeds_referring_origin=https%3A%2F%2Fcarta.com)
+0:00
+0:00 / 5:53
+•
+[](https://www.youtube.com/watch?v=qyNSCGcv6sI)
+Help your employees navigate tax decisions
+Carta Equity Advisory helps employees make informed decisions about their equity and taxes. Learn how you can help educate your team.
+[Request a demo](https://carta.com/demo/equity-advisory/?ir=learn_corps_common-stock-vs-preferred-stock_end_box)
+![The Carta Team](https://images.ctfassets.net/y88td1zx1ufe/3NUunpYQon5SRBWGU061bP/eff07a366b9521eccf493bfe7e6707d0/carta-logo.png)
+Author: [The Carta Team](https://carta.com/author/the-carta-team/)
+Carta's best-in-class software, services, and resources are designed to promote clarity and connection in the private capital ecosystem. By combining industry experience with proprietary data and real customer stories, our content offers expert guidance and clear, actionable insights for companies and investors.
+DISCLOSURE: This communication is on behalf of eShares Inc., d/b/a Carta, Inc. (“Carta”). This communication is not to be construed as legal, financial or tax advice and is for informational purposes only. This communication is not intended as a recommendation, offer or solicitation for the purchase or sale of any security. Carta does not assume any liability for reliance on the information provided herein.
+## Related Content
+## We use cookies to improve your experience
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. 
+![Company Logo](https://carta.com/oneTrust_production/consent/9756c2a5-6479-40f6-b2d4-5441e6c76113/0198195b-b8d9-7a4b-af36-34aaa1ee19d7/logos/06acc759-485e-4d62-833a-dc16c3c0bd32/9756c2a5-6479-40f6-b2d4-5441e6c76113/99178666-52a7-4610-9008-12987e4e3939/logo.png)
+## Privacy Preference Center
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+###  Manage Consent Preferences
+#### Performance Cookies
+Performance Cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+#### Functional Cookies
+Functional Cookies
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+#### Strictly Necessary Cookies
+Always Active
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+#### Targeting Cookies
+Targeting Cookies
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+### Cookie List
+Search Icon
+checkbox label label
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+[![Powered by Onetrust](https://carta.com/oneTrust_production/consent/9756c2a5-6479-40f6-b2d4-5441e6c76113/0198195b-b8d9-7a4b-af36-34aaa1ee19d7/logos/static/poweredBy_cp_logo.svg)](https://www.cookiepro.com/products/cookie-consent/)
+![](https://cdn.bizible.com/ipv?_biz_r=&_biz_h=800054037&_biz_u=7d2b8b1d7919494ce447240efb2d8aa6&_biz_l=https%3A%2F%2Fcarta.com%2Flearn%2Fequity%2Fcommon-stock-vs-preferred-stock%2F&_biz_t=1769004337903&_biz_i=Differences%20Between%20Preferred%20Stock%20vs.%20Common%20Stock&_biz_n=0&rnd=53827&cdn_o=a&_biz_z=1769004337904)![](https://cdn.bizibly.com/u?_biz_u=7d2b8b1d7919494ce447240efb2d8aa6&_biz_l=https%3A%2F%2Fcarta.com%2Flearn%2Fequity%2Fcommon-stock-vs-preferred-stock%2F&_biz_t=1769004337905&_biz_i=Differences%20Between%20Preferred%20Stock%20vs.%20Common%20Stock&rnd=117420&cdn_o=a&_biz_z=1769004337905)
+![](https://bat.bing.com/action/0?ti=25002783&Ver=2&mid=2082869a-4c72-4cfa-b9c5-194c19ef2e90&bo=1&sid=432cfc90f6d211f08aa44d29cebd179e&vid=432d44c0f6d211f093343384d57fe5c7&vids=1&msclkid=N&uach=pv%3D10.0&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=Differences%20Between%20Preferred%20Stock%20vs.%20Common%20Stock&p=https%3A%2F%2Fcarta.com%2Flearn%2Fequity%2Fcommon-stock-vs-preferred-stock%2F&r=&lt=2208&evt=pageLoad&sv=2&cdb=AQET&rn=456763)
+![](https://www.googleadservices.com/pagead/conversion/11233715560/?label=_86cCKCPiZsZEOjK0-wp&guid=ON&script=0)![](https://cdn.bizible.com/u?mapType=mkto&mapValue=id%3A214-BTD-103%26token%3A_mch-carta.com-64e62a7924fdcc7093114c4668fc8fcc&_biz_u=7d2b8b1d7919494ce447240efb2d8aa6&_biz_l=https%3A%2F%2Fcarta.com%2Flearn%2Fequity%2Fcommon-stock-vs-preferred-stock%2F&_biz_t=1769004337905&_biz_i=Differences%20Between%20Preferred%20Stock%20vs.%20Common%20Stock&_biz_n=1&rnd=43659&cdn_o=a&_biz_z=1769004338147)
+
+==================================================
+
+SOURCE: https://www.fidelity.com/learning-center/trading-investing/preferred-stock
+April 24, 2025
+![Estimate Time](https://www.fidelity.com/bin-public/600_Fidelity_Com_English/images/article/time-clock-circle.svg)6 min
+* * *
+Great, you have saved this article to you My Learn Profile page.
+* * *
+What is preferred stock? | Preferred stock vs common stock | Fidelity
+Clicking a link will open a new window.
+[Print ![Print](https://www.fidelity.com/bin-public/600_Fidelity_Com_English/images/article/Print.svg)](https://www.fidelity.com/learning-center/trading-investing/preferred-stock#print)
+![](https://www.fidelity.com/bin-public/600_Fidelity_Com_English/images/learning-center/heros/what-is-preferred-stock_90166994_banner.png)
+### Key takeaways
+If you’re looking to generate income from your investment portfolio, you may believe your choices are limited to stocks, which can deliver big returns but also big volatility, and investment-grade bonds, which offer less risk but also less return. But if you take a look beyond those familiar building blocks of a diversified portfolio, you may find other investment choices that potentially offer both higher yields than many bonds and less volatility than many stocks. One of those is a class of securities with the somewhat puzzling name of “preferred stocks.” Despite their name, preferred stocks are actually hybrid securities that can offer predictable income and lower volatility like bonds but are typically higher yielding than bonds of the same companies.
+![Fidelity Viewpoints](https://www.fidelity.com/bin-public/600_Fidelity_Com_English/images/migration/callouts/viewpoints-logo-subscription-jump-image.png)
+Sign up for _Fidelity Viewpoints_ weekly email for our latest insights.   
+
+  
+
+[Subscribe now](https://www.fidelity.com/learning-center/trading-investing/preferred-stock#subscribe-container)
+###  What is "preferred" about preferred stocks?
+Preferred shares get their name from the fact that they give their owners a “priority claim” whenever a company pays dividends or distributes assets to shareholders. In other words, holders of preferreds get paid first.
+The exact terms of the “preference” that preferred shareholders’ get may vary from company to company. In some cases, the preference simply means that cash available for distributions during the year must be paid to preferred shareholders before common dividends are paid. In other cases, the preference means that any missed payments to preferred shareholders must be made up before common shareholders are allowed to receive anything.
+###  When does it make sense to invest in preferred stocks?
+Like bonds, preferreds can help investors to preserve capital and generate income. For those approaching the end of one phase of their working lives, the reliable income payments that preferreds deliver can help smooth the transition to living on a smaller salary while also offering the potential for capital appreciation. Bonds and dividend-paying stocks can also offer these things but preferreds may offer some of the most appealing characteristics of both stocks and bonds in one place.
+Adam Kramer manages Fidelity® Multi-Asset Income Fund ([FMSDX](https://fundresearch.fidelity.com/mutual-funds/summary/31638R717 "FMSDX")), which invests in preferred stocks. Kramer also co-manages the Fidelity Preferred Securities & Income ETF (FPFD) along with Brian Chang and Rick Gandhi. He currently sees opportunities in the preferred stocks of investment-grade US utility companies, master limited partnerships (MLPs) that own oil and gas pipelines, and big US banks. The median yield of preferred stocks according to the Fidelity Preferred Security Screener as of March 31, 2025, is 6%. Kramer has found yields as high as 7% in what are called fixed-to-floating rate preferreds whose interest rates can rise over time. He says, "I think that those may be great ways to earn mid- to high, single-digit yields now while you wait for their prices to rise. Right now, you can buy them for less than their face value and their issuers can choose to buy them back from you for face value. If they don't choose to do that, the interest rates that they pay may increase and you could earn a higher return that way. If you're looking for income, you'd probably rather collect a potential 7% current yield on these than a 3% or 4% dividend yield from the stocks of these same companies."
+###  What is preferred stock?
+Preferred stock is a stake in a company, sold on exchanges like common stock. And while “stock” is in the name of both securities, preferred stocks have more similarities to bonds than to common stocks. Common shares are plentiful and trade on exchanges throughout the trading day. Preferred shares also trade on exchanges but are in much shorter supply.
+###  Preferred stocks vs. common stocks vs. bonds
+Common stocks, bonds, and preferred stocks differ in 4 ways: Priority, price, dividends, and voting rights.
+**Priority.** Preferred shareholders always receive dividends and asset payouts before holders of common shares. In case of bankruptcy, the claims of preferred stockholders on the company’s remaining assets are paid before those of common stockholders but after bondholders.
+**Price.** Like a bond, a share of preferred stock has a face or “par” value—usually $25 per share—in addition to the price it trades at in the market. Dividends are calculated based on this value. Common stocks' value depends solely on what the market thinks it’s worth. That helps make preferred stock less potentially volatile than common stock.
+Just as bonds gain in price when interest rates fall, so do shares of preferred stock. For instance, if you hold a 7% preferred stock or bond with a 7% coupon, those 2 securities will increase in value if rates fall and new shares or bonds are issued at 5%.
+**Dividends.** While many common stocks pay dividends, those payouts fluctuate based on the company’s circumstances. Preferred stocks usually have fixed dividends, which is often specified in the name of the preferred stock, for example, “Arlington Asset 7.00% Series B Cumulative Preferred Stock.”
+**Voting rights.** In exchange for lower volatility and higher income, preferred shareholders give up voting rights. Common stockholders can vote on matters of corporate governance, but those who hold preferred stocks typically can’t.
+###  Things to consider about preferred stocks
+Preferred stocks offer many of the most attractive features of common stocks and bonds, but they are not a single solution to all of your investment needs. They do not typically provide as much growth potential as growth stocks, which can raise the risk that you fall short of your savings goals if you allocate too much to them. Their lower historical returns compared to common stocks also raise the possibility that a portfolio with too big an allocation to preferreds may not grow enough to keep up with persistent inflation over the long term. As with stocks, dividends paid on preferreds may also not be guaranteed and like bonds, some preferreds can be taken away from you, or “called,” by their issuers.
+###  How to buy preferred stock
+If you think preferred stock could help you achieve your income investing goals, you'll first need to open an investment account. Once you've opened an account, buying preferred stocks is just a screening tool away. As with sorting through your options on any security, some of the features you’ll want to consider include:
+###  Tools that can help you research and buy preferred stocks
+Preferred securities are more complex than common stock or bonds. And, while they offer higher yields, they also carry additional risks that should be considered before investing.
+You can use Fidelity's [Preferred Security Screener](https://research2.fidelity.com/fidelity/screeners/preferredstock/main.asp "Preferred Security Screener") to help find financially strong companies with preferred securities that seek to offer above-market dividend yields. With a variety of filtering criteria, you can screen for payment, maturity, call and convertibility features, and more.
+##  Interested in mutual funds? 
+Choose your criteria and get fund picks from Fidelity or independent experts. 
+[ Research now ](https://fundresearch.fidelity.com/fund-screener)
+## More to explore
+###  [Put your investing ideas to work](https://www.fidelity.com/open-account/overview)
+Get industry-leading research, guidance, tools, and pricing. 
+###  [Planning & Guidance Center](https://www.fidelity.com/calculators-tools/planning-guidance-center)
+Analyze your portfolio and create a clear plan of action. 
+## Subscribe to  _Fidelity Viewpoints ®_
+Timely news and insights from our pros on markets, investing, and personal finance.(debug tcm:2365-349569)
+###  Looking for more ideas and insights? 
+We'll deliver them right to your inbox. 
+###  Thanks for subscribing! 
+Check out your Favorites page, where you can: 
+###  We're on our way, but not quite there yet 
+Good news, you're on the early-access list.   
+But we're not available in your state just yet. As soon as we are, we'll let you know. In the meantime, boost your crypto brainpower in our Learning Center. 
+###  Oh, hello again! 
+Good news, you’re already on the early-access list. Keep an eye on your email for your invitation to Fidelity Crypto. 
+### Thanks for subscribing to 
+Looking for more ideas and insights?   
+You might like these too:
+### Looking for more ideas and insights? You might like these too:
+###  _Fidelity Viewpoints ®_
+Timely news and insights from our pros on markets, investing, and personal finance.(debug tcm:2 ...
+### Decode Crypto
+Clarity on crypto every month. Build your knowledge with education for all levels.
+###  _Fidelity Smart Money ℠_
+What the news means for your money, plus tips to help you spend, save, and invest.
+### Active Investor
+Our most advanced investment insights, strategies, and tools.
+###  _Insights from Fidelity Wealth Management_ ℠
+Timely news, events, and wealth strategies from top Fidelity thought leaders.
+### Women Talk Money
+Real talk and helpful tips about money, investing, and careers.
+### Educational Webinars and Events
+Free financial education from Fidelity and other leading industry professionals.
+_Fidelity Viewpoints ®_
+Timely news and insights from our pros on markets, investing, and personal finance.(debug tcm:2 ...
+Decode Crypto 
+Clarity on crypto every month. Build your knowledge with education for all levels.
+_Fidelity Smart Money ℠_
+What the news means for your money, plus tips to help you spend, save, and invest.
+Active Investor 
+Our most advanced investment insights, strategies, and tools.
+_Insights from Fidelity Wealth Management_ ℠
+Timely news, events, and wealth strategies from top Fidelity thought leaders.
+Women Talk Money 
+Real talk and helpful tips about money, investing, and careers.
+Educational Webinars and Events 
+Free financial education from Fidelity and other leading industry professionals.
+Loading
+**Before investing in any mutual fund or exchange-traded fund, you should consider its investment objectives, risks, charges, and expenses. Contact Fidelity for a prospectus, an offering circular, or, if available, a summary prospectus containing this information. Read it carefully.**
+**Past performance is no guarantee of future results.**
+Diversification and asset allocation do not ensure a profit or guarantee against loss.
+Stock markets are volatile and can fluctuate significantly in response to company, industry, political, regulatory, market, or economic developments. Investing in stock involves risks, including the loss of principal.
+In general, the bond market is volatile, and fixed income securities carry interest rate risk. (As interest rates rise, bond prices usually fall, and vice versa. This effect is usually more pronounced for longer-term securities). Fixed income securities also carry inflation risk, liquidity risk, call risk and credit and default risks for both issuers and counterparties. Lower-quality fixed income securities involve greater risk of default or price changes due to potential changes in the credit quality of the issuer. Foreign investments involve greater risks than U.S. investments, and can decline significantly in response to adverse issuer, political, regulatory, market, and economic risks. Any fixed-income security sold or redeemed prior to maturity may be subject to loss.
+Views expressed are as of the date indicated, based on the information available at that time, and may change based on market or other conditions. Unless otherwise noted, the opinions provided are those of the speaker or author and not necessarily those of Fidelity Investments or its affiliates. Fidelity does not assume any duty to update any of the information.
+As with all your investments through Fidelity, you must make your own determination whether an investment in any particular security or securities is consistent with your investment objectives, risk tolerance, financial situation, and evaluation of the security. Fidelity is not recommending or endorsing this investment by making it available to its customers.
+Preferred securities are subject to interest rate risk. (As interest rates rise, preferred securities prices usually fall, and vice versa. This effect is usually more pronounced for longer-term securities.) Preferred securities also have credit and default risks for both issuers and counterparties, liquidity risk, and if callable, call risk. Dividend or interest payments on preferred securities may be variable, suspended or deferred by the issuer at any time, and missed or deferred payments may not be paid at a future date. If payments are suspended or deferred by the issuer, the deferred income may still be taxable. See your tax advisor for more details. Most Preferred securities have call features which allow the issuer to redeem the securities at its discretion on specified dates as well as upon the occurrence of certain events. Other early redemption provisions may exist which could affect yield. Certain preferred securities are convertible into common stock of the issuer, therefore, their market prices can be sensitive to changes in the value of the issuer's common stock. Some preferred securities are perpetual, meaning they have no stated maturity date. In the case of preferred securities with a stated maturity date, the issuer may, under certain circumstances, extend this date at its discretion. Extension of maturity date would delay repayment of principal on the securities. Please read the prospectus, which may be located on the SEC's EDGAR system, to understand the terms, conditions and specific features of the security prior to investing. 
+As with all your investments through Fidelity, you must make your own determination whether an investment is appropriate for you. Fidelity is not recommending or endorsing this security by making it available to customers. You should conduct research and perform a thorough investigation as to the characteristics of any securities you intend to purchase. Before investing, you should read the prospectus, offering circular, indenture, or similar document carefully for a full description of the product, including its features and risks, to determine whether it is an appropriate investment for your investment objectives, risk tolerance, financial situation and other individual factors, and be sure to re-evaluate those factors on a periodic basis. 
+The Fidelity Stock, Preferred Security, ETF/ETP and Closed End Fund Screeners (Screener(s)) are research tools provided to help self-directed investors evaluate these types of securities. The criteria and inputs entered are at the sole discretion of the user, and all screens or strategies with pre-selected criteria (including expert ones) are solely for the convenience of the user. Expert Screens are provided by independent companies not affiliated with Fidelity. Information supplied or obtained from these Screeners is for informational purposes only and should not be considered investment advice or guidance, an offer of or a solicitation of an offer to buy or sell securities, or a recommendation or endorsement by Fidelity of any security or investment strategy. Fidelity does not endorse or adopt any particular investment strategy or approach to screening or evaluating stocks, preferred securities, exchange traded products or closed end funds. Fidelity makes no guarantees that information supplied is accurate, complete, or timely, and does not provide any warranties regarding results obtained from their use. Determine which securities are right for you based on your investment objectives, risk tolerance, financial situation and other individual factors and re-evaluate them on a periodic basis. 
+Fidelity Brokerage Services LLC, Member NYSE, [SIPC](https://www.sipc.org/), 900 Salem Street, Smithfield, RI 02917
+1142630.2.0 
+icon-alert-warning-filledicon-alert-warning-filled
+When you visit our website, it may store or retrieve information on your browser, mostly in the form of cookies. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience on this site and the services we are able to offer.
+* * *
+Strictly Necessary Cookies
+These cookies are necessary for this website to function and cannot be switched off in our systems. You can set your browser to block or alert you about these cookies, but if you block these cookies, some parts of the site will not work. These cookies do not store any personally identifiable information.
+* * *
+Performance Cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+* * *
+Functional Cookies
+These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+* * *
+Targeting or Advertising Cookies
+* * *
+
+==================================================
+
+SOURCE: https://corporatefinanceinstitute.com/resources/equities/common-vs-preferred-shares/
+# Common vs Preferred Shares
+Learn more about the two types of shares 
+Written by [CFI Team](https://corporatefinanceinstitute.com/about-cfi/)
+Read Time 3 minutes 
+Over 2.8 million + professionals use CFI to learn accounting, financial analysis, modeling and more. Unlock the essentials of corporate finance with our free resources and get an exclusive sneak peek at the first module of each course.  [ Start Free Start Free](https://learn.corporatefinanceinstitute.com/auth/registration)
+## What are Common vs Preferred Shares?
+Potential investors who are looking to acquire a stake or ownership in a company can choose to purchase between common vs preferred shares. Companies typically issue and sell shares to raise funds for a variety of business initiatives. It is important to know and understand the individual characteristics and differences between common vs preferred shares before purchasing them.
+![Common vs Preferred Shares](data:image/svg+xml,<svg%20id="L4"%20xmlns="http://www.w3.org/2000/svg"%20xmlns:xlink="http://www.w3.org/1999/xlink"%20x="0px"%20y="0px"%20viewBox="0%200%20912%20275"%20xml:space="preserve"></svg>)
+### What are Common Shares?
+When someone refers to a share in a company, they are usually referring to common shares. Those who buy common shares will be essentially purchasing shares of ownership in a company. A holder of common stocks will receive voting rights, which increases proportionally with the more shares the holder owns.
+Those who purchase common shares try to sell the share at a higher price than when they bought it in order to turn a profit. Sometimes, common shares will come with dividends that are paid out.
+### What are Preferred Shares?
+Additionally, preferred shares come with a [par value](https://corporatefinanceinstitute.com/resources/accounting/par-value-overview/), which is affected by interest rates. When the interest rates go up, the value of preferred shares declines. When the rates go down, the value of preferred shares increases. Similar to common shareholders, those who purchase preferred shares will still be buying shares of ownership in a company.
+### Differences: Common vs Preferred Shares
+#### 1. Company ownership
+Holders of both common stock and preferred stock own a stake in the company.
+#### 2. Voting rights
+Even though both common shareholders and preferred shareholders own a part of the company, only the common shareholders have voting rights. Preferred shareholders do not have voting rights. For example, if there were a vote on the new [board of directors](https://corporatefinanceinstitute.com/resources/management/board-of-directors/), common shareholders would have a say, whereas preferred shareholders would not be able to vote.
+#### 3. Dividends
+Although both shareholders can receive dividends, the [payment of dividends](https://corporatefinanceinstitute.com/resources/equities/important-dividend-dates/) differs in nature. For common shares, the dividends are variable and are paid out depending on how profitable the company is. As an example, Company A can pay out $2 in dividends in Quarter 1, but if they lose profitability in Quarter 2, they may choose to pay $0.
+In contrast, preferred shareholders receive fixed dividends, so Company A would need to distribute a constant dividend of $2 at fixed intervals. The dividends for preferred shares are also cumulative, which means if they are missed one period, they will need to be paid back in the next.
+Going back to the example, if Company A misses the $2 dividend for preferred shares in Quarter 2, they will need to pay $4 ($2 x 2) in Quarter 3.
+#### 4. Claim to earnings
+When a company reports earnings, there is an order where investors are paid out. Usually, bondholders are paid out first, and common shareholders are paid out last. Because preferred shares are a combination of both bonds and common shares, preferred shareholders are paid out after the bond shareholders but before the common stockholders.
+In the event that a company goes bankrupt, the preferred shareholders need to be paid first before common stockholders get anything.
+#### 5. Conversion
+Preferred shares can also be converted to a fixed number of common shares, but common shares cannot be converted to preferred shares.
+#### 6. Returns
+Ultimately, both common and preferred shares are paid out of a company’s earnings. The returns of a common share are most commonly based on the increase or decrease of the share price, including an optional dividend paid out. In contrast, the returns on a preferred share are mainly based on its mandatory dividends.
+### Comparison
+| Common Shares | Preferred Shares  
+---|---|---  
+Company Ownership | Yes | Yes  
+Voting Rights | Yes | No  
+Dividend | Variable | Fixed  
+Order of Claim to Earnings | Second | First  
+Returns based on | Earnings | Earnings  
+### **Common Shares and Preferred Shares as an Investment**
+In terms of availability, common shares are a lot more available than preferred shares. Whether or not to buy common shares vs preferred shares ultimately comes down to the investor’s goals. Those who buy common shares are usually interested in the potential for higher profits, but with higher risk.
+In comparison, those who buy preferred shares are usually interested in the regular dividend income with lower risk. Also, preferred stock may not be chosen by investors in an environment with rising [interest rates](https://fred.stlouisfed.org/categories/22), which lowers the par value of the shares.
+### More Resources
+Thank you for reading CFI’s guide to Common vs Preferred Shares. To keep learning and advancing your career, the following resources will be helpful:
+###  Accounting Crash Courses 
+Learn accounting fundamentals and how to read financial statements with CFI’s[ online accounting classes](https://corporatefinanceinstitute.com/collections/accounting/).  
+These courses will give you the confidence to perform world-class financial analyst work. Start now!
+Boost your confidence and master accounting skills effortlessly with CFI’s expert-led courses! Choose CFI for unparalleled industry expertise and hands-on learning that prepares you for real-world success.
+Get Certified for Capital Markets (CMSA®)
+From equities and fixed income to derivatives, the CMSA certification bridges the gap from where you are now to where you want to be — a world-class capital markets analyst.
+[Learn MoreLearn More](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
+[ Corporate Finance Institute ](https://corporatefinanceinstitute.com/)
+[Back to Website](https://corporatefinanceinstitute.com)
+0 search results for ‘
+People also search for:  excel  power bi  esg  accounting  balance sheet  fmva  real estate 
+Explore Our Certifications 
+[ Financial Modeling & Valuation Analyst (FMVA)®  ](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
+[ Commercial Banking & Credit Analyst (CBCA)®  ](https://corporatefinanceinstitute.com/certifications/commercial-banking-credit-analyst-certification-cbca/)
+[ Capital Markets & Securities Analyst (CMSA)®  ](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
+[ Certified Business Intelligence & Data Analyst (BIDA)®  ](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)
+[ Financial Planning & Wealth Management Professional (FPWMP)®  ](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
+[ FinTech Industry Professional (FTIP)®  ](https://corporatefinanceinstitute.com/certifications/fintech-industry-professional/)
+Resources 
+[ Mastering Excel Shortcuts for PC and Mac  Work Smarter in Excel with Keyboard Shortcuts If you're still reaching for the mouse every few seconds, it's time to level up. The best Excel keyboard...  ](https://corporatefinanceinstitute.com/resources/excel/excel-shortcuts-pc-mac/)
+[ Financial Modeling Guidelines  CFI’s free Financial Modeling Guidelines is a thorough and complete resource covering model design, model building blocks, and common tips, tricks,...  ](https://corporatefinanceinstitute.com/resources/financial-modeling/free-financial-modeling-guide/)
+[ SQL Data Types  What are SQL Data Types? The Structured Query Language (SQL) comprises several different data types that allow it to store different types of information...  ](https://corporatefinanceinstitute.com/resources/data-science/sql-data-types/)
+[ Structured Query Language (SQL)  What is Structured Query Language (SQL)? Structured Query Language (known as SQL) is a programming language used to interact with a database....  ](https://corporatefinanceinstitute.com/resources/data-science/structured-query-language-sql/)
+[ See All Resources See All ](https://corporatefinanceinstitute.com/resources/)
+Popular Courses 
+[ See All Courses See All ](https://corporatefinanceinstitute.com/collections/)
+Recent Searches 
+Suggestions 
+### Create a free account to unlock this Template
+Access and download collection of free Templates to help power your productivity and performance.
+[Create a Free AccountCreate a Free Account](https://corporatefinanceinstitute.com/resources/equities/common-vs-preferred-shares/)
+Already have an account? [Log in](https://corporatefinanceinstitute.com/resources/equities/common-vs-preferred-shares/)
+### Supercharge your skills with Premium Templates
+Take your learning and productivity to the next level with our Premium Templates.
+Upgrading to a paid membership gives you access to our extensive collection of plug-and-play Templates designed to power your performance—as well as CFI's full course catalog and accredited Certification Programs.
+[Discover Paid MembershipsDiscover Paid Memberships](https://corporatefinanceinstitute.com/pricing/)
+Already have a Self-Study or Full-Immersion membership? [Log in](https://corporatefinanceinstitute.com/resources/equities/common-vs-preferred-shares/)
+### Access Exclusive Templates
+Gain unlimited access to more than 250 productivity Templates, CFI's full course catalog and accredited Certification Programs, hundreds of resources, expert reviews and support, the chance to work with real-world finance and research tools, and more.
+[Discover Full-Immersion MembershipDiscover Full-Immersion Membership](https://corporatefinanceinstitute.com/pricing/)
+Already have a Full-Immersion membership? [Log in](https://corporatefinanceinstitute.com/resources/equities/common-vs-preferred-shares/)
+
+==================================================
+

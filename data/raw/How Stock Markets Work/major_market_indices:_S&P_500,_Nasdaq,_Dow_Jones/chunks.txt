@@ -1,0 +1,167 @@
+SOURCE: https://www.marketwatch.com/market-data/us?gaa_at=eafs&gaa_n=AWEtsqeuQFNCuwm_QaIKpe2OGQ-JGSDSpNqz9TaxpaMLoJve--gLT2xi-NDM&gaa_ts=6970e119&gaa_sig=xnpz0uRs6IR4LPtjj1ISbsLImFa0dxJ-UC94jMTI3AXydTmeaTfAHigsiTZ0xls-3S17VuMDME6be5eMnl-9hA%3D%3D
+[Market Data Center](https://www.marketwatch.com/market-data?mod=u.s.-market-data)
+Name | Last | Chg | Chg %  
+---|---|---|---  
+[Dow Jones Industrial Average](https://www.marketwatch.com/investing/index/djia?mod=u.s.-market-data) | 48,488.59 | -870.74 | -1.76%  
+Toggle Chart Options [Advanced Charting](https://www.marketwatch.com/investing/index/djia/charts?mod=market-data) 1D 5D 1M 3M 6M YTD 1Y 3Y All Range Dropdown  
+[NASDAQ Composite Index](https://www.marketwatch.com/investing/index/comp?mod=u.s.-market-data) | 22,954.32 | -561.07 | -2.39%  
+[S&P 500 Index](https://www.marketwatch.com/investing/index/spx?mod=u.s.-market-data) | 6,796.86 | -143.15 | -2.06%  
+[Global Dow Realtime USD](https://www.marketwatch.com/investing/index/gdow?mod=u.s.-market-data) | 6,248.14 | -7.09 | -0.11%  
+[Gold Continuous Contract](https://www.marketwatch.com/investing/future/gc00?mod=u.s.-market-data) | $4,881.70 | 115.90 | 2.43%  
+[Crude Oil WTI (NYM $/bbl) Front Month](https://www.marketwatch.com/investing/future/cl.1?mod=u.s.-market-data) | $60.41 | 0.05 | 0.08%  
+[ ](https://www.marketwatch.com/story/investors-are-worried-but-waiting-for-trump-to-pivot-on-greenland-threat-16ed8b8c?mod=us-market-data)
+###  [ Investors are worried — but waiting for Trump to pivot on Greenland threat ](https://www.marketwatch.com/story/investors-are-worried-but-waiting-for-trump-to-pivot-on-greenland-threat-16ed8b8c?mod=us-market-data)
+[ BX:TMUBMUSD10Y 4.295 ](https://www.marketwatch.com/investing/bond/tmubmusd10y?countrycode=bx&mod=us-market-data)
+Jan. 20, 2026 at 8:21 p.m. ET by Joy Wiltermuth 
+[ ](https://www.marketwatch.com/story/as-the-dollar-slides-currency-traders-are-overlooking-a-bigger-risk-around-greenland-61cc8b49?mod=us-market-data)
+###  [ As the dollar slides, currency traders are overlooking a bigger risk around Greenland ](https://www.marketwatch.com/story/as-the-dollar-slides-currency-traders-are-overlooking-a-bigger-risk-around-greenland-61cc8b49?mod=us-market-data)
+[ EURUSD 0.03% ](https://www.marketwatch.com/investing/currency/eurusd?mod=us-market-data)
+Jan. 20, 2026 at 5:27 p.m. ET by Christine Idzelis 
+[ ](https://www.marketwatch.com/story/these-stocks-were-the-biggest-losers-on-the-s-p-500s-worst-day-in-three-months-be705c89?mod=us-market-data)
+###  [ These stocks were the biggest losers on the S&P 500’s worst day in three months ](https://www.marketwatch.com/story/these-stocks-were-the-biggest-losers-on-the-s-p-500s-worst-day-in-three-months-be705c89?mod=us-market-data)
+[ BX:TMUBMUSD10Y 4.295 ](https://www.marketwatch.com/investing/bond/tmubmusd10y?countrycode=bx&mod=us-market-data)
+Jan. 20, 2026 at 5:08 p.m. ET by Philip van Doorn 
+[ ](https://www.marketwatch.com/story/the-sell-america-trade-is-making-a-comeback-but-investors-are-selling-most-everything-else-too-a2f6da9a?mod=us-market-data)
+###  [ ‘Sell America’ trade makes a comeback as U.S. stocks see biggest drop in months. Here’s what investors need to know. ](https://www.marketwatch.com/story/the-sell-america-trade-is-making-a-comeback-but-investors-are-selling-most-everything-else-too-a2f6da9a?mod=us-market-data)
+[ BX:TMUBMUSD10Y 4.295 ](https://www.marketwatch.com/investing/bond/tmubmusd10y?countrycode=bx&mod=us-market-data)
+Jan. 20, 2026 at 5:03 p.m. ET by Joseph Adinolfi 
+[ ](https://www.marketwatch.com/story/heres-how-much-risk-the-u-s-faces-if-global-investors-weaponize-american-stocks-and-bonds-813f5204?mod=us-market-data)
+###  [ Here’s how much risk the U.S. faces if global investors ‘weaponize’ American stocks and bonds ](https://www.marketwatch.com/story/heres-how-much-risk-the-u-s-faces-if-global-investors-weaponize-american-stocks-and-bonds-813f5204?mod=us-market-data)
+[ BX:TMUBMUSD30Y 4.932 ](https://www.marketwatch.com/investing/bond/tmubmusd30y?countrycode=bx&mod=us-market-data)
+Jan. 20, 2026 at 4:37 p.m. ET by Joseph Adinolfi 
+[ ](https://www.marketwatch.com/market-data/us?gaa_at=eafs&gaa_n=AWEtsqeuQFNCuwm_QaIKpe2OGQ-JGSDSpNqz9TaxpaMLoJve--gLT2xi-NDM&gaa_ts=6970e119&gaa_sig=xnpz0uRs6IR4LPtjj1ISbsLImFa0dxJ-UC94jMTI3AXydTmeaTfAHigsiTZ0xls-3S17VuMDME6be5eMnl-9hA%3D%3D)
+###  [](https://www.marketwatch.com/market-data/us?gaa_at=eafs&gaa_n=AWEtsqeuQFNCuwm_QaIKpe2OGQ-JGSDSpNqz9TaxpaMLoJve--gLT2xi-NDM&gaa_ts=6970e119&gaa_sig=xnpz0uRs6IR4LPtjj1ISbsLImFa0dxJ-UC94jMTI3AXydTmeaTfAHigsiTZ0xls-3S17VuMDME6be5eMnl-9hA%3D%3D)
+No Headlines Available
+Loading Results
+5899  
+Decliners
+219  
+-
+2012  
+Advancers
+###  Includes common stocks, ADRs and REITs listed on NYSE, Nasdaq or NYSE American with a prior day close of $2 a share or higher and volume of at least 50,000
+Name | Last | Vol | Chg | Chg %  
+---|---|---|---|---  
+[Corvus Pharmaceuticals Inc.](https://www.marketwatch.com/investing/stock/crvs?mod=u.s.-market-data) | 21.41 |  83.97M | 13.36 | 165.96%  
+[Aclaris Therapeutics Inc.](https://www.marketwatch.com/investing/stock/acrs?mod=u.s.-market-data) | 4.43 |  34.89M | 1.81 | 69.08%  
+[RAPT Therapeutics Inc.](https://www.marketwatch.com/investing/stock/rapt?mod=u.s.-market-data) | 57.57 |  31.93M | 22.47 | 64.02%  
+[Top Wealth Group Holding Ltd.](https://www.marketwatch.com/investing/stock/twg?mod=u.s.-market-data) | 5.37 |  49.36M | 1.89 | 54.31%  
+[Lulu's Fashion Lounge Holdings Inc.](https://www.marketwatch.com/investing/stock/lvlu?mod=u.s.-market-data) | 20.63 |  167.12K | 6.13 | 42.28%  
+Name | Last | Vol | Chg | Chg %  
+---|---|---|---|---  
+[NovaBay Pharmaceuticals Inc.](https://www.marketwatch.com/investing/stock/nby?mod=u.s.-market-data) | 6.50 |  3.42M | -8.27 | -55.99%  
+[Linkhome Holdings Inc.](https://www.marketwatch.com/investing/stock/lhai?mod=u.s.-market-data) | 2.48 |  3.2M | -2.01 | -44.77%  
+[Venus Concept Inc.](https://www.marketwatch.com/investing/stock/vero?mod=u.s.-market-data) | 4.45 |  6.15M | -3.55 | -44.38%  
+[Roma Green Finance Ltd. Cl A](https://www.marketwatch.com/investing/stock/roma?mod=u.s.-market-data) | 1.4500 |  142.33K | -0.7900 | -35.27%  
+[Creative Global Technology Holdings Ltd.](https://www.marketwatch.com/investing/stock/cgtl?mod=u.s.-market-data) | 3.34 |  504.39K | -1.50 | -30.99%  
+Name | Last | Vol | Chg | Chg %  
+---|---|---|---|---  
+[NVIDIA Corp.](https://www.marketwatch.com/investing/stock/nvda?mod=u.s.-market-data) | 178.07 |  274.73M | -8.16 | -4.38%  
+[ImmunityBio Inc.](https://www.marketwatch.com/investing/stock/ibrx?mod=u.s.-market-data) | 6.48 |  211.05M | 0.96 | 17.39%  
+[Ondas Inc.](https://www.marketwatch.com/investing/stock/onds?mod=u.s.-market-data) | 13.13 |  150.7M | 0.97 | 7.98%  
+[Intel Corp.](https://www.marketwatch.com/investing/stock/intc?mod=u.s.-market-data) | 48.56 |  150.15M | 1.60 | 3.41%  
+[Netflix Inc.](https://www.marketwatch.com/investing/stock/nflx?mod=u.s.-market-data) | 87.26 |  128.43M | -0.74 | -0.84%  
+ISSUES: | NYSE | NASDAQ  
+---|---|---  
+Advancing | 610 | 1,289  
+Declining | 2,169 | 3,560  
+Unchanged | 65 | 143  
+Total: | 2,844 | 4,992  
+ISSUES AT: |  |   
+52-Week High | 110 | 164  
+52-Week Low | 60 | 195  
+VOLUME: |  |   
+Advancing | 1.68B | 3.61B  
+Declining | 4.08B | 6.05B  
+Unchanged | 85.68M | 49.88M  
+Total: | 5.85B | 9.71B  
+[Exxon Mobil Corp.](https://www.marketwatch.com/investing/stock/xom?mod=u.s.-market-data) | 131.72  
+---|---  
+[HSBC Holdings PLC ADR](https://www.marketwatch.com/investing/stock/hsbc?mod=u.s.-market-data) | 83.04  
+[RTX Corp.](https://www.marketwatch.com/investing/stock/rtx?mod=u.s.-market-data) | 202.17  
+[Boeing Co.](https://www.marketwatch.com/investing/stock/ba?mod=u.s.-market-data) | 248.75  
+[Southern Copper Corp.](https://www.marketwatch.com/investing/stock/scco?mod=u.s.-market-data) | 184.17  
+[SAP SE ADR](https://www.marketwatch.com/investing/stock/sap?mod=u.s.-market-data) | 231.91  
+---|---  
+[Salesforce Inc.](https://www.marketwatch.com/investing/stock/crm?mod=u.s.-market-data) | 221.96  
+[ServiceNow Inc.](https://www.marketwatch.com/investing/stock/now?mod=u.s.-market-data) | 126.85  
+[Progressive Corp.](https://www.marketwatch.com/investing/stock/pgr?mod=u.s.-market-data) | 199.90  
+[Ferrari N.V.](https://www.marketwatch.com/investing/stock/race?mod=u.s.-market-data) | 344.90  
+[Walmart Inc.](https://www.marketwatch.com/investing/stock/wmt?mod=u.s.-market-data) | 121.24  
+---|---  
+[Micron Technology Inc.](https://www.marketwatch.com/investing/stock/mu?mod=u.s.-market-data) | 365.81  
+[Monster Beverage Corp.](https://www.marketwatch.com/investing/stock/mnst?mod=u.s.-market-data) | 79.01  
+[Seagate Technology Holdings PLC](https://www.marketwatch.com/investing/stock/stx?mod=u.s.-market-data) | 335.02  
+[Sandisk Corp.](https://www.marketwatch.com/investing/stock/sndk?mod=u.s.-market-data) | 432.02  
+[T-Mobile US Inc.](https://www.marketwatch.com/investing/stock/tmus?mod=u.s.-market-data) | 185.18  
+---|---  
+[Intuit Inc.](https://www.marketwatch.com/investing/stock/intu?mod=u.s.-market-data) | 532.64  
+[Adobe Inc.](https://www.marketwatch.com/investing/stock/adbe?mod=u.s.-market-data) | 295.42  
+[Thomson Reuters Corp.](https://www.marketwatch.com/investing/stock/tri?mod=u.s.-market-data) | 123.21  
+[PayPal Holdings Inc.](https://www.marketwatch.com/investing/stock/pypl?mod=u.s.-market-data) | 55.85  
+Name | Last | Vol | Chg | Chg %  
+---|---|---|---|---  
+[ProShares Ultra Bloomberg Natural Gas](https://www.marketwatch.com/investing/fund/boil?mod=u.s.-market-data) | 22.44 |  33.5M | 6.02 | 36.66%  
+[2x Long VIX Futures ETF](https://www.marketwatch.com/investing/fund/uvix?mod=u.s.-market-data) | 6.86 |  75.26M | 1.24 | 22.06%  
+[United States Natural Gas Fund L.P.](https://www.marketwatch.com/investing/fund/ung?mod=u.s.-market-data) | 12.37 |  50.4M | 2.04 | 19.75%  
+[Defiance Daily Target 2X Short BMNR ETF](https://www.marketwatch.com/investing/fund/bmnz?mod=u.s.-market-data) | 18.69 |  3.17M | 2.97 | 18.89%  
+[ProShares UltraShort Ether ETF](https://www.marketwatch.com/investing/fund/ethd?mod=u.s.-market-data) | 46.11 |  1.31M | 6.95 | 17.75%  
+Name | Last | Vol | Chg | Chg %  
+---|---|---|---|---  
+[ProShares UltraShort Bloomberg Natural Gas](https://www.marketwatch.com/investing/fund/kold?mod=u.s.-market-data) | 27.89 |  16.05M | -17.35 | -38.35%  
+[21Shares 2x Long Sui ETF](https://www.marketwatch.com/investing/fund/txxs?mod=u.s.-market-data) | 16.68 |  58.34K | -7.92 | -32.18%  
+[Defiance Daily Target 2x Long AVAV ETF](https://www.marketwatch.com/investing/fund/avxx?mod=u.s.-market-data) | 13.80 |  334.13K | -6.21 | -31.03%  
+[2x Solana ETF](https://www.marketwatch.com/investing/fund/solt?mod=u.s.-market-data) | 6.52 |  19.78M | -2.07 | -24.10%  
+[ProShares Ultra Solana ETF](https://www.marketwatch.com/investing/fund/slon?mod=u.s.-market-data) | 14.38 |  457.38K | -4.53 | -23.96%  
+Name | Last | Vol | Chg | Chg %  
+---|---|---|---|---  
+[Direxion Daily Semiconductor Bear 3X Shares](https://www.marketwatch.com/investing/fund/soxs?mod=u.s.-market-data) | 2.17 |  520.95M | 0.08 | 3.83%  
+[ProShares UltraShort Silver](https://www.marketwatch.com/investing/fund/zsl?mod=u.s.-market-data) | 2.72 |  158.76M | -0.35 | -11.40%  
+[ProShares UltraPro QQQ](https://www.marketwatch.com/investing/fund/tqqq?mod=u.s.-market-data) | 50.73 |  136.04M | -3.41 | -6.30%  
+[Direxion Daily Small Cap Bear 3x Shares](https://www.marketwatch.com/investing/fund/tza?mod=u.s.-market-data) | 6.20 |  130.61M | 0.21 | 3.51%  
+[SPDR S&P 500 ETF Trust](https://www.marketwatch.com/investing/fund/spy?mod=u.s.-market-data) | 677.58 |  111.62M | -14.08 | -2.04%  
+[ ](https://www.marketwatch.com/story/falling-apart-in-real-time-former-star-fidelity-manager-warns-on-openai-tells-investors-to-shelter-in-these-assets-8a436d7c?mod=u.s.-market-data)
+###  [‘Falling apart in real time.’ Former star Fidelity manager warns on OpenAI, tells investors to shelter in these assets.](https://www.marketwatch.com/story/falling-apart-in-real-time-former-star-fidelity-manager-warns-on-openai-tells-investors-to-shelter-in-these-assets-8a436d7c?mod=u.s.-market-data)
+[ ](https://www.marketwatch.com/story/this-is-the-secret-to-spending-money-with-no-regrets-says-the-guy-who-wrote-the-book-on-it-c5b38940?mod=u.s.-market-data)
+###  [This is the secret to spending money with no regrets, says the guy who wrote the book on it ](https://www.marketwatch.com/story/this-is-the-secret-to-spending-money-with-no-regrets-says-the-guy-who-wrote-the-book-on-it-c5b38940?mod=u.s.-market-data)
+[ ](https://www.marketwatch.com/picks/i-had-been-lied-to-im-61-and-retired-my-financial-firm-promised-me-i-could-buy-shares-at-8-each-and-theyd-be-worth-12-i-invested-almost-all-my-cash-it-was-bogus-now-what-eba6d704?mod=u.s.-market-data)
+###  [‘I had been lied to.’ I’m 61 and retired. My financial firm promised me I could buy shares at $8 each and they’d be worth $12. I invested almost all my cash; it was bogus. Now what?](https://www.marketwatch.com/picks/i-had-been-lied-to-im-61-and-retired-my-financial-firm-promised-me-i-could-buy-shares-at-8-each-and-theyd-be-worth-12-i-invested-almost-all-my-cash-it-was-bogus-now-what-eba6d704?mod=u.s.-market-data)
+[ ](https://www.marketwatch.com/video/mwi-clips/trump-wants-oil-at-50-per-barrel-economics-suggest-otherwise/BB7F7C31-56B9-481D-9758-9368EF0B7E3E.html?mod=u.s.-market-data)
+###  [Trump wants oil at $50 per barrel — economics suggest otherwise](https://www.marketwatch.com/video/mwi-clips/trump-wants-oil-at-50-per-barrel-economics-suggest-otherwise/BB7F7C31-56B9-481D-9758-9368EF0B7E3E.html?mod=u.s.-market-data)
+[ ](https://www.marketwatch.com/story/bessent-deutsche-bank-ceo-doesnt-stand-by-analyst-report-saying-europeans-could-dump-treasury-securities-f424988e?mod=u.s.-market-data)
+###  [Bessent: Deutsche Bank CEO doesn’t stand by analyst report saying Europeans could dump Treasury securities](https://www.marketwatch.com/story/bessent-deutsche-bank-ceo-doesnt-stand-by-analyst-report-saying-europeans-could-dump-treasury-securities-f424988e?mod=u.s.-market-data)
+[ ](https://www.marketwatch.com/story/my-sister-is-buying-our-parents-3-million-house-but-wants-to-deduct-100k-for-renovations-whos-right-cd0e8129?mod=u.s.-market-data)
+###  [My sister is buying our parents’ $3 million house, but wants to deduct $100K for renovations. Who’s right?](https://www.marketwatch.com/story/my-sister-is-buying-our-parents-3-million-house-but-wants-to-deduct-100k-for-renovations-whos-right-cd0e8129?mod=u.s.-market-data)
+[ ](https://www.marketwatch.com/story/people-are-often-unreasonable-when-money-is-involved-my-husband-62-gave-me-a-5-year-life-estate-would-i-have-to-pay-for-a-new-roof-db4e0efb?mod=u.s.-market-data)
+###  [‘People are often unreasonable when money is involved’: My husband, 62, gave me a 5-year life estate. Would I have to pay for a new roof?](https://www.marketwatch.com/story/people-are-often-unreasonable-when-money-is-involved-my-husband-62-gave-me-a-5-year-life-estate-would-i-have-to-pay-for-a-new-roof-db4e0efb?mod=u.s.-market-data)
+[ ](https://www.marketwatch.com/story/im-simply-exhausted-im-55-and-have-1-3-million-for-retirement-can-i-retire-next-year-8a796d64?mod=u.s.-market-data)
+###  [‘I’m simply exhausted’: I’m 55 and have $1.3 million for retirement. Can I retire next year?](https://www.marketwatch.com/story/im-simply-exhausted-im-55-and-have-1-3-million-for-retirement-can-i-retire-next-year-8a796d64?mod=u.s.-market-data)
+[ ](https://www.marketwatch.com/story/social-security-is-making-a-change-that-could-disrupt-service-for-millions-of-americans-4aebca6a?mod=u.s.-market-data)
+###  [Social Security is making a change that could disrupt service for millions of Americans](https://www.marketwatch.com/story/social-security-is-making-a-change-that-could-disrupt-service-for-millions-of-americans-4aebca6a?mod=u.s.-market-data)
+[ ](https://www.marketwatch.com/story/im-moving-cross-country-and-want-to-fly-my-dog-on-a-private-jet-is-this-a-waste-of-money-990ea8bd?mod=u.s.-market-data)
+###  [I’m moving cross country and want to fly my dog on a private jet. Is this a waste of money?](https://www.marketwatch.com/story/im-moving-cross-country-and-want-to-fly-my-dog-on-a-private-jet-is-this-a-waste-of-money-990ea8bd?mod=u.s.-market-data)
+### [](https://www.marketwatch.com/market-data/us?gaa_at=eafs&gaa_n=AWEtsqeuQFNCuwm_QaIKpe2OGQ-JGSDSpNqz9TaxpaMLoJve--gLT2xi-NDM&gaa_ts=6970e119&gaa_sig=xnpz0uRs6IR4LPtjj1ISbsLImFa0dxJ-UC94jMTI3AXydTmeaTfAHigsiTZ0xls-3S17VuMDME6be5eMnl-9hA%3D%3D)
+Close Trending Tickers bar
+[Access Premium Tools](https://get.investors.com/product-overview/?src=A00619&refcode=Site%20placement%7CMarketWatch%7CMarketWatch%7C2023%7CRecurring%7COther%2FNA%7C0%7C%7C992173%20)
+Search
+[Advanced Search](https://www.marketwatch.com/search?q=)
+## Symbols
+Loading...
+No results found  
+|  [ ](https://www.marketwatch.com/market-data/us?gaa_at=eafs&gaa_n=AWEtsqeuQFNCuwm_QaIKpe2OGQ-JGSDSpNqz9TaxpaMLoJve--gLT2xi-NDM&gaa_ts=6970e119&gaa_sig=xnpz0uRs6IR4LPtjj1ISbsLImFa0dxJ-UC94jMTI3AXydTmeaTfAHigsiTZ0xls-3S17VuMDME6be5eMnl-9hA%3D%3D) |   
+### No Recent Tickers
+Visit a quote page and your recently viewed tickers will be displayed here.
+Symbol | Price | Change | % Chg  
+---|---|---|---  
+|  |  |   
+## Authors
+No results found [](https://www.marketwatch.com/market-data/us?gaa_at=eafs&gaa_n=AWEtsqeuQFNCuwm_QaIKpe2OGQ-JGSDSpNqz9TaxpaMLoJve--gLT2xi-NDM&gaa_ts=6970e119&gaa_sig=xnpz0uRs6IR4LPtjj1ISbsLImFa0dxJ-UC94jMTI3AXydTmeaTfAHigsiTZ0xls-3S17VuMDME6be5eMnl-9hA%3D%3D)
+## Sections
+No results found [](https://www.marketwatch.com/market-data/us?gaa_at=eafs&gaa_n=AWEtsqeuQFNCuwm_QaIKpe2OGQ-JGSDSpNqz9TaxpaMLoJve--gLT2xi-NDM&gaa_ts=6970e119&gaa_sig=xnpz0uRs6IR4LPtjj1ISbsLImFa0dxJ-UC94jMTI3AXydTmeaTfAHigsiTZ0xls-3S17VuMDME6be5eMnl-9hA%3D%3D)
+## Columns
+No results found [](https://www.marketwatch.com/market-data/us?gaa_at=eafs&gaa_n=AWEtsqeuQFNCuwm_QaIKpe2OGQ-JGSDSpNqz9TaxpaMLoJve--gLT2xi-NDM&gaa_ts=6970e119&gaa_sig=xnpz0uRs6IR4LPtjj1ISbsLImFa0dxJ-UC94jMTI3AXydTmeaTfAHigsiTZ0xls-3S17VuMDME6be5eMnl-9hA%3D%3D)
+[](https://www.marketwatch.com/market-data/us?gaa_at=eafs&gaa_n=AWEtsqeuQFNCuwm_QaIKpe2OGQ-JGSDSpNqz9TaxpaMLoJve--gLT2xi-NDM&gaa_ts=6970e119&gaa_sig=xnpz0uRs6IR4LPtjj1ISbsLImFa0dxJ-UC94jMTI3AXydTmeaTfAHigsiTZ0xls-3S17VuMDME6be5eMnl-9hA%3D%3D)
+This browser is no longer supported at MarketWatch. For the best MarketWatch.com experience, please update to a modern browser.
+
+==================================================
+

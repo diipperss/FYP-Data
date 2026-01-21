@@ -1,0 +1,351 @@
+SOURCE: https://yourpropfirm.com/liquidity-provider-vs-market-maker/
+[Skip to content](https://yourpropfirm.com/liquidity-provider-vs-market-maker/#content)
+[ Get In Touch ](https://yourpropfirm.com/get-in-touch/)
+## Liquidity Provider vs Market Maker: What Is the Difference?
+## Recent Posts
+####  [ What is Reused Content on YouTube? ](https://yourpropfirm.com/what-is-reused-content-on-youtube/)
+October 11, 2023  No Comments 
+####  [ Risk Management: KPIs and Data Analysis for Safer Trading ](https://yourpropfirm.com/risk-management-kpis-and-data-analysis/)
+October 17, 2023  No Comments 
+####  [ How Top Prop Firms Use Connections to Stay Ahead ](https://yourpropfirm.com/how-top-prop-firms-use-connections-to-stay-ahead/)
+December 5, 2023  No Comments 
+####  [ How to Attract Quality Leads for Your Prop Trading Firm ](https://yourpropfirm.com/how-to-attract-quality-leads-for-your-prop-trading-firm/)
+December 19, 2023  No Comments 
+![Liquidity Provider vs Market Maker](https://yourpropfirm.com/wp-content/uploads/2024/06/liquidity-provider-vs-market-maker.webp)
+## Introduction to Market Dynamics
+[Liquidity providers](https://yourpropfirm.com/role-of-forex-liquidity-providers-in-prop-trading/) and market makers are essential components of financial markets, each playing distinct roles in ensuring smooth and efficient trading. Liquidity providers are entities that supply the necessary funds to execute trades without causing significant price changes. They help maintain market liquidity by being ready to buy or sell assets at any time. On the other hand, market makers actively participate in the market by quoting both buy and sell prices for a specific asset, facilitating trading and contributing to market stability.
+Understanding these roles sets the stage for an in-depth exploration of their functions. Liquidity providers and market makers significantly influence market liquidity, price stability, and the overall trading experience. By delving into their operations, we can better appreciate their impact on financial markets and traders.
+## Understanding Market Liquidity
+![](https://yourpropfirm.com/wp-content/uploads/2024/06/understanding-market-liquidity-1024x1024.webp)
+Liquidity refers to how easily an asset can be bought or sold in a market without affecting its price. It is crucial in financial markets because it ensures that traders can enter and exit positions smoothly and that prices remain stable. High liquidity means there are many buyers and sellers, making it easier to execute trades quickly and at desired prices. Low liquidity can lead to delays and unfavorable prices. Liquidity helps maintain stable prices; in a highly liquid market, large trades have less impact on prices, while in an illiquid market, even small trades can cause significant price fluctuations.
+### Analogies to Illustrate Liquidity
+To illustrate liquidity, consider the job market. In a highly liquid job market, many employers are hiring, and many individuals are seeking jobs, allowing job seekers to find employment quickly without drastic changes in salary offers. Similarly, in a liquid financial market, assets can be traded rapidly without large price shifts.
+### Impact on Different Markets
+In the [Forex ](https://fundedtrading.com/how-to-profit-fast-from-forex-trading-a-complete-guide-for-beginners/)market, liquidity is typically high, especially for major currency pairs like EUR/USD, allowing trades to be executed almost instantly at stable prices. In the stock market, blue-chip stocks usually have high liquidity due to the large number of shares traded daily, making it easy for investors to buy and sell without significantly affecting prices. In the crypto market, liquidity varies widely. Major cryptocurrencies like Bitcoin and Ethereum generally have high liquidity, allowing for quick trades and stable prices, while smaller, less-known cryptocurrencies can be highly illiquid, leading to greater price volatility and difficulty in executing trades.
+Understanding liquidity helps traders navigate different markets more effectively, ensuring they can make informed decisions about where and how to trade.
+## Role of Liquidity Providers
+[Liquidity providers](https://yourpropfirm.com/the-importance-of-broker-and-liquidity-provider/) are entities that supply the necessary funds to execute trades in financial markets. They play a crucial role in the financial ecosystem by ensuring that there is always enough liquidity, which helps to maintain market stability and efficiency. In Forex markets, liquidity providers facilitate smooth and continuous trading by being ready to buy or sell currency pairs at any time.
+### Types of Liquidity Providers
+Various types of liquidity providers operate in the financial markets:
+### Services Provided
+Liquidity providers offer several services that impact the trading process:
+These services help streamline the trading process, reduce costs, and enhance the overall trading experience for market participants.
+## Role of Market Makers
+Market makers are entities or individuals that actively create and maintain markets for specific financial instruments, such as stocks and commodities. Their role involves providing liquidity by quoting both buy and sell prices for these instruments, ensuring that trades can be executed quickly and efficiently.
+### Functions of Market Makers
+Market makers perform several critical functions:
+### Regulatory Framework
+The operation of market makers is governed by a legislative and regulatory environment designed to ensure fair and transparent market practices. Regulatory bodies such as the Securities and Exchange Commission (SEC) in the United States set rules and guidelines that market makers must follow. These regulations include requirements for maintaining adequate capital, adhering to fair trading practices, and reporting trading activities. The goal is to protect investors and maintain the integrity of financial markets.
+## Differences Between Liquidity Providers and Market Makers
+### Methods of Operation:
+### Motivations:
+### Impacts on the Market:
+## Impact on Traders and the Market
+### 1. Improved Liquidity
+[Liquidity providers](https://yourpropfirm.com/liquidity-providers-a-crucial-element-for-proprietary-trading-firm-success/) ensure that there are always enough funds to execute trades, making it easier for traders to buy and sell assets without significant delays.
+### 2. Reduced Transaction Costs
+Market makers maintain tight bid-ask spreads, which lowers the cost of trading by reducing the difference between buy and sell prices.
+### 3. Enhanced Market Accessibility
+Both liquidity providers and market makers ensure that traders can enter and exit positions easily, contributing to a more accessible and inclusive market environment.
+### 4. Price Stabilization
+Market makers help stabilize prices by continuously quoting buy and sell prices, preventing large price swings and reducing volatility.
+### 5. Increased Market Efficiency
+Both entities contribute to market efficiency by ensuring that trades can be executed swiftly and at fair prices, facilitating smoother market operations and better price discovery.
+These benefits and their roles in maintaining stable and efficient markets make liquidity providers and market makers indispensable to the financial ecosystem.
+## Evolution and Future Trends
+The roles of liquidity providers and market makers have evolved significantly over time. Initially, market makers dominated by providing continuous buy and sell quotes and holding large inventories of assets. As financial markets became more complex, liquidity providers emerged to ensure there was always enough capital to facilitate trades, improving market depth and efficiency. Today, both entities play crucial roles in maintaining market stability and liquidity.
+### Future Trends in 2024
+Technological advancements and regulatory changes are likely to further shape the roles of liquidity providers and market makers in 2024.
+#### 1. Technological Advancements
+Automation and artificial intelligence will continue to revolutionize trading. Advanced algorithms and machine learning will enable liquidity providers and market makers to execute trades more efficiently, predict market movements, and manage risks better. Blockchain technology may also play a role, enhancing transparency and reducing transaction times.
+#### 2. Regulatory Changes
+Increasing regulatory scrutiny will push for greater transparency and fair practices. Regulators may implement stricter rules to ensure that both liquidity providers and market makers operate in ways that protect traders and enhance market integrity. Compliance with these regulations will be crucial, influencing how these entities conduct their operations.
+#### 3. Integration of Decentralized Finance (DeFi)
+The rise of decentralized finance (DeFi) could impact traditional liquidity providers and market makers. DeFi platforms offer peer-to-peer trading without intermediaries, which may change how liquidity is provided and how market making is conducted. Traditional entities might integrate DeFi technologies to stay competitive.
+These trends indicate that liquidity providers and market makers will continue to adapt and evolve, driven by technological innovations and regulatory developments, ensuring they remain vital to the financial markets.
+## Frequently Asked Questions (FAQ)
+### What are the main differences between a liquidity provider and a market maker?
+Liquidity providers supply the necessary funds to facilitate trades, ensuring there is enough liquidity in the market. They act as intermediaries between buyers and sellers but do not typically hold an inventory of assets. Market makers, on the other hand, actively create and maintain markets by quoting buy and sell prices for specific assets. They hold inventories and are always ready to trade, providing constant liquidity and stabilizing prices.
+### How do liquidity providers and market makers make money?
+Liquidity providers earn money through fees and commissions by facilitating trades. They may charge a small fee for each transaction they help execute. Market makers profit from the spread between the buy (bid) and sell (ask) prices. By maintaining tight spreads and managing their inventories effectively, market makers can generate significant revenue from the difference in these prices.
+### What are the implications of these roles for a regular trader?
+For regular traders, the presence of liquidity providers and market makers ensures that they can buy and sell assets easily and at fair prices. Liquidity providers contribute to market depth, making it easier to execute trades without causing significant price changes. Market makers help stabilize prices and reduce volatility, creating a more predictable trading environment. Both roles enhance overall market efficiency, making trading smoother and more accessible for all participants.
+## Conclusion and Closing Thoughts
+Understanding the roles of liquidity providers and market makers is crucial when choosing trading platforms or brokers. Liquidity providers ensure smooth trade execution and market depth, while market makers offer price stability and reduced volatility. Recognizing how these entities operate helps traders make informed decisions, improving their trading experience and success.
+For those interested in exploring more about market dynamics, consider reading “The Market Maker’s Edge” by Josh Lukeman or “Market Liquidity: Theory, Evidence, and Policy” by Thierry Foucault, Marco Pagano, and Ailsa Roell. Online courses from platforms like Coursera and Investopedia also offer valuable insights into market structures and trading strategies.
+## Further Resources
+### Books:
+## Leave a Reply [Cancel reply](https://yourpropfirm.com/liquidity-provider-vs-market-maker/#respond)
+## Schedule Your  
+Consultation Today 
+Take the First Step Towards Launching Your Prop Trading Firm Effortlessly.
+[ Get In Touch ](https://yourpropfirm.com/get-in-touch)
+Streamline your Prop Trading Firm launch with our Proprietary Technology and Industry Expertise.
+#### Main Menu​
+#### Other Links
+#### Let’s Connect
+© Copyright 2022-2025 YourPropFirm Pte Ltd. Business Registration Number: 202405866D – All Right Reserved
+[![English flag](https://cdn.weglot.com/flags/square/gb.svg)EN](https://yourpropfirm.com/liquidity-provider-vs-market-maker/)
+[![Deutsch flag](https://cdn.weglot.com/flags/square/de.svg)DE](https://yourpropfirm.com/de/liquidity-provider-vs-market-maker/)
+[![Italiano flag](https://cdn.weglot.com/flags/square/it.svg)IT](https://yourpropfirm.com/it/liquidity-provider-vs-market-maker/)
+[![Español flag](https://cdn.weglot.com/flags/square/es.svg)ES](https://yourpropfirm.com/es/liquidity-provider-vs-market-maker/)
+[![Français flag](https://cdn.weglot.com/flags/square/fr.svg)FR](https://yourpropfirm.com/fr/liquidity-provider-vs-market-maker/)
+
+==================================================
+
+SOURCE: https://quadcode.com/blog/market-maker-vs-liquidity-provider-whats-the-difference
+![Market Maker vs Liquidity Provider: What Is The Difference?](https://wp.quadcode.com/wp-content/uploads/2024/03/header_2-1-1024x512.jpg)
+Technology
+# Market Maker vs Liquidity Provider: What Is The Difference?
+Updated August 8, 2025
+March 15, 2024
+13 min
+2905
+Share
+* * *
+Contents
+Back to top
+## Understanding Market Makers
+In the financial market, Market Makers play both buying and sellers roles. Their main role is to provide ongoing market liquidity, hence bridging the supply-demand imbalance. Quoting bid (buy) and ask (sell) prices for an asset shows their readiness for trading. By guaranteeing that assets are constantly accessible for trade, regardless of more general market circumstances, they thus perform a vital service.
+Imagine a scenario where there aren’t enough sellers for a particular asset. In such a situation, a trader wanting to purchase might find it challenging to locate a suitable seller. Here, the market maker steps in, agreeing to sell the asset. On the other hand, with insufficient demand, the market maker would purchase the asset. They make sure traders always have a counterpart for their deal by constantly changing their stated rates and inventory depending on market dynamics.
+### Benefits for Brokerages and Businesses:
+![Benefits and Challenges of Market Makers](https://wp.quadcode.com/wp-content/uploads/2024/03/pic-1-4-1-1024x569.jpg)
+### Challenges and Considerations:
+## Understanding Liquidity Providers
+The foundation of effective trading in financial markets are liquidity providers, or LPs. Unlike market makers who actively build a market by quoting both buy and sell prices, liquidity providers usually supply asset values depending on the state of the market. Their main goal is to provide the market more complexity so that big orders may be fulfilled without significantly affecting asset values.
+LPs, by virtue of their expansive financial reserves, can handle sizable transactions that might otherwise destabilize smaller markets. Traders use the liquidity these companies provide to complete big transactions, therefore guaranteeing minimum slippage and effective order fulfillment. It’s a symbiotic relationship: traders gain from the depth; providers of liquidity gain from the trading volume, especially in high-frequency [algorithmic trading](https://quadcode.com/blog/algorithmic-trading-how-it-works-and-its-role-in-modern-markets/) environments.
+You may also like
+![Forex Liquidity Provider: What it is and How it Works?](https://wp.quadcode.com/wp-content/uploads/2024/03/header-8-1-768x384.jpg)
+Liquidity
+![Demetris Makrides](https://wp.quadcode.com/wp-content/uploads/2024/03/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA-%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0-2024-03-21-%D0%B2-11.04.40-e1711008422329-150x150.png)
+Demetris Makrides
+March 27, 2024
+20 min
+Forex Liquidity Provider: What it is and How it Works?
+### Types of Liquidity Providers and Implications:
+![Types of Liquidity Providers and Implications](https://wp.quadcode.com/wp-content/uploads/2024/03/pic-2-4-1-1024x512.jpg)
+### Advantages for Business Operations:
+## Key Distinctions between Market Makers and Liquidity Providers
+The worlds of market makers and liquidity providers often intersect, yet they operate with distinct mechanisms and objectives. For brokerage owners and business heads, discerning their differences is vital for strategic alignment and efficient operations.
+### Operational Dynamics:
+They participate in the marketplace actively. By their very nature, market makers deliberately produce a two-sided market. They guarantee that, independent of market circumstances, there is always a counterparty ready for traders by quoting buying and selling prices for a particular commodity. Their operational model revolves around facilitating continuous trading even in less liquid assets or during times of market stress.
+Their role is more passive. Rather than dictating prices, LPs offer assets based on current market rates. They enhance the depth of the market, ensuring trades can be executed without dramatic price shifts, which is especially important for sizable trades. Their focus is on filling orders rather than determining the price.
+### Influence on Asset Pricing and Execution:
+Their influence can lead to more predictable pricing, which is especially beneficial in markets where liquidity is sporadic. The double-sided quoting ensures that spreads remain narrower, providing a more stable trading environment. However, this might sometimes mean that traders might not always get the most favorable prices, especially if the Market Maker is the dominant entity in a particular asset class.
+In markets with many liquidity providers, competition drives more favorable prices for traders. Their depth ensures that even large trades can be executed with minimal price impact. This is particularly advantageous in highly liquid markets, where the sheer volume of trading and the presence of multiple LPs can lead to very competitive spreads.
+### Risk Management for Brokerages:
+Engaging primarily with a single or limited market maker can introduce a specific counterparty risk. Should a market maker neglect its responsibilities or run into financial problems, the trading the environment may be disturbed. For brokerages, it’s crucial to evaluate the selected market makers’ financial situation and reputation.
+Diversifying across multiple LPs can significantly mitigate risks. If one LP faces challenges, the presence of alternative providers ensures that trade execution remains unaffected. Moreover, with multiple entities vying for business, brokerages can often negotiate better terms and pricing.
+### Capital Requirements and Commitment:
+They typically need substantial capital reserves. Given their role in actively quoting both buy and sell prices, market makers often maintain significant capital to manage the risks associated with holding positions, especially in volatile market situations.
+LPs don’t necessarily require the same depth of capital reserves as market makers. Their primary function is facilitating trades, which often means they offset positions more frequently and may not hold them for extended periods.
+### Role in Market Stability:
+By committing to buy and sell assets, they often act as a stabilizing force, especially in niche or less liquid markets. Their continuous presence can prevent abrupt market gaps and provide a sense of reliability to other market participants.
+While they also contribute to market stability, their impact is often more pronounced in widely-traded, liquid markets. By offering depth, they ensure smooth trade executions, even during high-volume trading times.
+### Nature of Relationships with Brokerages:
+Relationships are often more structured. Brokerages might have specific agreements detailing the prices, volumes, and terms of engagement, ensuring a predictable flow of trades.
+Engagements tend to be more fluid. While there might be overarching agreements in place, the day-to-day interactions are driven by market dynamics, with prices, volumes, and spreads continuously adjusting based on real-time conditions.
+### Technological Interfaces and Integration:
+Given their active role in price quotes, they often have sophisticated technological interfaces, allowing real-time communication of bid and ask prices. Integration with brokerages might require tailored tech solutions to ensure seamless data flow.
+Their systems are designed for speed and volume. The emphasis is on efficiently handling many trade requests, often from multiple brokerages simultaneously. Integration is typically more straightforward, emphasizing quick order execution.
+To simplify these distinctions, here’s a side-by-side comparison of how market makers and liquidity providers operate across key dimensions
+Attribute | Market Maker | Liquidity Provider  
+---|---|---  
+Trading Approach | Actively maintain both buy and sell prices | Establish market depth by offering real-time market rates  
+Price Influence | Stabilize pricing in markets lacking liquidity | Compete to provide tighter spreads to their users  
+Capital Requirements | Require substantial capital to maintain inventory and bear risk | Require moderate capital to complete trades efficiently  
+Execution Risk | Centralized, higher counterparty exposure | Decentralized, spread across multiple providers  
+Technology Integration | Connect through complex API systems to stream quotes | High-speed execution systems enable volume processing  
+Market Stability Role | Stabilizes during volatility or low liquidity | Optimizes execution during peak volumes  
+Broker Relationship | Structured agreements with specific terms | Dynamic, volume-driven interactions  
+Brokerages which understand these distinctions can match their execution models with suitable partners for improved performance and client satisfaction.
+## Regulatory Landscape and Compliance
+The financial sector is strongly reliant on laws and compliance measures. Following these guidelines helps brokerages maintain credibility and guarantee the seamless operation of the financial ecosystem when they work with market makers and liquidity providers.
+Brokerages operate in an environment where trust rules most of all. Whether they are institutional companies or individual traders, customers who put their money to a brokerage want guarantees that their investments are secure and that the broker runs a fair and open business. Strong adherence to regulatory rules helps one to develop and strengthen this confidence.
+Policies regarding brokerages and their interactions with market makers and liquidity providers vary depending on the nation and area. For example:
+### Navigating the Regulatory Maze:
+Given the diversity of regulatory bodies and their guidelines, brokerages must:
+Knowing the regulatory scene is not just about avoiding fines; it’s also a strategic need for owners of brokerages. By harmonizing operations with regulations, the brokerage’s standing may improve and more selective customers and partners will be drawn in. It may also avoid expensive interruptions resulting from legal violations.
+### KEY TAKEAWAYS
+## Forging Effective Partnerships and Collaborations
+Threads in the intricate fabric of the financial ecosystem, partnerships and alliances link institutions to increase their combined might and reach. Whether with market makers or liquidity providers, these relationships are strategic partnerships that might determine the future success of a brokerage.
+### The Cornerstones of Effective Partnerships:
+![The Cornerstones of Effective Partnerships](https://wp.quadcode.com/wp-content/uploads/2024/03/pic-3-4-1-1024x626.jpg)
+For brokerages looking at long-term development and stability, strategic collaborations with market makers or liquidity providers could prove transformative. These relationships, nevertheless, should not be seen as fixed. They are dynamic entities that need to be fostered, assessed, and refined to make sure they stay mutually beneficial in an always changing financial environment. Brokerages may maximize the actual possibilities of these partnerships by stressing openness, collaborative development, and ongoing evaluation, hence driving them toward steady success.
+##  Conclusion
+Modern brokers must negotiate the complex worlds of market makers and liquidity providers. Brokerages may make educated choices by knowing their duties, benefits, and possible risks, therefore guaranteeing sustainable development and building client confidence in the always changing financial scene.
+## Glossary of Key Terms
+**Bid-Ask Spread**
+It stands for the difference between what buyers want to pay (bid price) and what sellers are demanding (ask price). A smaller or tighter spread is often associated with a liquid market and a lower cost of trading.
+**Slippage**
+The difference between what you can buy or sell an asset at. Common during times of high volatility or low liquidity.
+**A-Book**
+A brokerage model where client orders are routed directly to external liquidity providers. The broker profits from spreads or commissions without involving his/her own capital at risk.
+**B-Book**
+A model in which the broker executes trades through their own capital, effectively trading against clients. Usually combined with market making strategies commitments.
+### FAQ
+What is the key difference between market maker and liquidity provider?
+A market maker quotes buy and sell prices at all times, buying when you want to sell and selling when others want to buy, ensuring continuous trading and tighter spreads. By contrast, a liquidity provider passively provides market depth in the form of constant price streams that reflect real-time demand and does not compete with a buyer or seller; instead they provide an order execution service (i.e., setting prices).
+Market Makers and Liquidity Providers, can a company be both?
+Yes. Certain big players become market makers and liquidity providers as well, especially in multi-asset trading conditions or hybrids of the brokerage models. The latter supports higher execution liquidity and allows them to control spreads.
+What is better for brokerages - market makers or liquidity providers?
+It is based on the business model of brokerage. This is why B-book brokers might like to work with market makers in order to keep the trades internal and try managing the spreads. Using A-book enables you to connect to many LPs which again allows for tighter spreads, less slippage and better execution quality. In reality, most brokerages use a blend of the two to have a balance between risk and performance.
+Are liquidity providers regulated?
+Yes, especially Tier 1 liquidity providers. Regulatory oversight varies by region: ESMA in the EU; CFTC and SEC in the US; FCA in the UK; MAS in Singapore; SFC in Hong Kong. Brokers working with LPs must ensure these partners meet relevant compliance and transparency standards.
+Updated: 
+August 8, 2025
+![Views icon](https://quadcode.com/_app/immutable/assets/views.63ab60ea.svg)
+2905
+Share
+* * *
+Senior Business Development Manager
+Dealing expert with over 8 years of expertise in executing complex financial transactions, navigating market fluctuations, and delivering strategic insights to drive profitability
+[](https://www.linkedin.com/in/makridesdemetris/)
+[](https://quadcode.com/blog/the-main-types-of-money-and-how-they-differ)
+![](https://wp.quadcode.com/wp-content/uploads/2026/01/The_Main_Types_of_Money_cover-1024x500.png)
+![](https://quadcode.com/_app/immutable/assets/calendar.1934a666.svg)
+19 January, 2026
+The Main Types of Money and How They Differ
+In this article, we will discuss the different kinds of money and how each of them works, as well as their differences.
+[[](https://quadcode.com/blog/stock-market-hours)
+![](https://wp.quadcode.com/wp-content/uploads/2026/01/cover-4-1-1024x571.png)
+![](https://quadcode.com/_app/immutable/assets/calendar.1934a666.svg)
+8 January, 2026
+Stock Market Hours: When Does The Market Open?
+Most major stock markets are open Monday to Friday, with opening times depending on the exchange and its time zone. For example, US stock markets open at 9:30 AM ET, while the London Stock Exchange opens at 8:00 AM UK time. There is no regular stock trading on weekends. Below, you’ll find a clear, practical [&hellip;]
+[[](https://quadcode.com/blog/how-to-trade-invest-profit-from-precious-metals-in-2026)
+![](https://wp.quadcode.com/wp-content/uploads/2025/12/Metals_trading_cover-1024x500.png)
+![](https://quadcode.com/_app/immutable/assets/calendar.1934a666.svg)
+25 December, 2025
+How to Trade, Invest and Profit from Precious Metals in 2026
+Before trading or investing in precious metals in 2026, we recommend educating yourself on how to actually trade or invest in them.
+[Language
+English
+MODULES
+RESOURCES
+MORE
+FOLLOW US
+[](https://twitter.com/Quadcode_SaaS)
+[](https://www.facebook.com/Quadcode-108315268769590)
+[](https://www.linkedin.com/company/quadcode-saas/)
+[](https://www.instagram.com/quadcode_software/)
+[](https://t.me/quadcode_solutions)
+[](https://www.youtube.com/@quadcode_saas)
+By continuing to use this site you consent with our [cookie policy](https://quadcode.com/cookie-policy)
+Accept
+
+==================================================
+
+SOURCE: https://www.luxse.com/trading/liquidity-providers-and-market-makers
+![logo](https://www.luxse.com/trading/liquidity-providers-and-market-makers)
+[](https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/)
+This website uses cookies
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. [GDPR & Cookie Policy](https://www.luxse.com/gdpr)
+[Show details](https://www.luxse.com/trading/liquidity-providers-and-market-makers)
+Details
+[Cross-domain consent[#BULK_CONSENT_DOMAINS_COUNT#]](https://www.luxse.com/trading/liquidity-providers-and-market-makers) [#BULK_CONSENT_TITLE#]
+List of domains your consent applies to: [#BULK_CONSENT_DOMAINS#]
+Cookie declaration last updated on 1/12/26 by [Cookiebot](https://www.cookiebot.com "Cookiebot")
+[#IABV2_TITLE#]
+[#IABV2_BODY_INTRO#]
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+[#IABV2_BODY_PREFERENCE_INTRO#]
+[#IABV2_BODY_PURPOSES_INTRO#]
+[#IABV2_BODY_PURPOSES#]
+[#IABV2_BODY_FEATURES_INTRO#]
+[#IABV2_BODY_FEATURES#]
+[#IABV2_BODY_PARTNERS_INTRO#]
+[#IABV2_BODY_PARTNERS#]
+About
+  
+  
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.  
+  
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.  
+Read our [GDPR & Cookie Policy](https://www.luxse.com/gdpr)  
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.  
+  
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.  
+  
+Please state your consent ID and date when you contact us regarding your consent.
+**Do not sell or share my personal information**
+Search by ISIN, issuer, ...
+Search by ISIN, issuer, ...
+[![logo bourse](https://www.luxse.com/trading/liquidity-providers-and-market-makers)](https://www.luxse.com/)
+![image](https://www.luxse.com/trading/liquidity-providers-and-market-makers)
+[](https://www.luxse.com/)
+[Trading](https://www.luxse.com/trading)
+Liquidity providers and market makers
+# Liquidity Providers and Market Makers
+Summary
+Liquidity Providers/Prime Liquidity Providers
+Registration process 
+Market Makers
+Market Makers Registration Process
+Market Making Schemes
+Stressed market conditions
+Exceptional market circumstances
+## Liquidity Providers/Prime Liquidity Providers
+In addition to the MiFID II Market Making framework, we will maintain Liquidity Provider Provisions on some specific instruments to accommodate product and participant requirements. These Liquidity Providers Provisions are not subject to the MiFID II framework.   
+  
+All liquidity providers under the different Liquidity Provider Provisions will be required to flag all relevant orders and quotes on the LuxSE systems as follows:   
+
+List of Liquidity Providers per security
+Market Making and Liquidity Provision conditions
+## Registration process 
+All LuxSE members acting as Liquidity Providers must complete the Registration Form thus confirming their understanding and acceptance of the General Terms and Conditions that apply to all LuxSE instruments. All documents are available below. 
+For further details, please contact the Market & Surveillance (M&S) Department.  
+
+Liquidity Provision - General terms and conditions
+Liquidity Provision - Operating terms
+Liquidity Provision - Registration form
+Liquidity Provision - Appendix 1
+## Market Makers
+Investment firms engaged in algorithmic trading and pursuing market making strategies on any LuxSE tradable instrument are required to enter into a **Market Making Agreement** with LuxSE by submitting a filled in Registration Form (see below).  
+  
+If there is a liquid market for equities and ETFs, LuxSE offers **Market Making Schemes**.  
+  
+As a reminder, market makers - whether under a scheme or only under an agreement - will be required, amongst other things, to post firm, simultaneous two-way quotes of comparable size and competitive prices, and deal on their own account during at least half of the daily trading hours over a single calendar month period.
+List of Market Makers per security
+## Market Makers Registration Process
+All our members acting as market makers **must complete the Registration Form** within which they confirm their understanding and acceptance of the General Terms and Conditions that apply to all instruments admitted to trading. All documents are available below.  
+  
+Upon entering into the Market Making Agreement through the completion of the Registration Form, members are eligible to apply for a Market Making Scheme for each specific product individually, unless indicated otherwise.  
+  
+For further details, please contact the Market and Surveillance (M&S) Department.
+Market Making - General terms and conditions
+Market Making - Operating terms
+Market Making - Registration form
+Market Making - Appendix 1
+## Market Making Schemes
+In order to comply with the framework, set out under MiFID II, we have implemented a range of Market Making Schemes. To find out more, please consult the below document Market Making and Liquidity Provision condition.  
+  
+Market makers under the different Market Making Schemes or under the Agreement will be required to flag all relevant orders and quotes on LuxSE’s Order Entry systems as follows:   
+
+Market Making and Liquidity Provision conditions
+## Stressed market conditions
+In the event of Stressed Markets Conditions (SMC), the obligation of the participant to provide liquidity on a regular and predictable basis under the Market Making Schemes, will be amended to double the spread requirements and half the size of obligations.   
+  
+During SMC, market makers’ presence will continue to be monitored.   
+  
+SMC are considered to arise, in relation to a financial instrument that is subject to a contractual Market Making Scheme with LuxSE and that is declared to be ‘liquid security’ by ESMA, in the following situations:   
+
+## Exceptional market circumstances
+Please see below examples of Exceptional Market Circumstances (EMC):
+**Extreme volatility** |  Happens when volatility halt is triggered for 50% of financial instruments traded on a segment in relation to which the obligation to sign a Market Making Agreement applies. It is manually triggered by the M&S Department in case of such an event. Duration: 60 minutes.  
+---|---  
+**War, industrial action, civil unrest, cyber sabotage** |  The M&S Department triggers a LuxSE management decision.  
+**Disorderly trading conditions** |  Apply if half or more of the most active trading members (based on the number of trades) lose their connectivity. The M&S Deparment triggers a LuxSE management decision.  
+**Technological and risk management issues, or inability to hedge positions due to short selling ban** |  If a member immediately informs LuxSE about technical problems impeding it from processing Market Making activities, and these problems are justified, we may suspend the Market Making obligations.  
+Under **EMC** , there will be no quoting obligations and the performance monitoring will be suspended.
+Disclaimer
+The information contained herein is provided for information purposes only. Although the Luxembourg Stock Exchange (LuxSE) has made reasonable efforts to ensure that the information is accurate and not misleading, LuxSE does not accept any responsibility or liability of any kind whether for the accuracy, reliability or completeness of the information or for any action refrained or taken or results obtained from the use of the information. The information does not constitute and is not construed as any advice, recommendation, undertaking or commitment from or on behalf of LuxSE. The information shall not be substitute for your own researches, investigations, verifications or consultation for professional or legal advice.
+![image](https://www.luxse.com/trading/liquidity-providers-and-market-makers)
+[![image](https://www.luxse.com/trading/liquidity-providers-and-market-makers)](https://www.luxse.com/ "home")
+![image](https://www.luxse.com/trading/liquidity-providers-and-market-makers)
+Always in motion
+[![image](https://www.luxse.com/trading/liquidity-providers-and-market-makers)](https://www.luxse.com/ "home")
+Always in motion
+
+==================================================
+
