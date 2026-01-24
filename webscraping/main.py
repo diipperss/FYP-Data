@@ -1,5 +1,5 @@
 import asyncio
-from topics import TOPICS
+from webscraping.topics import TOPICS
 from search import google_search
 from crawler import crawl_and_chunk
 from config import MAX_URLS_PER_SUBSUBTOPIC
