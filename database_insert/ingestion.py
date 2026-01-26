@@ -6,6 +6,8 @@ from retry import retry
 from tqdm import tqdm #used to display smart progress meters for loops and long-running operations
 import logging
 from dotenv import load_dotenv
+import hashlib
+import json
 
 load_dotenv()
 #logging setup
@@ -27,11 +29,11 @@ MAX_RETRIES = 3  # for transient failures
 
 #retry decorator for idemppotent isnerts
 @retry(tries=MAX_RETRIES, delay=2)
-def safe_insert(table_name,rows):
+def safe_upsert(table_name,rows):
     try:
-        return supabase.table(table_name).insert(rows).execute()
+        return supabase.table(table_name).upsert(rows, on_conflict="content_hash").execute()
     except Exception as e:
-        logging.error(f"Insert failed for {table_name}: {e}")
+        logging.error(f"Upsert failed for {table_name}: {e}")
         raise
 
 #helper: upsert topic/subtopic and return id
@@ -83,7 +85,10 @@ def get_or_create_subtopic(topic_id, subtopic_name):
         )
         raise
 
-
+#helper function for hashjing yaml content
+def hash_content(data:dict) -> str:
+    normalized = json.dumps(data,sort_keys=True)
+    return hashlib.sha256(normalized.encode("utf-8")).hexdigest()
 
 #ingestion
 def ingest():
@@ -112,21 +117,27 @@ def ingest():
                 try:
                     with open(yaml_file, "r", encoding="utf-8") as f:
                         chunk_data = yaml.safe_load(f)
+                        if not isinstance(chunk_data,dict):
+                                logging.error(f"Invalid YAML structure in {yaml_file}")
+                                continue
                 except yaml.YAMLError as e:
                     logging.error(f"Failed to parse{yaml_file}:{e}")
                     continue
-                
+
+                content_hash = hash_content(chunk_data)
+
                 batch_rows.append({
                     "topic_id":topic_id,
                     "subtopic_id":subtopic_id,
                     "summary_content":chunk_data,
+                    "content_hash": content_hash,
                     "is_published":True
                 })
 
                 #insert batch
                 if len(batch_rows)>= BATCH_SIZE:
                     try:
-                        safe_insert("subtopic_summary", batch_rows)
+                        safe_upsert("subtopic_summary", batch_rows)
                         logging.info(f"Inserted batch of {len(batch_rows)} chunks")
                     except Exception as e:
                         logging.error(f"Batch insert failed:{e}")
@@ -137,7 +148,7 @@ def ingest():
 
             if batch_rows:
                 try:
-                    safe_insert("subtopic_summary", batch_rows)
+                    safe_upsert("subtopic_summary", batch_rows)
                     logging.info(f"Inserted final batch of {len(batch_rows)} chunks")
                 except Exception as e:
                     logging.error(f"Final batch insert failed: {e}")
