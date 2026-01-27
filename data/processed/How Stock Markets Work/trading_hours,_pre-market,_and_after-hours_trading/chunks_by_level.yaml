@@ -1,0 +1,124 @@
+title: How Stock Markets Work
+summary: >
+  This lesson explains how stock markets operate across regular trading hours,
+  pre-market, after-hours, and overnight sessions. It highlights how liquidity,
+  spreads, and execution risks differ outside normal hours and what investors
+  should consider when trading during these periods.
+
+beginner:
+  title: "Beginner: Trading sessions—when the market is most “normal”"
+  summary: >
+    Learn the main trading sessions (regular hours, pre-market, after-hours) and why prices can look different
+    depending on the time. You’ll understand the simple reason: liquidity is not equal across sessions.
+  key_points:
+    - Regular trading hours have the most participants, volume, and liquidity.
+    - Pre-market and after-hours exist, but fewer traders participate.
+    - With lower liquidity, bid–ask spreads tend to widen and prices can jump more.
+    - Extended hours prices can move a lot on small trades and may not represent full market consensus.
+    - Timing matters: the same order can fill at very different prices depending on the session.
+  subtopics:
+    - What “regular trading hours” means (highest liquidity window)
+    - Pre-market and after-hours (basic idea)
+    - Why spreads widen when fewer people trade
+    - Why a quoted price isn’t always a tradable price (thin liquidity intuition)
+  examples:
+    - Earnings release example: >
+        A company releases earnings after market close, causing its stock to spike in after-hours trading.
+        Early traders may capture price moves, but face higher risk due to thin liquidity.
+    - "Simple spread example: During regular hours a stock might have a $0.01 spread, but after-hours it could widen to $0.10, increasing the cost of entering or exiting."
+  common_mistakes:
+    - Assuming extended-hours prices reflect full market consensus.
+    - Using market orders (where allowed) when liquidity is thin and being surprised by the fill.
+    - Thinking “the market is closed” means nothing happens to prices.
+  questions_to_think:
+    - Why might the same stock have different prices in regular hours vs after-hours?
+    - What is the biggest risk of trading when fewer participants are active?
+
+intermediate:
+  title: "Intermediate: ECNs, order rules, and execution trade-offs"
+  summary: >
+    Learn how extended-hours trading works through ECNs, why brokers often restrict order types,
+    and how lower participation creates partial fills, wider spreads, and higher execution uncertainty.
+  key_points:
+    - Pre-market and after-hours trading occurs via electronic communication networks (ECNs).
+    - Liquidity is usually lower, so limit orders are commonly required to control price.
+    - Wider spreads and higher volatility are more common outside regular sessions.
+    - Partial fills happen more often because fewer shares are available at each price level.
+    - News (earnings, macro data) can move prices sharply when liquidity is thin.
+    - Good execution is harder: you trade earlier access for higher execution risk.
+  subtopics:
+    - What ECNs do (matching buyers/sellers outside the main session)
+    - Why many brokers limit orders in extended hours (price control)
+    - Partial fills and “thin book” behavior
+    - Volatility around scheduled events (earnings, economic releases)
+    - Practical decision: wait for regular hours vs trade early
+  examples:
+    - Liquidity example: >
+        A limit order placed during pre-market hours fills only partially due to limited participation.
+        Highlights the trade-off between early access and execution certainty.
+    - "Order-type trade-off example: You want to buy after-hours on an earnings spike. A limit order can protect you from chasing an unstable price, but it may never fill if the price moves away."
+  common_mistakes:
+    - Setting a limit price too far from the market and assuming it will fill quickly.
+    - Ignoring partial fill risk and ending up with an unintended position size.
+    - Overreacting to an after-hours move that reverses once regular liquidity returns.
+  questions_to_think:
+    - When might extended hours trading be appropriate?
+    - How do spreads affect execution during low-liquidity periods?
+    - What is the main trade-off between early access and execution certainty?
+
+advanced:
+  title: "Advanced: Overnight trading, price discovery, and risk management"
+  summary: >
+    Learn how overnight/24-hour access (broker-dependent) changes price discovery, why off-hours moves can be noisy,
+    and how to manage risk using session-aware order sizing, limits, and timing.
+  key_points:
+    - Overnight trading is broker-dependent and varies by market structure and product.
+    - Off-hours price discovery can be less reliable because fewer participants set the price.
+    - Wider spreads and thinner depth increase slippage risk and execution uncertainty.
+    - Volatility regimes matter: stress periods can cause liquidity to vanish outside regular hours.
+    - Risk controls (smaller size, limit orders, staged entries/exits) matter more in thin sessions.
+    - For many investors, waiting for regular hours can improve execution quality and reduce hidden costs.
+  subtopics:
+    - Overnight sessions: what “broker-dependent” implies (availability and constraints)
+    - Price discovery quality: why off-hours moves can reverse
+    - Session-aware execution planning: sizing, limits, and patience
+    - Event risk: earnings, macro releases, and global market spillovers
+    - When not trading is the best execution strategy
+  examples:
+    - "Reversal example: A stock jumps after-hours on earnings, then gives back the move after analysts revise expectations and full liquidity returns at the open."
+    - "Risk-control example: Instead of buying a full position after-hours, an investor buys a small starter position with a limit order and waits for regular hours to complete the trade with tighter spreads."
+  common_mistakes:
+    - Treating off-hours prices as equally “true” as regular-session prices.
+    - Trading full size in thin sessions and paying high spreads/slippage.
+    - Assuming liquidity will be there when you need to exit quickly during stress.
+  questions_to_think:
+    - What signs would tell you off-hours liquidity is too thin to trade safely?
+    - How would you change your order size and order type outside regular hours?
+
+why_study_this:
+  - Helps investors avoid unexpected price moves and poor execution.
+  - Explains why prices may differ significantly between sessions.
+  - Supports informed decisions about timing and order type.
+
+definitions:
+  - term: Pre-market Trading
+    definition: Trading before regular market hours.
+  - term: After-hours Trading
+    definition: Trading after regular market hours.
+  - term: ECNs
+    definition: Electronic platforms enabling extended-hours trading.
+  - term: Liquidity
+    definition: The ease of trading without moving prices significantly.
+  - term: Spread
+    definition: The difference between bid and ask prices.
+
+common_mistakes:
+  - Assuming extended hours prices reflect full market consensus.
+  - Ignoring liquidity risks outside regular trading sessions.
+  - Trading large size in thin sessions without using protective limit prices.
+
+questions_to_think:
+  - When might extended hours trading be appropriate?
+  - How do spreads affect execution during low-liquidity periods?
+
+source: https://www.investopedia.com/ask/answers/06/preaftermarket.asp

@@ -1,0 +1,88 @@
+by_level:
+  beginner: |-
+    - {'Sharpe Ratio example': 'Two funds have the same return, but one has lower volatility. The fund with lower volatility has a higher Sharpe ratio and is therefore more efficient.\n'}
+    - {'VaR example': 'A fund claims a 5% VaR. This means that there is a 5% chance that losses could exceed a certain amount under normal market conditions.\n'}
+    
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: The ___ measures how widely returns swing around the average.
+        options: [A. Beta, B. Sharpe Ratio, C. Standard Deviation, D. VaR]
+        answer: C
+      - type: drag_drop
+        question: Match the risk measure to its description.
+        drag_drop:
+          prompt: Drag the risk measure to its matching description.
+          pairs:
+            - left: Beta
+              right: How much an asset tends to move with the market.
+            - left: VaR
+              right: Estimates loss threshold under normal conditions.
+            - left: Standard Deviation
+              right: Measures volatility of returns.
+        answer: Beta - How much an asset tends to move with the market., VaR - Estimates loss threshold under normal conditions., Standard Deviation - Measures volatility of returns.
+      - type: case_study_mcq
+        scenario: Maria is choosing between two funds. Both have the same average return, but Fund A has much wider fluctuations in monthly returns than Fund B.
+        question: Which statement best describes the risk difference between the two funds?
+        options: [A. Fund A is less risky because it has higher returns. , B. Fund A is riskier because of its wider fluctuations. , C. Fund B is riskier because it has lower returns. , D. Both funds have the same risk level.]
+        answer: B
+      - type: true_false
+        question: A higher Sharpe ratio generally means an investment is more efficient.
+        answer: true
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: A high R-squared value suggests the benchmark explains most of the fund's movement, making its ___ and beta more interpretable.
+        options: [A, Alpha, B, Beta, C, Risk, D, Exposure]
+        answer: A
+      - type: drag_drop
+        question: Match the term with its definition.
+        drag_drop:
+          prompt: Drag the terms to their correct definitions.
+          pairs:
+            - left: Alpha
+              right: Excess return relative to a benchmark.
+            - left: Beta
+              right: Sensitivity to benchmark movements.
+            - left: R-squared
+              right: How closely performance tracks the benchmark.
+        answer: Alpha - Excess return relative to a benchmark. Beta - Sensitivity to benchmark movements. R-squared - How closely performance tracks the benchmark.
+      - type: case_study_mcq
+        scenario: A fund manager claims to have consistently generated alpha. However, the fund's R-squared is only 30%. What should an investor consider?
+        question: What is the most important consideration given the low R-squared?
+        options: [A, The fund's beta is certainly low, indicating minimal market exposure., B, The reported alpha may be misleading and unreliable., C, The fund is guaranteed to outperform the benchmark in the future., D, The fund is a high-risk investment and should be avoided.]
+        answer: B
+      - type: true_false
+        question: A low R-squared value generally increases the reliability of alpha and beta.
+        answer: false
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: The Sharpe ratio, while useful, can be misleading when returns exhibit significant ___ , potentially overstating risk-adjusted performance.
+        options: [A. symmetry, B. liquidity, C. skewness, D. efficiency]
+        answer: C
+      - type: drag_drop
+        question: Match the risk metric to its primary limitation.
+        drag_drop:
+          prompt: Drag the metric to its corresponding limitation.
+          pairs:
+            - left: Sharpe Ratio
+              right: Distorted by non-normal returns
+            - left: Value at Risk (VaR)
+              right: Underestimates risk during crises
+            - left: Standard Deviation
+              right: Doesn't capture skewness or tail risk
+        answer: Sharpe Ratio - Distorted by non-normal returns, Value at Risk (VaR) - Underestimates risk during crises, Standard Deviation - Doesn’t capture skewness or tail risk
+      - type: case_study_mcq
+        scenario: An investment manager observes a period of sustained low volatility followed by a sudden market downturn with unusually large losses. Their VaR model, calibrated to historical data, significantly underestimated the actual losses incurred.
+        question: What is the most likely explanation for the VaR model's failure in this scenario?
+        options: [A. The model accurately reflected the underlying risk, but market conditions were exceptionally favorable. B. The model assumed "normal conditions" which were violated by the structural break and fat-tail event. C. The manager incorrectly implemented the VaR calculation. D. The manager’s risk tolerance was too low.]
+        answer: B
+      - type: true_false
+        question: Relying solely on a single risk metric, such as Value at Risk (VaR), is generally sufficient for robust portfolio risk management.
+        answer: false
+    ```

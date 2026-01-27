@@ -1,0 +1,85 @@
+by_level:
+  beginner: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Order book ___ shows liquidity at different price levels, not just the best bid or ask.
+        options: [A, Depth, B, Volume, C, Price, D, Time]
+        answer: A
+      - type: drag_drop
+        question: Match the terms with their definitions.
+        drag_drop:
+          prompt: Drag the terms to their correct definitions.
+          pairs:
+            - left: Liquidity
+              right: The ease with which an asset can be bought or sold without affecting the price.
+            - left: Slippage
+              right: The difference between the expected price of a trade and the actual price.
+            - left: Volatility
+              right: The degree of price fluctuation over a given period.
+        answer: Liquidity - The ease with which an asset can be bought or sold without affecting the price. Slippage - The difference between the expected price of a trade and the actual price. Volatility - The degree of price fluctuation over a given period.
+      - type: case_study_mcq
+        scenario: A stock has very few orders at prices slightly above and below the current market price. A small buy order is placed. What is the most likely consequence?
+        question: What is the most likely consequence of this small buy order?
+        options: [A, A large price increase, B, A stable price, C, A small price decrease, D, A new support level]
+        answer: A
+      - type: true_false
+        question: A thick order book generally indicates lower execution risk.
+        answer: true
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Analyzing order flow helps traders understand short-term ____ pressure and make informed decisions.
+        options: [A. liquidity, B. volatility, C. buying/selling, D. depth]
+        answer: C
+      - type: drag_drop
+        question: Match the following terms with their descriptions.
+        drag_drop:
+          prompt: Drag the term to its definition.
+          pairs:
+            - left: Bid Cluster
+              right: A group of buy orders at a specific price.
+            - left: Stop-Loss Slippage
+              right: When a stop-loss order is filled at a much worse price than expected.
+            - left: Market Makers
+              right: Entities that provide liquidity by quoting both bid and ask prices.
+        answer: Bid Cluster - A group of buy orders at a specific price, Stop-Loss Slippage - When a stop-loss order is filled at a much worse price than expected, Market Makers - Entities that provide liquidity by quoting both bid and ask prices.
+      - type: case_study_mcq
+        scenario: A surprising earnings report is released mid-morning, causing significant volatility and rapid price movement. Traders notice that the order book depth suddenly decreases, and spreads widen considerably.
+        question: What is the most likely explanation for the sudden decrease in depth and widening spreads?
+        options: [A. Increased buying pressure, B. Liquidity withdrawal due to uncertainty, C. A shift in the overall market trend, D. A decrease in trading volume]
+        answer: B
+      - type: true_false
+        question: Analyzing depth in isolation, without considering other factors like trend and volatility, is a reliable trading strategy.
+        answer: false
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Scalping strategies are particularly vulnerable when liquidity thins and spreads _____.
+        options: [A. narrow significantly, B. remain constant, C. widen considerably, D. decrease slightly]
+        answer: C
+      - type: drag_drop
+        question: Match the trading strategy with its primary vulnerability.
+        drag_drop:
+          prompt: Drag the strategy to its corresponding vulnerability.
+          pairs:
+            - left: Scalping
+              right: Liquidity withdrawal
+            - left: Momentum Trading
+              right: News-driven moves
+            - left: Reversal Strategies
+              right: Thin spreads
+        answer: Scalping - Thin spreads, Momentum Trading - Liquidity withdrawal, Reversal Strategies - News-driven moves
+      - type: case_study_mcq
+        scenario: A trader attempts to fade a rally into a large ask wall, anticipating a reversal, but the wall is quickly pulled and the price continues its upward trajectory.
+        question: What best explains the trader's failure?
+        options: [A. The trader employed an inappropriate risk management technique, B. Resting orders are not guaranteed to hold, C. The market exhibited unusually high volatility, D. The trader's trading platform malfunctioned]
+        answer: B
+      - type: true_false
+        question: Risk management should not account for worst-case execution (slippage) when the order book is thin.
+        answer: false
+    ```

@@ -1,0 +1,125 @@
+title: Introduction to Stocks and Share Ownership
+summary: >
+  This lesson expands on stock ownership by explaining how shares define economic rights, control, and valuation.
+  It links share issuance, ownership structure, and market capitalization to investor returns, while introducing
+  practical concepts such as fractional shares and buybacks.
+
+beginner:
+  title: "Beginner: Shares are the unit of ownership"
+  summary: >
+    Learn what a “share” actually is, what rights it represents, and why buying shares means taking on business risk.
+    You’ll understand that shares determine your slice of the company, and not all shares have the same rights.
+  key_points:
+    - Shares are standardized units of ownership that represent an equity stake in a company.
+    - Your shares determine your proportional economic rights (profits) and sometimes voting rights (control).
+    - Shares are non-reimbursable: if the business performs badly, you are not guaranteed repayment.
+    - Share classes exist: common and preferred can offer different rights and priorities.
+    - Fractional shares let investors buy smaller portions, making expensive stocks more accessible.
+  subtopics:
+    - Shares vs “the company”: ownership slice concept
+    - Economic rights (profits) vs control rights (voting)
+    - Risk: why equity value can go down without repayment
+    - Common vs preferred at a high level
+    - Fractional shares: how you can own “0.1” of a share
+  examples:
+    - Fractional share example: >
+        An investor with limited capital buys 0.1 shares of a $1,000 stock, gaining proportional exposure.
+    - "Simple ownership example: If you own 100 shares out of 10,000 outstanding shares, you own 1% of the company’s equity."
+  common_mistakes:
+    - Assuming all shareholders have equal rights regardless of share class.
+    - Expecting guaranteed repayment of invested capital.
+    - Treating “share price” as the same thing as “company value.”
+  questions_to_think:
+    - If you own shares, what are you actually entitled to (economically and in control)?
+    - Why is equity risk different from lending money to a company?
+
+intermediate:
+  title: "Intermediate: Issuance, authorized vs outstanding, and market capitalization"
+  summary: >
+    Learn how companies define and issue shares, how ownership structure is measured, and how valuation connects to
+    share count through market capitalization. You’ll also understand public vs private share distribution at a high level.
+  key_points:
+    - Companies define authorized shares (legal maximum) and decide how many to issue.
+    - Outstanding shares represent current ownership and drive ownership percentages.
+    - Market capitalization equals share price multiplied by outstanding shares.
+    - Issuing more shares changes ownership distribution and can dilute existing shareholders.
+    - Public shares trade on regulated markets; private shares often come from options or private placements.
+  subtopics:
+    - Authorized shares vs issued shares vs outstanding shares
+    - How issuance changes ownership and dilution (conceptual)
+    - Market cap vs share price: why both matter
+    - Public vs private shares (high-level differences)
+    - Board control over issuance (why it matters)
+  examples:
+    - Share issuance example: >
+        A company authorizes 10 million shares and issues 8 million, establishing ownership distribution and valuation.
+    - "Market cap example: If a stock trades at $50 and has 100 million outstanding shares, the market cap is $5 billion."
+  common_mistakes:
+    - Treating shares and stocks as identical concepts without understanding structural differences.
+    - Thinking a higher share price automatically means a “bigger” company (ignoring share count).
+    - Ignoring dilution risk when companies issue new shares.
+  questions_to_think:
+    - How do outstanding shares influence a company’s valuation?
+    - Why can two companies with the same share price have very different market caps?
+
+advanced:
+  title: "Advanced: Buybacks, treasury shares, and per-share value"
+  summary: >
+    Learn how buybacks change share count and per-share metrics, and why investors track per-share measures like earnings per share.
+    You’ll connect buybacks to incentives, valuation, and long-term shareholder outcomes.
+  key_points:
+    - Buybacks reduce outstanding shares, increasing each remaining share’s ownership slice (all else equal).
+    - Companies repurchase shares for reasons like returning capital, offsetting dilution, or signaling confidence.
+    - Shares repurchased are typically held as treasury shares or retired (treatment varies).
+    - Buybacks can increase earnings per share (EPS) mechanically even if total earnings don’t change.
+    - Buybacks are not automatically good: using too much cash or buying back at expensive valuations can hurt long-term value.
+    - Understanding share count changes helps investors interpret returns beyond price charts.
+  subtopics:
+    - Buybacks vs dividends: two ways to return capital
+    - Treasury shares (high-level): repurchased shares held by the company
+    - EPS mechanics (conceptual): why fewer shares can raise EPS
+    - Incentives and trade-offs: when buybacks help vs hurt
+    - Linking back to valuation: per-share value vs total company value
+  examples:
+    - Buyback example: >
+        A company repurchases shares, reducing outstanding shares and increasing earnings per share for remaining investors.
+    - "EPS mechanics example: A company earns $100M with 100M shares (EPS=$1). If it buys back to 80M shares with the same earnings, EPS becomes $1.25—even without business growth."
+  common_mistakes:
+    - Assuming buybacks always create value (price paid and opportunity cost matter).
+    - Confusing EPS growth from buybacks with true business growth.
+    - Ignoring that buybacks can be used to offset dilution from stock-based compensation.
+  questions_to_think:
+    - Why might a company repurchase its own shares?
+    - How can buybacks raise EPS without improving the business?
+    - When could buybacks be a bad use of capital?
+
+definitions:
+  - term: Shares
+    definition: Units of ownership in a company that represent equity stakes.
+  - term: Common Shares
+    definition: Shares that provide voting rights and residual profit claims.
+  - term: Preferred Shares
+    definition: Shares with fixed distribution rules and priority over common shares.
+  - term: Authorized Shares
+    definition: The maximum number of shares a company is legally allowed to issue.
+  - term: Outstanding Shares
+    definition: Shares currently held by investors, excluding treasury shares.
+  - term: Market Capitalization
+    definition: The total market value of a company calculated as share price multiplied by outstanding shares.
+  - term: Fractional Shares
+    definition: Portions of a share that allow partial ownership based on investment amount.
+  - term: Dilution
+    definition: A decrease in existing shareholders’ ownership percentage caused by issuing additional shares.
+
+common_mistakes:
+  - Treating shares and stocks as identical concepts without understanding structural differences.
+  - Assuming all shareholders have equal rights regardless of share class.
+  - Expecting guaranteed repayment of invested capital.
+  - Assuming buybacks always benefit shareholders regardless of price paid.
+
+questions_to_think:
+  - How do outstanding shares influence a company’s valuation?
+  - Why might a company repurchase its own shares?
+  - How do fractional shares change market participation?
+
+source: https://www.investopedia.com/terms/s/shares.asp

@@ -1,0 +1,87 @@
+by_level:
+  beginner: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Dividend yield is calculated by dividing annual dividends per share by the current ___ price.
+        options: [A, share, B, stock, C, company, D, market]
+        answer: A
+      - type: drag_drop
+        question: Match the term with its definition.
+        drag_drop:
+          prompt: Drag the term to its correct definition.
+          pairs:
+            - left: Dividend yield
+              right: Annual dividends per share divided by the current share price.
+            - left: Annual dividends per share
+              right: The total amount of money a company pays out in dividends each year for each share.
+            - left: Current share price
+              right: The price at which a stock is currently trading.
+        answer: Dividend yield - Annual dividends per share divided by the current share price., Annual dividends per share - The total amount of money a company pays out in dividends each year for each share., Current share price - The price at which a stock is currently trading.
+      - type: case_study_mcq
+        scenario: A company pays $2 per share annually and trades at $40 per share. Later, the stock price falls to $20 per share, but the dividend remains at $2 per share. What happens to the dividend yield?
+        question: What is the new dividend yield?
+        options: [A, 2%, B, 4%, C, 5%, D, 10%]
+        answer: D
+      - type: true_false
+        question: Dividend yield includes both dividend income and price gains or losses.
+        answer: false
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: A high dividend ___ can signal strong income for investors, but also possible financial concerns.
+        options: [A, B, C, D]
+        answer: A
+        options: [A. yield, B. ratio, C. return, D. growth]
+      - type: drag_drop
+        question: Match the term with its description.
+        drag_drop:
+          prompt: Drag the terms to the correct descriptions.
+          pairs:
+            - left: Dividend Yield
+              right: The annual dividend payment divided by the stock price.
+            - left: Payout Ratio
+              right: The percentage of earnings paid out as dividends.
+            - left: Earnings Sustainability
+              right: The ability of a company to maintain its earnings over time.
+        answer: Dividend Yield - The annual dividend payment divided by the stock price. Payout Ratio - The percentage of earnings paid out as dividends. Earnings Sustainability - The ability of a company to maintain its earnings over time.
+      - type: case_study_mcq
+        scenario: A utility company offers a 6% dividend yield, while a fast-growing technology firm offers a 1% yield. An investor focused on current income might be drawn to the utility company. However, the technology firm is consistently increasing its earnings. Which statement is most accurate?
+        question: Considering the differing business models, what should the investor primarily consider?
+        options: [A, B, C, D]
+        answer: A
+        options: [A. The long-term sustainability of each company's earnings, not just the current yield, is crucial., B. The utility company is inherently a better investment due to its higher yield., C. The technology firm's low yield indicates a lack of commitment to shareholder returns., D. The investor should only consider the dividend yield, as it directly impacts income.]
+      - type: true_false
+        question: Comparing dividend yields across different sectors without considering industry norms is a reliable investment strategy.
+        answer: false
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: A rising interest rate environment can put pressure on high-dividend stocks as investors compare their yields to the yields on ___ alternatives.
+        options: [A. growth stocks, B. corporate bonds, C. real estate, D. commodities]
+        answer: B
+      - type: drag_drop
+        question: Match the concept to its description.
+        drag_drop:
+          prompt: Drag the term to its definition.
+          pairs:
+            - left: Dividend yield
+              right: The annual dividend payment divided by the stock's price.
+            - left: Rate sensitivity
+              right: The degree to which an asset's price changes in response to interest rate movements.
+            - left: Cash flow durability
+              right: The consistency and reliability of a company's cash flows over time.
+        answer: Dividend yield - The annual dividend payment divided by the stock's price., Rate sensitivity - The degree to which an asset's price changes in response to interest rate movements., Cash flow durability - The consistency and reliability of a company's cash flows over time.
+      - type: case_study_mcq
+        scenario: A utility company, known for its high dividend yield, experiences a significant increase in Treasury yields. Investors begin to reassess the attractiveness of its dividend relative to safer bond investments.
+        question: What is the MOST likely short-term impact on the utility company's stock price?
+        options: [A. The stock price will likely increase due to increased demand for dividend-paying stocks., B. The stock price will likely remain stable as the dividend yield is already very high., C. The stock price will likely decrease as investors seek higher yields elsewhere., D. The stock price will likely increase due to the company’s strong balance sheet.]
+        answer: C
+      - type: true_false
+        question: A high dividend yield always indicates that a stock is undervalued and presents a compelling investment opportunity.
+        answer: false
+    ```

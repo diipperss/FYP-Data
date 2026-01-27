@@ -1,0 +1,123 @@
+title: Dividend Yield: What It Is and How to Calculate It
+summary: >
+  Dividend yield measures the income an investor receives from dividends relative to a stock’s market price.
+  It is a key metric for income-focused investors and provides insight into a company’s dividend policy, stability,
+  and valuation. This lesson explains how dividend yield is calculated, what influences it, and how to interpret it
+  alongside other financial ratios.
+
+beginner:
+  title: "Beginner: Dividend yield = dividend income ÷ price"
+  summary: >
+    Learn what dividend yield means and how to calculate it. You’ll understand that dividend yield measures only dividend income
+    (not total return) and that it can change just because the stock price changes.
+  key_points:
+    - Dividend yield shows the cash income return from dividends alone.
+    - It is calculated as annual dividends per share divided by the current share price.
+    - Dividend yield changes as the stock price fluctuates, even if dividends remain constant.
+    - Dividend yield is not total return: price gains/losses matter too.
+    - Dividend yield is most useful for comparing income potential across stocks or funds.
+  subtopics:
+    - Dividend yield formula (simple)
+    - Annual dividend per share: where it comes from
+    - Why yield moves when price moves
+    - Dividend yield vs total return (income + price change)
+  examples:
+    - Basic calculation example: >
+        A company pays $2 per share annually and trades at $40 per share.
+        The dividend yield is 5%, providing a clear measure of income return.
+    - Price movement example: >
+        A stock’s price falls from $50 to $40 while the dividend remains $2.
+        The yield rises from 4% to 5%, which may reflect higher risk rather than improved fundamentals.
+  common_mistakes:
+    - Confusing dividend yield with total return.
+    - Using outdated dividend figures in calculations.
+    - Assuming a higher yield automatically means a better investment.
+  questions_to_think:
+    - If a stock’s price drops but the dividend stays the same, what happens to dividend yield?
+    - Why might a high yield look attractive but still be risky?
+
+intermediate:
+  title: "Intermediate: Interpreting yield—stability, payout ratio, and sector differences"
+  summary: >
+    Learn what dividend yield can signal about a company and why you must check sustainability.
+    You’ll connect yield to payout ratios, earnings quality, and why some sectors naturally have higher yields.
+  key_points:
+    - Stable and growing dividends often indicate mature, financially healthy companies.
+    - A high dividend yield can signal strong income or potential financial stress.
+    - Dividend yield should be analyzed together with payout ratio and earnings sustainability.
+    - Sector norms matter: some industries reinvest cash (lower yield) while others distribute more (higher yield).
+    - Dividend policies vary; comparing yields without context can be misleading.
+  subtopics:
+    - Dividend stability vs dividend traps (conceptual)
+    - Payout ratio: how much of earnings is paid out
+    - Earnings and cash flow coverage (high-level)
+    - Sector yield patterns: REITs/utilities vs tech
+    - Dividend growth vs high yield (trade-off)
+  examples:
+    - Sector example: >
+        REITs and utilities often show higher dividend yields than technology firms.
+        These sectors may appeal more to income-focused investors than growth-oriented ones.
+    - "Payout ratio warning example: A company has a 10% yield but is paying out nearly all earnings (or more). If profits fall, the dividend may be cut."
+  common_mistakes:
+    - Assuming the highest dividend yield always represents the best investment.
+    - Ignoring dividend sustainability and cash flow coverage.
+    - Comparing yields across sectors without considering business models.
+  questions_to_think:
+    - Why can a rising dividend yield sometimes be a warning sign?
+    - Why should investors consider payout ratios alongside dividend yield?
+
+advanced:
+  title: "Advanced: Yield, valuation, and interest rates (why dividend stocks react to macro)"
+  summary: >
+    Learn how dividend yield interacts with valuation and interest rates, and why dividend-focused assets can behave
+    differently across market cycles. You’ll understand “rate sensitivity” and how to evaluate income alongside risk.
+  key_points:
+    - Dividend yield moves inversely with price, linking yield to valuation changes.
+    - Dividend-paying stocks can be sensitive to interest rates because investors compare yields to bond yields.
+    - When rates rise, high-dividend stocks may face pressure as safer yields become more competitive (conceptual).
+    - High yield can reflect higher perceived risk (dividend cut risk), not just “cheapness.”
+    - Total return framing matters: dividend income + price performance + reinvestment effects.
+    - Investors should evaluate dividend policy, balance sheet strength, and cash flow durability alongside yield.
+  subtopics:
+    - Yield as a valuation signal (price-driven yield changes)
+    - Interest rate sensitivity: why income assets can reprice
+    - Dividend cut risk and market expectations
+    - Total return and reinvestment: compounding dividends (conceptual)
+    - Comparing dividend strategies: high yield vs dividend growth (conceptual)
+  examples:
+    - "Rate shift example: If treasury yields rise sharply, investors may demand higher yields from dividend stocks too, which can push stock prices down until yields look competitive."
+    - "Total return example: Two stocks both yield 4%, but one grows earnings and dividends while the other is shrinking. The long-term outcome can be very different even with the same starting yield."
+  common_mistakes:
+    - Treating dividend yield as a standalone “value” metric without checking fundamentals.
+    - Ignoring rate regimes and assuming dividend stocks always behave defensively.
+    - Chasing yield and getting hit by dividend cuts.
+  questions_to_think:
+    - How does dividend yield complement capital gains in total return?
+    - How do interest rate changes affect dividend-paying stocks?
+    - If a stock’s yield spikes suddenly, what fundamental questions should you ask first?
+
+definitions:
+  - term: Dividend Yield
+    definition: A financial ratio showing annual dividend income relative to a stock’s current price.
+  - term: Dividend Payout Ratio
+    definition: The proportion of earnings paid out as dividends.
+  - term: REIT
+    definition: A Real Estate Investment Trust required to distribute most of its taxable income as dividends.
+  - term: MLP
+    definition: A Master Limited Partnership that distributes the majority of its cash flow to investors.
+  - term: BDC
+    definition: A Business Development Company that provides financing to small and mid-sized firms and typically pays high dividends.
+
+common_mistakes:
+  - Assuming the highest dividend yield always represents the best investment.
+  - Ignoring dividend sustainability and cash flow coverage.
+  - Confusing dividend yield with total return.
+  - Using outdated dividend figures in calculations.
+
+questions_to_think:
+  - Why can a rising dividend yield sometimes be a warning sign?
+  - How does dividend yield complement capital gains in total return?
+  - Why should investors consider payout ratios alongside dividend yield?
+  - How do interest rate changes affect dividend-paying stocks?
+
+source: https://www.investopedia.com/terms/d/dividendyield.asp

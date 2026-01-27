@@ -1,0 +1,87 @@
+by_level:
+  beginner: |-
+    - Reverse split intuition: If you own 100 shares and the company does a 1-for-5 reverse split, you own 20 shares at about five times the price each—your total value is roughly unchanged (ignoring market moves).
+    
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Corporate actions directly affect ____, which are the owners of a company.
+        options: [A. employees, B. customers, C. shareholders, D. managers]
+        answer: C
+      - type: drag_drop
+        question: Match the corporate action to its description.
+        drag_drop:
+          prompt: Drag the action to the correct description.
+          pairs:
+            - left: Dividend
+              right: A payment made to shareholders from company profits.
+            - left: Stock Split
+              right: An increase in the number of shares, typically lowering the price per share.
+            - left: Reverse Split
+              right: A decrease in the number of shares, typically increasing the price per share.
+        answer: Dividend: A payment made to shareholders from company profits., Stock Split: An increase in the number of shares, typically lowering the price per share., Reverse Split: A decrease in the number of shares, typically increasing the price per share.
+      - type: case_study_mcq
+        scenario: Maria owns 100 shares of Company X. Company X announces a 2-for-1 stock split. What will Maria own after the split?
+        question: How many shares will Maria own after the stock split?
+        options: [A. 50 shares, B. 100 shares, C. 200 shares, D. 300 shares]
+        answer: C
+      - type: true_false
+        question: A stock split automatically makes an investor richer.
+        answer: false
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: A ___ split increases the number of outstanding shares while decreasing the price per share.
+        options: [A. reverse, B. dividend, C. forward, D. spin-off]
+        answer: C
+      - type: drag_drop
+        question: Match the corporate action with its primary effect on shareholders.
+        drag_drop:
+          prompt: Drag the action to its effect.
+          pairs:
+            - left: Dividend
+              right: Cash distribution
+            - left: Reverse Split
+              right: Higher share price
+            - left: Spin-off
+              right: New company ownership
+        answer: Dividend - Cash distribution, Reverse Split - Higher share price, Spin-off - New company ownership
+      - type: case_study_mcq
+        scenario: "An investor owns 100 shares of a company trading at $50 per share. The company announces a voluntary forward 2-for-1 stock split. If the investor does nothing, what will happen?"
+        question: "What will the investor's share count and price be after the split?"
+        options: [A. 50 shares at $50 per share, B. 100 shares at $25 per share, C. 200 shares at $25 per share, D. 200 shares at $50 per share]
+        answer: C
+      - type: true_false
+        question: "Missing the deadline to elect an option in a voluntary corporate action will always result in the most beneficial outcome for the investor."
+        answer: false
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: A reverse stock ___ can be a sign of financial distress, but should be evaluated within the broader context of the company's performance and industry trends.
+        options: [A. diversification, B. split, C. consolidation, D. acquisition]
+        answer: C
+      - type: drag_drop
+        question: Match the corporate action with its primary potential effect.
+        drag_drop:
+          prompt: Drag the action to its effect.
+          pairs:
+            - left: Spin-off
+              right: Unlock embedded value
+            - left: Stock Buyback
+              right: Reduce share count
+            - left: Dividend Increase
+              right: Signal financial health
+        answer: Spin-off -> Unlock embedded value, Stock Buyback -> Reduce share count, Dividend Increase -> Signal financial health
+      - type: case_study_mcq
+        scenario: "Acme Corp, a mature software company, recently announced a large stock buyback program. The company's stock price increased modestly, but analysts remain skeptical given Acme’s slowing revenue growth and increasing competition."
+        question: "Which of the following is the MOST likely interpretation of Acme's buyback, given the circumstances?"
+        options: [A. Management believes the stock is significantly undervalued and expects a substantial turnaround., B. Management is attempting to boost short-term earnings per share without addressing underlying growth challenges., C. Acme is strategically returning excess cash to shareholders while preparing for a major acquisition., D. The buyback is a regulatory requirement to maintain a certain stock price."]
+        answer: B
+      - type: true_false
+        question: "An investor's optimal dividend strategy should solely depend on their current tax bracket, irrespective of their broader investment goals and time horizon."
+        answer: false
+    ```

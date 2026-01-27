@@ -1,0 +1,87 @@
+by_level:
+  beginner: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Stock prices move because of supply and ____, which can be affected by news.
+        options: [A. profit, B. demand, C. revenue, D. cash]
+        answer: B
+      - type: drag_drop
+        question: Match the term to its definition.
+        drag_drop:
+          prompt: Drag the words to their correct match.
+          pairs:
+            - left: Fundamentals
+              right: Earnings, revenue, and cash flows.
+            - left: Demand
+              right: The desire to buy something.
+            - left: Sentiment
+              right: Investor mood and feelings.
+        answer: Fundamentals - Earnings, revenue, and cash flows., Demand - The desire to buy something., Sentiment - Investor mood and feelings.
+      - type: case_study_mcq
+        scenario: A company announces it is working on a new, innovative product that will launch in six months. The stock price increases today. What is the MOST likely reason?
+        question: Why did the stock price increase today?
+        options: [A. The company made more money today. B. Investors expect future profits. C. The company's revenue increased. D. The company paid out more dividends.]
+        answer: B
+      - type: true_false
+        question: Short-term stock prices always reflect the true value of a company.
+        answer: false
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Although a company may report strong earnings, its stock price can decline if it fails to meet ____ expectations.
+        options: [A, B, C, D]
+        answer: A
+        options: [A. market, B. management, C. analyst, D. employee]
+      - type: drag_drop
+        question: Match the key point with its explanation.
+        drag_drop:
+          prompt: Drag the description to the corresponding key point.
+          pairs:
+            - left: Investor expectations
+            - right: Drive short-term price movements
+            - left: Valuation multiples
+            - right: Reflect optimism about future growth
+            - left: Sector sentiment
+            - right: Can drag down individual stocks
+        answer: Investor expectations drive short-term price movements, valuation multiples reflect optimism about future growth, sector sentiment can drag down individual stocks
+      - type: case_study_mcq
+        scenario: "A technology company releases its quarterly report, showing a 15% increase in revenue and a 10% increase in profit, both exceeding the previous quarter's results. However, the stock price falls by 5% immediately after the announcement."
+        question: "What is the most likely explanation for this seemingly contradictory reaction?"
+        options: [A, B, C, D]
+        answer: A
+        options: [A. The market had expected an even higher revenue and profit increase., B. The company's CEO announced his retirement., C. A competitor released a superior product., D. The company is facing a class-action lawsuit.]
+      - type: true_false
+        question: "Guidance and outlook for future performance are generally less important than last quarter’s earnings results."
+        answer: false
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Despite fundamental valuation, ___ trading volume can create short-term deviations from intrinsic value.
+        options: [A. minimal, B. sustained high, C. erratic, D. consistent low]
+        answer: B
+      - type: drag_drop
+        question: Match the following terms to their descriptions.
+        drag_drop:
+          prompt: Drag the term to its corresponding definition.
+          pairs:
+            - left: Bid-Ask Spread
+              right: The difference between the highest price a buyer is willing to pay and the lowest price a seller is willing to accept.
+            - left: Liquidity
+              right: The ease with which an asset can be bought or sold without significantly affecting its price.
+            - left: Market Depth
+              right: The volume of buy and sell orders at different price levels.
+        answer: Bid-Ask Spread: The difference between the highest price a buyer is willing to pay and the lowest price a seller is willing to accept. Liquidity: The ease with which an asset can be bought or sold without significantly affecting its price. Market Depth: The volume of buy and sell orders at different price levels.
+      - type: case_study_mcq
+        scenario: A small-cap biotechnology company announces promising early-stage clinical trial results. The stock, previously trading at $5, jumps to $8 on heavy volume, but analysts estimate its intrinsic value remains closer to $6 based on long-term projections.
+        question: What is the most likely explanation for this short-term price deviation?
+        options: [A. The clinical trial results fundamentally changed the company's long-term prospects., B. Increased liquidity due to the news allowed for a more accurate price discovery., C. Investor sentiment and trading volume temporarily pushed the price above its intrinsic value., D. The analysts' valuation model is flawed and the intrinsic value is actually $8.]
+        answer: C
+      - type: true_false
+        question: Technical analysis, focusing on price patterns and volume, aims to predict future price movements based on fundamental factors.
+        answer: false
+    ```

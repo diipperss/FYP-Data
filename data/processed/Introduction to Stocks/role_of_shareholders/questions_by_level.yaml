@@ -1,0 +1,85 @@
+by_level:
+  beginner: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Shareholders can potentially gain money from dividends and ___ of the stock price.
+        options: [A. loss, B. appreciation, C. decrease, D. sale]
+        answer: B
+      - type: drag_drop
+        question: Match the term to its definition.
+        drag_drop:
+          prompt: Drag the words to the correct definitions.
+          pairs:
+            - left: Limited Liability
+              right: Protects shareholders from personal responsibility for company debts.
+            - left: Dividends
+              right: Payments made to shareholders from company profits.
+            - left: Stakeholders
+              right: People who have an interest in a company, but may not own shares.
+        answer: Limited Liability - Protects shareholders from personal responsibility for company debts., Dividends - Payments made to shareholders from company profits., Stakeholders - People who have an interest in a company, but may not own shares.
+      - type: case_study_mcq
+        scenario: Maria bought shares in a company. The company had a bad year and lost a lot of money. Maria is worried she will have to pay the company’s debts.
+        question: According to what you've learned, is Maria likely to have to pay the company’s debts?
+        options: [A. Yes, because she is a shareholder, she is responsible. , B. No, because she has limited liability. , C. Yes, because the company lost money. , D. No, because she bought shares.]
+        answer: B
+      - type: true_false
+        question: Shareholders and stakeholders are always the same people.
+        answer: false
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: In liquidation, ___ shareholders typically receive assets after creditors are paid.
+        options: [A, Common, B, Preferred, C, Bondholders, D, Directors]
+        answer: A
+      - type: drag_drop
+        question: Match the shareholder type with their characteristics.
+        drag_drop:
+          prompt: Drag the shareholder type to its description.
+          pairs:
+            - left: Common Shareholders
+              right: Usually have voting rights and greater potential upside.
+            - left: Preferred Shareholders
+              right: Often receive dividends first and have higher liquidation priority.
+            - left: Bondholders
+              right: Receive repayment before shareholders in liquidation.
+        answer: Common Shareholders - Usually have voting rights and greater potential upside. Preferred Shareholders - Often receive dividends first and have higher liquidation priority. Bondholders - Receive repayment before shareholders in liquidation.
+      - type: case_study_mcq
+        scenario: A large institutional investor owns 25% of a company's shares, while many smaller investors collectively own the remaining 75%. A proposal to merge with another company is put to a shareholder vote.
+        question: Who is most likely to have the greatest influence on the outcome of the vote?
+        options: [A, The smaller investors combined, B, The CEO of the company, C, The institutional investor, D, The board of directors]
+        answer: C
+      - type: true_false
+        question: Preferred shareholders typically have more voting rights than common shareholders.
+        answer: false
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Although voting is a key mechanism, shareholder protections extend to legal remedies and access to ___ when significant corporate wrongdoing is suspected.
+        options: [A. quarterly reports, B. executive compensation, C. disclosures, D. board minutes]
+        answer: C
+      - type: drag_drop
+        question: Match the governance tool with its primary purpose.
+        drag_drop:
+          prompt: Drag the tool to its purpose.
+          pairs:
+            - left: Shareholder Activism
+              right: Influencing corporate strategy
+            - left: Proxy Voting
+              right: Exercising voting rights
+            - left: Class A Shares
+              right: Concentrating control
+        answer: Shareholder Activism - Influencing corporate strategy, Proxy Voting - Exercising voting rights, Class A Shares - Concentrating control
+      - type: case_study_mcq
+        scenario: A small, publicly traded technology company has a dual-class share structure where the founder holds Class B shares with 10 votes per share, while all other investors hold Class A shares with one vote per share. The founder’s economic ownership is only 30%, but they maintain 70% of the voting power. The board proposes a merger with a larger competitor at a price that many Class A shareholders believe is too low. What is the most likely outcome?
+        question: Given the share structure, what is the most probable result regarding the proposed merger?
+        options: [A. Class A shareholders will successfully block the merger. B. The founder will likely approve the merger, overriding Class A shareholder concerns. C. An independent board committee will renegotiate the merger terms. D. The SEC will intervene and prevent the merger.]
+        answer: B
+      - type: true_false
+        question: Responsible shareholder ownership necessitates a complete understanding of every detail within a company’s annual report, regardless of its relevance to investment decisions.
+        answer: false
+    ```

@@ -1,0 +1,140 @@
+title: Understanding Market, Limit, and Stop Orders
+summary: >
+  This lesson explains the core order types—market, limit, stop, and stop-limit—and how they shape execution outcomes, risk management, and price control. It connects each order type to investor intent, market conditions, and liquidity, helping users choose the right tool for speed, precision, or protection.
+
+beginner:
+  title: "Beginner: The 4 order types you must know"
+  summary: >
+    Learn what market, limit, stop, and stop-limit orders are in plain language, what each one is meant to do,
+    and the simplest rules for choosing between speed, price control, and protection.
+  key_points:
+    - Market orders execute immediately but the final price can be different from what you expected.
+    - Limit orders control your price, but you might not get filled at all.
+    - Stop orders are usually for protection (stop-loss): once triggered, they become market orders.
+    - Stop-limit orders add a price boundary after triggering, but can fail to execute in fast moves.
+    - Your intent matters: entering quickly, buying at a specific price, or limiting downside.
+    - Liquidity and volatility strongly affect whether you get the price you want.
+  subtopics:
+    - What “execution” means (filled vs not filled)
+    - Market order: “buy/sell now”
+    - Limit order: “buy/sell only at my price”
+    - Stop order: “activate when price hits X, then execute”
+    - Stop-limit order: “activate at X, then execute only within my limit”
+    - Basic “when to use what” rules for beginners
+  examples:
+    - "Simple entry example: You want to buy a highly liquid large-cap stock during normal hours. A market order is likely to fill quickly with small slippage."
+    - "Simple discipline example: You only want to buy if the price drops to $50. You place a buy limit at $50 and accept the chance it may never fill."
+  common_mistakes:
+    - Thinking a stop order guarantees your stop price (it does not; it triggers a market order).
+    - Using market orders in volatile moments and being shocked by the fill price.
+    - Setting a limit order and assuming it will definitely execute.
+  questions_to_think:
+    - If you care more about certainty of execution than price, which order type fits best?
+    - If you care more about price than speed, which order type fits best?
+    - What is the main purpose of a stop order for most long-term investors?
+
+intermediate:
+  title: "Intermediate: Execution outcomes, slippage, and time-in-force"
+  summary: >
+    Learn how market conditions change order behavior. You will connect volatility and liquidity to slippage and fill probability,
+    and learn how time-in-force settings (Day, GTC, etc.) can create unintended outcomes.
+  key_points:
+    - Market orders can suffer heavy slippage during volatility because price levels change quickly.
+    - Limit orders reduce price uncertainty but increase non-execution risk, especially in fast markets.
+    - Stop orders can trigger from short-term “noise” and then fill worse than expected due to slippage.
+    - Stop-limit orders trade execution certainty for price control; gaps can prevent fills entirely.
+    - Time-in-force determines how long your order stays active and can lead to surprise fills if ignored.
+    - Liquidity influences all order types: thin markets widen spreads and increase slippage and missed fills.
+  subtopics:
+    - Slippage: why “expected price” differs from executed price
+    - Volatility and price gaps: why stops and stop-limits behave differently
+    - Liquidity and spreads: how they affect market vs limit orders
+    - Time-in-force (TIF): Day, GTC, IOC/FOK (conceptual overview)
+    - Monitoring and order hygiene: avoiding “set and forget” mistakes
+  examples:
+    - Market order execution example: >
+        A trader submits a market order during a volatile earnings announcement, when prices are moving rapidly.
+        Highlights how market orders can execute far from expected prices during high volatility, increasing slippage.
+    - Limit order discipline example: >
+        An investor places a buy limit order below the current market price, waiting for a temporary pullback.
+        Demonstrates price discipline but also the risk of missing the trade entirely if the stock continues rising.
+    - Stop-loss protection example: >
+        A long-term investor sets a stop order below a key support level to limit downside risk.
+        Automates risk management but may trigger prematurely during short-term market noise.
+    - Stop-limit execution risk example: >
+        A stop-limit order triggers during a sudden sell-off but fails to execute because prices gap below the limit.
+        Shows how controlling slippage can come at the cost of execution certainty.
+    - Time-in-force oversight example: >
+        A good-til-canceled (GTC) limit order remains active for weeks without being monitored.
+        Illustrates how forgotten orders can execute unexpectedly as market conditions change.
+  common_mistakes:
+    - Using stop orders without planning for slippage in fast markets.
+    - Using stop-limit orders without realizing they can fail to execute during gaps.
+    - Leaving GTC orders unattended and forgetting they still exist.
+    - Placing limit orders in thin liquidity and misinterpreting non-fills as “bad luck.”
+  questions_to_think:
+    - When would you use a market order instead of a limit order?
+    - How can you adjust the risk of slippage when using stop orders?
+    - What factors should you consider when setting the stop price for a stop order?
+    - How does volatility change the effectiveness of stop and stop-limit orders?
+    - How should liquidity influence order type selection?
+
+advanced:
+  title: "Advanced: Order design for risk control and execution quality"
+  summary: >
+    Learn how to design orders that balance execution certainty, price control, and risk management.
+    You will connect stop placement to volatility, understand trigger mechanics, and evaluate execution quality
+    using realistic constraints like gaps, spreads, and thin order books.
+  key_points:
+    - Stops manage downside risk but are vulnerable to noise; better stop placement considers volatility and market regime.
+    - Stop triggers do not guarantee execution at the stop price; they guarantee activation, not the final fill.
+    - Stop-limits can protect against extreme slippage but can leave you unprotected if they fail to execute.
+    - Real execution is shaped by spreads, order book depth, and gaps—especially during news or market stress.
+    - Time-in-force interacts with strategy: keeping stale orders active can create unintended entries/exits.
+    - Execution quality can be compared to benchmarks like mid-price (conceptual) to quantify hidden costs.
+  subtopics:
+    - Trigger mechanics: trade-through vs last price vs bid/ask triggers (broker-dependent concept)
+    - Volatility-aware stop placement (conceptual: avoid placing stops where noise is common)
+    - Gap risk: why stops and stop-limits behave differently during discontinuous moves
+    - “Protection vs certainty” trade-off: which failure mode is worse for your strategy
+    - Execution quality check: comparing fills to mid-price and spread (conceptual)
+  examples:
+    - "Noise-trigger example: A stop-loss is placed just below an obvious recent low. Price briefly dips on low liquidity, triggers the stop, then rebounds—showing why naive stops can be hunted by normal volatility."
+    - "Protection trade-off example: In a fast crash, a stop order exits (bad fill but you’re out), while a stop-limit may not fill (great price control, but you might still be in the position)."
+  common_mistakes:
+    - Placing stops at obvious levels without accounting for volatility/noise.
+    - Using stop-limits for “guaranteed” protection (they are not guaranteed).
+    - Designing orders without considering spread and depth during stress events.
+  questions_to_think:
+    - If you must choose between a bad fill and no exit at all, which is riskier for your strategy?
+    - How would you adapt stop placement for a more volatile stock versus a stable large-cap?
+    - What checks could you use to decide whether a limit order is likely to fill in the current liquidity?
+
+definitions:
+  - term: Market Order
+    definition: An order to buy or sell a stock at the market's best available price, ensuring execution but not a specific price.
+  - term: Limit Order
+    definition: An order to buy or sell a stock with a restriction on the maximum price to be paid (for a buy) or the minimum price to be received (for a sell), ensuring better execution prices but not guaranteed execution.
+  - term: Stop Order
+    definition: An order to buy or sell a stock at the market price once the stock has traded at or through a specified price (the "stop price"), which then becomes a market order.
+  - term: Stop-Limit Order
+    definition: A stop order that turns into a limit order once triggered, with a specific limit price.
+  - term: Slippage
+    definition: The difference between the expected price of a trade and the price at which it is executed.
+  - term: Time in Force
+    definition: Instructions for how long an order remains active, such as day or good-til-canceled (GTC).
+
+common_mistakes:
+  - Confusing market orders with limit orders, leading to unexpected execution prices.
+  - Not considering liquidity and market volatility when placing limit orders, which can result in unfilled orders.
+  - Using stop orders without understanding the risk of slippage, which can lead to execution at prices significantly different from the stop price.
+  - Forgetting active GTC orders and being surprised by unexpected fills or exits.
+
+questions_to_think:
+  - When would you use a market order instead of a limit order?
+  - How can you adjust the risk of slippage when using stop orders?
+  - What factors should you consider when setting the stop price for a stop order?
+  - How does volatility change the effectiveness of stop and stop-limit orders?
+  - How should liquidity influence order type selection?
+
+source: https://www.schwab.com/learn/story/3-order-types-market-limit-and-stop-orders

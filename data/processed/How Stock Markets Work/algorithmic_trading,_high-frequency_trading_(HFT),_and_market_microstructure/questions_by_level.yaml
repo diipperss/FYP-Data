@@ -1,0 +1,85 @@
+by_level:
+  beginner: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: When you place a market order, you prioritize ___ over price.
+        options: [A. price, B. speed, C. liquidity, D. volume]
+        answer: B
+      - type: drag_drop
+        question: Match the order type with its priority.
+        drag_drop:
+          prompt: Drag the order type to its priority.
+          pairs:
+            - left: Market Order
+              right: Immediate Execution
+            - left: Limit Order
+              right: Price Control
+            - left: Stop Order
+              right: Trigger Price
+        answer: Market Order - Immediate Execution, Limit Order - Price Control, Stop Order - Trigger Price
+      - type: case_study_mcq
+        scenario: You want to buy 100 shares of XYZ stock. The current bid is $50.00 and the ask is $50.05. You place a market order. What will likely happen?
+        question: What is the most likely price you'll pay for the 100 shares?
+        options: [A. $50.00, B. $50.05, C. $50.10, D. It depends on the market's liquidity]
+        answer: B
+      - type: true_false
+        question: The bid-ask spread is a cost you pay when buying or selling a stock.
+        answer: true
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Understanding the ____ of the order book is crucial for mitigating slippage when placing large trades.
+        options: [A, Depth, B, Spread, C, Volume, D, Bid]
+        answer: A
+      - type: drag_drop
+        question: Match the term with its definition.
+        drag_drop:
+          prompt: Drag the term to its corresponding definition.
+          pairs:
+            - left: Slippage
+              right: The difference between the expected and actual execution price.
+            - left: Walking the Book
+              right: Filling a market order across multiple price levels in the order book.
+            - left: Liquidity
+              right: The ease with which an asset can be bought or sold without affecting its price.
+        answer: Slippage - The difference between the expected and actual execution price. Walking the Book - Filling a market order across multiple price levels in the order book. Liquidity - The ease with which an asset can be bought or sold without affecting its price.
+      - type: case_study_mcq
+        scenario: An investor wants to buy 1,000 shares of a stock trading at $50. The order book shows only 200 shares at $50, with larger blocks available at $50.05, $50.10, and $50.15. The investor submits a market order. What is the most likely outcome?
+        question: What is the most likely outcome of this market order?
+        options: [A, The entire order will execute instantly at $50. B, The entire order will execute at an average price close to $50. C, The order will execute across multiple price levels, resulting in a higher average price. D, The order will be partially filled at $50, and the rest will be canceled.]
+        answer: C
+      - type: true_false
+        question: Low-volume trading periods typically have tighter spreads and greater liquidity.
+        answer: false
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: The phenomenon where liquidity seemingly disappears during periods of market stress is often attributed to the withdrawal of ___ by high-frequency trading firms.
+        options: [A. arbitrageurs, B. market makers, C. HFT, D. institutional investors]
+        answer: C
+      - type: drag_drop
+        question: Match the concept with its description in the context of market microstructure.
+        drag_drop:
+          prompt: Drag the terms to their correct definitions.
+          pairs:
+            - left: Adverse Selection
+              right: The risk market makers face when trading with informed traders.
+            - left: Impact Cost
+              right: The price change resulting from an order's execution.
+            - left: Price-Time Priority
+              right: The principle that orders are filled based on price and the order's position in the queue.
+        answer: Adverse Selection - The risk market makers face when trading with informed traders. Impact Cost - The price change resulting from an order's execution. Price-Time Priority - The principle that orders are filled based on price and the order's position in the queue.
+      - type: case_study_mcq
+        scenario: A trader attempts to execute a large block order of a thinly traded stock across multiple exchanges. While the displayed best bid/ask prices appear similar across venues, the trader experiences significantly higher transaction costs than anticipated.
+        question: Which of the following factors MOST likely explains this discrepancy?
+        options: [A. The trader's adverse selection risk, B. The inherent inefficiency of limit orders, C. Fragmentation of the market and routing decisions, D. The superior execution capabilities of market makers.]
+        answer: C
+      - type: true_false
+        question: High-frequency trading consistently improves execution quality for all market participants, regardless of market conditions.
+        answer: false
+    ```

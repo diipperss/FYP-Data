@@ -1,0 +1,145 @@
+title: Risk Measures
+summary: >
+  Risk measures are quantitative tools used to evaluate the uncertainty, volatility, and potential downside of investments.
+  They help investors understand not just how much an asset can return, but how risky those returns are relative to benchmarks,
+  the broader market, and alternative investments. This lesson explains the most common risk measures—alpha, beta, R-squared,
+  standard deviation, Sharpe ratio, and Value at Risk (VaR)—and shows how they work together to support better portfolio
+  construction and risk management.
+
+beginner:
+  title: "Beginner: Risk isn’t just “can I lose money?”—it’s how returns behave"
+  summary: >
+    Learn why risk measures exist: returns can be high but unstable, or steady but lower. You’ll understand the big idea
+    behind each metric and what question it answers (volatility, market sensitivity, or downside loss).
+  key_points:
+    - Risk measures quantify different dimensions of investment risk, such as volatility, market sensitivity, and downside potential.
+    - They let investors compare investments on a risk-adjusted basis, not returns alone.
+    - Standard deviation is a common proxy for volatility: how widely returns swing around the average.
+    - Beta describes market sensitivity: how much an asset tends to move when the market moves.
+    - Sharpe ratio is a “return per unit of risk” concept (higher can be better, all else equal).
+    - VaR focuses on downside risk by estimating a loss threshold under normal conditions.
+    - No single measure is enough; use a set of metrics for a fuller picture.
+  subtopics:
+    - Risk vs return: why you can’t judge performance by return alone
+    - Volatility (standard deviation) in plain language
+    - Market sensitivity (beta) in plain language
+    - Risk-adjusted return (Sharpe) in plain language
+    - Downside estimates (VaR) in plain language
+  examples:
+    - Standard deviation example: >
+        Two funds have the same average return, but one shows much wider fluctuations in monthly returns.
+        The fund with higher standard deviation is riskier, even if long-term returns appear similar.
+    - Beta example: >
+        A stock with a beta of 1.4 tends to move 40% more than the overall market.
+        The stock may outperform strongly in rising markets but also experience larger losses during downturns.
+  common_mistakes:
+    - Evaluating investments based only on returns without considering risk measures.
+    - Assuming “higher return” always means “better” regardless of volatility and drawdowns.
+    - Thinking volatility is the only kind of risk (liquidity and extreme events exist too).
+  questions_to_think:
+    - Why is it important to consider both risk and return when comparing investments?
+    - How do beta and standard deviation measure different types of risk?
+
+intermediate:
+  title: "Intermediate: Alpha, beta, R-squared—skill vs exposure (and whether it’s meaningful)"
+  summary: >
+    Learn how alpha and beta relate to a benchmark, and why R-squared is the “quality check” that tells you whether those
+    numbers are actually meaningful. You’ll connect manager skill vs market exposure in a practical way.
+  key_points:
+    - Alpha measures excess return relative to a benchmark after accounting for market exposure.
+    - Beta measures sensitivity to benchmark/market movements (systematic risk).
+    - R-squared measures how closely performance tracks the benchmark, indicating how meaningful beta and alpha are.
+    - High R-squared suggests the benchmark explains most movement, making beta/alpha more interpretable.
+    - Low R-squared means the benchmark isn’t explaining much, so alpha/beta can be misleading.
+    - Risk measures help compare funds that look similar on returns but differ in “how” they earned them.
+  subtopics:
+    - Benchmark selection: why the benchmark must match the strategy
+    - Alpha: “did you add value beyond the market?”
+    - Beta: “how market-driven are your returns?”
+    - R-squared: “does this benchmark actually explain the returns?”
+    - Practical interpretation: passive-like vs truly active behavior
+  examples:
+    - Alpha example: >
+        A mutual fund earns 9% in a year while its benchmark index returns 7%, after adjusting for market exposure.
+        A positive alpha of 2% suggests the fund added value beyond market movements, potentially indicating skill or an effective strategy.
+    - R-squared example: >
+        A fund has an R-squared of 95 when compared to its benchmark index.
+        The fund closely tracks the benchmark, making its alpha and beta more meaningful and reliable.
+  common_mistakes:
+    - Interpreting beta without checking R-squared, which can make beta misleading.
+    - Treating alpha as permanent rather than potentially temporary or market-dependent.
+    - Using the wrong benchmark (creating “fake” alpha or meaningless beta).
+  questions_to_think:
+    - Why does a low R-squared limit the usefulness of alpha and beta?
+    - If a fund has high R-squared and beta near 1, what does that suggest about its behavior?
+
+advanced:
+  title: "Advanced: Sharpe, VaR, and what risk metrics miss (tail risk and regime changes)"
+  summary: >
+    Learn how risk-adjusted metrics and downside estimates are used in portfolio construction, and where they can fail.
+    You’ll understand why VaR can underestimate extreme events and why combining metrics is essential.
+  key_points:
+    - The Sharpe ratio combines return and risk to show excess return earned per unit of volatility.
+    - Sharpe can be distorted by non-normal returns, illiquidity, or strategies with “hidden” tail risk.
+    - Value at Risk (VaR) estimates a loss threshold at a confidence level, but assumes “normal conditions.”
+    - VaR can underestimate risk during crises, structural breaks, or fat-tail events.
+    - Standard deviation doesn’t capture the shape of losses (skewness) or extreme downside well.
+    - Portfolio construction improves when you interpret metrics together and stress-test assumptions.
+    - Investors should connect metrics to real decisions: position sizing, diversification, and risk limits.
+  subtopics:
+    - Sharpe ratio: what it rewards and what it ignores
+    - VaR: confidence levels, time horizons, and interpretation
+    - Tail risk and “fat tails” (conceptual): why extremes happen more than models expect
+    - Regime changes: why correlations and volatility can shift suddenly
+    - Using multiple metrics together for diversification and risk control
+  examples:
+    - Sharpe ratio example: >
+        Fund A has a Sharpe ratio of 1.2, while Fund B has a Sharpe ratio of 0.6.
+        Fund A delivers more return per unit of risk, making it more attractive for risk-adjusted performance.
+    - VaR example: >
+        A portfolio has a one-day VaR of $1,000 at a 95% confidence level.
+        Under normal conditions, daily losses are expected to exceed $1,000 only 5% of the time.
+    - "VaR failure example: In a crisis, markets gap and correlations spike. Losses can exceed VaR far more than expected because conditions are no longer “normal.”"
+  common_mistakes:
+    - Assuming standard deviation captures all types of risk, including extreme events.
+    - Treating VaR as a worst-case loss (it is not).
+    - Using a single risk metric instead of a combination.
+    - Comparing Sharpe ratios across strategies with very different return distributions without context.
+  questions_to_think:
+    - In what situations might VaR underestimate true risk?
+    - How can risk measures improve portfolio diversification decisions?
+    - If two funds have similar returns, what combination of metrics would you check first—and why?
+
+definitions:
+  - term: Alpha
+    definition: A measure of an investment’s excess return relative to a benchmark after accounting for market risk.
+  - term: Beta
+    definition: A measure of how sensitive an investment’s returns are to movements in the overall market.
+  - term: R-Squared
+    definition: A statistical measure showing how closely an investment’s performance is correlated with its benchmark.
+  - term: Standard Deviation
+    definition: A measure of the dispersion of returns around their average, commonly used as a proxy for volatility.
+  - term: Sharpe Ratio
+    definition: A risk-adjusted return metric calculated by dividing excess return by standard deviation.
+  - term: Value at Risk (VaR)
+    definition: An estimate of the maximum expected loss over a specified time period at a given confidence level.
+  - term: Benchmark
+    definition: A reference index used to evaluate investment performance and risk.
+  - term: Risk-Free Rate
+    definition: The return on a theoretically riskless investment, often approximated by government treasury bills.
+
+common_mistakes:
+  - Evaluating investments based only on returns without considering risk measures.
+  - Interpreting beta without checking R-squared, which can make beta misleading.
+  - Assuming standard deviation captures all types of risk, including extreme events.
+  - Treating alpha as permanent rather than potentially temporary or market-dependent.
+  - Using a single risk metric instead of a combination.
+
+questions_to_think:
+  - Why is it important to consider both risk and return when comparing investments?
+  - How do beta and standard deviation measure different types of risk?
+  - Why does a low R-squared limit the usefulness of alpha and beta?
+  - In what situations might VaR underestimate true risk?
+  - How can risk measures improve portfolio diversification decisions?
+
+source: https://www.investopedia.com/terms/r/riskmeasures.asp

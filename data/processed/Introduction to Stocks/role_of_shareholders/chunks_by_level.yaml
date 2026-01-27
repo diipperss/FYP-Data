@@ -1,0 +1,120 @@
+title: Understanding Shareholders and Their Rights in a Company
+summary: >
+  Shareholders own a company through shares, entitling them to financial benefits, voting rights, and limited liability.
+  This lesson links share ownership to control, dividends, and liquidation outcomes, while clarifying differences between
+  common and preferred shareholders and explaining shareholder responsibilities and protections.
+
+beginner:
+  title: "Beginner: What it means to be a shareholder"
+  summary: >
+    Learn what shareholders own, what they can gain (dividends and price appreciation), and the key protection:
+    limited liability. You’ll also learn the basic difference between shareholders and stakeholders.
+  key_points:
+    - Shareholders own a portion of a company through shares and have potential financial returns.
+    - Shareholders can benefit from dividends and stock price appreciation.
+    - Limited liability protects shareholders from personal responsibility for company debts.
+    - Shareholders are different from stakeholders (employees/customers may be stakeholders without owning shares).
+    - Shareholder rights come from share ownership and the company’s rules/laws (varies by jurisdiction).
+  subtopics:
+    - Shareholder vs stakeholder (simple distinction)
+    - How shareholders make money: dividends and price appreciation
+    - Limited liability: what you are and aren’t responsible for
+    - Why owning shares doesn’t mean running the company day-to-day
+  examples:
+    - "Limited liability example: If a company goes bankrupt, shareholders can lose their investment, but they generally don’t owe the company’s debts personally."
+    - Common shareholder rights example: >
+        A common shareholder can vote on board elections, mergers, or other key corporate actions and may participate in class-action suits if the company engages in wrongdoing.
+        Voting provides influence over company governance; returns are tied to dividends and stock appreciation.
+  common_mistakes:
+    - Confusing shareholders with stakeholders.
+    - Assuming shareholders are personally liable for company debts.
+    - Thinking owning one share gives meaningful control over company decisions.
+  questions_to_think:
+    - What does limited liability protect you from?
+    - If you own shares, how can you benefit financially?
+
+intermediate:
+  title: "Intermediate: Voting rights, governance, and priority in liquidation"
+  summary: >
+    Learn how shareholder voting works, what the board of directors does, and how common and preferred shareholders
+    differ in dividends, control, and liquidation priority.
+  key_points:
+    - Voting rights allow influence over major decisions, such as board elections and mergers.
+    - Voting power typically increases with the number of shares held, and can be concentrated with institutions.
+    - The board of directors is elected to oversee strategy and management on behalf of shareholders.
+    - In liquidation, shareholders receive remaining assets after creditors are paid.
+    - Preferred shareholders often receive dividends first and have higher liquidation priority, but usually have limited voting rights.
+    - Common shareholders usually have voting rights and greater upside, but are last in liquidation priority.
+  subtopics:
+    - Shareholder voting: what gets voted on (board, mergers, major actions)
+    - The board of directors: oversight role (high-level)
+    - Common vs preferred rights: control vs income priority
+    - Liquidation waterfall (conceptual): creditors before shareholders
+    - Why institutions can influence outcomes more than individuals
+  examples:
+    - Preferred shareholder priority example: >
+        A preferred shareholder receives a fixed dividend before common shareholders and may have priority in liquidation, but usually cannot vote on company matters.
+        Provides steady income and reduced risk in liquidation but limited control over corporate decisions.
+    - Voting influence example: >
+        An individual investor with a small number of shares has minimal voting influence, whereas a large institutional investor can significantly sway outcomes.
+        Understanding voting influence helps investors gauge control and impact in shareholder meetings.
+  common_mistakes:
+    - Assuming every share class has the same voting rights.
+    - Forgetting that shareholders are paid after creditors in liquidation.
+    - Treating “voting” as the same as “managing” the company.
+  questions_to_think:
+    - How do the rights and risks of common shareholders differ from those of preferred shareholders?
+    - Why might a company prefer shareholders to elect a board rather than vote on every decision?
+
+advanced:
+  title: "Advanced: Shareholder protections, activism, and responsibilities"
+  summary: >
+    Learn how shareholder protections work beyond voting: disclosures, legal rights, and collective action.
+    You’ll also understand shareholder responsibilities (informed voting, monitoring) and how governance outcomes can affect value.
+  key_points:
+    - Shareholders have protections such as access to disclosures and legal remedies when wrongdoing occurs (jurisdiction-dependent).
+    - Voting is one control mechanism; activism and engagement can influence strategy and capital allocation.
+    - Minority shareholders may have limited influence individually, making governance structure important.
+    - Share class design (dual-class, different voting rights) can concentrate control even with small economic ownership.
+    - Shareholders can hurt their own outcomes if they ignore governance, dilution, or corporate actions.
+    - Responsible ownership includes understanding proposals, voting when relevant, and tracking key events (dividends, restructurings).
+  subtopics:
+    - Shareholder protections and disclosures (high-level; varies by market)
+    - Class actions and collective rights (conceptual)
+    - Shareholder activism: when large investors push change
+    - Dual-class shares and control vs ownership (conceptual)
+    - Investor responsibilities: governance awareness and corporate action deadlines
+  examples:
+    - "Governance impact example: Investors vote against a compensation plan viewed as misaligned with performance, pressuring the board to revise incentives."
+    - "Dual-class example: A founder holds shares with extra votes, retaining control even if they own a minority of the company’s economic value."
+  common_mistakes:
+    - Assuming voting rights always match economic ownership (they may not).
+    - Ignoring governance structure until a crisis happens.
+    - Treating shareholder rights as identical across countries and exchanges.
+  questions_to_think:
+    - Why might a company issue both common and preferred shares?
+    - When could shareholder activism be beneficial—and when could it be harmful?
+    - How might dual-class structures change the meaning of “shareholder control”?
+
+definitions:
+  - term: Shareholder
+    definition: An individual, company, or organization owning shares in a company, granting rights to vote and receive dividends.
+  - term: Common Shareholder
+    definition: A shareholder holding common stock, generally with voting rights and residual claims on profits and assets.
+  - term: Preferred Shareholder
+    definition: A shareholder holding preferred stock, typically without voting rights but with priority in dividends and liquidation.
+  - term: Stakeholder
+    definition: Anyone affected by a company’s actions, including employees, customers, or suppliers, who may not own shares.
+  - term: Board of Directors
+    definition: Elected individuals overseeing company strategy, governance, and management on behalf of shareholders.
+
+common_mistakes:
+  - Confusing shareholders with stakeholders.
+  - Assuming shareholders are personally liable for company debts.
+  - Assuming all shareholders have equal voting power and rights regardless of share class.
+
+questions_to_think:
+  - How do the rights and risks of common shareholders differ from those of preferred shareholders?
+  - Why might a company issue both common and preferred shares?
+
+source: https://corporatefinanceinstitute.com/resources/equities/shareholder/

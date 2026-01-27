@@ -1,0 +1,89 @@
+by_level:
+  beginner: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Common stock benefits most from company _____.
+        options: [A, B, C, D]
+        answer: A
+        options: [A: growth, B: dividends, C: liquidation, D: voting]
+      - type: drag_drop
+        question: Match the stock type to its characteristic.
+        drag_drop:
+          prompt: Drag the characteristic to the appropriate stock type.
+          pairs:
+            - left: Common Stock
+              right: Voting Rights
+            - left: Preferred Stock
+              right: Fixed Dividends
+            - left: Common Stock
+              right: Growth Potential
+        answer: Common Stock - Voting Rights, Preferred Stock - Fixed Dividends, Common Stock - Growth Potential
+      - type: case_study_mcq
+        scenario: Maria wants a steady income stream from her investments, and she is not concerned about having a say in company decisions.
+        question: Which type of stock would likely be best for Maria?
+        options: [A, B, C, D]
+        answer: A
+        options: [A: Preferred stock, B: Common stock, C: Government bonds, D: Real estate]
+      - type: true_false
+        question: Preferred shareholders typically have voting rights.
+        answer: false
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Unlike common stock, preferred stock often behaves more like a ____ due to its fixed dividend and par value.
+        options: [A, Bond, B, Mutual Fund, C, ETF, D, Real Estate]
+        answer: A
+      - type: drag_drop
+        question: Match the term to its description related to preferred stock.
+        drag_drop:
+          prompt: Drag the term on the left to its corresponding description on the right.
+          pairs:
+            - left: Par Value
+              right: The face value of the preferred stock.
+            - left: Callability
+              right: The issuer's ability to redeem shares.
+            - left: Fixed Dividend
+              right: A consistently paid dividend rate.
+        answer: Par Value - The face value of the preferred stock; Callability - The issuer’s ability to redeem shares; Fixed Dividend - A consistently paid dividend rate.
+      - type: case_study_mcq
+        scenario: A company’s preferred stock has a par value of $100 and a fixed dividend of 5%. The company can call back the shares at 102% of the par value. Interest rates in the market have fallen significantly. What is the MOST likely outcome for the preferred shareholders?
+        question: What is the most likely outcome for the preferred shareholders?
+        options: [A, The shareholders will benefit from rising share prices., B, The company will likely call back the shares., C, The shareholders will receive a higher dividend payment., D, The preferred stock will become more volatile.]
+        answer: B
+      - type: true_false
+        question: Preferred stock generally offers greater potential for price appreciation than common stock.
+        answer: false
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Issuing preferred stock allows a company to raise capital without necessarily giving up ___ control, unlike common stock which can dilute voting power.
+        options: [A, B, C, D]
+        answer: A
+        options: [A. voting, B. managerial, C. financial, D. operational]
+      - type: drag_drop
+        question: Match the investor objective with the most suitable stock type.
+        drag_drop:
+          prompt: Drag the investor objective to the most appropriate stock type.
+          pairs:
+            - left: Income Stability
+              right: Preferred Stock
+            - left: Maximum Upside
+              right: Common Stock
+            - left: Downside Protection
+              right: Preferred Stock
+        answer: Income Stability - Preferred Stock, Maximum Upside - Common Stock, Downside Protection - Preferred Stock
+      - type: case_study_mcq
+        scenario: A technology startup, poised for rapid growth but currently unprofitable, needs to raise additional capital. The founders are keen to retain control of the company's direction. Which financing strategy would best align with these goals?
+        question: Which of the following is the most appropriate financing strategy for the startup?
+        options: [A, B, C, D]
+        answer: A
+        options: [A. Issuing preferred stock, B. Issuing common stock, C. Taking on additional debt, D. Declaring a large dividend]
+      - type: true_false
+        question: In a high-rate environment, preferred stock pricing can be pressured as income alternatives become more attractive.
+        answer: true
+    ```

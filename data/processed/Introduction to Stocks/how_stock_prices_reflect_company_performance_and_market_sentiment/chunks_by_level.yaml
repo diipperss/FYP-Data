@@ -1,0 +1,122 @@
+title: How Stock Prices Reflect Fundamentals and Market Sentiment
+summary: >
+  Stock prices are determined by both a company’s financial fundamentals and investor behavior in the market.
+  This lesson explains how earnings, growth expectations, liquidity, market sentiment, and news interact to influence stock pricing,
+  highlighting why prices can deviate from intrinsic value in the short term.
+
+beginner:
+  title: "Beginner: Price is what people pay (and why it can look “wrong”)"
+  summary: >
+    Learn the simple idea behind stock prices: they move because of supply and demand, which is influenced by both
+    business performance (fundamentals) and investor mood (sentiment). You’ll understand why prices can move even when the company didn’t change.
+  key_points:
+    - Stock prices are shaped by fundamental value and market behavior.
+    - Fundamentals include earnings, revenue growth, cash flows, and long-term profit potential.
+    - Prices move when demand to buy is greater than supply to sell (and vice versa).
+    - News and stories can change investor expectations quickly, moving price before fundamentals change.
+    - Short-term prices can deviate from intrinsic value because markets are emotional and forward-looking.
+  subtopics:
+    - Supply and demand: the basic pricing engine
+    - Fundamentals vs “what the crowd thinks”
+    - Why headlines move prices fast
+    - Short-term vs long-term: why “intrinsic value” isn’t a daily thing
+  examples:
+    - Supply and demand example: >
+        Positive media coverage or analyst upgrades can increase demand for a stock, driving up its price even if the company’s fundamentals have not changed.
+        Investors need to distinguish between short-term sentiment-driven moves and long-term fundamental value.
+    - "Simple expectation example: A company announces it may launch a new product next year. The stock rises today because investors expect future profits, even though current earnings didn’t change."
+  common_mistakes:
+    - Assuming strong earnings automatically lead to immediate price increases.
+    - Thinking “the market is irrational” when price moves are actually expectation-driven.
+    - Treating every short-term move as a fundamental signal.
+  questions_to_think:
+    - What’s one reason a stock could rise even if the company didn’t improve yet?
+    - What’s one reason a stock could fall even if the business is still solid?
+
+intermediate:
+  title: "Intermediate: Expectations, multiples, and why good news can be bad"
+  summary: >
+    Learn how markets price the future using expectations and valuation multiples. You’ll connect earnings results
+    to what investors expected, and understand how sentiment and sector moves can override company-specific performance.
+  key_points:
+    - Investor expectations often drive short-term price movements more than actual results.
+    - A stock can drop after “good” earnings if the market expected even better.
+    - Valuation multiples (like P/E) reflect how optimistic investors are about future growth.
+    - Sector sentiment can drag down individual stocks even when company fundamentals are stable.
+    - Guidance and outlook can matter more than last quarter’s numbers.
+  subtopics:
+    - Expectations vs results: “beat” vs “miss” vs “priced in”
+    - What a valuation multiple represents (optimism vs fear)
+    - Sector rotation and sentiment contagion
+    - Earnings vs guidance: why the future dominates
+    - Basic framework: price ≈ (earnings) × (multiple)
+  examples:
+    - Expectations vs results example: >
+        A company beats last quarter’s earnings but fails to meet higher market expectations, causing a decline in stock price despite positive results.
+        Understanding investor expectations is crucial, as price movements reflect sentiment relative to anticipated performance, not just absolute results.
+    - Sector sentiment example: >
+        A retail company reports stable earnings, but negative news about overall consumer spending causes investors to sell across the sector, driving down the stock price.
+        Investors may experience losses despite strong fundamentals, highlighting the importance of market sentiment and diversification.
+  common_mistakes:
+    - Focusing only on the earnings number and ignoring expectations and guidance.
+    - Comparing P/E ratios across different industries without context.
+    - Thinking sector-wide moves are always “unfair” rather than risk re-pricing.
+  questions_to_think:
+    - Why might a stock price fall even after strong earnings?
+    - If two companies have the same earnings, why might investors pay a higher price for one?
+
+advanced:
+  title: "Advanced: Liquidity, technical forces, and short-term deviations from intrinsic value"
+  summary: >
+    Learn how market microstructure and trading behavior influence price, especially in the short term.
+    You’ll connect liquidity, volume, and technical behavior to volatility and explain why small-cap stocks can trade differently than large-caps.
+  key_points:
+    - Technical and market factors include liquidity, trading volume, investor sentiment, and overall economic conditions.
+    - Liquidity affects how easily price moves: thin liquidity can create bigger swings and higher risk.
+    - Small-cap stocks often trade with wider spreads and more price impact than large-caps.
+    - News can trigger rapid repositioning, causing temporary overshoots or undershoots versus intrinsic value.
+    - Technical analysis focuses on price/volume patterns that reflect crowd behavior (not fundamentals).
+    - Understanding liquidity and market mechanics helps investors avoid costly execution and timing mistakes.
+  subtopics:
+    - Liquidity and market impact: why thin markets jump
+    - Large-cap vs small-cap behavior (depth, volume, spreads)
+    - Sentiment shocks and temporary mispricing
+    - Technical analysis as “behavioral reading” (high-level)
+    - Linking back to microstructure: spreads, slippage, order books (conceptual)
+  examples:
+    - Liquidity example: >
+        A large-cap stock trades millions of shares daily, allowing easy buying and selling without major price changes. A small-cap stock trades infrequently, so investors demand a lower price to compensate for illiquidity risk.
+        Portfolio strategies should consider liquidity risk, especially in smaller or thinly traded stocks.
+    - "Microstructure example: A thinly traded stock has a wide spread and low depth. A market order pushes through several price levels, causing a sharp move even though fundamentals didn’t change."
+  common_mistakes:
+    - Ignoring liquidity differences when evaluating stock performance.
+    - Using market orders in thin stocks and blaming “manipulation” for predictable slippage.
+    - Treating technical signals as certainty rather than probability.
+  questions_to_think:
+    - How do liquidity and sentiment affect small-cap versus large-cap stock pricing?
+    - When can technical forces temporarily overpower fundamentals?
+
+definitions:
+  - term: Earnings Per Share (EPS)
+    definition: Profit allocated to each outstanding share, used to assess company profitability.
+  - term: Valuation Multiple (P/E)
+    definition: Price-to-earnings ratio reflecting how much investors pay for $1 of earnings.
+  - term: Market Sentiment
+    definition: Collective investor attitudes and emotions influencing buying and selling decisions.
+  - term: Liquidity
+    definition: Ease of buying or selling a stock without significantly affecting its price.
+  - term: Fundamentals
+    definition: Core measures of a company’s financial health, including revenue, earnings, growth prospects, and balance sheet strength.
+  - term: Technical Analysis
+    definition: Analysis of price patterns and trading volume to understand investor behavior and predict trends.
+
+common_mistakes:
+  - Assuming strong earnings automatically lead to immediate price increases.
+  - Ignoring liquidity differences when evaluating stock performance.
+  - Treating short-term price moves as proof of long-term value.
+
+questions_to_think:
+  - Why might a stock price fall even after strong earnings?
+  - How do liquidity and sentiment affect small-cap versus large-cap stock pricing?
+
+source: https://www.investopedia.com/articles/basics/04/100804.asp

@@ -1,0 +1,130 @@
+title: Comparing Spin-Offs, Split-Offs, and Carve-Outs in Corporate Restructuring
+summary: >
+  This lesson covers corporate restructuring methods—spin-offs, split-offs, and carve-outs—that separate business units
+  to unlock shareholder value. It explains how each approach impacts ownership, cash flows, and strategic positioning,
+  helping investors understand choices and consequences in corporate restructuring.
+
+beginner:
+  title: "Beginner: Three ways a company separates a business"
+  summary: >
+    Learn the basic idea: companies sometimes break apart divisions so each business can be valued and run more clearly.
+    You’ll understand the simplest differences between a spin-off (automatic), a split-off (you choose), and a carve-out (IPO of a slice).
+  key_points:
+    - Spin-offs, split-offs, and carve-outs are strategic methods to separate business units.
+    - The goal is often clearer focus, better valuation, or unlocking shareholder value.
+    - Spin-offs create a new independent company and distribute shares to existing shareholders automatically.
+    - Split-offs require shareholders to choose: keep parent shares or exchange them for subsidiary shares.
+    - Carve-outs sell a minority stake in a subsidiary via IPO to raise cash while the parent keeps control.
+    - Restructuring can change how the market values each business due to different growth and risk profiles.
+  subtopics:
+    - Why companies restructure (focus, valuation, strategy)
+    - Spin-off: you end up owning both
+    - Split-off: you pick one
+    - Carve-out: the parent sells a slice to the public
+    - How ownership outcomes differ for shareholders
+  examples:
+    - Strategic separation example: >
+        A diversified parent spins off a slower-growth division, letting the market value the mature business separately from the faster-growing core.
+        Shareholders can better understand and evaluate growth potential and risk across distinct business units.
+    - "Quick comparison example: A spin-off gives you new shares automatically; a split-off asks you to exchange; a carve-out sells shares to new public investors."
+  common_mistakes:
+    - Confusing spin-offs and split-offs regarding automatic share allocation.
+    - Assuming a carve-out means the parent fully gives up the subsidiary (it usually retains control).
+    - Thinking restructuring automatically creates value regardless of business quality.
+  questions_to_think:
+    - If you want to own both the parent and the new company, which method usually achieves that?
+    - If you want to choose between the parent and the subsidiary, which method forces a decision?
+
+intermediate:
+  title: "Intermediate: Ownership mechanics, cash flows, and investor choices"
+  summary: >
+    Learn what shareholders receive, when they must make elections, and how cash generation differs by method.
+    You’ll connect exchange ratios and IPO proceeds to investor outcomes and understand why companies choose one structure over another.
+  key_points:
+    - Spin-offs distribute subsidiary shares to existing shareholders, often keeping ownership in both entities.
+    - Split-offs require shareholders to exchange parent shares for subsidiary shares, changing exposure and risk.
+    - Exchange ratios determine how much subsidiary ownership you receive per parent share tendered.
+    - Carve-outs raise cash by selling a minority stake in an IPO while the parent retains control.
+    - Different structures affect capital allocation: cash raised (carve-out), share count changes (split-off), or pure distribution (spin-off).
+    - Market valuation can shift because investors can price the businesses separately.
+  subtopics:
+    - How a spin-off distribution works (what you receive)
+    - Split-off elections and the exchange ratio (why it matters)
+    - Carve-out IPO mechanics: minority stake sale and cash to parent
+    - Strategic objectives: unlocking value vs raising cash vs simplifying the business
+    - Valuation impact: separate multiples for different growth/risk profiles
+  examples:
+    - Split-off choice example: >
+        Bristol-Myers Squibb’s split-off of Mead Johnson gave shareholders the option to exchange parent company shares for subsidiary shares at a 0.6313 ratio.
+        Shareholders had to evaluate which business they preferred to hold, directly affecting their exposure and risk.
+    - Carve-out structure example: >
+        A parent company offers 20% of a subsidiary in an IPO, raising cash while retaining control; remaining shares may later be spun off.
+        Investors gain partial ownership and can participate in future growth, while the parent benefits from liquidity and capital for strategic initiatives.
+  common_mistakes:
+    - Ignoring split-off deadlines and missing the chance to exchange shares.
+    - Not understanding that exchange ratios can make the deal attractive or unattractive (relative value matters).
+    - Overlooking that carve-out IPO investors may have limited control since the parent still controls the subsidiary.
+  questions_to_think:
+    - How does the exchange ratio influence shareholder decisions in split-offs?
+    - Why choose a carve-out instead of a full spin-off?
+    - What would make you prefer the parent business over the subsidiary (or vice versa)?
+
+advanced:
+  title: "Advanced: Valuation effects, taxes, and strategic consequences"
+  summary: >
+    Learn how restructuring changes valuation, incentives, and risk. You’ll understand why “unlocking value” sometimes works,
+    how tax and regulatory rules can change outcomes, and what to watch for as an investor after separation.
+  key_points:
+    - Restructuring can change valuation by altering growth prospects, risk, and cash flow expectations for each entity.
+    - Spin-offs can reveal “hidden” value if the market previously mispriced a blended conglomerate.
+    - Split-offs can reduce parent share count (if shares are exchanged and retired), potentially changing per-share metrics.
+    - Carve-outs can provide cash for debt reduction, buybacks, or reinvestment—but also keep strategic control.
+    - Tax treatment varies by jurisdiction and deal structure; not all spin-offs are tax-free.
+    - Post-separation performance depends on fundamentals: management quality, capital structure, and competitive position.
+  subtopics:
+    - Sum-of-the-parts logic and multiple re-rating (conceptual)
+    - Capital structure changes: debt allocation and balance sheet impact (high-level)
+    - Split-off effects on parent share count and per-share metrics (conceptual)
+    - Tax and regulatory considerations (high-level; jurisdiction-dependent)
+    - Post-deal investor checklist: new risk profile, leverage, management incentives
+  examples:
+    - Spin-off outcome example: >
+        Baxter International spun off Baxalta as a standalone company. Shareholders received shares in both companies, allowing separate valuation of the biotech business.
+        Investors can assess and invest in the new company independently. Baxalta’s eventual acquisition by Shire Pharmaceuticals illustrates how spin-offs can reveal hidden value.
+    - "Debt allocation example: After a separation, the subsidiary may take on debt to fund a dividend to the parent, changing the risk profile even if the business is unchanged."
+  common_mistakes:
+    - Assuming all spin-offs are tax-free without understanding rules.
+    - Treating “unlocking value” as guaranteed rather than conditional on fundamentals and execution.
+    - Ignoring balance sheet and debt changes after the restructuring.
+    - Overlooking carve-out cash generation and strategic implications.
+  questions_to_think:
+    - How do tax rules affect spin-offs, split-offs, and carve-outs?
+    - What signs would suggest a separation improved focus versus just “financial engineering”?
+    - How could a carve-out change the parent’s capital allocation strategy?
+
+definitions:
+  - term: Spin-Off
+    definition: Creation of an independent company from a subsidiary, with shares distributed to existing shareholders.
+  - term: Split-Off
+    definition: Shareholders exchange parent company shares for subsidiary shares, choosing ownership in one entity.
+  - term: Carve-Out
+    definition: Selling a minority stake in a subsidiary via IPO, often to raise cash or pave the way for a future spin-off.
+  - term: IPO (Initial Public Offering)
+    definition: First sale of a company’s shares to the public to raise capital.
+  - term: Exchange Ratio
+    definition: Number of subsidiary shares received for each parent share in a split-off.
+  - term: Shareholder Value
+    definition: Value delivered to shareholders via price appreciation, dividends, or distributions.
+
+common_mistakes:
+  - Confusing spin-offs and split-offs regarding automatic share allocation.
+  - Assuming all spin-offs are tax-free without understanding rules.
+  - Overlooking carve-out cash generation and strategic implications.
+  - Ignoring split-off election deadlines and exchange ratio mechanics.
+
+questions_to_think:
+  - How does the exchange ratio influence shareholder decisions in split-offs?
+  - Why choose a carve-out instead of a full spin-off?
+  - How do tax rules affect spin-offs, split-offs, and carve-outs?
+
+source: https://www.investopedia.com/articles/investing/090715/comparing-spinoffs-splitoffs-and-carveouts.asp

@@ -1,0 +1,85 @@
+by_level:
+  beginner: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: High volume often helps _____, but it does not guarantee it.
+        options: [A, B, C, D]
+        answer: A
+      - type: drag_drop
+        question: Match the term with its definition.
+        drag_drop:
+          prompt: Drag the terms to their correct definitions.
+          pairs:
+            - left: Volume
+              right: Measures trading activity.
+            - left: Liquidity
+              right: Measures ease and cost of trading.
+            - left: Bid-ask spread
+              right: An indicator of liquidity.
+        answer: Volume measures trading activity. Liquidity measures ease and cost of trading. Bid-ask spread is an indicator of liquidity.
+      - type: case_study_mcq
+        scenario: A small company's stock trades only 1,000 shares per day, and the bid-ask spread is $0.50. An investor wants to buy 100 shares.
+        question: What is the main concern for this investor?
+        options: [A, B, C, D]
+        answer: B
+      - type: true_false
+        question: Liquidity reflects how quickly an asset can be traded with minimal price impact.
+        answer: true
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Although high volume can indicate activity, it doesn't necessarily guarantee ____, which is crucial for efficient trading.
+        options: [A. volatility, B. liquidity, C. profitability, D. speculation]
+        answer: B
+      - type: drag_drop
+        question: Match the term with its description.
+        drag_drop:
+          prompt: Drag the terms to their correct definitions.
+          pairs:
+            - left: Bid-Ask Spread
+              right: The difference between the highest price a buyer is willing to pay and the lowest price a seller is willing to accept.
+            - left: Order Book Depth
+              right: Shows the quantity of buy and sell orders at different price levels.
+            - left: Average Daily Volume (ADV)
+              right: The average number of shares traded each day over a specified period.
+        answer: Bid-Ask Spread - The difference between the highest price a buyer is willing to pay and the lowest price a seller is willing to accept. Order Book Depth - Shows the quantity of buy and sell orders at different price levels. Average Daily Volume (ADV) - The average number of shares traded each day over a specified period.
+      - type: case_study_mcq
+        scenario: A news report announces positive earnings for Company X, causing its volume to jump significantly. However, traders notice that the bid-ask spread has widened considerably, and the order book depth has decreased.
+        question: What does this situation suggest about the liquidity of Company X's stock?
+        options: [A. Liquidity has improved due to the increased trading activity. B. Liquidity has remained constant despite the news. C. Liquidity has decreased, making trading more expensive. D. The news has no impact on liquidity.]
+        answer: C
+      - type: true_false
+        question: Average daily volume (ADV) provides a complete picture of trading costs associated with a stock.
+        answer: false
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Strategies with frequent trading are highly sensitive to spreads and depth, not just ___."
+        options: [A. volume, B. volatility, C. ADV, D. market impact]
+        answer: A
+      - type: drag_drop
+        question: Match the following liquidity risk factors to their description.
+        drag_drop:
+          prompt: Drag the factors to their descriptions.
+          pairs:
+            - left: Slippage
+              right: The difference between the expected price and the actual execution price.
+            - left: Partial Fills
+              right: Occurs when only a portion of an order is executed.
+            - left: Price Impact
+              right: The effect of a trade on the price of an asset.
+        answer: "Slippage: The difference between the expected price and the actual execution price. Partial Fills: Occurs when only a portion of an order is executed. Price Impact: The effect of a trade on the price of an asset."
+      - type: case_study_mcq
+        scenario: "A portfolio manager needs to execute a $10 million order in a stock with a high average daily volume (ADV) but surprisingly shallow depth, meaning only a few shares are readily available at the best bid and ask. During execution, the manager experiences significant slippage and struggles to fill the entire order at a favorable price."
+        question: "What is the most likely primary factor contributing to the portfolio manager's poor execution quality?"
+        options: [A. Low average daily volume, B. High market volatility, C. Shallow depth of the order book, D. Lack of investor interest in the stock]
+        answer: C
+      - type: true_false
+        question: "During periods of market stress, historical average daily volume (ADV) is a consistently reliable indicator of available liquidity."
+        answer: false
+    ```

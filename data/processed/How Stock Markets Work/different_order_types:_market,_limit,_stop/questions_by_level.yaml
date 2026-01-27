@@ -1,0 +1,88 @@
+by_level:
+  beginner: |-
+    - Simple protection example: You own a stock and want to limit losses if it drops below $40. You place a stop-loss order at $40.
+    - Stop-limit example: You want to buy if it reaches $60, but only if it is above $58. You place a stop-limit order with a stop price of $60 and a limit price of $58.
+    
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: A ___ order executes immediately, but the price might be different than expected.
+        options: [A. market, B. limit, C. stop, D. stop-limit]
+        answer: A
+      - type: drag_drop
+        question: Match the order type with its main purpose.
+        drag_drop:
+          prompt: Drag the order type to its main purpose.
+          pairs:
+            - left: Market Order
+              right: Execute quickly
+            - left: Limit Order
+              right: Control price
+            - left: Stop Order
+              right: Limit downside
+        answer: Market Order - Execute quickly, Limit Order - Control price, Stop Order - Limit downside
+      - type: case_study_mcq
+        scenario: You own a stock and want to protect against a sudden price drop, but you also want to ensure you only sell at a price above $45.
+        question: Which order type is most appropriate for you?
+        options: [A. Market order, B. Limit order, C. Stop-limit order, D. Stop order]
+        answer: C
+      - type: true_false
+        question: A limit order guarantees your order will be filled.
+        answer: false
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: During periods of high volatility, a ___ order is most likely to experience significant slippage.
+        options: [A, Market, B, Limit, C, Stop, D, Stop-Limit]
+        answer: A
+      - type: drag_drop
+        question: Match the order type with its primary characteristic.
+        drag_drop:
+          prompt: Drag the order type to its description.
+          pairs:
+            - left: Market Order
+              right: Executes immediately at the best available price.
+            - left: Limit Order
+              right: Executes only at a specified price or better.
+            - left: Stop Order
+              right: Triggers a market order when a specific price is reached.
+        answer: Market Order - Executes immediately at the best available price., Limit Order - Executes only at a specified price or better., Stop Order - Triggers a market order when a specific price is reached.
+      - type: case_study_mcq
+        scenario: An investor places a stop-limit order to protect against losses on a stock they own, but a news event causes the stock price to gap down significantly. The stop price is triggered, but the limit price is below the current market price due to the gap.
+        question: What is the most likely outcome for this order?
+        options: [A, The order will execute at the limit price., B, The order will execute immediately at the stop price., C, The order will not execute due to the price gap., D, The order will be automatically adjusted to the current market price.]
+        answer: C
+      - type: true_false
+        question: A good-til-canceled (GTC) order will always execute as soon as the specified price is reached.
+        answer: false
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: While stop orders guarantee activation at a specified price, they do not guarantee execution at that price, only the _____.
+        options: [A. execution, B. order, C. trigger, D. fill]
+        answer: C
+      - type: drag_drop
+        question: Match the order type to its primary characteristic.
+        drag_drop:
+          prompt: Drag the order type to its description.
+          pairs:
+            - left: Stop Order
+              right: Activates when the price reaches a specified level, but doesn't guarantee execution at that price.
+            - left: Stop-Limit Order
+              right: Combines a stop price with a limit price, potentially limiting slippage but risking non-execution.
+            - left: Market Order
+              right: Executes immediately at the best available price.
+        answer: Stop Order-Activates when the price reaches a specified level, but doesn't guarantee execution at that price., Stop-Limit Order-Combines a stop price with a limit price, potentially limiting slippage but risking non-execution., Market Order-Executes immediately at the best available price.
+      - type: case_study_mcq
+        scenario: A trader places a stop-loss order just below a recent low in a volatile stock, hoping to protect against a sudden downturn; however, a brief dip in price on low liquidity triggers the stop, and the price subsequently rebounds.
+        question: What is the primary lesson illustrated by this scenario regarding stop orders?
+        options: [A. Stop orders always guarantee profitable exits., B. Naive stop placement without considering volatility can lead to premature and unfavorable executions., C. Stop orders are immune to market noise., D. It is always better to use market orders than stop orders.]
+        answer: B
+      - type: true_false
+        question: Keeping stale orders active due to improper time-in-force settings can unintentionally result in unexpected entries or exits.
+        answer: true
+    ```

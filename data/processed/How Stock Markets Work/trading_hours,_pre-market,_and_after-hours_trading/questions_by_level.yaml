@@ -1,0 +1,85 @@
+by_level:
+  beginner: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: During regular trading hours, the market has the most ___ .
+        options: [A. traders, B. volume, C. liquidity, D. news]
+        answer: C
+      - type: drag_drop
+        question: Match the trading session to its description.
+        drag_drop:
+          prompt: Drag each session to its correct description.
+          pairs:
+            - left: Regular Hours
+              right: Most participants and liquidity
+            - left: Pre-Market
+              right: Fewer traders participate
+            - left: After-Hours
+              right: Prices can jump more
+        answer: Regular Hours - Most participants and liquidity, Pre-Market - Fewer traders participate, After-Hours - Prices can jump more
+      - type: case_study_mcq
+        scenario: A company releases earnings after market close. Its stock price jumps significantly in after-hours trading. What is the MOST likely reason for this price movement?
+        question: Why did the stock price jump so much?
+        options: [A. More people are buying the stock, B. There is high liquidity in the market, C. Fewer traders are participating, D. The company is doing poorly]
+        answer: C
+      - type: true_false
+        question: During extended hours, bid–ask spreads tend to widen.
+        answer: true
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: During pre-market hours, trading typically occurs via ____, which often results in wider spreads.
+        options: [A. exchanges, B. ECNs, C. dark pools, D. direct market access]
+        answer: B
+      - type: drag_drop
+        question: Match the trading condition with its likely outcome.
+        drag_drop:
+          prompt: Drag the outcome to the corresponding condition.
+          pairs:
+            - left: Lower liquidity
+              right: Wider spreads
+            - left: Partial fills
+              right: Limited shares available
+            - left: News release during off-hours
+              right: Sharp price movement
+        answer: Lower liquidity -> Wider spreads, Partial fills -> Limited shares available, News release during off-hours -> Sharp price movement
+      - type: case_study_mcq
+        scenario: An investor wants to buy a stock after-hours following a positive earnings announcement, but the stock price is highly volatile. They place a market order. What is the MOST likely consequence?
+        question: What is the MOST likely consequence of placing a market order in this situation?
+        options: [A. Immediate and certain execution at the expected price, B. Guaranteed execution at the best available price, C. The order may not fill immediately, or fill at a significantly different price, D. The order will automatically be converted to a limit order.]
+        answer: C
+      - type: true_false
+        question: Lower liquidity generally makes it easier to achieve good execution.
+        answer: false
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: "During periods of reduced liquidity, such as overnight trading, the risk of ___ increases significantly."
+        options: [A. systemic risk, B. slippage, C. counterparty risk, D. regulatory risk]
+        answer: B
+      - type: drag_drop
+        question: "Match the term to its description in the context of overnight trading."
+        drag_drop:
+          prompt: "Drag the term to the correct description."
+          pairs:
+            - left: "Volatility Regime"
+              right: "The prevailing level of market fluctuation."
+            - left: "Session-Aware Order Sizing"
+              right: "Adjusting trade size based on the current trading session's liquidity."
+            - left: "Thinner Depth"
+              right: "Reduced number of buy/sell orders available at various price points."
+        answer: "Volatility Regime - The prevailing level of market fluctuation; Session-Aware Order Sizing - Adjusting trade size based on the current trading session’s liquidity; Thinner Depth - Reduced number of buy/sell orders available at various price points."
+      - type: case_study_mcq
+        scenario: "A trader notices a stock price surge after-hours following a positive earnings announcement, but is unsure if the move will persist into the regular trading session. They are considering entering a position."
+        question: "Given the overnight trading context, what is the MOST prudent initial action for the trader?"
+        options: [A. Immediately enter a full-sized position to capitalize on the after-hours momentum., B. Wait for the regular trading session to assess analyst reactions and liquidity., C. Use leverage to amplify potential profits from the after-hours price., D. Short the stock, anticipating a reversal in the regular session.]
+        answer: B
+      - type: true_false
+        question: "Waiting for the regular trading session to execute trades generally improves execution quality and reduces hidden costs for many investors."
+        answer: true
+    ```

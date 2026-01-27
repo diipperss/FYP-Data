@@ -1,0 +1,85 @@
+by_level:
+  beginner: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Buying a stock means you own a small piece of a company, or a share of _____.
+        options: [A. debt, B. equity, C. profit, D. loss]
+        answer: B
+      - type: drag_drop
+        question: Match the term to its definition.
+        drag_drop:
+          prompt: Drag the words to their correct matches.
+          pairs:
+            - left: Shares
+              right: Represent partial ownership in a company.
+            - left: IPO
+              right: An initial public offering.
+            - left: Dividends
+              right: Payments to shareholders, if declared.
+        answer: Shares represent partial ownership in a company; IPO is an initial public offering; Dividends are payments to shareholders, if declared.
+      - type: case_study_mcq
+        scenario: Sarah bought 100 shares of a company that has 1,000 shares in total. She is excited about owning a piece of the company.
+        question: What does owning 100 shares out of 1,000 mean for Sarah?
+        options: [A. She can tell the CEO what to do, B. She owns 10% of the company, C. She owns all the company’s assets, D. She owns 100% of the company]
+        answer: B
+      - type: true_false
+        question: Owning stock gives you direct control over how a company is run.
+        answer: false
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Shareholders can benefit from stock ownership through dividends and ____.
+        options: [A. price appreciation, B. interest payments, C. bond yields, D. tax refunds]
+        answer: A
+      - type: drag_drop
+        question: Match the stock type with its characteristic.
+        drag_drop:
+          prompt: Drag the stock type to its corresponding feature.
+          pairs:
+            - left: Common Stock
+              right: Voting Rights
+            - left: Preferred Stock
+              right: Dividend Priority
+            - left: Both
+              right: Equity Security
+        answer: Common Stock: Voting Rights, Preferred Stock: Dividend Priority, Both: Equity Security
+      - type: case_study_mcq
+        scenario: "Maria wants to invest in a company but is concerned about potential financial difficulties. She also wants some influence over company decisions. Which type of stock would likely be best for her?"
+        question: "Given Maria's concerns, which stock type is the most suitable?"
+        options: [A. High-yield bonds, B. Preferred stock with voting rights, C. Common stock, D. Government bonds]
+        answer: C
+      - type: true_false
+        question: "Dividends are guaranteed payments to shareholders, regardless of a company's financial performance."
+        answer: false
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: A stock _____ occurs when a company repurchases its own shares, decreasing the total number of shares outstanding.
+        options: [A. split, B. dividend, C. buyback, D. dilution]
+        answer: C
+      - type: drag_drop
+        question: Match the corporate action to its effect on the number of shares outstanding.
+        drag_drop:
+          prompt: Drag the action to its effect.
+          pairs:
+            - left: Stock Split
+              right: Increases share count
+            - left: Secondary Offering
+              right: Increases share count
+            - left: Stock Buyback
+              right: Decreases share count
+        answer: Stock Split increases share count, Secondary Offering increases share count, Stock Buyback decreases share count
+      - type: case_study_mcq
+        scenario: An investor, Amelia, holds 2% of a startup with 5 million shares outstanding. The startup raises a Series B round, issuing 2 million new shares to new investors. Amelia does not participate in the round. What is Amelia’s new ownership percentage?
+        question: What is Amelia’s ownership percentage after the Series B round?
+        options: [A. 1%, B. 1.5%, C. 2%, D. 2.5%]
+        answer: B
+      - type: true_false
+        question: A stock split inherently increases the underlying value of each share.
+        answer: false
+    ```

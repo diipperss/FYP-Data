@@ -1,0 +1,87 @@
+by_level:
+  beginner: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: A stock ___ is a place where people buy and sell shares.
+        options: [A, B, C, D]
+        answer: A
+      - type: drag_drop
+        question: Match the term with its definition.
+        drag_drop:
+          prompt: Drag the words to the correct boxes.
+          pairs:
+            - left: Primary Market
+              right: Where companies first sell shares
+            - left: Secondary Market
+              right: Where investors trade shares with each other
+            - left: IPO
+              right: Initial Public Offering
+        answer: Primary Market - Where companies first sell shares; Secondary Market - Where investors trade shares with each other; IPO - Initial Public Offering
+      - type: case_study_mcq
+        scenario: A small company wants to grow but needs money. They decide to list their shares on a stock exchange for the first time.
+        question: What is this event called?
+        options: [A, B, C, D]
+        answer: A
+      - type: true_false
+        question: Stock exchanges help make trading more organized and trustworthy.
+        answer: true
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: The bid–ask ___ is the difference between the highest price a buyer is willing to pay and the lowest price a seller is willing to accept.
+        options: [A, B, C, D]
+        answer: A
+        options: [A: spread, B: margin, C: rate, D: premium]
+      - type: drag_drop
+        question: Match the term with its description.
+        drag_drop:
+          prompt: Drag the terms to their correct definitions.
+          pairs:
+            - left: Liquidity
+              right: The ease with which an asset can be bought or sold without affecting its price.
+            - left: Market Maker
+              right: A firm or individual who quotes both buy and sell prices to provide liquidity.
+            - left: Slippage
+              right: The difference between the expected price of a trade and the actual price at which it executes.
+        answer: Liquidity - The ease with which an asset can be bought or sold without affecting its price. Market Maker - A firm or individual who quotes both buy and sell prices to provide liquidity. Slippage - The difference between the expected price of a trade and the actual price at which it executes.
+      - type: case_study_mcq
+        scenario: A small-cap stock, XYZ, typically trades between $10 and $11, with a bid-ask spread of $0.20. An investor places a market order to buy 1000 shares of XYZ. What is the most likely outcome?
+        question: What is the most likely outcome for the investor?
+        options: [A, B, C, D]
+        answer: B
+        options: [A: The investor will get the shares at exactly $10, the bid price., B: The investor will likely pay a price close to, or above, $10.20 due to the spread and limited liquidity., C: The investor will get the shares immediately at the current mid-point price., D: The investor will have to wait for the best bid price to appear.]
+      - type: true_false
+        question: Modern exchanges primarily rely on manual order books and floor traders to execute trades.
+        answer: false
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: The concentration of liquidity during a closing auction often leads to a price that is widely referenced and serves as a crucial ___ for subsequent trading.
+        options: [A. anomaly, B. benchmark, C. aberration, D. arbitrage]
+        answer: B
+      - type: drag_drop
+        question: Match the exchange characteristic with its corresponding impact.
+        drag_drop:
+          prompt: Drag the characteristic to the impact.
+          pairs:
+            - left: Auction-based structure
+              right: Concentrates liquidity and establishes referenced prices
+            - left: Fully electronic structure
+              right: Typically offers higher speed and automated execution
+            - left: OTC venue
+              right: Presents increased information risk and wider spreads
+        answer: Auction-based structure: Concentrates liquidity and establishes referenced prices, Fully electronic structure: Typically offers higher speed and automated execution, OTC venue: Presents increased information risk and wider spreads
+      - type: case_study_mcq
+        scenario: A small biotechnology firm chooses to list its shares on a lightly regulated OTC market to avoid the stringent requirements and costs associated with a major exchange.  However, the stock experiences wide bid-ask spreads and infrequent trading.
+        question: What is the most significant risk associated with this choice for investors?
+        options: [A. Increased price volatility due to algorithmic trading, B. Greater regulatory oversight and investor protection, C. Higher information risk and potential for manipulation, D. Guaranteed access to institutional investors]
+        answer: C
+      - type: true_false
+        question:  Market structure has no significant impact on liquidity quality or how prices respond during periods of stress.
+        answer: false
+    ```

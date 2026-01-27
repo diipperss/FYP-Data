@@ -1,0 +1,122 @@
+title: Bid Ask Spread: How It Works and Why It Matters
+summary: >
+  The bid-ask spread represents the gap between what buyers are willing to pay and what sellers are willing to accept for a security.
+  It is a direct trading cost and a key indicator of liquidity. This lesson explains how bid and ask prices are set, why spreads vary
+  across securities, and how understanding the bid-ask spread can help investors trade more efficiently and reduce hidden costs.
+
+beginner:
+  title: "Beginner: The spread is the price of getting a trade done now"
+  summary: >
+    Learn the basics: bid = what buyers pay, ask = what sellers want, and the spread is the gap between them.
+    If you buy immediately, you usually buy at the ask; if you sell immediately, you usually sell at the bid—so the spread is a cost.
+  key_points:
+    - The bid price reflects demand, while the ask price reflects supply.
+    - The bid-ask spread is the gap between bid and ask, and it’s an implicit transaction cost.
+    - Buying immediately typically means paying the ask; selling immediately typically means accepting the bid.
+    - Highly liquid securities usually have narrow spreads; less liquid ones have wider spreads.
+    - The spread is part of “hidden trading costs” even when commissions are low or zero.
+  subtopics:
+    - Bid vs ask: what each means
+    - Why the spread exists (buyers and sellers don’t agree on one price)
+    - How you “pay” the spread when you trade
+    - Liquidity in plain language: how easily you can trade without moving price
+  examples:
+    - Liquidity example: >
+        A large-cap stock trades with a bid of $50.00 and an ask of $50.02.
+        The narrow $0.02 spread indicates high liquidity and low trading costs.
+    - Illiquidity example: >
+        A small-cap stock trades with a bid of $9.50 and an ask of $10.10.
+        The wide spread increases trading costs and makes entering or exiting positions more expensive.
+  common_mistakes:
+    - Buying at the ask or selling at the bid without recognizing the spread as a cost.
+    - Ignoring spreads when trading less-liquid stocks or ETFs.
+    - Thinking “commission-free” means “cost-free.”
+  questions_to_think:
+    - If you buy at the ask and immediately sell at the bid, what happens?
+    - Why might a “cheap” stock still be expensive to trade?
+
+intermediate:
+  title: "Intermediate: Why spreads widen (liquidity, volatility, and trading sessions)"
+  summary: >
+    Learn what makes spreads tighter or wider: how many participants are active, how risky the price is to quote,
+    and when the market is most liquid. You’ll connect spreads to market conditions and execution quality.
+  key_points:
+    - Highly liquid securities typically have narrow spreads because many buyers and sellers compete.
+    - Illiquid or volatile securities tend to have wider spreads due to higher execution and inventory risk.
+    - Spreads often widen during market open/close and around major news because uncertainty increases.
+    - ETFs can have tight spreads when underlying markets are liquid and trading volume is high.
+    - Wider spreads disproportionately affect frequent traders because the cost compounds across many trades.
+  subtopics:
+    - Liquidity and competition: more orders = tighter spreads
+    - Volatility and uncertainty: why quote risk increases spreads
+    - Time-of-day effects: open/close and thin periods
+    - ETF spreads: how popularity and underlying liquidity matter
+    - Execution quality: why limit orders can reduce spread cost
+  examples:
+    - ETF example: >
+        A popular index ETF trades with a consistently tight spread during market hours.
+        Investors can buy or sell efficiently without sacrificing much value to transaction costs.
+    - "Open/close example: A stock shows a $0.03 spread midday but $0.10 near the open when liquidity is reorganizing and volatility is higher."
+  common_mistakes:
+    - Assuming spreads are constant throughout the trading day.
+    - Overtrading in wide-spread securities, reducing net returns.
+    - Using market orders in thin liquidity and being surprised by worse fills.
+  questions_to_think:
+    - Why are spreads typically wider during market open and close?
+    - How do spreads affect your choice between a market order and a limit order?
+
+advanced:
+  title: "Advanced: Market makers, microstructure, and optimizing execution"
+  summary: >
+    Learn how market makers and liquidity providers quote prices, why spreads compensate them for risk,
+    and how investors can reduce spread-related costs through better execution decisions.
+  key_points:
+    - Market makers facilitate trading by continuously quoting bid and ask prices.
+    - The spread compensates market makers for providing liquidity and bearing risk (inventory + adverse selection).
+    - Spread is a component of total transaction cost, alongside slippage and market impact.
+    - Spread sensitivity is higher in small-caps, volatile names, and around events when liquidity can disappear.
+    - Trading tactics (limit orders, patience, sizing, timing) can reduce effective spread costs.
+    - Frequent strategies (day trading, scalping) are highly exposed to spread costs; small spreads matter a lot.
+  subtopics:
+    - Why market makers exist: immediacy and continuous quotes
+    - Inventory risk and adverse selection (conceptual)
+    - Total trading cost: spread + slippage + market impact (link to microstructure)
+    - Execution tactics: limit orders, timing away from open/close, smaller sizes
+    - When spread cost dominates strategy performance
+  examples:
+    - "Market maker compensation example: A market maker quotes $50.00/$50.02 and earns the spread (on average) for taking the risk of buying from sellers and selling to buyers."
+    - "Execution tactic example: A trader uses a limit order near the mid-price and waits for a fill, reducing the effective spread paid compared to a market order—at the cost of fill uncertainty."
+  common_mistakes:
+    - Treating the spread as a “fee” charged by the broker rather than a market pricing gap.
+    - Ignoring how spreads interact with slippage and market impact for large orders.
+    - Using tight stop orders in wide-spread markets and getting triggered by noise.
+  questions_to_think:
+    - How do bid-ask spreads affect long-term investors versus day traders?
+    - What role do market makers play in reducing spreads?
+    - When is paying the spread worth it (and when is it not)?
+
+definitions:
+  - term: Bid
+    definition: The highest price a buyer is willing to pay for a security.
+  - term: Ask
+    definition: The lowest price a seller is willing to accept for a security.
+  - term: Bid-Ask Spread
+    definition: The difference between the bid and ask prices, representing the cost of immediacy in trading.
+  - term: Liquidity
+    definition: The ability to buy or sell an asset quickly without significantly affecting its price.
+  - term: Market Maker
+    definition: A participant that provides liquidity by quoting continuous bid and ask prices.
+
+common_mistakes:
+  - Buying at the ask or selling at the bid without recognizing the spread as a cost.
+  - Ignoring spreads when trading less-liquid stocks or ETFs.
+  - Assuming spreads are constant throughout the trading day.
+  - Overtrading in wide-spread securities, reducing net returns.
+
+questions_to_think:
+  - How does liquidity influence the bid-ask spread?
+  - Why are spreads typically wider during market open and close?
+  - How do bid-ask spreads affect long-term investors versus day traders?
+  - What role do market makers play in reducing spreads?
+
+source: https://www.investopedia.com/terms/b/bid-and-ask.asp

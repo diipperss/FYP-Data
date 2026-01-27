@@ -1,0 +1,116 @@
+title: Preferred vs. Common Stock: An Overview
+summary: >
+  This lesson compares preferred and common stock by examining their rights, risks, and return structures.
+  It links income stability, voting power, and liquidation priority to different investor goals, helping learners
+  understand why companies issue multiple share classes and how each fits into a portfolio.
+
+beginner:
+  title: "Beginner: The core difference—income priority vs growth upside"
+  summary: >
+    Learn the simple trade-off: preferred stock is usually built for steadier income and higher priority,
+    while common stock is built for ownership control (voting) and long-term growth upside.
+  key_points:
+    - Common stock is the “standard” stock most people buy; it benefits most from company growth.
+    - Preferred stock usually pays dividends first and has higher priority if the company is liquidated.
+    - Common shareholders usually have voting rights; preferred shareholders generally do not.
+    - Preferred dividends are typically fixed and predictable; common dividends can change or disappear.
+    - Common stock can rise much more in price, but also tends to be more volatile.
+  subtopics:
+    - What you “get” from each: dividends, voting, growth
+    - Priority: who gets paid first (dividends and liquidation)
+    - Why a fixed dividend changes risk/return
+    - A simple investor goal match: income vs growth
+  examples:
+    - Preferred stock income example: >
+        A company issues $25-par preferred shares paying a fixed 6% dividend, providing steady income regardless of stock price movements.
+    - Common stock governance example: >
+        Investors vote on board members and major corporate decisions.
+  common_mistakes:
+    - Assuming common shareholders are paid dividends before preferred shareholders.
+    - Thinking preferred stock behaves like common stock during strong growth periods.
+  questions_to_think:
+    - If you want steadier income, which stock type usually fits better?
+    - If you want long-term growth, which stock type usually fits better?
+
+intermediate:
+  title: "Intermediate: How returns differ—volatility, dividends, and bond-like features"
+  summary: >
+    Learn why preferred stock often behaves more like a bond, with features like par value and callability,
+    and why that changes volatility and upside compared to common stock.
+  key_points:
+    - Preferred stock has bond-like features: par value and often a fixed dividend rate.
+    - Preferred stock often has lower price volatility than common stock because returns are dividend-focused.
+    - Common stock offers greater upside via price appreciation but carries higher risk and volatility.
+    - Preferred returns can be capped by callability (issuer can redeem shares).
+    - Preferred prices are often sensitive to interest rates (fixed-income-style behavior).
+  subtopics:
+    - Par value: why $25 preferred is “a thing”
+    - Fixed dividend vs variable dividend
+    - Callability: what it means for investors
+    - Why preferred often moves with interest rates (conceptual)
+    - Comparing total return: dividends + price movement
+  examples:
+    - Preferred stock risk example: >
+        An issuer exercises the call feature to redeem preferred shares when interest rates fall.
+    - Common stock growth example: >
+        Shareholders benefit from rising share prices as the company expands its market share.
+  common_mistakes:
+    - Expecting preferred stock to benefit significantly from company growth like common stock.
+    - Ignoring call risk and being surprised when preferred shares are redeemed.
+    - Thinking “fixed dividend” means “guaranteed” (it still depends on issuer health and terms).
+  questions_to_think:
+    - How does callability change the risk profile of preferred shares?
+    - Why might preferred stock be more sensitive to interest rate changes than common stock?
+
+advanced:
+  title: "Advanced: Why companies issue both—capital structure, incentives, and portfolio fit"
+  summary: >
+    Learn why firms issue different share classes and how to evaluate preferred vs common using investor goals,
+    issuer incentives, and risk trade-offs (growth upside, income stability, and downside protection).
+  key_points:
+    - Companies issue multiple classes to broaden investor demand and financing flexibility.
+    - Preferred stock can raise capital without giving up voting control like common stock might.
+    - Preferred holders trade growth upside for higher priority and dividend-focused return.
+    - Common holders accept lower priority for maximum upside and governance participation.
+    - In stress scenarios, priority matters: preferred ranks ahead of common, but both generally rank behind debt.
+    - Portfolio fit depends on objectives: income stability vs growth vs risk tolerance (including rate sensitivity).
+  subtopics:
+    - Capital structure hierarchy (high-level): debt > preferred > common
+    - Control and governance: why founders like multiple classes
+    - Evaluating preferred: dividend rate, call terms, issuer credit risk (conceptual)
+    - Evaluating common: growth, profitability, dilution risk (conceptual)
+    - Scenario thinking: growth boom vs rising rates vs recession
+  examples:
+    - "Issuer incentive example: A company wants to raise capital but avoid diluting voting control. Issuing preferred can attract income investors without changing common-share voting power."
+    - "Cycle example: In a strong expansion, common may outperform due to upside. In a higher-rate environment, preferred pricing can be pressured because income alternatives become more attractive."
+  common_mistakes:
+    - Treating preferred as “safe” without considering issuer risk and rate sensitivity.
+    - Forgetting both preferred and common are equity and can lose value if the business deteriorates.
+    - Comparing preferred yield to bond yield without comparing risk and seniority.
+  questions_to_think:
+    - Why might income-focused investors prefer preferred stock over common stock?
+    - In what situations does common stock outperform preferred stock?
+    - How would rising interest rates change the attractiveness of preferred shares?
+
+definitions:
+  - term: Preferred Stock
+    definition: A hybrid security that combines equity ownership with fixed-income characteristics, offering dividend priority and liquidation preference.
+  - term: Common Stock
+    definition: Equity shares that provide voting rights and participation in a company’s growth but rank last in liquidation priority.
+  - term: Par Value
+    definition: The stated face value of a preferred share used to calculate dividend payments.
+  - term: Callability
+    definition: A feature allowing the issuing company to repurchase preferred shares at a predetermined price after a specified date.
+
+common_mistakes:
+  - Assuming common shareholders are paid dividends before preferred shareholders.
+  - Expecting preferred stock to benefit significantly from company growth like common stock.
+  - Treating preferred dividends as guaranteed regardless of issuer health.
+  - Ignoring callability and interest-rate sensitivity.
+
+questions_to_think:
+  - Why might income-focused investors prefer preferred stock over common stock?
+  - How does callability change the risk profile of preferred shares?
+  - In what situations does common stock outperform preferred stock?
+
+source: https://www.investopedia.com/ask/answers/difference-between-preferred-stock-and-common-stock/

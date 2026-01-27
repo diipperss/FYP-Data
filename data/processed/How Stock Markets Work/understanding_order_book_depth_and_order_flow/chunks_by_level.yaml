@@ -1,0 +1,124 @@
+title: The Importance of Order Book Depth in Day Trading
+summary: >
+  This lesson explains how order book depth reveals liquidity, market sentiment,
+  and short-term price dynamics. It shows how traders use bid and ask data,
+  order sizes, and order flow to make informed intraday decisions while managing risk.
+
+beginner:
+  title: "Beginner: What order book depth shows (liquidity and risk in real time)"
+  summary: >
+    Learn what “depth” means, how bid/ask levels reflect liquidity, and why thin books can make prices jump.
+    The focus is not on “predicting the market,” but on understanding execution risk and short-term volatility.
+  key_points:
+    - Order book depth shows liquidity available at multiple price levels, not just the best bid/ask.
+    - More depth usually means trades fill more smoothly with less slippage.
+    - Thin order books amplify price movements because small trades can move through multiple levels.
+    - Large clusters of bids or asks can suggest temporary support or resistance, not guarantees.
+    - Depth links directly to volatility and execution risk, especially for intraday trading.
+  subtopics:
+    - Bid vs ask: what they represent
+    - Depth vs top-of-book: why multiple levels matter
+    - Thick vs thin books: what changes for traders
+    - Basic support/resistance as “pressure zones,” not magic lines
+    - Execution risk: slippage and partial fills (simple intuition)
+  examples:
+    - Support level example: >
+        A stock shows large buy orders clustered at $99 and $100.
+        Traders may view these levels as temporary support, influencing entry and stop placement.
+    - Thin liquidity example: >
+        A small sell order causes a sharp price drop due to limited depth.
+        Demonstrates increased risk in low-liquidity environments.
+  common_mistakes:
+    - Treating order book signals as guarantees.
+    - Assuming a large order on the book must be “real” and will always hold.
+    - Ignoring that depth changes quickly and can vanish during fast markets.
+  questions_to_think:
+    - Why does deeper liquidity usually reduce slippage?
+    - Why can a thin book make a stock feel “jumpy” even without big news?
+
+intermediate:
+  title: "Intermediate: Order flow, short-term pressure, and session effects"
+  summary: >
+    Learn how traders interpret order flow (the movement of buys/sells over time), why depth shifts around the open/close,
+    and how news can rapidly change liquidity. The goal is to connect depth + flow to risk management decisions.
+  key_points:
+    - Order flow reflects short-term buying vs selling pressure and can change quickly.
+    - Depth often fluctuates around market open/close when participation and volatility shift.
+    - News events can cause liquidity withdrawal, widening spreads and reducing depth.
+    - Large bid/ask clusters can attract trader attention and influence short-term behavior.
+    - Thin markets increase the chance of stop-loss slippage and unexpected fills.
+    - Depth analysis is best paired with context (trend, volatility, news), not used alone.
+  subtopics:
+    - Order flow vs static depth: what “pressure” means
+    - Liquidity around open/close: why conditions change
+    - News and liquidity withdrawal: why the book can “disappear”
+    - Stops in thin markets: why risk management gets harder
+    - Practical read: when not to trade due to poor depth
+  examples:
+    - "Open volatility example: At the open, depth reshuffles and spreads widen briefly. A market order may get a worse fill than expected compared to a few minutes later."
+    - "News shock example: A headline hits, market makers pull quotes, and visible depth drops. Price moves faster because fewer resting orders absorb trades."
+  common_mistakes:
+    - Overreacting to one moment of order flow without confirming context.
+    - Trading aggressively at the open without accounting for wider spreads and unstable depth.
+    - Placing tight stops in thin conditions and getting stopped out by noise/slippage.
+  questions_to_think:
+    - How does order book depth change around market open?
+    - What clues might tell you liquidity is being pulled before a fast move?
+
+advanced:
+  title: "Advanced: Strategy mapping—scalping, momentum, reversals (and their failure modes)"
+  summary: >
+    Learn how depth and order flow are used in common intraday styles (scalping, momentum, reversal),
+    and why these strategies are fragile when liquidity regimes change. The emphasis is on disciplined execution and risk control.
+  key_points:
+    - Scalping depends on stable spreads and consistent depth; it breaks when liquidity thins or spreads widen.
+    - Momentum trading benefits when order flow aligns with trend, but is vulnerable to sudden liquidity withdrawal.
+    - Reversal strategies often look for exhaustion in order flow near perceived support/resistance, but can fail during news-driven moves.
+    - Depth “signals” can be spoofed or canceled; reliability depends on market conditions and participant behavior.
+    - Risk management must account for worst-case execution (slippage) when the book is thin.
+    - Strategy selection should match liquidity regime: calm, trending, or volatile/news-driven.
+  subtopics:
+    - Scalping: capturing small moves; spread and fee sensitivity
+    - Momentum: flow-following vs chasing; when momentum dies
+    - Reversals: absorption/exhaustion concepts (high-level)
+    - Failure modes: spoofing, cancellations, and regime shifts
+    - Execution discipline: sizing, stop placement, and avoiding thin conditions
+  examples:
+    - Scalping example: >
+        A trader exploits a brief liquidity gap to capture a small price movement.
+        Highlights how order book depth enables short-term strategies but requires speed and discipline.
+    - "Momentum failure example: A trader buys a breakout seeing strong bids, but bids vanish after a headline. Price snaps back because liquidity was not stable."
+    - "Reversal failure example: A trader fades a move into a big ask wall, but the wall is pulled and price continues higher—showing why resting orders are not guarantees."
+  common_mistakes:
+    - Treating support/resistance from the book as fixed levels rather than temporary liquidity zones.
+    - Assuming visible depth cannot disappear or be canceled.
+    - Using the same strategy in every regime (calm vs news vs open/close) and blaming “bad luck.”
+  questions_to_think:
+    - Why can small orders cause large moves in thin markets?
+    - Which strategy (scalping, momentum, reversal) is most sensitive to spread widening—and why?
+    - How would you change trade sizing when depth is unstable?
+
+definitions:
+  - term: Order Book Depth
+    definition: The amount of liquidity available at various price levels.
+  - term: Order Flow
+    definition: The movement and volume of buy and sell orders.
+  - term: Bid Price
+    definition: The highest price buyers are willing to pay.
+  - term: Ask Price
+    definition: The lowest price sellers are willing to accept.
+  - term: Support and Resistance
+    definition: Price levels where buying or selling pressure may slow price movement.
+  - term: Stop-Loss
+    definition: A predefined exit price to limit losses.
+
+common_mistakes:
+  - Treating order book signals as guarantees.
+  - Ignoring broader market context and news.
+  - Assuming visible liquidity is stable during volatile conditions.
+
+questions_to_think:
+  - How does order book depth change around market open?
+  - Why can small orders cause large moves in thin markets?
+
+source: https://bookmap.com/blog/the-importance-of-order-book-depth-in-day-trading

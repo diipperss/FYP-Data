@@ -1,0 +1,126 @@
+title: 5 Short Interest Metrics That Drive Stock Prices
+summary: >
+  Short interest metrics provide insight into bearish sentiment, market positioning, and potential supply-demand imbalances.
+  By analyzing how many shares are sold short and how easily those positions can be closed, investors can better assess short squeeze risk,
+  market conviction, and price volatility. This lesson explains the most important short interest metrics and how to interpret them.
+
+beginner:
+  title: "Beginner: What short interest means (and why it can move prices)"
+  summary: >
+    Learn the core idea: short sellers borrow shares, sell them, and must later buy them back. That “eventual buyback” can become future demand,
+    especially when many shares are shorted.
+  key_points:
+    - Short interest measures the number of shares sold short but not yet covered.
+    - High short interest often reflects bearish sentiment (or hedging), but it is not proof a company is “bad.”
+    - Short sellers must eventually buy shares back, creating future demand.
+    - Short interest data is delayed and should not be treated as real-time.
+    - Short squeezes happen when rising prices force shorts to buy back quickly, pushing prices higher.
+  subtopics:
+    - How short selling works (borrow → sell → buy back)
+    - Short interest as “positioning,” not a prediction
+    - Why forced buying can amplify rallies
+    - Data delay: why timing matters
+  examples:
+    - "Basic shorting example: A trader shorts 100 shares at $10 hoping to buy back at $7. If price rises to $15 instead, closing requires buying at a loss."
+    - Historical example: >
+        GameStop experienced short interest exceeding 100% of its float in 2021.
+        Extreme crowding led to forced buying and rapid price escalation.
+  common_mistakes:
+    - Treating high short interest as a guaranteed squeeze setup.
+    - Treating short interest as real-time data, even though reports are delayed.
+    - Confusing “shares short” with “percent short.”
+  questions_to_think:
+    - Why can short selling create future demand?
+    - Why is delayed reporting a problem for trading decisions?
+
+intermediate:
+  title: "Intermediate: The key metrics—short float %, short % of outstanding, and days to cover"
+  summary: >
+    Learn the main measurements used to judge crowding and exit difficulty. You’ll understand why the denominator (float vs outstanding)
+    changes interpretation, and how volume affects the ability of shorts to unwind.
+  key_points:
+    - Short float percentage shows how crowded a short trade is relative to tradable shares.
+    - Short % of outstanding shares gives a broader view including non-tradable holdings.
+    - Days to cover estimates how quickly shorts could exit based on average daily volume.
+    - A small float can make the same share count of shorts much riskier (crowding effect).
+    - Rising price + high days to cover can increase squeeze risk because exits become harder.
+  subtopics:
+    - Short interest (shares) vs short float % (crowding)
+    - Float vs outstanding: why they give different signals
+    - Days to cover = short interest ÷ average daily volume
+    - Volume dynamics: “can they actually get out?”
+  examples:
+    - Crowding example: >
+        Company A has 5 million shares short with a float of 20 million shares.
+        A high short float percentage indicates crowded positioning and higher squeeze risk.
+    - Liquidity example: >
+        A stock with 6 days to cover faces rising prices on heavy buying.
+        Shorts may struggle to exit quickly, increasing volatility.
+  common_mistakes:
+    - Confusing short float percentage with short interest numbers.
+    - Ignoring the impact of float size on short squeeze potential.
+    - Looking at days to cover without checking whether volume is stable or event-driven.
+  questions_to_think:
+    - How does days to cover affect short squeeze risk?
+    - Why can two stocks with the same shares short have very different squeeze risk?
+
+advanced:
+  title: "Advanced: Borrow cost, institutional ownership, and the squeeze ‘fuel’ mechanics"
+  summary: >
+    Learn the deeper forces that change squeeze dynamics: share availability to borrow, the cost of holding a short,
+    and how institutional ownership can reduce tradable float. You’ll also learn why short interest alone is insufficient.
+  key_points:
+    - Borrow fee is the cost to borrow shares and often rises when shares are scarce, pressuring shorts to cover.
+    - Institutional ownership can reduce effective tradable float, amplifying price moves when demand spikes.
+    - Short interest can reflect hedging (pairs, options) and not purely “bearish conviction.”
+    - Squeeze risk increases when crowding is high, borrow is tight/expensive, and liquidity is thin.
+    - Short interest metrics should be interpreted together with price/volume behavior and catalysts (news, earnings, index changes).
+    - Because data is delayed, risk can change faster than the reported numbers suggest.
+  subtopics:
+    - Borrow availability and borrow fee: “cost to stay short”
+    - Institutional holdings and float reduction (effective float concept)
+    - Positioning vs conviction: hedges and complex strategies
+    - Catalyst + liquidity: why squeezes tend to happen around events
+    - Practical read: combining metrics (crowding + days to cover + borrow fee + float)
+  examples:
+    - "Borrow fee example: A stock’s borrow fee spikes as shares become hard to borrow. Shorts face rising carrying costs and may cover earlier."
+    - "Institutional float example: If institutions hold most shares and rarely trade them, the remaining float can be thin—so incremental buying pressure moves price more."
+  common_mistakes:
+    - Failing to consider volume and relative strength in analyzing short interest.
+    - Assuming institutional ownership automatically stabilizes price (it can reduce float and increase squeezes).
+    - Treating any short squeeze story as investable without checking liquidity and risk controls.
+  questions_to_think:
+    - Why does high short interest increase volatility?
+    - Why can institutional ownership intensify price moves?
+    - Which combination of metrics would make you most cautious—and why?
+
+definitions:
+  - term: Short Interest
+    definition: The total number of shares that investors have sold short and not yet repurchased or covered.
+  - term: Short Float Percentage
+    definition: Short interest as a percentage of a stock’s float, indicating how crowded the short trade is.
+  - term: Float
+    definition: Shares available for public trading, excluding insider holdings and restricted stock.
+  - term: Short % of Outstanding Shares
+    definition: Short interest as a percentage of total shares outstanding, providing a different perspective than short float percentage.
+  - term: Short Squeeze
+    definition: A situation where a heavily shorted stock starts rising, forcing short sellers to buy back shares and driving prices higher.
+  - term: Days to Cover
+    definition: Short interest divided by average daily volume, estimating how many trading days it may take for shorts to cover.
+  - term: Borrow Fee
+    definition: The interest-like cost paid to borrow shares for short selling, which often rises when shares are scarce.
+  - term: Institutional Holdings
+    definition: Shares held by large investors such as mutual funds, pensions, and ETFs, which can reduce available float.
+
+common_mistakes:
+  - Confusing short float percentage with short interest numbers.
+  - Ignoring the impact of float size on short squeeze potential.
+  - Failing to consider volume and relative strength in analyzing short interest.
+  - Treating short interest as real-time data, even though reports are delayed.
+
+questions_to_think:
+  - Why does high short interest increase volatility?
+  - How does days to cover affect short squeeze risk?
+  - Why can institutional ownership intensify price moves?
+
+source: https://deepvue.com/fundamentals/short-interest/

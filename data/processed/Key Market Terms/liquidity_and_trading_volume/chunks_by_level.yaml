@@ -1,0 +1,126 @@
+title: Volume vs Liquidity
+summary: >
+  Volume and liquidity are closely related but fundamentally different concepts in financial markets.
+  Volume measures how many shares trade over a period of time, while liquidity describes how easily an asset can be bought
+  or sold at or near its current market price without causing large price changes. This lesson clarifies the distinction,
+  explains why liquidity matters more for most investors, and shows how tools like bid-ask spreads and order book depth
+  provide better insight than volume alone.
+
+beginner:
+  title: "Beginner: Volume = activity, Liquidity = how easy (and cheap) it is to trade"
+  summary: >
+    Learn the core difference: volume tells you how much trading happened; liquidity tells you whether you can trade quickly
+    near the current price without paying a big spread or moving the price. For most investors, liquidity is the one that bites your wallet.
+  key_points:
+    - Volume measures trading activity (how many shares traded).
+    - Liquidity measures ease and cost of trading near the current price.
+    - Liquidity reflects how quickly an asset can be traded with minimal price impact.
+    - Bid-ask spread is a clear real-time indicator of liquidity.
+    - High volume often helps liquidity, but it does not guarantee it.
+  subtopics:
+    - What volume measures (count of shares/contracts)
+    - What liquidity measures (tradability + cost)
+    - “Cheap to trade” vs “popular to trade”
+    - Bid-ask spread in simple terms
+    - Why investors care: execution quality and slippage
+  examples:
+    - High liquidity example: >
+        A large-cap stock trades millions of shares daily and consistently shows a narrow bid-ask spread.
+        Investors can enter and exit positions quickly with minimal trading costs or price slippage.
+    - Low volume example: >
+        A micro-cap stock trades only a few thousand shares per day.
+        Low liquidity increases execution risk, making it harder to buy or sell without moving the price.
+  common_mistakes:
+    - Assuming high volume always implies high liquidity.
+    - Treating low volume as poor performance rather than limited market participation.
+    - Ignoring bid-ask spreads when assessing tradability.
+  questions_to_think:
+    - If you need to sell quickly, which matters more: yesterday’s volume or today’s spread?
+    - Why can “active trading” still be expensive?
+
+intermediate:
+  title: "Intermediate: Spreads, depth, and why volume can mislead"
+  summary: >
+    Learn the practical tools that reveal liquidity better than volume: bid-ask spreads and order book depth.
+    You’ll understand average daily volume (ADV) as an activity metric—and why it doesn’t directly tell you trading cost.
+  key_points:
+    - High volume does not always guarantee high liquidity.
+    - Bid-ask spread reveals hidden trading costs in real time.
+    - Order book depth shows how much buying/selling interest exists across multiple price levels.
+    - Average daily volume (ADV) helps compare activity across time but does not capture trading costs.
+    - Liquidity is about the ability to transact near the mid-price without large slippage.
+  subtopics:
+    - Spread as a cost: why tight spreads matter
+    - Order book depth: why multiple levels matter
+    - ADV: what it’s good for (and what it’s not)
+    - Slippage and market impact (conceptual)
+    - When volume spikes can still come with bad liquidity (news/volatility)
+  examples:
+    - Volume vs liquidity example: >
+        Two stocks trade 500,000 shares per day, but one has a $0.01 spread while the other has a $0.30 spread.
+        Despite similar volume, the stock with the tighter spread is far more liquid and cheaper to trade.
+    - "News spike example: A stock’s volume surges on breaking news, but spreads widen and depth thins—so trading becomes more expensive despite higher activity."
+  common_mistakes:
+    - Using volume alone without considering order book depth.
+    - Assuming spreads are stable across the day (they often widen at open/close and during volatility).
+    - Equating “volume up” with “easy to trade now.”
+  questions_to_think:
+    - How can bid-ask spreads reveal hidden trading costs?
+    - In what situations might volume be misleading as a liquidity signal?
+
+advanced:
+  title: "Advanced: Liquidity as a risk factor—execution quality, strategy fit, and microstructure"
+  summary: >
+    Learn how liquidity affects real outcomes: execution quality, stop-loss reliability, and whether a strategy is viable.
+    You’ll connect volume/spread/depth to microstructure concepts like market impact and adverse selection.
+  key_points:
+    - Investors generally prioritize liquidity because it directly affects execution quality and risk.
+    - Liquidity risk shows up as slippage, partial fills, and price impact—especially for larger orders.
+    - Depth matters more than volume for large trades because it determines how far you must “walk the book.”
+    - Strategies with frequent trading (day trading/scalping) are highly sensitive to spreads and depth, not just volume.
+    - Liquidity can disappear during stress, making historical ADV a weak guide to worst-case execution.
+    - A robust evaluation uses multiple signals together: spread + depth + volatility + session conditions.
+  subtopics:
+    - Execution quality: spread cost vs market impact
+    - Depth and “walking the book” (conceptual link)
+    - Stop-loss behavior in thin liquidity (gaps and slippage)
+    - Liquidity regimes: calm vs volatile vs open/close
+    - Practical checklist: when to avoid trading due to poor liquidity
+  examples:
+    - "Large order example: Two stocks have similar ADV, but one has shallow depth. A large market order in the shallow book moves through levels, producing worse average fills."
+    - "Stress example: During a market shock, spreads widen and depth vanishes. Liquidity risk becomes the dominant risk even if the company fundamentals didn’t change."
+  common_mistakes:
+    - Treating ADV as a guarantee of liquidity during volatile events.
+    - Ignoring liquidity when sizing positions (position too big to exit safely).
+    - Using market orders in thin books and being surprised by market impact.
+  questions_to_think:
+    - Why does liquidity matter more than volume when entering or exiting trades?
+    - How would you judge whether an asset is tradable for your position size?
+    - What signals would warn you that liquidity could vanish quickly?
+
+definitions:
+  - term: Liquidity
+    definition: The ease with which an asset can be bought or sold quickly at its market price with minimal price impact.
+  - term: Volume
+    definition: The number of shares or contracts traded in a security over a specific period.
+  - term: Bid-Ask Spread
+    definition: The difference between the highest price buyers are willing to pay and the lowest price sellers are willing to accept.
+  - term: Average Daily Volume (ADV)
+    definition: The average number of shares traded per day over a defined period.
+  - term: Order Book
+    definition: A real-time list of buy and sell orders that shows market depth at different prices.
+  - term: Slippage
+    definition: The difference between the expected price of a trade and the price at which it is executed.
+
+common_mistakes:
+  - Assuming high volume always implies high liquidity.
+  - Ignoring bid-ask spreads when assessing tradability.
+  - Treating low volume as poor performance rather than limited market participation.
+  - Using volume alone without considering order book depth.
+
+questions_to_think:
+  - Why does liquidity matter more than volume when entering or exiting trades?
+  - How can bid-ask spreads reveal hidden trading costs?
+  - In what situations might volume be misleading as a liquidity signal?
+
+source: https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/volume-vs-liquidity/

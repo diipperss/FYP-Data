@@ -1,0 +1,87 @@
+by_level:
+  beginner: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: A broker helps you buy and sell securities on markets you can’t access ___ .
+        options: [A, B, C, D]
+        answer: A
+      - type: drag_drop
+        question: Match the term to its definition.
+        drag_drop:
+          prompt: Drag the terms to their definitions.
+          pairs:
+            - left: Commissions
+              right: Fees paid to a broker for executing a trade.
+            - left: AUM
+              right: Assets under management, a way brokers are compensated.
+            - left: Securities
+              right: Stocks, bonds, and other financial instruments.
+        answer: Commissions - Fees paid to a broker for executing a trade., AUM - Assets under management, a way brokers are compensated., Securities - Stocks, bonds, and other financial instruments.
+      - type: case_study_mcq
+        scenario: Maria wants to buy stocks but doesn’t want to pay high fees for investment advice. She wants to make her own decisions. Which type of broker is best for her?
+        question: What type of broker is best for Maria?
+        options: [A, B, C, D]
+        answer: A
+      - type: true_false
+        question: A broker always provides financial advice to their clients.
+        answer: false
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: An agency broker primarily aims to execute trades solely in the client's best interest, avoiding ____ conflicts of interest.
+        options: [A, B, C, D]
+        answer: A
+        options: [A. direct, B. indirect, C. hidden, D. potential]
+      - type: drag_drop
+        question: Match the broker type to its primary revenue source.
+        drag_drop:
+          prompt: Drag the broker type to its corresponding revenue source.
+          pairs:
+            - left: Agency Broker
+              right: Commissions
+            - left: Discount Broker
+              right: Subscription Fees
+            - left: Full-Service Broker
+              right: AUM Fees
+        answer: Agency Broker - Commissions, Discount Broker - Subscription Fees, Full-Service Broker - AUM Fees
+      - type: case_study_mcq
+        scenario: Sarah, a retail investor, notices that her broker consistently fills her orders at prices slightly worse than the mid-price, even in liquid stocks. She’s paying a standard commission. What is the MOST likely explanation for this?
+        question: What is the MOST likely explanation?
+        options: [A, B, C, D]
+        answer: A
+        options: [A. The broker may be prioritizing order flow to other venues for rebates, impacting execution quality, B. Sarah is simply unlucky and experiencing random price fluctuations, C. The commission is the only cost Sarah should consider, D. Sarah’s broker is intentionally manipulating the market]
+      - type: true_false
+        question: Breaking a large order into smaller trades can potentially reduce market impact and improve execution price.
+        answer: true
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: The principle of ____ mandates that brokers must act in their clients’ best interests when providing investment advice.
+        options: [A, Fiduciary, B, Suitability, C, Disclosure, D, KYC]
+        answer: A
+      - type: drag_drop
+        question: Match the regulatory terms with their descriptions.
+        drag_drop:
+          prompt: Drag the term to its corresponding definition.
+          pairs:
+            - left: KYC
+              right: Know Your Customer
+            - left: Suitability
+              right: Recommending investments appropriate for a client’s risk tolerance and financial goals
+            - left: Execution-Only
+              right: Providing brokerage services without offering investment advice
+        answer: KYC - Know Your Customer, Suitability - Recommending investments appropriate for a client’s risk tolerance and financial goals, Execution-Only - Providing brokerage services without offering investment advice
+      - type: case_study_mcq
+        scenario: A client informs their broker they are nearing retirement and seeking low-risk investments to preserve capital. The broker aggressively pushes a high-yield, complex structured product with substantial fees, despite the client’s stated risk aversion.
+        question: Which of the following best describes the potential ethical and regulatory issue in this scenario?
+        options: [A, The broker is fulfilling a fiduciary duty by seeking high returns, B, The broker’s recommendation violates the suitability standard, C, The client is solely responsible for their investment decisions, D, The broker is simply educating the client about a potentially profitable investment]
+        answer: B
+      - type: true_false
+        question: Disclosure requirements regarding conflicts of interest are universally standardized across all jurisdictions.
+        answer: false
+    ```

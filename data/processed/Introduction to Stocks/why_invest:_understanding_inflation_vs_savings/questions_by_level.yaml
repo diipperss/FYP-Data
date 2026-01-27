@@ -1,0 +1,100 @@
+by_level:
+  beginner: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Saving is for ___ needs, while investing is for long-term goals.
+        options: [A, B, C, D]
+        answer: A
+      - type: drag_drop
+        question: Match the term to its description.
+        drag_drop:
+          prompt: Drag the words to their correct matches.
+          pairs:
+            - left: Saving
+              right: Short-term goals
+            - left: Investing
+              right: Long-term growth
+            - left: Emergency fund
+              right: Savings
+        answer: Saving - Short-term goals, Investing - Long-term growth, Emergency fund - Savings
+      - type: case_study_mcq
+        scenario: Maria wants to buy a car in six months. She has some extra money. Should she invest it in the stock market or put it in a savings account?
+        question: What is the best option for Maria?
+        options: [A, B, C, D]
+        answer: A
+      - type: true_false
+        question: Investing always guarantees a high return.
+        answer: false
+    ```
+    A: Short-term
+    B: Long-term
+    C: Immediate
+    D: Unexpected
+    ```
+    ```
+    A: Invest it in the stock market.
+    B: Put it in a savings account.
+    C: Spend it on something fun.
+    D: Give it to a friend.
+    ```
+    ```
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Even though a savings account is safe, it might struggle to outpace ____, which reduces the purchasing power of your money.
+        options: [A. inflation, B. volatility, C. diversification, D. liquidity]
+        answer: A
+      - type: drag_drop
+        question: Match the term to its description.
+        drag_drop:
+          prompt: Drag the term to the correct description.
+          pairs:
+            - left: Compound Growth
+              right: Earnings generate earnings on prior earnings.
+            - left: Inflation
+              right: A general increase in prices and fall in the purchasing value of money.
+            - left: Volatility
+              right: The degree of variation of a financial instrument’s price over time.
+        answer: Compound Growth - Earnings generate earnings on prior earnings. Inflation - A general increase in prices and fall in the purchasing value of money. Volatility - The degree of variation of a financial instrument’s price over time.
+      - type: case_study_mcq
+        scenario: Maria is 25 and wants to buy a house in 10 years. She has $5,000 saved and plans to contribute $200 per month. She's unsure whether to keep her savings in a high-yield savings account (earning 2% annually) or invest in a diversified stock portfolio (with an expected return of 7% annually, but also higher volatility). Given her 10-year timeframe, what is the most suitable option?
+        question: Which strategy is likely to best help Maria achieve her goal of buying a house?
+        options: [A. The savings account, as it guarantees a safe return. B. The stock portfolio, as the higher expected return can outweigh the volatility over 10 years. C. A mix of both, allocating 50% to each. D. Delaying the purchase until she has enough cash saved.]
+        answer: B
+      - type: true_false
+        question: Investing is generally recommended for short-term goals, like buying a car next year, due to its potential for high returns.
+        answer: false
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: A key benefit of using goal-based "___" is that it protects money needed for near-term expenses from market volatility.
+        options: [A, B, C, D]
+        answer: A
+        options: [A. buckets, B. allocations, C. diversifications, D. portfolios]
+      - type: drag_drop
+        question: Match the following financial goals to the appropriate asset allocation timeframe.
+        drag_drop:
+          prompt: Drag the goal to the timeframe.
+          pairs:
+            - left: Buying a house in 5 years
+              right: Medium-term
+            - left: Retirement savings
+              right: Long-term
+            - left: Emergency fund
+              right: Short-term
+        answer: Correct
+      - type: case_study_mcq
+        scenario: An investor, Sarah, has $100,000. She wants to buy a new car in two years, save for her children's college education, and retire comfortably in 30 years. Which approach best aligns with her goals and risk tolerance?
+        question: What is the most appropriate asset allocation strategy for Sarah?
+        options: [A, B, C, D]
+        answer: A
+        options: [A. Allocate a portion to short-term, low-risk investments for the car, a medium-term portfolio for education, and a long-term, growth-oriented portfolio for retirement., B. Invest the entire $100,000 in high-growth stocks to maximize returns for all goals., C. Keep all $100,000 in a high-yield savings account to ensure safety and liquidity., D. Invest a small portion in bonds and the rest in real estate.]
+      - type: true_false
+        question: Diversification guarantees the elimination of investment risk, regardless of market conditions.
+        answer: false
+    ```

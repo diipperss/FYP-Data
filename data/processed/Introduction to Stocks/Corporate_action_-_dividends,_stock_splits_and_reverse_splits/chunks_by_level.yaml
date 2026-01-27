@@ -1,0 +1,140 @@
+title: Understanding Corporate Actions
+summary: >
+  This lesson explains corporate actions as strategic decisions that alter share structure, ownership, or investor returns.
+  It links these actions to earlier concepts such as share count, valuation, and shareholder rights, helping investors
+  understand how corporate decisions translate into portfolio outcomes.
+
+beginner:
+  title: "Beginner: What corporate actions are (and why you should care)"
+  summary: >
+    Learn what corporate actions are, the most common types you’ll see as a shareholder, and the simple idea behind them:
+    companies can change share structure or distribute value, which can change what you own or what you receive.
+  key_points:
+    - Corporate actions are company-initiated events that directly affect shareholders.
+    - They can change share count, ownership structure, or cash flows to investors.
+    - Some corporate actions pay you value directly (dividends); others change how shares are packaged (splits).
+    - Corporate actions do not automatically make you richer; they change structure, not fundamentals.
+    - Brokerages typically notify investors and show corporate actions in portfolio tools.
+  subtopics:
+    - Corporate action vs normal price movement
+    - Cash payouts (dividends) vs structural changes (splits)
+    - What “share ownership” means in practice
+    - How broker platforms show corporate actions and notifications
+  examples:
+    - Dividend example: >
+        A company declares a cash dividend of $0.50 per share.
+        An investor holding 100 shares receives $50 in cash.
+        Dividends represent a direct return on investment and can influence total shareholder yield.
+        Shareholders gain immediate income without selling shares.
+        The stock price may adjust downward on the ex-dividend date to reflect the payout.
+    - "Simple split intuition: If you own 10 shares and the company does a 2-for-1 split, you own 20 shares at about half the price each—your total value is roughly unchanged (ignoring market moves)."
+  common_mistakes:
+    - Thinking a stock split creates value by itself.
+    - Ignoring broker notifications and being surprised by portfolio changes.
+  questions_to_think:
+    - If a split doesn’t change fundamentals, why might the market still react?
+    - Which corporate actions affect you through cash vs through share count?
+
+intermediate:
+  title: "Intermediate: Voluntary vs mandatory actions and how portfolio outcomes change"
+  summary: >
+    Learn how corporate actions are classified, how they flow through brokerage systems, and how they impact share count,
+    price, and investor returns. You’ll also learn key dates and what to watch for.
+  key_points:
+    - Corporate actions can be mandatory (automatic for all shareholders) or voluntary (requires investor choice).
+    - Splits and reverse splits adjust share count and price without directly changing total investment value at the moment of the action.
+    - Dividends distribute cash and can affect the stock price around the ex-dividend date.
+    - Spin-offs redistribute ownership by giving shareholders shares in a new company.
+    - Voluntary actions have deadlines; missing them can reduce benefits or force a default outcome.
+    - Brokerages provide tools and notices to track events, elections, and deadlines.
+  subtopics:
+    - Mandatory vs voluntary corporate actions (clear examples)
+    - Key dates (high-level): declaration, ex-date, record date, payable date (conceptual)
+    - How share count and price mechanically adjust
+    - Dividend mechanics and why price often adjusts on ex-date
+    - Spin-offs: what you receive and why it can change your portfolio composition
+  examples:
+    - Forward stock split example: >
+        A company with 10 million shares priced at $9 each executes a 3-for-1 forward stock split.
+        The total number of shares increases to 30 million, and the share price adjusts to $3.
+        Each shareholder’s proportional ownership remains unchanged, but the lower price can make shares more accessible to small investors and may improve liquidity.
+        Investors now hold three times the number of shares they previously owned.
+        The total investment value remains the same, but they can trade shares more easily due to the lower per-share price.
+    - Reverse stock split example: >
+        A company with 10 million shares priced at $9 each executes a 1-for-2 reverse stock split.
+        The total number of shares reduces to 5 million, and the share price increases to $18.
+        Reverse splits are often used to maintain minimum listing requirements or enhance the perceived value of a stock.
+        Each investor’s total investment value stays the same, but the number of shares held decreases.
+        Reverse splits may reduce the number of small shareholders and can affect liquidity.
+    - Spin-off example: >
+        A parent company creates a new independent subsidiary and distributes its shares to existing shareholders.
+        For example, a shareholder holding 100 shares of the parent company may receive 10 shares of the new company.
+        Investors gain ownership in a separate business in addition to their original holdings.
+        Spin-offs allow shareholders to participate in growth potential of the new company while retaining their stake in the parent company.
+  common_mistakes:
+    - Ignoring voluntary action deadlines and losing potential benefits.
+    - Misreading reverse splits as “the company improved” rather than a structural change (often done for compliance).
+    - Forgetting that dividends can reduce price mechanically on ex-date (total value = stock + cash, ignoring market moves).
+  questions_to_think:
+    - What is the difference between a voluntary and a mandatory corporate action?
+    - Why can a reverse split improve a stock’s “look” without improving its business?
+    - How do spin-offs change what you own even if you did nothing?
+
+advanced:
+  title: "Advanced: Corporate actions, valuation, and investor strategy"
+  summary: >
+    Learn the strategic “why” behind corporate actions and how to interpret them with valuation and incentives.
+    You’ll connect actions to signaling, liquidity, shareholder rights, and long-term portfolio planning.
+  key_points:
+    - Corporate actions can be strategic signals: management may optimize liquidity, investor base, or capital return.
+    - Splits may improve accessibility and trading liquidity, but don’t change intrinsic value.
+    - Reverse splits can help meet listing rules but may also reflect underlying business stress; context matters.
+    - Dividends can indicate mature cash generation, but may limit reinvestment; total return matters more than payout alone.
+    - Spin-offs can “unlock” value by separating businesses, changing valuation multiples and focus.
+    - Investor decisions should consider taxes, reinvestment, portfolio rebalancing, and thesis alignment (jurisdiction-dependent).
+  subtopics:
+    - Why companies choose splits (liquidity, optics, accessibility)
+    - Reverse splits: compliance vs distress interpretation
+    - Dividends: payout ratios, sustainability, and total return framing
+    - Spin-offs: sum-of-the-parts logic and multiple re-rating (conceptual)
+    - Investor actions: reinvest/dividend strategy, rebalancing after spin-offs
+  examples:
+    - "Dividend strategy example: An investor focused on income prefers stable dividend payers, while a growth-focused investor prioritizes reinvestment—both should compare total return, not just payout."
+    - "Spin-off valuation example: After a spin-off, the market may value the high-growth subsidiary at a higher multiple than the parent previously received, changing perceived value even if operations are unchanged."
+  common_mistakes:
+    - Treating splits as value creation instead of a packaging change.
+    - Assuming reverse splits are always bad or always good (context matters).
+    - Ignoring tax and portfolio impact after dividends or spin-offs (rules vary by country).
+  questions_to_think:
+    - How do corporate actions reinforce the concept of share ownership?
+    - Why do companies use stock splits or reverse splits instead of changing fundamentals?
+    - How should investors prepare for voluntary corporate actions?
+    - What corporate action would most likely change your portfolio composition overnight, and why?
+
+definitions:
+  - term: Corporate Action
+    definition: A company-initiated event that changes shareholder value, structure, or payouts.
+  - term: Voluntary Corporate Action
+    definition: An action requiring shareholder participation or decision.
+  - term: Mandatory Corporate Action
+    definition: An action automatically applied to all shareholders.
+  - term: Dividend
+    definition: A payment distributed to shareholders from company earnings.
+  - term: Stock Split
+    definition: An increase in shares outstanding accompanied by a proportional price reduction.
+  - term: Reverse Stock Split
+    definition: A reduction in shares outstanding with a corresponding price increase.
+  - term: Spin-off
+    definition: The creation of an independent company whose shares are distributed to existing shareholders.
+
+common_mistakes:
+  - Ignoring voluntary action deadlines and losing potential benefits.
+  - Misinterpreting stock splits as value creation.
+  - Overreacting to corporate actions without checking fundamentals and context.
+
+questions_to_think:
+  - How do corporate actions reinforce the concept of share ownership?
+  - Why do companies use stock splits or reverse splits instead of changing fundamentals?
+  - How should investors prepare for voluntary corporate actions?
+
+source: https://investor.vanguard.com/investor-resources-education/online-trading/corporate-actions

@@ -1,0 +1,85 @@
+by_level:
+  beginner: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: A market ___ tracks a group of stocks to represent a market segment.
+        options: [A, benchmark, B, index, C, portfolio, D, fund]
+        answer: B
+      - type: drag_drop
+        question: Match the index to what it is known for.
+        drag_drop:
+          prompt: Drag the index name to its description.
+          pairs:
+            - left: S&P 500
+              right: Large U.S. companies
+            - left: Nasdaq Composite
+              right: Tech and growth companies
+            - left: Dow Jones
+              right: 30 major companies
+        answer: S&P 500 - Large U.S. companies, Nasdaq Composite - Tech and growth companies, Dow Jones - 30 major companies
+      - type: case_study_mcq
+        scenario: A headline reads, "The Dow Jones Industrial Average is up 250 points today."  You know that the Dow is a price-weighted index. What should you consider before concluding this is a significant event?
+        question: What is the most important thing to consider?
+        options: [A, The number of points, B, The percentage change, C, The time of year, D, The company names in the index]
+        answer: B
+      - type: true_false
+        question: Indices are used to compare your investments to “the market.”
+        answer: true
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: The ___ weighting method used by the Dow Jones Industrial Average gives greater influence to higher-priced stocks.
+        options: [A, B, C, D]
+        answer: A
+      - type: drag_drop
+        question: Match the index with its key characteristic.
+        drag_drop:
+          prompt: Drag the index to its description.
+          pairs:
+            - left: S&P 500
+              right: Market-cap weighted
+            - left: Nasdaq Composite
+              right: Technology/Growth Tilt
+            - left: Dow Jones
+              right: Price-weighted
+        answer: S&P 500 - Market-cap weighted, Nasdaq Composite - Technology/Growth Tilt, Dow Jones - Price-weighted
+      - type: case_study_mcq
+        scenario: An investor notices that their diversified equity portfolio underperformed the S&P 500 over a five-year period. What is the most important factor to investigate first?
+        question: What should the investor investigate first to explain the underperformance?
+        options: [A, B, C, D]
+        answer: A
+      - type: true_false
+        question: Sector concentration within an index can lead to periods of both outperformance and underperformance.
+        answer: true
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: The concept of ___ highlights how a small number of constituents can disproportionately impact an index's overall performance.
+        options: [A. diversification, B. concentration, C. volatility, D. breadth]
+        answer: B
+      - type: drag_drop
+        question: Match the following index characteristics with their potential impact on investment outcomes.
+        drag_drop:
+          prompt: Drag the index characteristic to its corresponding impact.
+          pairs:
+            - left: Market-Cap Weighting
+              right: Higher concentration risk
+            - left: Equal Weighting
+              right: Reduced concentration risk
+            - left: Sector Tilting
+              right: Increased exposure to specific sectors
+        answer: Market-Cap Weighting - Higher concentration risk, Equal Weighting - Reduced concentration risk, Sector Tilting - Increased exposure to specific sectors
+      - type: case_study_mcq
+        scenario: An investor notices the S&P 500 is up 3% for the year, but further investigation reveals that only 10 stocks contributed to the majority of the gains, while the remaining 490 stocks showed little to no movement.
+        question: What is the most accurate interpretation of this situation?
+        options: [A. The market is experiencing broad-based growth, indicating a healthy economy, B. The index’s performance is driven by a few large companies, potentially masking underlying weakness, C. The S&P 500 is an unreliable indicator of market performance, D. The remaining 490 stocks are simply underperforming due to temporary market conditions.]
+        answer: B
+      - type: true_false
+        question: Selecting a specific index as a benchmark inherently represents a strategic investment choice, influencing the portfolio's overall exposure.
+        answer: true
+    ```

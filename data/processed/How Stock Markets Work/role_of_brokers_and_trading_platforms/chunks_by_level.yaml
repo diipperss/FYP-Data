@@ -1,0 +1,131 @@
+title: What Is a Broker?
+summary: >
+  This lesson explains the role of brokers as intermediaries between investors and financial markets.
+  It covers different broker types, how they earn revenue, the services they provide, and the regulatory
+  responsibilities they carry, helping investors understand how trades are routed and executed.
+
+beginner:
+  title: "Beginner: What a broker does (your gateway to the market)"
+  summary: >
+    Learn what a broker is, why you need one to trade on exchanges, and what you actually get when you use
+    a brokerage app. You’ll also learn the basic difference between brokers and advisors.
+  key_points:
+    - A broker is an intermediary that helps you buy and sell securities on markets you can’t access directly.
+    - Broker platforms provide tools to place orders, see prices, and track holdings.
+    - Discount brokers mainly execute trades; full-service brokers may also provide advice and research.
+    - Brokers make money through commissions, fees, or assets under management (AUM).
+    - Your costs include more than commissions: spreads and execution quality matter too.
+    - Brokers and financial advisors are not always the same role; “advice” can have different standards.
+  subtopics:
+    - Why you typically can’t trade directly on an exchange
+    - What a brokerage account is (high-level)
+    - Discount vs full-service brokers (simple comparison)
+    - How brokers earn money (commissions, fees, AUM)
+    - Broker vs advisor: execution vs advice (basic distinction)
+  examples:
+    - Broker type example: >
+        A retail investor uses a discount broker app to place a limit order without receiving investment advice.
+        Lower costs improve long-term returns, but responsibility for decision-making rests entirely with the investor.
+    - "Platform tools example: A broker app lets you set a limit order, view bid/ask quotes, and see your portfolio performance in one place."
+  common_mistakes:
+    - Assuming “commission-free” means “free” (execution quality and spreads still matter).
+    - Confusing a broker (trade execution) with a financial advisor (ongoing advice).
+    - Picking a broker based only on the app UI and ignoring fees, protections, and execution.
+  questions_to_think:
+    - If a broker charges no commission, what other costs might you still pay?
+    - What’s the difference between using a broker for execution and paying for advice?
+
+intermediate:
+  title: "Intermediate: Broker types, incentives, and trade routing"
+  summary: >
+    Learn how different broker business models affect your outcomes. You’ll connect broker incentives to
+    costs like execution quality, and understand how orders get routed to venues for filling.
+  key_points:
+    - Brokers can be agency brokers (execute for clients) or may route orders to other firms/venues for execution.
+    - Business models shape incentives: commissions, subscription fees, AUM fees, interest on cash, and other revenue sources.
+    - Execution quality can matter as much as explicit fees, especially in fast or illiquid markets.
+    - Large orders may be split into smaller trades to reduce market impact and improve average execution.
+    - Understanding broker incentives helps investors evaluate conflicts of interest and total trading costs.
+  subtopics:
+    - Agency broker concept vs broker routing (high-level)
+    - How orders reach the market: routing and execution (conceptual)
+    - Total cost of trading: commissions + spread + slippage (high-level)
+    - Order handling for large trades (splitting/chunking concept)
+    - What to look for: transparency, reporting, and pricing
+  examples:
+    - Trade execution example: >
+        A high-net-worth investor places a large order through a broker, who breaks it into smaller trades
+        to reduce market impact.
+        Improves execution price and minimizes visible disruption to the order book.
+    - "Execution vs fees example: Two brokers charge the same commission, but one regularly fills closer to the mid-price in liquid stocks—meaning lower hidden cost over time."
+  common_mistakes:
+    - Comparing brokers only by commission and ignoring execution quality.
+    - Assuming all brokers route orders the same way.
+    - Using market orders in thin liquidity and blaming the broker for predictable slippage.
+  questions_to_think:
+    - Why is trade execution quality as important as commission costs?
+    - What information would you want from a broker to judge whether it is giving you good execution?
+
+advanced:
+  title: "Advanced: Regulation, investor protection, and conflicts of interest"
+  summary: >
+    Learn the regulatory responsibilities brokers carry and how investor protections work in practice.
+    You’ll understand KYC, suitability/fiduciary concepts, and how conflicts of interest can appear depending
+    on whether the broker is providing advice or only execution.
+  key_points:
+    - Brokers must follow KYC rules to verify identity and assess risk appropriateness for certain products.
+    - Standards differ depending on whether the service is execution-only or includes investment advice.
+    - Conflicts of interest can arise from how brokers are compensated; understanding incentives improves decision-making.
+    - Regulatory oversight exists to protect investors and promote fair, transparent markets (jurisdiction-dependent).
+    - Execution quality reporting and disclosures help investors evaluate whether a broker’s practices align with client interests.
+    - The term “broker” can also apply in real estate, but the regulatory framework and duties differ from securities brokers.
+  subtopics:
+    - KYC and product access controls (why brokers ask questions)
+    - Fiduciary vs non-fiduciary contexts (conceptual)
+    - Conflicts of interest: compensation-driven behavior (high-level)
+    - Oversight and investor protections (high-level; varies by country)
+    - Securities brokers vs real estate brokers (why the term overlaps)
+  examples:
+    - Regulatory example: >
+        A broker verifies a client’s identity and risk profile before allowing derivatives trading.
+        Protects investors from inappropriate risk exposure and supports market integrity.
+    - "Advice vs execution example: A full-service broker recommends a product and charges an ongoing fee (AUM). This creates different incentives than a discount broker that only executes trades."
+  common_mistakes:
+    - Assuming “regulated” means “no conflicts exist.”
+    - Believing all brokers must act as fiduciaries in every interaction (standards depend on service type and jurisdiction).
+    - Mixing up real estate broker rules with securities broker rules.
+  questions_to_think:
+    - How does a broker’s business model affect investor outcomes?
+    - When might a full-service broker be preferable to a discount broker?
+    - What protections would you want a broker to provide before letting you trade high-risk products?
+
+definitions:
+  - term: Broker
+    definition: An individual or firm that acts as an intermediary between investors and securities exchanges, charging fees or commissions for their services.
+  - term: Full-service broker
+    definition: A broker that offers a variety of services, including research, advice, and portfolio management.
+  - term: Discount broker
+    definition: A broker that provides more limited services at lower costs, typically focusing on executing trades.
+  - term: Agency broker
+    definition: A broker that acts as an agent for clients, executing trades without holding inventory of shares.
+  - term: AUM
+    definition: Assets Under Management, referring to the total value of assets that a financial planner or broker manages for their clients.
+  - term: KYC (Know Your Customer)
+    definition: Rules that require brokers to verify customer identity and risk profile.
+  - term: Fiduciary
+    definition: A duty to act in the best interest of the client.
+  - term: Commission
+    definition: A fee paid to a broker for executing a trade.
+
+common_mistakes:
+  - Confusing the roles of brokers and financial advisors, as they have different regulatory standards and compensation structures.
+  - Assuming all brokers operate the same way, not recognizing the differences between full-service, discount, and agency brokers.
+  - Not understanding the distinction between financial and real estate brokers, which have different regulatory frameworks.
+  - Focusing only on visible fees and ignoring hidden execution costs.
+
+questions_to_think:
+  - How does a broker’s business model affect investor outcomes?
+  - When might a full-service broker be preferable to a discount broker?
+  - Why is trade execution quality as important as commission costs?
+
+source: https://www.investopedia.com/terms/b/broker.asp

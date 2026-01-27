@@ -1,0 +1,85 @@
+by_level:
+  beginner: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: A ___ is when a company automatically gives shareholders shares in a new, independent company.
+        options: [A. carve-out, B. spin-off, C. split-off, D. merger]
+        answer: B
+      - type: drag_drop
+        question: Match the term with its description.
+        drag_drop:
+          prompt: Drag the correct term to the description.
+          pairs:
+            - left: Spin-off
+              right: Shares are distributed automatically.
+            - left: Split-off
+              right: Shareholders choose to exchange shares.
+            - left: Carve-out
+              right: A minority stake is sold through an IPO.
+        answer: Spin-off: Shares are distributed automatically. Split-off: Shareholders choose to exchange shares. Carve-out: A minority stake is sold through an IPO.
+      - type: case_study_mcq
+        scenario: A large company owns a fast-growing tech division and a slow-growing manufacturing division.  They want to make each business easier to understand for investors. What is the BEST first step to consider?
+        question: What separation method would be best to initially separate these businesses?
+        options: [A. a spin-off, B. a split-off, C. a carve-out, D. a merger]
+        answer: A
+      - type: true_false
+        question: A split-off requires shareholders to actively choose whether to keep their parent company shares or exchange them for shares in the new business.
+        answer: true
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: In a ____, existing shareholders typically receive shares of the subsidiary company, maintaining ownership in both the parent and the spun-off entity.
+        options: [A, Split-off, B, Carve-out, C, Spin-off, D, Exchange Offer]
+        answer: C
+      - type: drag_drop
+        question: Match the term with its description.
+        drag_drop:
+          prompt: Drag the terms to their corresponding descriptions.
+          pairs:
+            - left: Exchange Ratio
+              right: The proportion of subsidiary shares received for each parent share tendered.
+            - left: Carve-out
+              right: A method of raising cash by selling a minority stake in an IPO.
+            - left: Split-off
+              right: Allows shareholders to exchange parent shares for subsidiary shares.
+        answer: Exchange Ratio - The proportion of subsidiary shares received for each parent share tendered. Carve-out - A method of raising cash by selling a minority stake in an IPO. Split-off - Allows shareholders to exchange parent shares for subsidiary shares.
+      - type: case_study_mcq
+        scenario: Bristol-Myers Squibb’s split-off of Mead Johnson gave shareholders the option to exchange parent company shares for subsidiary shares at a 0.6313 ratio. Shareholders had to evaluate which business they preferred to hold, directly affecting their exposure and risk.
+        question: What was the primary effect of this split-off on Bristol-Myers Squibb shareholders?
+        options: [A, They received cash from the transaction., B, They gained direct control over Mead Johnson., C, They had to choose between exposure to Bristol-Myers Squibb or Mead Johnson., D, They were forced to sell their shares in both companies.]
+        answer: C
+      - type: true_false
+        question: A carve-out structure allows the parent company to retain complete control over the subsidiary after the IPO.
+        answer: true
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: A split-off can potentially improve a company's valuation by altering its _____, allowing investors to better assess each entity's individual prospects.
+        options: [A. leverage, B. brand recognition, C. per-share metrics, D. geographic reach]
+        answer: C
+      - type: drag_drop
+        question: Match the restructuring type with its primary outcome.
+        drag_drop:
+          prompt: Drag the restructuring type to its corresponding outcome.
+          pairs:
+            - left: Spin-off
+              right: Reveals hidden value through separate valuation.
+            - left: Carve-out
+              right: Provides cash for debt reduction or reinvestment.
+            - left: Split-off
+              right: Alters per-share metrics through share exchange and retirement.
+        answer: Spin-off - Reveals hidden value through separate valuation., Carve-out - Provides cash for debt reduction or reinvestment., Split-off - Alters per-share metrics through share exchange and retirement.
+      - type: case_study_mcq
+        scenario: Baxter International spun off Baxalta as a standalone company. Shareholders received shares in both companies, allowing separate valuation of the biotech business. Investors can assess and invest in the new company independently. Baxalta’s eventual acquisition by Shire Pharmaceuticals illustrates how spin-offs can reveal hidden value.
+        question: According to the example, what is a key benefit of a spin-off?
+        options: [A. It always results in an immediate increase in share price. B. It allows for a more precise valuation of individual business units. C. It guarantees a successful acquisition of the spun-off entity. D. It eliminates all tax implications for shareholders.]
+        answer: B
+      - type: true_false
+        question: Post-separation performance is solely determined by the deal structure employed.
+        answer: false
+    ```

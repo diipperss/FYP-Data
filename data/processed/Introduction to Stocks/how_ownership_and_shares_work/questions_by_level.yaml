@@ -1,0 +1,85 @@
+by_level:
+  beginner: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: A ___ is a unit of ownership in a company.
+        options: [A. Bond, B. Share, C. Loan, D. Dividend]
+        answer: B
+      - type: drag_drop
+        question: Match the term with its definition.
+        drag_drop:
+          prompt: Drag the terms to their correct definitions.
+          pairs:
+            - left: Share
+              right: A unit of ownership in a company.
+            - left: Equity
+              right: Ownership stake in a company.
+            - left: Dividend
+              right: A payment made to shareholders from company profits.
+        answer: Share - A unit of ownership in a company., Equity - Ownership stake in a company., Dividend - A payment made to shareholders from company profits.
+      - type: case_study_mcq
+        scenario: Maria owns 100 shares of a company with 10,000 total shares. The company makes a large profit. What does this likely mean for Maria?
+        question: What is Maria’s likely outcome?
+        options: [A. She will lose all of her money, B. She will receive a portion of the profits, C. The company will owe her money, D. She will have to repay the company]
+        answer: B
+      - type: true_false
+        question: Buying shares means there is a risk you could lose money if the company does poorly.
+        answer: true
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: The number of shares a company is legally allowed to issue is known as its _______ share count.
+        options: [A. outstanding, B. authorized, C. issued, D. treasury]
+        answer: B
+      - type: drag_drop
+        question: Match the term to its definition.
+        drag_drop:
+          prompt: Drag the terms to their correct definitions.
+          pairs:
+            - left: Outstanding Shares
+              right: Shares currently held by investors.
+            - left: Authorized Shares
+              right: The maximum number of shares a company can issue.
+            - left: Market Capitalization
+              right: Share price multiplied by outstanding shares.
+        answer: Outstanding Shares - Shares currently held by investors., Authorized Shares - The maximum number of shares a company can issue., Market Capitalization - Share price multiplied by outstanding shares.
+      - type: case_study_mcq
+        scenario: "TechForward Inc. has 5 million outstanding shares, and its stock is trading at $25 per share. The company announces a plan to issue an additional 1 million shares to fund a new research project."
+        question: "What is the MOST likely immediate impact of this announcement on TechForward Inc.'s market capitalization?"
+        options: [A. It will increase significantly, reflecting the new investment., B. It will decrease slightly, due to dilution of existing shares., C. It will remain unchanged, as the market already anticipated the need for funding., D. It will fluctuate wildly, depending on investor sentiment towards the research project."]
+        answer: B
+      - type: true_false
+        question: "Issuing new shares always benefits existing shareholders by increasing their ownership percentage."
+        answer: false
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: A share buyback typically reduces the number of outstanding shares, which can mechanically increase the company’s earnings per share, or ___ of earnings per share.
+        options: [A, B, C, D]
+        answer: A
+      - type: drag_drop
+        question: Match the term with its description.
+        drag_drop:
+          prompt: Drag the term to the correct description.
+          pairs:
+            - left: Treasury Shares
+              right: Shares repurchased by a company and held for future use or cancellation.
+            - left: Outstanding Shares
+              right: The total number of shares currently held by investors.
+            - left: Dilution
+              right: The reduction in ownership percentage that occurs when a company issues new shares.
+        answer: Treasury Shares - Shares repurchased by a company and held for future use or cancellation. Outstanding Shares - The total number of shares currently held by investors. Dilution - The reduction in ownership percentage that occurs when a company issues new shares.
+      - type: case_study_mcq
+        scenario: "Acme Corp. has consistently generated strong free cash flow. Recently, they announced a significant share buyback program, citing a belief that their stock is undervalued and a desire to return capital to shareholders. However, some analysts worry that Acme could be using this buyback to artificially inflate EPS and mask underlying weaknesses in revenue growth."
+        question: "Which of the following best describes the primary concern of the analysts regarding Acme Corp.'s buyback program?"
+        options: [A, B, C, D]
+        answer: A
+      - type: true_false
+        question: "A company's share buyback program inherently guarantees an increase in shareholder value."
+        answer: false
+    ```

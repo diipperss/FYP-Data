@@ -1,0 +1,85 @@
+by_level:
+  beginner: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: A ___ provider supplies capital to the market, while a market maker posts quotes.
+        options: [A. liquidity, B. trade, C. price, D. market]
+        answer: A
+      - type: drag_drop
+        question: Match the term with its description.
+        drag_drop:
+          prompt: Drag the term to its matching description.
+          pairs:
+            - left: Liquidity Provider
+              right: Supplies capital to the market.
+            - left: Market Maker
+              right: Posts buy and sell quotes.
+            - left: Spread
+              right: The difference between bid and ask prices.
+        answer: Liquidity Provider: Supplies capital to the market. Market Maker: Posts buy and sell quotes. Spread: The difference between bid and ask prices.
+      - type: case_study_mcq
+        scenario: Maria wants to buy 100 shares of XYZ stock immediately. She sees a bid price of $10.00 and an ask price of $10.02. Which role helps Maria trade right away?
+        question: What role makes instant trading possible?
+        options: [A. Liquidity Provider, B. Regulator, C. Market Maker, D. Exchange]
+        answer: C
+      - type: true_false
+        question: Liquidity providers always show their quotes publicly.
+        answer: false
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Market makers primarily earn profits through the ____, but also face inventory and adverse selection risk.
+        options: [A. commissions, B. bid-ask spread, C. regulatory fees, D. volume discounts]
+        answer: B
+      - type: drag_drop
+        question: Match the term to its description.
+        drag_drop:
+          prompt: Drag the terms to their corresponding definitions.
+          pairs:
+            - left: Liquidity provider
+              right: Supports depth and continuous trading, reducing price gaps.
+            - left: Adverse selection risk
+              right: The risk that market makers are trading against informed traders.
+            - left: Slippage
+              right: The difference between the expected price and the actual execution price.
+        answer: Liquidity provider - Supports depth and continuous trading, reducing price gaps.; Adverse selection risk - The risk that market makers are trading against informed traders.; Slippage - The difference between the expected price and the actual execution price.
+      - type: case_study_mcq
+        scenario: A small-cap stock experiences a sudden surge in trading volume due to positive news. However, there are only a few market makers actively quoting the stock.
+        question: What is the MOST likely immediate effect on the stock's price and trading conditions?
+        options: [A. Tighter spreads and reduced volatility, B. Wider spreads and increased slippage, C. Increased liquidity and stable prices, D. A decrease in trading volume and stable prices]
+        answer: B
+      - type: true_false
+        question: Understanding the roles of market makers and liquidity providers can help explain why an order’s execution quality varies across different assets and times.
+        answer: true
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: In the forex market, major currency pairs benefit from deep liquidity primarily due to the role of ____, such as major banks.
+        options: [A. retail traders, B. centralized exchanges, C. dealer networks, D. algorithmic trading firms]
+        answer: C
+      - type: drag_drop
+        question: Match the asset class to its typical trading structure.
+        drag_drop:
+          prompt: Drag the asset class to its corresponding trading structure.
+          pairs:
+            - left: Equities
+              right: Centralized exchange
+            - left: Forex
+              right: Dealer network
+            - left: Crypto
+              right: Exchange-based/OTC
+        answer: Equities - Centralized exchange, Forex - Dealer network, Crypto - Exchange-based/OTC
+      - type: case_study_mcq
+        scenario: A small-cap cryptocurrency, "SparkCoin," experiences a sudden price surge followed by a rapid decline, with significant slippage on orders. Traders report that market makers largely disappeared during the volatility.
+        question: Which of the following best explains this market behavior?
+        options: [A. Increased regulatory oversight led to market maker withdrawal, B. The lack of robust market makers and thin liquidity exacerbated volatility, C. Large institutional investors deliberately manipulated the price, D. The exchange’s order book algorithm malfunctioned.]
+        answer: B
+      - type: true_false
+        question: Increased regulatory transparency in a market typically leads to narrower bid-ask spreads, all else being equal.
+        answer: true
+    ```

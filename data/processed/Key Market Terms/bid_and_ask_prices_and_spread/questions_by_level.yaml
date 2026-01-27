@@ -1,0 +1,89 @@
+by_level:
+  beginner: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: The ___ is the gap between the bid and ask price.
+        options: [A, Spread, Bid, Ask]
+        answer: A
+      - type: drag_drop
+        question: Match the term to its definition.
+        drag_drop:
+          prompt: Drag the term to the correct definition.
+          pairs:
+            - left: Bid
+              right: What buyers pay
+            - left: Ask
+              right: What sellers want
+            - left: Spread
+              right: The gap between bid and ask
+        answer: Bid - What buyers pay, Ask - What sellers want, Spread - The gap between bid and ask
+      - type: case_study_mcq
+        scenario: A large company's stock is trading with a bid of $100.00 and an ask of $100.05. A small company’s stock is trading with a bid of $20.00 and an ask of $20.50. Which stock likely has higher liquidity?
+        question: Which stock likely has higher liquidity?
+        options: [A, The large company's stock, B, The small company's stock, C, Both have the same liquidity, D, Neither has liquidity]
+        answer: A
+      - type: true_false
+        question: A wider bid-ask spread usually means lower trading costs.
+        answer: false
+    ```
+  intermediate: |-
+    - Volatility example: A small-cap stock’s spread widens to $0.25 during a surprise earnings announcement due to uncertainty about the stock’s future performance.
+    
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: "___ securities typically have narrow spreads because many buyers and sellers compete."
+        options: [A. Illiquid, B. Highly liquid, C. Volatile, D. Risky]
+        answer: B
+      - type: drag_drop
+        question: "Match the market condition to its impact on spreads."
+        drag_drop:
+          prompt: "Drag the condition to its effect."
+          pairs:
+            - left: "High Volatility"
+              right: "Wider Spreads"
+            - left: "Increased Liquidity"
+              right: "Narrower Spreads"
+            - left: "Market Open"
+              right: "Wider Spreads"
+        answer: "High Volatility - Wider Spreads, Increased Liquidity - Narrower Spreads, Market Open - Wider Spreads"
+      - type: case_study_mcq
+        scenario: "An investor frequently trades a small-cap stock throughout the day. During a surprise earnings announcement, they notice the spread on this stock widens significantly. This impacts their profitability."
+        question: "Why did the spread likely widen during the earnings announcement?"
+        options: [A. Increased liquidity, B. Decreased volatility, C. Increased uncertainty, D. Fewer buyers and sellers]
+        answer: C
+      - type: true_false
+        question: "Wider spreads disproportionately affect infrequent traders."
+        answer: false
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: The bid-ask ___ represents the difference between the highest price a buyer is willing to pay and the lowest price a seller is willing to accept.
+        options: [A, B, C, D]
+        answer: A
+        options: [A. spread, B. volatility, C. liquidity, D. impact]
+      - type: drag_drop
+        question: Match the trading tactic with its primary benefit related to spread costs.
+        drag_drop:
+          prompt: Drag the tactics to the appropriate benefits.
+          pairs:
+            - left: Limit Orders
+              right: Reduced slippage
+            - left: Strategic Timing
+              right: Lower effective spread
+            - left: Smaller Order Size
+              right: Less market impact
+        answer: Limit Orders - Reduced slippage, Strategic Timing - Lower effective spread, Smaller Order Size - Less market impact
+      - type: case_study_mcq
+        scenario: A portfolio manager trading a small-cap technology stock observes a widening bid-ask spread during a period of heightened market volatility; the manager needs to sell 100,000 shares quickly.
+        question: What is the MOST prudent initial action for the portfolio manager to minimize spread-related costs?
+        options: [A, B, C, D]
+        answer: A
+        options: [A. Divide the order into smaller chunks and execute over time, B. Immediately execute a market order to minimize time exposure, C. Ignore the spread and prioritize speed of execution, D. Wait for the spread to narrow significantly before executing]
+      - type: true_false
+        question: Frequent trading strategies like scalping are relatively insensitive to spread costs because the profit margins are typically large.
+        answer: false
+    ```

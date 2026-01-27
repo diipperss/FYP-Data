@@ -1,0 +1,128 @@
+title: What Are Stock Exchanges?
+summary: >
+  This lesson introduces stock exchanges as the core infrastructure of financial markets.
+  It explains how exchanges enable capital formation, facilitate trading, and support price discovery,
+  while distinguishing between primary and secondary markets and different exchange structures.
+
+beginner:
+  title: "Beginner: What an exchange does (the market’s marketplace)"
+  summary: >
+    Learn what stock exchanges are, why companies list on them, and how everyday investors trade shares.
+    You’ll understand the difference between primary vs secondary markets and why exchanges matter for trust and transparency.
+  key_points:
+    - A stock exchange is an organized marketplace where buyers and sellers trade shares.
+    - Exchanges make trading easier by standardizing rules, prices, and processes.
+    - Companies raise money in the primary market (e.g., IPO); investors trade shares in the secondary market.
+    - Exchanges support price discovery: prices update as supply and demand change.
+    - Listing standards and regulation help investors trust the market more than informal trading.
+    - Exchanges matter even to long-term investors because they influence liquidity and transaction costs.
+  subtopics:
+    - What a stock exchange is (in plain language)
+    - Why companies list shares (raising capital)
+    - Primary vs secondary markets (IPO vs everyday trading)
+    - Price discovery: why prices move
+    - Why rules and oversight matter for investor confidence
+  examples:
+    - IPO example: >
+        A private company lists its shares on a major exchange, offering them to the public for the first time.
+        Investors gain early access to a growing business, while the company raises capital for expansion.
+    - Secondary market example: >
+        An investor buys shares of a well-known company from another investor on an exchange.
+        Liquidity allows investors to enter or exit positions easily without affecting company operations.
+  common_mistakes:
+    - Confusing buying in an IPO (primary market) with buying on the exchange afterward (secondary market).
+    - Thinking exchanges only matter to day traders (they affect every investor’s costs and liquidity).
+    - Assuming exchange prices are “set by the company” rather than by supply and demand.
+  questions_to_think:
+    - Why does a company benefit from listing on a major exchange?
+    - What is the biggest difference between primary and secondary markets?
+
+intermediate:
+  title: "Intermediate: How exchanges run trading (liquidity, spreads, and mechanisms)"
+  summary: >
+    Learn how exchanges actually match orders, how liquidity is created, and why spreads exist.
+    You’ll connect market makers, auctions, and electronic trading to real investor outcomes like execution quality.
+  key_points:
+    - Modern exchanges use electronic systems and matching engines to handle high-volume trading.
+    - Liquidity (how easily you can trade) affects spreads, slippage, and execution reliability.
+    - The bid–ask spread is a price difference driven by supply/demand and liquidity, not a direct “exchange fee.”
+    - Market makers and other liquidity providers quote buys/sells to reduce friction and support continuous trading.
+    - Exchanges can use auctions (e.g., opening/closing auctions) and continuous trading to form prices.
+    - Understanding exchange mechanics helps investors choose order types and avoid costly execution mistakes.
+  subtopics:
+    - Electronic exchanges and matching engines (high-level)
+    - Bid/ask, spreads, and what they signal about liquidity
+    - Market makers and liquidity provision
+    - Auctions vs continuous trading (opening/closing auctions concept)
+    - Execution quality: why the same order can fill differently in different conditions
+  examples:
+    - Market maker example: >
+        A market maker continuously quotes buy and sell prices for a stock.
+        Reduces trading friction and improves execution reliability, especially during volatile periods.
+    - "Spread and liquidity example: A small stock has a wide bid–ask spread and thin trading volume. A market order is more likely to experience slippage than in a highly liquid large-cap stock."
+  common_mistakes:
+    - Treating the bid–ask spread as a broker fee instead of a market price difference.
+    - Ignoring liquidity conditions when placing market orders.
+    - Viewing exchanges as passive venues rather than systems that shape execution outcomes.
+  questions_to_think:
+    - What is the role of market makers in maintaining liquidity?
+    - How does a wider bid–ask spread change your trading cost?
+
+advanced:
+  title: "Advanced: Exchange structures, auctions, and risks beyond major exchanges"
+  summary: >
+    Learn how different exchange models and market structures affect price formation, regulation, and risk.
+    You’ll compare auction-based vs electronic models, understand why closing auctions matter, and identify the risks in OTC or lightly regulated venues.
+  key_points:
+    - Auction mechanisms (especially open/close) concentrate liquidity and help establish widely referenced prices.
+    - Exchange structure (auction-based vs fully electronic) affects transparency, execution, and volatility behavior.
+    - Different exchange models serve different company sizes and regulatory needs (major listings vs smaller venues).
+    - Less regulated or OTC venues can have wider spreads, lower liquidity, and higher information risk.
+    - Market structure influences liquidity quality and how prices respond during stress.
+    - Knowing venue risk helps investors avoid false confidence when trading thin or lightly regulated securities.
+  subtopics:
+    - NYSE-style opening/closing auctions (conceptual overview)
+    - Auction-based vs electronic exchanges (trade-offs)
+    - Listing standards and why they exist (investor protection and credibility)
+    - OTC markets: what they are and why risks increase
+    - Liquidity and price discovery during volatility (high-level)
+  examples:
+    - "Closing auction example: Many large funds execute near the close to match benchmark pricing, concentrating orders into the closing auction and making the closing price especially important."
+    - "OTC risk example: A lightly regulated OTC stock shows sporadic trading and wide spreads. Even small orders can move the price significantly, increasing execution and manipulation risk."
+  common_mistakes:
+    - Assuming all trading venues provide the same transparency and investor protections.
+    - Believing “a quoted price” guarantees you can trade meaningful size at that price.
+    - Underestimating OTC risks (liquidity, spreads, and price reliability).
+  questions_to_think:
+    - How does the NYSE closing auction determine stock prices?
+    - What are the key differences between auction-based and electronic exchanges?
+    - What risks exist in less regulated or OTC markets?
+
+definitions:
+  - term: Stock Exchange
+    definition: An organized marketplace where shares of ownership in companies are traded between buyers and sellers.
+  - term: IPO
+    definition: The process by which a company sells shares to the public for the first time, typically in the primary market.
+  - term: Primary Market
+    definition: The market where new securities are issued and sold to investors.
+  - term: Secondary Market
+    definition: The market where existing securities are bought and sold between investors.
+  - term: Bid-Ask Spread
+    definition: The difference between the highest price a buyer is willing to pay (bid) and the lowest price a seller is willing to accept (ask).
+  - term: Market Maker
+    definition: A firm or trader that provides buy and sell quotes to keep trading active.
+
+common_mistakes:
+  - Confusing IPO investing with secondary market trading.
+  - Viewing exchanges as passive venues rather than active market systems.
+  - Ignoring the role of liquidity providers in price formation.
+  - Misinterpreting the bid-ask spread as a fee rather than a price difference.
+
+questions_to_think:
+  - How does the NYSE closing auction determine stock prices?
+  - What is the role of market makers in maintaining liquidity?
+  - What are the key differences between auction-based and electronic exchanges?
+  - How do electronic exchanges improve market efficiency?
+  - What risks exist in less regulated or OTC markets?
+
+source: https://www.investopedia.com/articles/basics/04/092404.asp

@@ -1,0 +1,85 @@
+by_level:
+  beginner: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Short interest measures the number of shares sold short but ___ yet covered.
+        options: [A, B, C, D]
+        answer: A
+      - type: drag_drop
+        question: Match the term to its definition.
+        drag_drop:
+          prompt: Drag the term to the correct definition.
+          pairs:
+            - left: Short Interest
+              right: Shares sold short but not yet covered
+            - left: Short Seller
+              right: Borrows and sells shares, hoping to buy back later
+            - left: Short Squeeze
+              right: Rapid buying due to short sellers covering their positions
+        answer: "Short Interest - Shares sold short but not yet covered, Short Seller - Borrows and sells shares, hoping to buy back later, Short Squeeze - Rapid buying due to short sellers covering their positions"
+      - type: case_study_mcq
+        scenario: A trader believes a company’s stock price will fall and shorts 100 shares at $10. If the price rises to $15, what must the trader do?
+        question: What is the trader’s likely outcome?
+        options: [A, B, C, D]
+        answer: C
+      - type: true_false
+        question: Short interest data is real-time information.
+        answer: false
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: The ___ percentage indicates how crowded a short trade is relative to tradable shares.
+        options: [A, Float, B, Outstanding, C, Volume, D, Liquidity]
+        answer: A
+      - type: drag_drop
+        question: Match the term to its definition.
+        drag_drop:
+          prompt: Drag the term to its corresponding definition.
+          pairs:
+            - left: Short float percentage
+              right: How crowded a short trade is relative to tradable shares.
+            - left: Short % of outstanding shares
+              right: A broader view including non-tradable holdings.
+            - left: Days to cover
+              right: Estimates how quickly shorts could exit based on average daily volume.
+        answer: Short float percentage - How crowded a short trade is relative to tradable shares., Short % of outstanding shares - A broader view including non-tradable holdings., Days to cover - Estimates how quickly shorts could exit based on average daily volume.
+      - type: case_study_mcq
+        scenario: Company B has 10 million shares shorted, with 50 million shares outstanding and a float of 10 million shares. The stock price is rapidly increasing, and the days to cover is currently 5.
+        question: Based on this scenario, what is the most likely implication for short sellers?
+        options: [A, They are facing decreasing squeeze risk due to the low short percentage., B, They are likely to experience increasing difficulty exiting their positions., C, The high float indicates ample liquidity and easy exits., D, The short float percentage is low, suggesting minimal crowding.]
+        answer: B
+      - type: true_false
+        question: A small float can make the same count of shorts much riskier due to the crowding effect.
+        answer: true
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: A rising borrow fee on a heavily shorted stock typically indicates increased demand for shares and puts downward pressure on the ___ position.
+        options: [A. long, B. short, C. neutral, D. hedged]
+        answer: B
+      - type: drag_drop
+        question: Match the concept to its description.
+        drag_drop:
+          prompt: Drag the term to the correct description.
+          pairs:
+            - left: Institutional Ownership
+              right: Can reduce the effective tradable float, amplifying price movements.
+            - left: Borrow Fee
+              right: The cost to borrow shares, often rising when shares are scarce.
+            - left: Short Interest
+              right: Reflects hedging strategies as well as bearish conviction.
+        answer: Institutional Ownership - Can reduce the effective tradable float, amplifying price movements. Borrow Fee - The cost to borrow shares, often rising when shares are scarce. Short Interest - Reflects hedging strategies as well as bearish conviction.
+      - type: case_study_mcq
+        scenario: A micro-cap stock with 50% short interest experiences a sudden earnings beat, triggering a surge in buying volume. However, 70% of the shares are held by institutional investors who rarely trade.
+        question: Given this scenario, which of the following is the MOST likely outcome?
+        options: [A. The price will stabilize quickly due to institutional selling pressure. B. The squeeze potential is significantly amplified due to the thin tradable float. C. The short interest will immediately drop as shorts cover their positions. D. The borrow fee will decrease as demand for shares subsides.]
+        answer: B
+      - type: true_false
+        question: Delayed data regarding short interest metrics accurately reflects the real-time risk associated with a potential short squeeze.
+        answer: false
+    ```

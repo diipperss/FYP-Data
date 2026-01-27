@@ -1,0 +1,123 @@
+title: Introduction to Stocks
+summary: >
+  This lesson introduces stocks as the foundation of equity investing, explaining how they represent ownership in a corporation and why companies issue them.
+  It connects stock ownership to shareholder rights, profit participation, and corporate financing, and sets the groundwork for understanding different stock types and market behavior.
+
+beginner:
+  title: "Beginner: Stocks = ownership (but not the office chairs)"
+  summary: >
+    Learn what a stock is, what “ownership” actually means, and why companies sell shares.
+    You’ll understand how shares represent a proportional claim on the business—not direct control of daily operations or physical assets.
+  key_points:
+    - A stock represents partial ownership (equity) in a corporation.
+    - Owning shares means you own a slice of the company’s value and potential profits, not its day-to-day operations.
+    - Shares determine proportional ownership: more shares (relative to total shares) = bigger stake.
+    - Companies issue stock to raise capital for growth without taking on debt obligations.
+    - Shareholders may receive dividends, but dividends are optional and depend on company policy and performance.
+  subtopics:
+    - What “equity” means in simple terms
+    - Shares and proportional ownership
+    - Why companies raise money by selling shares
+    - Profits and shareholder returns: price gains vs dividends (intro)
+    - Why stock ownership is different from owning a private small business
+  examples:
+    - Shares example: >
+        A shareholder owning 33% of a company’s shares owns one-third of the equity, not one-third of the physical assets or day-to-day control.
+    - IPO example: >
+        A growing company launches an IPO to fund expansion, research, and marketing without borrowing money.
+  common_mistakes:
+    - Assuming stock ownership guarantees control over company operations.
+    - Believing that owning shares means you personally own the company’s assets outright.
+  questions_to_think:
+    - How does stock ownership differ from direct ownership of a private business?
+    - Why might a company prefer issuing stock over taking on debt?
+
+intermediate:
+  title: "Intermediate: Shareholder rights—profits, voting, and priorities"
+  summary: >
+    Learn what shareholders actually get: claims on profits, voting influence, and rights that differ by stock type.
+    You’ll understand how voting power works and why common vs preferred stock have different trade-offs.
+  key_points:
+    - A stock is an equity security giving shareholders a claim on profits and residual value.
+    - Shareholders can benefit through dividends and/or price appreciation, but dividends are discretionary.
+    - Voting power determines influence over corporate decisions; it may differ by share class.
+    - Common stock usually provides voting rights and higher upside, but is last in line during liquidation.
+    - Preferred stock usually has dividend priority and higher claim in liquidation, but often lacks voting rights.
+    - Ownership percentage matters, but corporate control also depends on voting structure and share classes.
+  subtopics:
+    - Shareholder rights: voting, dividends, information (high-level)
+    - Residual claim: what “last in line” means
+    - Common vs preferred: risk/return and priority differences
+    - Share classes and voting power (conceptual)
+    - Liquidation order (high-level: debt vs equity priority)
+  examples:
+    - Shares example: >
+        An investor purchases common shares to gain voting rights and long-term growth potential rather than fixed income.
+    - "Priority example: In liquidation, preferred shareholders typically get paid before common shareholders, but both generally come after creditors (conceptual)."
+  common_mistakes:
+    - Assuming “more shares” automatically means control, ignoring voting structures.
+    - Thinking dividends are guaranteed like bond interest.
+    - Confusing preferred stock with “safer stocks” without understanding trade-offs.
+  questions_to_think:
+    - Why might a company issue preferred shares instead of only common shares?
+    - How can voting rights matter even if you own a small percentage of shares?
+
+advanced:
+  title: "Advanced: Share structure, dilution, and how ownership changes over time"
+  summary: >
+    Learn how share count and ownership evolve through financing and corporate decisions.
+    You’ll connect share issuance and dilution to valuation per share and understand why ownership outcomes depend on the total share base, not just the number of shares you hold.
+  key_points:
+    - Ownership is proportional: your stake depends on your shares divided by total shares outstanding.
+    - Issuing new shares can dilute existing shareholders’ percentage ownership, even if the company raises cash.
+    - Per-share value depends on both business performance and share count (valuation per share concept).
+    - Stock-based compensation and secondary offerings can increase share count over time.
+    - Corporate actions (splits, buybacks) change share count mechanics without necessarily changing fundamentals.
+    - Understanding dilution and share structure helps investors interpret headlines and long-term outcomes.
+  subtopics:
+    - Shares outstanding and ownership percentage
+    - Dilution: why your slice can shrink
+    - Per-share metrics (high-level): earnings per share intuition
+    - Stock-based compensation and share issuance (conceptual)
+    - How this connects to corporate actions (splits, buybacks) and valuation
+  examples:
+    - "Dilution example: You own 1,000 shares out of 100,000 total (1%). If the company issues 50,000 new shares and you don’t buy more, your ownership becomes 1,000 / 150,000 = 0.67%."
+    - "Buyback intuition: If a company buys back shares and total shares fall, each remaining share represents a slightly larger ownership slice (all else equal)."
+  common_mistakes:
+    - Focusing only on share price and ignoring changes in share count.
+    - Assuming dilution is always bad (it depends on what the company gains from raising capital).
+    - Misunderstanding splits as changing ownership or value by themselves.
+  questions_to_think:
+    - If a company issues more shares to raise money, when could that still be good for shareholders?
+    - Why do investors often track “per share” metrics instead of only total company profits?
+
+definitions:
+  - term: Stock
+    definition: A stock, also known as equity or a share, represents partial ownership in a corporation and a claim on its future profits and assets.
+  - term: Shareholder
+    definition: An individual or institution that owns one or more shares of a company’s stock.
+  - term: Common Stock
+    definition: A type of stock that typically grants voting rights and residual claims on profits after all obligations are met.
+  - term: Preferred Stock
+    definition: A class of stock that generally provides priority in dividends and liquidation but usually lacks voting rights.
+  - term: Dividend
+    definition: A portion of a company’s earnings distributed to shareholders, usually in cash or additional shares.
+  - term: Equity
+    definition: Ownership interest in a company, represented by shares of stock.
+  - term: IPO (Initial Public Offering)
+    definition: The process by which a private company offers its shares to the public for the first time.
+  - term: Assets
+    definition: Resources owned or controlled by a company that have economic value.
+  - term: Liquidation
+    definition: The process of selling a company’s assets and distributing the proceeds to claimants when the business ends.
+
+common_mistakes:
+  - Assuming stock ownership guarantees control over company operations.
+  - Believing that owning a majority of shares means owning all company assets outright.
+  - Treating dividends as guaranteed payments.
+
+questions_to_think:
+  - How does stock ownership differ from direct ownership of a private business?
+  - Why might a company prefer issuing stock over taking on debt?
+
+source: https://www.investopedia.com/terms/s/stock.asp

@@ -1,0 +1,88 @@
+by_level:
+  beginner: |-
+    - {'Inflation example': {'description': 'The CPI (Consumer Price Index) rises at a faster-than-expected rate, indicating rising prices for goods and services.\n', 'impact_on_investor': 'May lead investors to reduce exposure to growth stocks, anticipating higher borrowing costs and potential profit margin compression due to rising input costs.\n'}}
+    - {'Interest rate example': {'description': 'The Federal Reserve raises its benchmark interest rate to combat inflation.\n', 'impact_on_investor': 'Investors may shift towards value stocks and dividend-paying stocks, as higher rates can negatively impact growth stocks.\n'}}
+    
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: GDP is a big-picture ___ of economic growth.
+        options: [A, scorecard, company, stock, price]
+        answer: A
+      - type: drag_drop
+        question: Match the economic indicator to its description.
+        drag_drop:
+          prompt: Drag the indicator to its correct description.
+          pairs:
+            - left: GDP
+              right: A scorecard of economic growth.
+            - left: Inflation
+              right: Rising prices for goods and services.
+            - left: Employment Data
+              right: Information about jobs and wages.
+        answer: GDP-A scorecard of economic growth, Inflation-Rising prices for goods and services, Employment Data-Information about jobs and wages
+      - type: case_study_mcq
+        scenario: An economy reports accelerating GDP growth driven by rising consumer spending and business investment.
+        question: What might investors do in this situation?
+        options: [A, Sell all stocks, Increase exposure to cyclical stocks, Buy more bonds, Avoid the market]
+        answer: A
+      - type: true_false
+        question: Markets only respond to the headline number, not expectations.
+        answer: false
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Consumer confidence is often considered a ___ indicator, providing insights into future economic trends.
+        options: [A, B, C, D]
+        answer: A
+      - type: drag_drop
+        question: Match the indicator to its classification:
+        drag_drop:
+          prompt: Drag the indicator to its correct category (Leading or Lagging)
+          pairs:
+            - left: Unemployment Rate
+              right: Lagging
+            - left: Consumer Confidence Index
+              right: Leading
+            - left: Corporate Profits
+              right: Lagging
+        answer: Unemployment Rate - Lagging, Consumer Confidence Index - Leading, Corporate Profits - Lagging
+      - type: case_study_mcq
+        scenario: "A major technology company reports unexpectedly strong earnings, but simultaneously warns of slowing growth in the next quarter due to rising interest rates and concerns about inflation.  The market initially rallies on the strong earnings, but quickly reverses course."
+        question: "Which of the following best explains the market's subsequent reversal?"
+        options: [A, B, C, D]
+        answer: A
+      - type: true_false
+        question: "Lagging indicators are generally more useful for predicting short-term market movements than leading indicators."
+        answer: false
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: The "good news is bad news" effect often occurs when strong economic data leads to expectations of ___ monetary policy tightening.
+        options: [A. expansionary, B. contractionary, C. neutral, D. quantitative easing]
+        answer: B
+      - type: drag_drop
+        question: Match the following economic concepts with their corresponding descriptions.
+        drag_drop:
+          prompt: Drag the term to its definition.
+          pairs:
+            - left: Second-order effects
+              right: Subsequent impacts and feedback loops that arise from an initial economic event.
+            - left: Regime
+              right: A recurring pattern or phase of the business cycle with distinct characteristics.
+            - left: Delta versus expectations
+              right: The difference between actual outcomes and what was previously anticipated.
+        answer: N/A
+      - type: case_study_mcq
+        scenario: A country experiences unexpectedly robust payroll growth accompanied by a significant increase in average hourly earnings. Despite the positive headline numbers, the stock market declines sharply.
+        question: What is the most likely explanation for this market reaction, based on the provided principles?
+        options: [A. Investors are reacting to the positive news and anticipate increased corporate profits., B. The market is concerned that the data suggests inflation will accelerate, prompting the central bank to raise interest rates., C. Investors are selling due to a general lack of confidence in the economy., D. The data indicates a slowdown in productivity, leading to lower future earnings.]
+        answer: B
+      - type: true_false
+        question: Scenario thinking aims to eliminate forecasting risk entirely by predicting all possible outcomes.
+        answer: false
+    ```

@@ -1,0 +1,128 @@
+title: Volatility Measures: Beta, ATR, Implied Volatility
+summary: >
+  Volatility measures describe how much and how quickly prices change, helping investors assess risk, position sizing,
+  and potential losses. Different measures capture different dimensions of volatility, from market sensitivity to daily
+  price ranges and future expectations. This lesson explains key volatility metrics and how they are used in practice.
+
+beginner:
+  title: "Beginner: Volatility = how much prices swing"
+  summary: >
+    Learn what volatility means and why it matters. You’ll understand the difference between “how much it moves” and
+    “whether it’s a good or bad investment” (volatility is a risk characteristic, not a moral judgment).
+  key_points:
+    - Volatility reflects the magnitude and frequency of price fluctuations.
+    - Higher volatility usually means larger potential gains and losses over short periods.
+    - Standard deviation measures total historical volatility of returns (how spread out returns are).
+    - Beta compares an asset’s volatility/sensitivity to the broader market.
+    - ATR measures typical daily price movement (range), useful for trading risk controls.
+    - Implied volatility reflects market expectations of future uncertainty (forward-looking, options-based).
+  subtopics:
+    - Volatility vs risk vs return (simple framing)
+    - Historical vs implied volatility (past vs expectations)
+    - “Moves with the market” (beta) vs “moves per day” (ATR)
+    - Why volatility spikes around news and earnings
+  examples:
+    - Market sensitivity example: >
+        A stock with a beta of 1.5 moves more aggressively than the market.
+        Higher potential returns come with higher downside risk.
+    - Trading example: >
+        ATR rises sharply after an earnings announcement.
+        Traders may widen stop-loss levels to account for larger price swings.
+  common_mistakes:
+    - Treating volatility as inherently bad rather than as a risk characteristic.
+    - Confusing volatility with direction (volatile can go up or down).
+    - Using one volatility number without considering time horizon.
+  questions_to_think:
+    - If two stocks have the same return, why might the more volatile one feel “riskier”?
+    - Why might volatility jump right after major news?
+
+intermediate:
+  title: "Intermediate: What each measure captures (and when to use it)"
+  summary: >
+    Learn how beta, standard deviation, ATR, Bollinger Bands, and maximum drawdown each describe a different angle of volatility.
+    You’ll see why comparing the wrong metrics can lead to bad position sizing or misleading conclusions.
+  key_points:
+    - Standard deviation measures total historical volatility (return variability), often used for comparing funds.
+    - Beta measures market sensitivity (systematic risk), best interpreted with an appropriate benchmark.
+    - ATR measures average daily range, commonly used for stop placement and position sizing (trading-focused).
+    - Bollinger Bands visualize volatility through price dispersion around a moving average.
+    - Maximum drawdown focuses on worst-case historical losses, complementing “average” volatility measures.
+    - Different measures can disagree because they measure different things.
+  subtopics:
+    - Standard deviation (returns-based) vs ATR (price-range-based)
+    - Beta and benchmarks: what beta actually compares to
+    - Bollinger Bands: visualizing expanding/contracting volatility
+    - Drawdowns: why “worst case so far” matters
+    - Matching metric to goal: long-term investor vs short-term trader
+  examples:
+    - Options example: >
+        Implied volatility increases ahead of major economic events.
+        Option prices become more expensive due to higher expected uncertainty.
+    - "Bollinger Band example: Bands widen during a volatile period and tighten during consolidation, showing volatility expansion and contraction."
+  common_mistakes:
+    - Comparing beta and ATR as if they measure the same thing.
+    - Ignoring drawdowns when focusing only on short-term volatility.
+    - Using beta without checking if the benchmark is relevant (beta can mislead).
+  questions_to_think:
+    - When is beta more useful than ATR?
+    - Why is maximum drawdown important for long-term investors?
+
+advanced:
+  title: "Advanced: Implied vs historical volatility, regime shifts, and risk control"
+  summary: >
+    Learn how implied volatility embeds expectations (and fear) about future moves, why it can diverge from historical volatility,
+    and how volatility behaves across regimes (calm vs crisis). You’ll connect volatility to real decisions: leverage, sizing, and hedging.
+  key_points:
+    - Implied volatility is forward-looking and derived from option prices; it often rises before high-uncertainty events.
+    - Historical volatility summarizes past realized moves; it may lag regime changes.
+    - Comparing implied vs historical volatility requires context (upcoming events, earnings, macro announcements).
+    - Volatility clusters: high volatility tends to follow high volatility (conceptual), affecting risk management.
+    - Maximum drawdown and tail risk matter because extreme moves happen more often than “normal” models assume.
+    - Practical risk management uses volatility to size positions, set stops, and limit portfolio concentration.
+  subtopics:
+    - Why implied volatility moves (demand for options, event risk)
+    - Volatility risk premium (conceptual): why IV can be “high”
+    - Regime shifts and volatility clustering (conceptual)
+    - Tail risk and why averages can lie
+    - Using volatility in position sizing (conceptual) and portfolio risk budgeting
+  examples:
+    - "IV divergence example: A stock has low recent historical volatility, but implied volatility jumps before earnings because the market expects a big move."
+    - "Regime shift example: After a market shock, standard deviation and ATR stay elevated for weeks, so old risk settings become too tight."
+  common_mistakes:
+    - Comparing implied and historical volatility without considering upcoming events.
+    - Assuming volatility will quickly revert to “normal” after a shock.
+    - Using volatility-based stops without adapting to regime changes (too tight in high volatility, too loose in low volatility).
+  questions_to_think:
+    - How does implied volatility influence option pricing?
+    - If implied volatility is far above historical volatility, what might the market be pricing in?
+    - How would you adjust position size when ATR doubles?
+
+definitions:
+  - term: Volatility
+    definition: The degree of variation in an asset’s price over time.
+  - term: Standard Deviation
+    definition: A statistical measure of how much returns deviate from their average.
+  - term: Bollinger Bands
+    definition: Bands plotted around a moving average to visualize volatility.
+  - term: Maximum Drawdown
+    definition: The largest peak-to-trough decline over a period.
+  - term: Beta
+    definition: A measure of volatility relative to the overall market.
+  - term: Average True Range (ATR)
+    definition: A measure of average daily price range.
+  - term: Implied Volatility
+    definition: The market’s expectation of future volatility derived from option prices.
+  - term: Historical Volatility
+    definition: Past realized volatility calculated from price movements.
+
+common_mistakes:
+  - Treating volatility as inherently bad rather than as a risk characteristic.
+  - Ignoring drawdowns when focusing only on short-term volatility.
+  - Comparing implied and historical volatility without considering upcoming events.
+
+questions_to_think:
+  - When is beta more useful than ATR?
+  - Why is maximum drawdown important for long-term investors?
+  - How does implied volatility influence option pricing?
+
+source: https://www.investopedia.com/ask/answers/021015/what-best-measure-given-stocks-volatility.asp

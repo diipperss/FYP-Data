@@ -1,0 +1,134 @@
+title: Major Market Indices: S&P 500, Nasdaq, Dow Jones
+summary: >
+  This lesson explains what major market indices are, how they are constructed, and why they are widely used
+  as benchmarks for market performance. It focuses on the S&P 500, Nasdaq Composite, and Dow Jones Industrial Average,
+  highlighting their differences in weighting, sector exposure, and relevance to investors.
+
+beginner:
+  title: "Beginner: What an index is (and why headlines talk about them)"
+  summary: >
+    Learn what market indices measure, why they’re used as “the market” shorthand, and the basic differences
+    between the S&P 500, Nasdaq Composite, and Dow Jones. You’ll also learn what daily index moves actually mean.
+  key_points:
+    - A market index tracks a selected group of stocks to represent a market segment.
+    - Indices are benchmarks: they help you compare your portfolio or fund to “the market.”
+    - The S&P 500 is often treated as a broad U.S. large-cap proxy.
+    - The Nasdaq Composite includes many tech and growth companies, so it can move more sharply.
+    - The Dow tracks 30 major companies and is often quoted in headlines, but it’s constructed differently.
+    - Index moves are reported as both point change and percentage change—percentage usually matters more.
+    - Indices are the building blocks for index funds and ETFs (passive investing).
+  subtopics:
+    - Index vs individual stock: what is being measured
+    - “Point change” vs “percentage change”
+    - Quick profiles: S&P 500 vs Nasdaq Composite vs Dow
+    - Why investors use benchmarks
+    - Why indices are used for market headlines
+  examples:
+    - "Headline interpretation example: The Dow is up 300 points. If that is only ~0.9%, it may be a normal daily move rather than a major event."
+    - "Benchmark idea example: If your diversified U.S. stock portfolio rose 5% this year and the S&P 500 rose 10%, you likely lagged the benchmark."
+  common_mistakes:
+    - Confusing point change with percentage change.
+    - Assuming “the market is up” means every stock is up.
+    - Treating the Dow as the best representation of the entire stock market.
+  questions_to_think:
+    - If an index is up 1%, what does that actually mean for the average investor?
+    - Why might two indices move differently on the same day?
+
+intermediate:
+  title: "Intermediate: Construction and weighting—why these indices behave differently"
+  summary: >
+    Learn how index construction and weighting methods change index behavior. You’ll connect sector exposure
+    and weighting (market-cap vs price-weighted) to differences in volatility, concentration, and performance.
+  key_points:
+    - Index construction (which stocks are included) strongly shapes performance and risk.
+    - Weighting determines which stocks “move” the index the most.
+    - The S&P 500 is market-cap-weighted, so mega-caps have outsized influence.
+    - The Nasdaq Composite has a heavy technology/growth tilt, increasing cycle sensitivity.
+    - The Dow is price-weighted, meaning higher-priced stocks influence the index more, even if they’re smaller by market value.
+    - Sector concentration can make an index outperform in some cycles and underperform in others.
+    - Understanding composition prevents false assumptions about what “the market” represents.
+  subtopics:
+    - Market-cap-weighted vs price-weighted (intuitive explanation)
+    - Concentration risk: when a few stocks dominate returns
+    - Sector exposure: why Nasdaq is often more volatile
+    - Benchmark selection: matching the benchmark to your portfolio style
+    - Why “diversified” can mean different things across indices
+  examples:
+    - S&P 500 benchmark example: >
+        A diversified equity portfolio delivers a 9% annual return while the S&P 500 returns 11% over the same period.
+        Investors can assess whether underperformance is due to market conditions or portfolio construction choices.
+    - Nasdaq volatility example: >
+        During a technology sell-off, the Nasdaq declines more sharply than the S&P 500.
+        Highlights higher growth exposure and volatility, helping investors align index exposure with risk tolerance.
+    - Dow Jones weighting example: >
+        A high-priced Dow component rises significantly, moving the index despite representing a smaller company by market value.
+        Demonstrates how price-weighted indices can behave differently from market-cap-weighted indices.
+  common_mistakes:
+    - Assuming all indices weight companies the same way.
+    - Thinking Nasdaq performance represents the whole economy.
+    - Comparing a portfolio to the wrong benchmark (e.g., tech-heavy portfolio vs S&P 500 without adjustment).
+  questions_to_think:
+    - Why might the Nasdaq outperform or underperform other indices during different market cycles?
+    - What benchmark would you choose for a portfolio focused on large U.S. companies—and why?
+    - How does price-weighting change what the Dow represents?
+
+advanced:
+  title: "Advanced: Indices as products—ETFs, passive strategies, and interpretation pitfalls"
+  summary: >
+    Learn how indices are used in real investing products (ETFs, mutual funds) and how to interpret index moves
+    more accurately using weighting effects, breadth, and concentration. You’ll also learn how index choice affects
+    passive investing outcomes.
+  key_points:
+    - Indices are investable through ETFs and index funds; index design affects real-world returns and risk.
+    - Concentration effects mean a small number of stocks can drive index returns, especially in market-cap-weighted indices.
+    - “Index up” can hide weak breadth (few winners, many losers), which changes how you interpret market strength.
+    - Index selection is a strategy choice: broad market exposure vs sector-tilted exposure.
+    - Passive strategies depend on index rules; different indices can produce different “passive” outcomes.
+    - Comparing performance should consider fees, tracking error, and the benchmark’s true exposure.
+  subtopics:
+    - Indices as foundations for ETFs and mutual funds
+    - Breadth vs concentration (conceptual)
+    - When “the market” headline is misleading
+    - Choosing an index exposure: risk tolerance and time horizon fit
+    - Practical benchmarking: matching portfolio style to the right index
+  examples:
+    - "Concentration example: The S&P 500 is up mainly because a few mega-caps rallied, while many smaller constituents were flat—suggesting less broad-based strength than the headline implies."
+    - "Passive choice example: An investor picks a Nasdaq-focused ETF for long-term growth. They should expect higher drawdowns in tech-led sell-offs compared to a broader S&P 500 ETF."
+  common_mistakes:
+    - Assuming passive investing is identical across all indices.
+    - Overreacting to point moves instead of percentage moves and context.
+    - Ignoring concentration risk when using a single index as “the market.”
+  questions_to_think:
+    - How does index construction affect passive investing strategies?
+    - Which index best reflects your personal investment goals—and why?
+    - What risks come from using a tech-heavy index as your main benchmark?
+
+definitions:
+  - term: Market Index
+    definition: A statistical measure of the performance of a group of securities representing a specific market segment.
+  - term: S&P 500
+    definition: A market-cap-weighted index of 500 large U.S. companies.
+  - term: NASDAQ Composite
+    definition: An index tracking thousands of stocks listed on the Nasdaq exchange, with a heavier tilt toward technology.
+  - term: Dow Jones Industrial Average (DJIA)
+    definition: A price-weighted index of 30 large U.S. companies.
+  - term: Market-Cap-Weighted
+    definition: An index method where larger companies have a bigger impact on index performance.
+  - term: Price-Weighted
+    definition: An index method where higher-priced stocks have a bigger impact on index performance.
+  - term: Change Percentage
+    definition: The percentage change in the value of an index from the previous day's close.
+
+common_mistakes:
+  - Confusing the change value with the percentage change.
+  - Misinterpreting the direction of the change (e.g., negative values indicate a decline).
+  - Not considering the context of the market conditions when analyzing index movements.
+  - Assuming index performance reflects every stock equally, rather than the index composition and weighting.
+
+questions_to_think:
+  - How do the changes in these major indices reflect the overall health of the U.S. market?
+  - Why might the Nasdaq outperform or underperform other indices during different market cycles?
+  - How does index construction affect passive investing strategies?
+  - Which index best reflects your personal investment goals?
+
+source: https://www.marketwatch.com/market-data/us?gaa_at=eafs&gaa_n=AWEtsqeuQFNCuwm_QaIKpe2OGQ-JGSDSpNqz9TaxpaMLoJve--gLT2xi-NDM&gaa_ts=6970e119&gaa_sig=xnpz0uRs6IR4LPtjj1ISbsLImFa0dxJ-UC94jMTI3AXydTmeaTfAHigsiTZ0xls-3S17VuMDME6be5eMnl-9hA%3D%3D

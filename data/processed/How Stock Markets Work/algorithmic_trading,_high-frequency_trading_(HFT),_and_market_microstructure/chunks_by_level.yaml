@@ -1,0 +1,157 @@
+title: Understanding Market Microstructure in High-Frequency Trading
+summary: >
+  This lesson introduces market microstructure—the study of how trades are executed and prices form in modern electronic stock markets—and explains why it matters to all investors, not just high-frequency traders. It links order types, the Limit Order Book (LOB), liquidity, and execution mechanics to real trading outcomes such as spreads, slippage, and market impact, helping users understand how market design directly affects transaction costs and price behavior.
+
+beginner:
+  title: "Beginner: What happens when you press Buy/Sell?"
+  summary: >
+    Learn the basic mechanics behind execution: exchanges match orders electronically, prices are quoted as bid/ask, and your choice of order type determines speed vs price control.
+    You will understand spreads as a real cost and why liquidity matters even for small trades.
+  key_points:
+    - Modern stock markets use electronic matching engines to match buyers and sellers quickly and automatically.
+    - The “price you see” is usually a quote (best bid/ask), not a guaranteed execution price.
+    - The bid–ask spread is a built-in transaction cost paid when you cross the spread.
+    - Market orders prioritize immediate execution but can fill at unexpected prices when liquidity is thin.
+    - Limit orders prioritize price control but may not execute if the market never reaches your limit price.
+    - The Limit Order Book (LOB) is a queue of active limit orders that shapes real-time price formation.
+    - Liquidity describes how easily you can trade without moving the price; low liquidity increases execution risk.
+  subtopics:
+    - Electronic matching engines vs trading floors
+    - Quotes vs trades (last price vs current bid/ask)
+    - Bid, ask, mid-price, and spread (Level 1 view)
+    - Market orders (MO) vs limit orders (LO): speed vs control
+    - LOB basics: top of book and simple supply/demand intuition
+    - Liquidity basics: why it matters for everyday investors
+  examples:
+    - "Spread intuition example: A stock is quoted at $10.00 bid / $10.05 ask. A market buy will likely execute near $10.05, meaning you effectively pay the spread to enter immediately."
+    - "Limit order control example: You place a limit buy at $10.00 when the ask is $10.05. You avoid overpaying, but you might not get filled if the price never falls."
+  common_mistakes:
+    - Assuming the last traded price is the same as the current buy/sell price.
+    - Treating market orders as “safe” without checking spread and liquidity.
+    - Using limit orders without understanding they may not fill.
+  questions_to_think:
+    - What is the difference between the last traded price and the current bid/ask?
+    - When would a limit order be safer than a market order for a beginner?
+    - Why does a wider spread usually signal higher trading costs?
+
+intermediate:
+  title: "Intermediate: Why slippage happens (depth, liquidity, and order size)"
+  summary: >
+    Go beyond the basics by learning how LOB depth and liquidity determine real execution outcomes.
+    You will connect order size and timing to slippage, partial fills, and walking the book, and learn simple execution planning for retail investors.
+  key_points:
+    - LOB depth shows how much quantity is available at each price level, not just the best bid/ask.
+    - Large orders can cause slippage by consuming multiple price levels in the book.
+    - Walking the book occurs when a market order fills across several LOB levels due to insufficient shares at the best price.
+    - Slippage (worse execution than expected) and market impact (your order moving price) often increase when liquidity is low.
+    - Timing matters: low-volume periods often have wider spreads and thinner depth, increasing execution risk.
+    - Breaking large orders into smaller pieces can reduce impact and improve average execution.
+  subtopics:
+    - Level 2 depth: quantities across price levels
+    - Partial fills and average execution price
+    - Slippage vs market impact (clear distinction)
+    - Walking the book mechanics
+    - Time-of-day liquidity (open/close vs low-volume hours)
+    - Retail execution checklist: spread, depth, volatility, and sizing
+  examples:
+    - Limit Order Book depth example: >
+        A stock’s LOB shows only 300 shares available at the best ask price, with larger quantities listed at progressively higher prices.
+        When a buy order exceeds 300 shares, it must consume liquidity at higher price levels.
+        Demonstrates why large orders can unintentionally move prices and why understanding depth helps investors reduce hidden execution costs.
+    - Walking the book example: >
+        An investor submits a market order to buy 5,000 shares of a thinly traded stock.
+        The order fills across multiple price levels because insufficient shares are available at the best price.
+        Shows how poor liquidity increases average purchase price and why market orders can be risky in less liquid securities.
+    - Liquidity contrast example: >
+        A market order to buy HPQ shares executes instantly at the quoted price due to dense liquidity,
+        while the same-sized order in FARO causes noticeable price movement.
+        Highlights why liquidity is a key consideration when choosing order types and sizing trades.
+    - Long-term investor execution example: >
+        A long-term investor places a large market order during low-volume trading hours without considering spreads or liquidity.
+        Illustrates how poor execution decisions can erode long-term returns despite correct investment theses.
+  common_mistakes:
+    - Ignoring depth (Level 2) and assuming best bid/ask applies to any order size.
+    - Confusing slippage with market impact and blaming “bad luck” instead of liquidity.
+    - Trading large size during thin liquidity periods (e.g., low-volume hours) using market orders.
+  questions_to_think:
+    - How does liquidity affect whether a market order will execute at the expected price?
+    - What signs in the LOB suggest a large market order might walk the book?
+    - How could you reduce execution cost for a large trade without changing your investment thesis?
+
+advanced:
+  title: "Advanced: HFT, market design, and measuring execution quality"
+  summary: >
+    Understand how professional market participants and high-frequency trading interact with microstructure.
+    Learn why spreads tighten in calm markets, why liquidity can vanish during stress, and how execution quality can be measured using transaction cost concepts.
+  key_points:
+    - Price formation is driven by continuous competition in the order book, where queue position can matter (price-time priority).
+    - Market makers supply liquidity and earn spreads but face adverse selection risk when informed traders trade against them.
+    - High-frequency traders (HFT) exploit microstructure by rapidly placing/canceling orders to capture small inefficiencies.
+    - HFT can tighten spreads in stable markets but may withdraw liquidity during volatility, increasing execution uncertainty.
+    - Modern markets are fragmented across venues; routing can affect fill quality even if the displayed price looks similar.
+    - Execution quality can be evaluated by decomposing trading costs: spread cost, impact cost, and delay/opportunity cost (conceptual TCA).
+  subtopics:
+    - Queue priority and why “being first” can matter
+    - Market making: liquidity provision and adverse selection
+    - HFT behavior: quoting, cancellations, and volatility regimes
+    - Liquidity withdrawal and “fragile liquidity” during stress
+    - Market fragmentation and high-level order routing concepts
+    - Measuring execution: mid-price comparisons and simple transaction-cost components
+  examples:
+    - HFT interaction example: >
+        High-frequency traders continuously place and cancel limit orders, tightening spreads during calm markets
+        but occasionally withdrawing liquidity during periods of volatility.
+        Explains how HFT can reduce trading costs in stable conditions but increase execution uncertainty during market stress.
+    - "Adverse selection example: A market maker posts an ask. If news hits and informed buyers rush in, the maker sells just before price jumps—earning the spread but losing to the information move."
+    - "Execution measurement example: Two traders both buy the same stock. Trader A buys with a market order during thin liquidity and pays far above mid-price; Trader B uses a limit order near mid-price during higher liquidity hours and pays less, even with the same thesis."
+  common_mistakes:
+    - Assuming tighter spreads always mean “safe liquidity” even during fast markets.
+    - Misunderstanding HFT as purely harmful or purely beneficial instead of regime-dependent.
+    - Evaluating trading performance only by returns while ignoring execution costs.
+  questions_to_think:
+    - What advantages and risks does HFT create for other market participants?
+    - Why might liquidity disappear during volatile markets even if HFT usually tightens spreads?
+    - How would you compare two executions objectively if both investors bought the same stock?
+
+definitions:
+  - term: Algorithmic Trading
+    definition: Using computer programs to place trades automatically according to predefined rules such as price, volume, or time.
+  - term: High-Frequency Trading (HFT)
+    definition: Algorithmic trading that executes orders extremely rapidly, often to exploit small market inefficiencies.
+  - term: Market Microstructure
+    definition: The study of trading mechanisms, order types, and market design to understand how prices form and trades are executed.
+  - term: Market Order (MO)
+    definition: An order to buy or sell immediately at the best available market price.
+  - term: Limit Order (LO)
+    definition: An order specifying the price at which a trade should occur, executed only when the market reaches that price.
+  - term: Limit Order Book (LOB)
+    definition: A record of all active limit orders, showing the quantities and prices of pending buy and sell orders.
+  - term: Walking the Book
+    definition: Filling a market order by sequentially executing through each LOB level when insufficient liquidity exists at the best price, potentially raising average execution cost.
+  - term: Liquidity
+    definition: The ability to buy or sell an asset without causing significant price changes.
+  - term: Spread
+    definition: The difference between the best bid (buy) and ask (sell) prices in the market.
+  - term: Slippage
+    definition: The difference between the expected execution price and the actual execution price, often worse when liquidity is thin or markets move quickly.
+  - term: Market Impact
+    definition: The price movement caused by your own trade, often increasing with larger order size and lower liquidity.
+  - term: Market Maker
+    definition: A participant that posts buy and sell quotes to provide liquidity, typically earning the spread while managing inventory risk.
+  - term: Adverse Selection
+    definition: The risk that a liquidity provider trades against better-informed participants and loses when prices move immediately after execution.
+
+common_mistakes:
+  - Confusing market and limit orders, leading to unexpected execution prices.
+  - Ignoring the liquidity of assets and assuming market orders always execute efficiently.
+  - Overlooking the spread and execution costs in high-speed trading scenarios.
+  - Placing large market orders during low-volume periods and being surprised by slippage.
+  - Treating HFT as always good or always bad instead of understanding it depends on market conditions.
+
+questions_to_think:
+  - How does liquidity affect whether a market order will execute at the expected price?
+  - Why is understanding the Limit Order Book important for both short-term traders and long-term investors?
+  - What advantages and risks does HFT create for other market participants?
+  - How can spread, slippage, and market impact reduce returns even if your investment thesis is correct?
+
+source: https://www.quantstart.com/articles/high-frequency-trading-i-introduction-to-market-microstructure/

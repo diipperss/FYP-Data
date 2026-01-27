@@ -1,0 +1,146 @@
+title: How Macroeconomic Analysts Predict Market Trends
+summary: >
+  This lesson explains how macroeconomic analysts interpret economic indicators such as GDP, employment data,
+  inflation, and interest rates to anticipate market trends. It shows how these indicators interact with one another,
+  why markets often move on expectations rather than headlines, and how investors can use macro signals to understand
+  broader market cycles rather than short-term noise.
+
+beginner:
+  title: "Beginner: Macro basics—why the whole economy moves markets"
+  summary: >
+    Learn what macroeconomic analysis is, what the major indicators mean in plain language, and why markets can rise
+    on “bad news” or fall on “good news” depending on expectations.
+  key_points:
+    - Macroeconomic analysis focuses on economy-wide conditions, not individual companies.
+    - GDP is a big-picture scorecard of economic growth, which influences broad earnings expectations.
+    - Employment data matters because jobs and wages drive consumer spending.
+    - Inflation reduces purchasing power and changes how investors value future profits.
+    - Interest rates affect borrowing costs, mortgages, and business investment—and ripple into stock and bond prices.
+    - Markets respond to expectations and surprises, not just the headline number.
+  subtopics:
+    - What “macro” means vs company-specific analysis
+    - The main indicators: GDP, jobs, inflation, interest rates
+    - Why “expectations” matter more than the reported number
+    - How macro headlines translate into market sentiment (risk-on vs risk-off)
+  examples:
+    - GDP growth example:
+        description: >
+          An economy reports accelerating GDP growth driven by rising consumer spending and business investment,
+          suggesting stronger demand across multiple sectors.
+        impact_on_investor: >
+          Investors may increase exposure to cyclical stocks such as industrials or consumer discretionary companies,
+          anticipating higher corporate profits during economic expansion.
+    - Employment data example:
+        description: >
+          A falling unemployment rate combined with steady wage growth indicates a strong labor market.
+        impact_on_investor: >
+          Signals resilient consumer spending, which can support equity markets, but may also increase inflation concerns
+          that influence future interest rate decisions.
+  common_mistakes:
+    - Interpreting one indicator (e.g., GDP) without considering inflation and rates.
+    - Thinking “strong data = stocks up” without asking “was it already expected?”
+    - Confusing the economy (slow-moving) with the stock market (forward-looking).
+  questions_to_think:
+    - Why might stocks fall even when GDP and jobs look strong?
+    - If markets are forward-looking, what does that imply about reacting to headlines?
+
+intermediate:
+  title: "Intermediate: Indicator types, interactions, and market regimes"
+  summary: >
+    Learn how analysts combine indicators, distinguish leading vs lagging signals, and connect the macro mix
+    (growth + inflation + rates) to sector performance and broad market cycles.
+  key_points:
+    - Leading indicators (e.g., consumer confidence) can signal turning points before GDP or unemployment changes.
+    - Lagging indicators confirm trends but often arrive after markets have moved.
+    - GDP, employment, inflation, and interest rates interact; you rarely interpret them in isolation.
+    - Inflation + rates influence asset valuations, especially for long-duration growth stocks.
+    - Sector performance often rotates with the cycle (expansion vs slowdown), not because of random luck.
+    - Market reactions depend on the “surprise” relative to expectations and positioning.
+  subtopics:
+    - Leading vs lagging indicators (and why timing matters)
+    - The growth-inflation mix (e.g., strong growth + high inflation vs weak growth + falling inflation)
+    - Sector sensitivity: cyclicals vs defensives (conceptual)
+    - Expectations, “consensus forecasts,” and surprise-driven moves
+    - Soft data vs hard data (surveys vs measured outcomes)
+  examples:
+    - Consumer confidence example:
+        description: >
+          Consumer confidence rises sharply ahead of a holiday season, signaling optimism about income and job security.
+        impact_on_investor: >
+          Retail and consumer-focused stocks may benefit as investors anticipate higher discretionary spending.
+    - Interest rate expectations example:
+        description: >
+          Inflation remains elevated, leading markets to expect central banks to keep interest rates higher for longer.
+        impact_on_investor: >
+          Growth stocks may face valuation pressure, while value stocks or bonds with shorter durations may become more attractive.
+  common_mistakes:
+    - Relying too heavily on lagging indicators to make forward-looking decisions.
+    - Ignoring the role of interest rates when interpreting “good” growth data.
+    - Treating consumer confidence as a guarantee rather than a probability signal.
+  questions_to_think:
+    - What combination of signals would make you expect a shift from cyclicals to defensives?
+    - Why can inflation be “bad” for stocks even when GDP is rising?
+
+advanced:
+  title: "Advanced: Expectations vs reality, central banks, and scenario thinking"
+  summary: >
+    Learn how macro analysts build scenarios around growth, inflation, and policy; why central bank reaction functions
+    dominate market turning points; and how to interpret market moves using surprises, second-order effects, and cycles.
+  key_points:
+    - Markets price expected future policy and growth; the key is the delta versus expectations.
+    - Central bank policy links inflation and employment to interest rates; policy shifts often move markets more than the data itself.
+    - The same data can be bullish or bearish depending on what it implies for rates (the “good news is bad news” effect).
+    - Second-order effects matter: wage growth can boost spending but also raise inflation pressure and rate expectations.
+    - Macro analysis is best used as a cycle framework (regime), not as a day-trading signal.
+    - Scenario thinking (base / upside / downside) helps avoid overconfidence in a single forecast.
+  subtopics:
+    - Policy reaction function (conceptual): how central banks respond to inflation and jobs
+    - Surprise vs revision risk: initial prints vs later revisions
+    - Regimes: overheating, soft landing, slowdown, recession (conceptual)
+    - Cross-asset intuition: rates ↔ bonds ↔ equities (high-level)
+    - Behavioral edge: reducing emotional decisions during volatility
+  examples:
+    - "Good news is bad news example: Payrolls beat expectations and wages rise. Stocks drop because traders think rates may stay higher for longer."
+    - "Second-order effect example: Falling unemployment supports consumption, but if inflation re-accelerates, valuations compress due to higher discount rates."
+  common_mistakes:
+    - Overfitting: believing one indicator print “proves” the next 6 months.
+    - Ignoring policy: analyzing inflation/jobs without considering what central banks will do.
+    - Using macro signals for short-term trades instead of regime guidance.
+  questions_to_think:
+    - How would the same strong jobs report be interpreted differently in high-inflation vs low-inflation periods?
+    - What “surprise” would matter more: GDP beating forecasts, or inflation coming in below forecasts—and why?
+
+definitions:
+  - term: GDP
+    definition: Gross Domestic Product (GDP) measures the total value of all goods and services produced within a country during a specific period, serving as a key indicator of economic performance.
+  - term: Unemployment Rate
+    definition: The unemployment rate represents the percentage of the labor force that is unemployed and actively seeking work, reflecting the health of the labor market.
+  - term: Consumer Confidence Index (CCI)
+    definition: The Consumer Confidence Index (CCI) gauges the level of optimism consumers have about their financial future, influencing their spending behavior.
+  - term: Leading Indicator
+    definition: A data point that tends to change before the broader economy, used to forecast direction.
+  - term: Lagging Indicator
+    definition: A data point that changes after the economy has already shifted.
+  - term: Inflation
+    definition: The general rise in prices over time, which reduces purchasing power.
+  - term: Interest Rate
+    definition: The cost of borrowing money, often set by central banks and influential for markets.
+  - term: Expectations (Market Expectations)
+    definition: The consensus forecast or implied belief about what economic data or policy will be, already reflected in prices before the release.
+  - term: Surprise
+    definition: The difference between reported data and what markets expected, often driving immediate price moves.
+
+common_mistakes:
+  - Treating economic indicators in isolation rather than as part of a broader system.
+  - Assuming strong data always leads to rising markets without considering expectations.
+  - Relying too heavily on lagging indicators for forward-looking decisions.
+  - Ignoring central bank policy implications when interpreting inflation and jobs data.
+
+questions_to_think:
+  - How do changes in GDP growth rates affect market behavior?
+  - What role do leading indicators play in predicting economic downturns?
+  - How can understanding employment trends help in forecasting market movements?
+  - Why do markets sometimes move opposite to the headline data?
+  - How do inflation and interest rate expectations change what “good” economic news means?
+
+source: https://www.rosenbergresearch.com/2025/04/15/how-macroeconomic-analysts-predict-market-trends/

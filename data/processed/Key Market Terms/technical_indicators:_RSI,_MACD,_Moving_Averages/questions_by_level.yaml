@@ -1,0 +1,87 @@
+by_level:
+  beginner: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: The ___ helps to smooth price data to highlight the trend direction.
+        options: [A. RSI, B. MACD, C. Moving Average, D. Volume]
+        answer: C
+      - type: drag_drop
+        question: Match the indicator to its primary function.
+        drag_drop:
+          prompt: Drag the indicator to its function.
+          pairs:
+            - left: RSI
+              right: Momentum
+            - left: MACD
+              right: Trend Shifts
+            - left: Moving Average
+              right: Trend Direction
+        answer: RSI - Momentum, MACD - Trend Shifts, Moving Average - Trend Direction
+      - type: case_study_mcq
+        scenario: A trader notices the Relative Strength Index (RSI) has risen above 70 while the price continues to climb.
+        question: What does this likely indicate?
+        options: [A. A strong, guaranteed upward trend, B. Momentum is strong, but risk of a pullback increases, C. The market is oversold, D. The trend is reversing immediately]
+        answer: B
+      - type: true_false
+        question: Technical indicators can predict future price movements with certainty.
+        answer: false
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: The MACD indicator combines trend and momentum using _______ moving averages.
+        options: [A, Exponential, B, Simple, C, Geometric, D, Weighted]
+        answer: A
+      - type: drag_drop
+        question: Match the indicator with its primary strength.
+        drag_drop:
+          prompt: Drag the indicator to its corresponding strength.
+          pairs:
+            - left: RSI
+              right: Identifying momentum extremes
+            - left: MACD
+              right: Detecting changes in momentum
+            - left: Moving Average
+              right: Defining trend direction
+        answer: RSI - Identifying momentum extremes, MACD - Detecting changes in momentum, Moving Average - Defining trend direction
+      - type: case_study_mcq
+        scenario: A trader observes that the price of a stock is making higher highs, but the RSI is making lower highs. This suggests that even though the price is increasing, the momentum is weakening.
+        question: What does this scenario likely indicate?
+        options: [A, A strong, sustained uptrend, B, A potential trend reversal, C, A consolidation phase, D, A decrease in volatility]
+        answer: B
+      - type: true_false
+        question: Moving averages are generally considered to be effective at reducing whipsaws when used as trend filters.
+        answer: true
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: "Combining indicators that are derived from the same price data can lead to ____, diminishing their predictive power."
+        options: [A, B, C, D]
+        answer: "A"
+        options: [A. redundancy, B. convergence, C. divergence, D. amplification]
+      - type: drag_drop
+        question: "Match the indicator with its primary function in a combined ruleset."
+        drag_drop:
+          prompt: "Drag the indicator to its corresponding function."
+          pairs:
+            - left: "Moving Average"
+              right: "Regime Filter"
+            - left: "MACD"
+              right: "Momentum Shift Detection"
+            - left: "RSI"
+              right: "Trend Strength Assessment"
+        answer: "Moving Average - Regime Filter, MACD - Momentum Shift Detection, RSI - Trend Strength Assessment"
+      - type: case_study_mcq
+        scenario: "A trader observes a strong uptrend but notices the RSI has been consistently above 70 for several weeks. They are considering entering a long position on a MACD crossover."
+        question: "Given the scenario, what is the MOST prudent course of action before entering the trade?"
+        options: [A, B, C, D]
+        answer: "C"
+        options: [A. Immediately enter the trade, as MACD crossovers are reliable in uptrends, B. Ignore the RSI and solely rely on the MACD crossover for entry, C.  Assess the trend's slope and consider a volatility check to mitigate potential whipsaw risk, D. Short the market, anticipating an imminent RSI-driven reversal.]
+      - type: true_false
+        question: "Implementing a predefined invalidation point, regardless of indicator signals, is a crucial element of risk management when trading with combined indicator rulesets."
+        answer: "true"
+    ```

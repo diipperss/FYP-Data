@@ -1,0 +1,130 @@
+title: Technical Indicators: RSI, MACD, and Moving Averages
+summary: >
+  Technical indicators such as RSI, MACD, and moving averages help traders analyze momentum, trend direction, and potential reversals.
+  Each indicator captures different aspects of price behavior, and using them together provides a more balanced technical perspective.
+  This lesson explains how these indicators work, how they differ, and how traders combine them effectively.
+
+beginner:
+  title: "Beginner: What indicators do (they summarize price behavior)"
+  summary: >
+    Learn what technical indicators are and what they’re used for: simplifying price movement into signals about trend and momentum.
+    You’ll understand the basic roles of moving averages (trend), RSI (momentum extremes), and MACD (momentum + trend shifts).
+  key_points:
+    - Moving averages smooth price data to highlight trend direction.
+    - RSI measures momentum and identifies overbought or oversold conditions.
+    - MACD analyzes momentum and trend strength using exponential moving averages.
+    - Indicators are derived from past prices, so they are lagging (they react, not predict).
+    - Indicators work best as tools for decisions, not as guarantees.
+  subtopics:
+    - Trend vs momentum (simple distinction)
+    - Moving averages: why smoothing helps
+    - RSI: overbought/oversold as “stretched,” not “must reverse”
+    - MACD: comparing faster vs slower averages
+    - Lagging nature: why signals come after moves begin
+  examples:
+    - Overbought example: >
+        RSI rises above 70 while price continues climbing.
+        Momentum is strong, but risk of a pullback increases.
+    - Trend example: >
+        The 50-day moving average crosses above the 200-day moving average.
+        Often interpreted as a long-term bullish trend signal.
+  common_mistakes:
+    - Treating RSI overbought or oversold levels as automatic buy or sell signals.
+    - Believing indicators “predict” the market rather than summarize what already happened.
+    - Using indicators without any plan for exits or risk limits.
+  questions_to_think:
+    - If indicators are lagging, what kind of mistakes might that cause?
+    - Why can RSI stay overbought for a long time in a strong trend?
+
+intermediate:
+  title: "Intermediate: How RSI, MACD, and moving averages differ (and what each is good for)"
+  summary: >
+    Learn the strengths and weaknesses of each indicator and when traders typically use them.
+    You’ll understand crossovers, divergences, and how moving averages can act as trend filters.
+  key_points:
+    - RSI focuses on momentum extremes and can highlight potential reversals or trend strength.
+    - RSI divergence can warn of weakening trends.
+    - MACD crossovers often signal changes in momentum.
+    - MACD combines trend and momentum via EMAs, often used to identify shifts rather than absolute levels.
+    - Moving averages help define trend direction and can reduce whipsaws when used as filters.
+    - Indicators should be confirmed with price action and risk management.
+  subtopics:
+    - RSI: thresholds (30/70) and what they imply
+    - Divergence: why indicator vs price disagreement matters
+    - MACD line vs signal line: crossover logic
+    - Moving average crossovers vs slope (trend direction)
+    - Whipsaw conditions: why sideways markets break indicators
+  examples:
+    - Crossover example: >
+        The MACD line crosses above the signal line.
+        Traders may interpret this as bullish momentum.
+    - "RSI divergence example: Price makes a new high, but RSI makes a lower high—momentum is weakening even as price rises."
+  common_mistakes:
+    - Confusing the purpose of MACD and RSI, leading to conflicting trading signals.
+    - Overreliance on a single indicator without considering how they interact.
+    - Using crossover signals in choppy markets where whipsaws are common.
+  questions_to_think:
+    - How do MACD and RSI differ in their approach to measuring market momentum?
+    - How can moving averages help filter noise?
+    - What are the limitations of using only one of these indicators for trading decisions?
+
+advanced:
+  title: "Advanced: Combining indicators into a ruleset (confirmation, regime filters, and risk management)"
+  summary: >
+    Learn how traders combine indicators without double-counting the same information, and how to adapt signals to market regimes.
+    You’ll connect indicator use to trade planning: entries, exits, position sizing, and stop placement.
+  key_points:
+    - Indicators overlap because many are transformations of price; combining them should add confirmation, not redundancy.
+    - Moving averages can act as a regime filter (trend vs range), changing how you interpret RSI/MACD.
+    - In trends, RSI can be used as a “trend strength / pullback timing” tool rather than a reversal signal.
+    - MACD is useful for detecting momentum shifts, but signals can lag and fail during sudden news moves.
+    - Whipsaw risk increases in sideways markets; filters (trend slope, volatility checks) can reduce false signals.
+    - Risk management is essential because any indicator can be wrong (stops, sizing, and predefined invalidation).
+  subtopics:
+    - Confirmation logic: trend filter + momentum trigger
+    - Regime switching: trending vs ranging
+    - Avoiding indicator “stacking” (multiple indicators saying the same thing)
+    - Practical risk controls: stops, max loss per trade, position sizing (conceptual)
+    - Backtesting mindset: why rules beat vibes
+  examples:
+    - "Trend-filter combo example: Only take long trades when price is above the 200-day MA; use MACD crossover for entry timing; use RSI to avoid entering when momentum is already extremely stretched."
+    - "Whipsaw defense example: In a range-bound market, moving average crossovers trigger repeatedly; adding a trend-slope filter reduces trades during chop."
+  common_mistakes:
+    - Combining RSI + MACD + multiple moving averages and thinking “more indicators = more certainty.”
+    - Ignoring market regime and applying the same signals in trends and ranges.
+    - Skipping risk management because “the indicator said so.”
+  questions_to_think:
+    - How can traders effectively combine MACD and RSI to enhance their technical analysis?
+    - What role does risk management play when using indicators?
+    - How would you design a simple rule that avoids trading during whipsaw conditions?
+
+definitions:
+  - term: MACD
+    definition: A momentum indicator that measures the relationship between two exponential moving averages (EMAs), typically a 12-period and 26-period EMA. It includes a signal line derived from a nine-day EMA of the MACD line.
+  - term: RSI
+    definition: A momentum indicator that gauges price changes relative to recent highs and lows, indicating overbought (above 70) or oversold (below 30) conditions.
+  - term: Exponential Moving Average (EMA)
+    definition: A type of moving average that gives more weight to recent prices, used in calculating indicators like MACD.
+  - term: Simple Moving Average (SMA)
+    definition: A moving average that gives equal weight to all prices in the lookback period.
+  - term: Crossover
+    definition: A signal that occurs when a shorter-term moving average crosses above or below a longer-term moving average.
+  - term: Divergence
+    definition: A situation where price moves in one direction while an indicator moves in the opposite direction, hinting at weakening momentum.
+  - term: Whipsaw
+    definition: Choppy market conditions that cause frequent false signals.
+
+common_mistakes:
+  - Confusing the purpose of MACD and RSI, leading to conflicting trading signals.
+  - Overreliance on a single indicator without considering how they interact.
+  - Treating RSI overbought or oversold levels as automatic buy or sell signals.
+  - Using indicators without price confirmation and risk management.
+
+questions_to_think:
+  - How do MACD and RSI differ in their approach to measuring market momentum?
+  - What are the limitations of using only one of these indicators for trading decisions?
+  - How can traders effectively combine MACD and RSI to enhance their technical analysis?
+  - How can moving averages help filter noise?
+  - What role does risk management play when using indicators?
+
+source: https://www.investopedia.com/ask/answers/122214/what-are-main-differences-between-moving-average-convergence-divergence-macd-relative-strength-index.asp

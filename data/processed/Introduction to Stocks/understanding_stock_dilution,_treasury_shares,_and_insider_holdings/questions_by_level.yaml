@@ -1,0 +1,87 @@
+by_level:
+  beginner: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Stock dilution reduces existing shareholders’ ownership percentage when a company issues more ___."
+        options: [A. shares, B. dividends, C. profits, D. debt]
+        answer: A
+      - type: drag_drop
+        question: Match the term to its definition.
+        drag_drop:
+          prompt: Drag the terms to the correct definitions.
+          pairs:
+            - left: Ownership percentage
+              right: your shares ÷ total shares outstanding
+            - left: EPS
+              right: earnings per share
+            - left: Dilution
+              right: issuing more shares
+        answer: Ownership percentage: your shares ÷ total shares outstanding, EPS: earnings per share, Dilution: issuing more shares
+      - type: case_study_mcq
+        scenario: "An investor owns 100 shares in a company with 1,000 total shares, giving them 10% ownership. The company issues another 1,000 shares. What happens to the investor's ownership percentage?"
+        question: "What is the investor's new ownership percentage?"
+        options: [A. 10%, B. 20%, C. 5%, D. 0%]
+        answer: C
+      - type: true_false
+        question: "Stock dilution is always a bad thing for existing shareholders."
+        answer: false
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: A secondary offering of new shares will typically ___ existing shareholders' ownership percentage.
+        options: [A, B, C, D]
+        answer: A
+        options: [A. dilute, B. increase, C. maintain, D. stabilize]
+      - type: drag_drop
+        question: Match the dilution source with its primary effect on shareholders.
+        drag_drop:
+          prompt: Drag the source of dilution to its impact.
+          pairs:
+            - left: Employee Stock Options
+              right: Incentivizes performance and aligns employee interests
+            - left: Convertible Securities
+              right: Can cause sudden increase in shares outstanding
+            - left: Warrant Exercise
+              right: Increases total shares and diluting existing shareholders
+        answer: Employee Stock Options - Incentivizes performance and aligns employee interests, Convertible Securities - Can cause sudden increase in shares outstanding, Warrant Exercise - Increases total shares and diluting existing shareholders
+      - type: case_study_mcq
+        scenario: "TechGrowth Inc. announces a stock acquisition of StartupX, paying primarily with its own shares. This significantly increases the number of shares outstanding. Investors are concerned."
+        question: "What is the MOST likely immediate impact of this acquisition on TechGrowth Inc.'s existing shareholders?"
+        options: [A, B, C, D]
+        answer: A
+        options: [A. Short-term selling pressure and potential price decline, B. Immediate increase in earnings per share (EPS), C. Significant increase in investor confidence, D. No noticeable impact on share price]
+      - type: true_false
+        question: "Warrants represent a potential future dilution because they can be exercised to purchase new shares."
+        answer: true
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Understanding a company's potential share count requires considering the fully diluted share count, which includes shares from outstanding options, warrants, and _____.
+        options: [A. convertible notes, B. restricted stock units, C. authorized shares, D. treasury stock]
+        answer: A
+      - type: drag_drop
+        question: Match the share structure term with its definition.
+        drag_drop:
+          prompt: Drag the term to the correct definition.
+          pairs:
+            - left: Authorized Shares
+              right: The maximum number of shares a company is legally permitted to issue.
+            - left: Treasury Shares
+              right: Shares that a company has repurchased from the open market.
+            - left: Outstanding Shares
+              right: Shares currently held by investors, including insiders and the public.
+        answer: "Authorized Shares - The maximum number of shares a company is legally permitted to issue; Treasury Shares - Shares that a company has repurchased from the open market; Outstanding Shares - Shares currently held by investors, including insiders and the public."
+      - type: case_study_mcq
+        scenario: A tech company issues new shares to finance an acquisition, increasing its outstanding share count by 15%. Simultaneously, the company announces a buyback program to repurchase 10% of its shares. Given this scenario, what is the MOST likely impact on the company's earnings per share (EPS)?
+        question: What is the MOST likely impact on the company's EPS?
+        options: [A. EPS will significantly decrease due to the dilution outweighing the buyback., B. EPS will increase substantially due to the large buyback program., C. EPS will experience a slight decrease, but the buyback will partially offset the dilution., D. EPS will remain virtually unchanged, as the dilution and buyback are approximately equal.]
+        answer: C
+      - type: true_false
+        question: Issuing new shares for employee stock options is always detrimental to existing shareholders.
+        answer: false
+    ```

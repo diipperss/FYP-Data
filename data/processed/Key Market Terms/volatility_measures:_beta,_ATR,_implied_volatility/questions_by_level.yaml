@@ -1,0 +1,85 @@
+by_level:
+  beginner: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Volatility measures ___ in price.
+        options: [A: movement, B: direction, C: value, D: stability]
+        answer: A
+      - type: drag_drop
+        question: Match the term with its definition.
+        drag_drop:
+          prompt: Drag the term to its definition.
+          pairs:
+            - left: Beta
+              right: Compares volatility to the market.
+            - left: ATR
+              right: Typical daily price movement.
+            - left: Standard Deviation
+              right: Measures historical volatility.
+        answer: Beta-Compares volatility to the market., ATR-Typical daily price movement., Standard Deviation-Measures historical volatility.
+      - type: case_study_mcq
+        scenario: Sarah is new to investing and sees a stock with high volatility. She is worried about losing money. What does high volatility suggest about this stock?
+        question: What does a stock with high volatility mean for Sarah?
+        options: [A: It will definitely go up in value, B: It will definitely go down in value, C: It has potential for large gains or losses, D: It is a guaranteed safe investment]
+        answer: C
+      - type: true_false
+        question: Volatility always means an investment is a bad idea.
+        answer: false
+    ```
+  intermediate: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Beta measures market _____, indicating how sensitive an asset is to changes in the overall market.
+        options: [A. volatility, B. liquidity, C. sensitivity, D. correlation]
+        answer: C
+      - type: drag_drop
+        question: Match the volatility measure with its primary use.
+        drag_drop:
+          prompt: Drag the measure to the appropriate use.
+          pairs:
+            - left: Standard Deviation
+              right: Comparing fund volatility
+            - left: ATR
+              right: Stop placement
+            - left: Maximum Drawdown
+              right: Worst-case loss assessment
+        answer: Standard Deviation - Comparing fund volatility, ATR - Stop placement, Maximum Drawdown - Worst-case loss assessment
+      - type: case_study_mcq
+        scenario: A trader is assessing a stock's risk before entering a position. They notice the stock has a beta of 1.5 compared to the S&P 500. Which of the following is the MOST accurate interpretation?
+        question: What does this beta value suggest about the stock's behavior?
+        options: [A. The stock is less volatile than the S&P 500. , B. The stock tends to move in the opposite direction of the S&P 500., C. The stock is expected to move 1.5 times as much as the S&P 500, D. The stock’s volatility is unrelated to the S&P 500.]
+        answer: C
+      - type: true_false
+        question: Bollinger Bands are a useful tool for visualizing how volatility expands and contracts over time.
+        answer: true
+    ```
+  advanced: |-
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: Although historical volatility reflects past price movements, ___ volatility is derived from option prices and represents market expectations about future volatility.
+        options: [A. standard, B. realized, C. implied, D. annualized]
+        answer: C
+      - type: drag_drop
+        question: Match the volatility concept to its description.
+        drag_drop:
+          prompt: Drag the concept to its description.
+          pairs:
+            - left: Historical Volatility
+              right: A measure of past price fluctuations.
+            - left: Implied Volatility
+              right: A forecast of future volatility derived from option prices.
+            - left: Volatility Clustering
+              right: The tendency for high volatility to be followed by high volatility.
+        answer: Historical Volatility - A measure of past price fluctuations, Implied Volatility - A forecast of future volatility derived from option prices, Volatility Clustering - The tendency for high volatility to be followed by high volatility.
+      - type: case_study_mcq
+        scenario: A portfolio manager observes that a stock’s historical volatility has been consistently low for the past six months, but the implied volatility, as reflected in options prices, has spiked significantly in the days leading up to an upcoming earnings announcement.
+        question: What is the MOST likely explanation for this divergence?
+        options: [A. The options market is inefficient and mispricing volatility. B. The market anticipates a potentially large price movement following the earnings announcement. C. The portfolio manager is using an incorrect historical volatility calculation. D. The stock's fundamental value is about to decline significantly, regardless of the earnings announcement.]
+        answer: B
+      - type: true_false
+        question: Maximum drawdown is a less important risk metric than standard deviation because it only considers the worst-case scenario.
+        answer: false
+    ```
