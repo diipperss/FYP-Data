@@ -1,6 +1,5 @@
 by_level:
-  beginner: |-
-    ```yaml
+  beginner: 
     questions:
       - type: fill_blank_mcq
         question: A stock ___ is a place where people buy and sell shares.
@@ -26,9 +25,8 @@ by_level:
       - type: true_false
         question: Stock exchanges help make trading more organized and trustworthy.
         answer: true
-    ```
-  intermediate: |-
-    ```yaml
+    
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: The bid–ask ___ is the difference between the highest price a buyer is willing to pay and the lowest price a seller is willing to accept.
@@ -56,9 +54,8 @@ by_level:
       - type: true_false
         question: Modern exchanges primarily rely on manual order books and floor traders to execute trades.
         answer: false
-    ```
-  advanced: |-
-    ```yaml
+
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: The concentration of liquidity during a closing auction often leads to a price that is widely referenced and serves as a crucial ___ for subsequent trading.
@@ -84,4 +81,4 @@ by_level:
       - type: true_false
         question:  Market structure has no significant impact on liquidity quality or how prices respond during periods of stress.
         answer: false
-    ```
+    

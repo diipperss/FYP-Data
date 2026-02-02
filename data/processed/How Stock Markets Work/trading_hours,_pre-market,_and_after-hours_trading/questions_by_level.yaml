@@ -1,6 +1,5 @@
 by_level:
-  beginner: |-
-    ```yaml
+  beginner: 
     questions:
       - type: fill_blank_mcq
         question: During regular trading hours, the market has the most ___ .
@@ -26,9 +25,8 @@ by_level:
       - type: true_false
         question: During extended hours, bid–ask spreads tend to widen.
         answer: true
-    ```
-  intermediate: |-
-    ```yaml
+    
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: During pre-market hours, trading typically occurs via ____, which often results in wider spreads.
@@ -54,9 +52,8 @@ by_level:
       - type: true_false
         question: Lower liquidity generally makes it easier to achieve good execution.
         answer: false
-    ```
-  advanced: |-
-    ```yaml
+    
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: "During periods of reduced liquidity, such as overnight trading, the risk of ___ increases significantly."
@@ -82,4 +79,4 @@ by_level:
       - type: true_false
         question: "Waiting for the regular trading session to execute trades generally improves execution quality and reduces hidden costs for many investors."
         answer: true
-    ```
+    

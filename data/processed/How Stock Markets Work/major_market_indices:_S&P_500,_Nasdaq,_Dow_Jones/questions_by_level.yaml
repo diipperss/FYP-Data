@@ -1,6 +1,5 @@
 by_level:
-  beginner: |-
-    ```yaml
+  beginner:
     questions:
       - type: fill_blank_mcq
         question: A market ___ tracks a group of stocks to represent a market segment.
@@ -26,9 +25,8 @@ by_level:
       - type: true_false
         question: Indices are used to compare your investments to “the market.”
         answer: true
-    ```
-  intermediate: |-
-    ```yaml
+
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: The ___ weighting method used by the Dow Jones Industrial Average gives greater influence to higher-priced stocks.
@@ -54,9 +52,8 @@ by_level:
       - type: true_false
         question: Sector concentration within an index can lead to periods of both outperformance and underperformance.
         answer: true
-    ```
-  advanced: |-
-    ```yaml
+
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: The concept of ___ highlights how a small number of constituents can disproportionately impact an index's overall performance.
@@ -82,4 +79,4 @@ by_level:
       - type: true_false
         question: Selecting a specific index as a benchmark inherently represents a strategic investment choice, influencing the portfolio's overall exposure.
         answer: true
-    ```
+

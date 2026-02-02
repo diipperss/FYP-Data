@@ -1,9 +1,8 @@
 by_level:
-  beginner: |-
+  beginner: 
     - Simple protection example: You own a stock and want to limit losses if it drops below $40. You place a stop-loss order at $40.
     - Stop-limit example: You want to buy if it reaches $60, but only if it is above $58. You place a stop-limit order with a stop price of $60 and a limit price of $58.
     
-    ```yaml
     questions:
       - type: fill_blank_mcq
         question: A ___ order executes immediately, but the price might be different than expected.
@@ -29,9 +28,8 @@ by_level:
       - type: true_false
         question: A limit order guarantees your order will be filled.
         answer: false
-    ```
-  intermediate: |-
-    ```yaml
+
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: During periods of high volatility, a ___ order is most likely to experience significant slippage.
@@ -57,9 +55,8 @@ by_level:
       - type: true_false
         question: A good-til-canceled (GTC) order will always execute as soon as the specified price is reached.
         answer: false
-    ```
-  advanced: |-
-    ```yaml
+  
+  advanced:
     questions:
       - type: fill_blank_mcq
         question: While stop orders guarantee activation at a specified price, they do not guarantee execution at that price, only the _____.
@@ -85,4 +82,4 @@ by_level:
       - type: true_false
         question: Keeping stale orders active due to improper time-in-force settings can unintentionally result in unexpected entries or exits.
         answer: true
-    ```
+    
