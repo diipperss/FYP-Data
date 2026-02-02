@@ -49,7 +49,7 @@ Thumbs.db
 # =========================
 # ML / LLaMA / Model Files
 # =========================
-models/*.gguf
+models/*
 *.pt
 *.ckpt
 *.bin

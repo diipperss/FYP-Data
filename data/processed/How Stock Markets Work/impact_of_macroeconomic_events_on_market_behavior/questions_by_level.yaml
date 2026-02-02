@@ -1,5 +1,5 @@
 by_level:
-  beginner: |-
+  beginner: 
     - {'Inflation example': {'description': 'The CPI (Consumer Price Index) rises at a faster-than-expected rate, indicating rising prices for goods and services.\n', 'impact_on_investor': 'May lead investors to reduce exposure to growth stocks, anticipating higher borrowing costs and potential profit margin compression due to rising input costs.\n'}}
     - {'Interest rate example': {'description': 'The Federal Reserve raises its benchmark interest rate to combat inflation.\n', 'impact_on_investor': 'Investors may shift towards value stocks and dividend-paying stocks, as higher rates can negatively impact growth stocks.\n'}}
     
@@ -29,9 +29,8 @@ by_level:
       - type: true_false
         question: Markets only respond to the headline number, not expectations.
         answer: false
-    ```
-  intermediate: |-
-    ```yaml
+    
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: Consumer confidence is often considered a ___ indicator, providing insights into future economic trends.
@@ -57,9 +56,8 @@ by_level:
       - type: true_false
         question: "Lagging indicators are generally more useful for predicting short-term market movements than leading indicators."
         answer: false
-    ```
-  advanced: |-
-    ```yaml
+  
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: The "good news is bad news" effect often occurs when strong economic data leads to expectations of ___ monetary policy tightening.
@@ -85,4 +83,4 @@ by_level:
       - type: true_false
         question: Scenario thinking aims to eliminate forecasting risk entirely by predicting all possible outcomes.
         answer: false
-    ```
+

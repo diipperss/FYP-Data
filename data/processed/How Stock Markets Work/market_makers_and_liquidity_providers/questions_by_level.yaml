@@ -1,6 +1,5 @@
 by_level:
-  beginner: |-
-    ```yaml
+  beginner: 
     questions:
       - type: fill_blank_mcq
         question: A ___ provider supplies capital to the market, while a market maker posts quotes.
@@ -26,9 +25,8 @@ by_level:
       - type: true_false
         question: Liquidity providers always show their quotes publicly.
         answer: false
-    ```
-  intermediate: |-
-    ```yaml
+    
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: Market makers primarily earn profits through the ____, but also face inventory and adverse selection risk.
@@ -54,9 +52,8 @@ by_level:
       - type: true_false
         question: Understanding the roles of market makers and liquidity providers can help explain why an order’s execution quality varies across different assets and times.
         answer: true
-    ```
-  advanced: |-
-    ```yaml
+    
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: In the forex market, major currency pairs benefit from deep liquidity primarily due to the role of ____, such as major banks.
@@ -82,4 +79,4 @@ by_level:
       - type: true_false
         question: Increased regulatory transparency in a market typically leads to narrower bid-ask spreads, all else being equal.
         answer: true
-    ```
+    

@@ -1,6 +1,5 @@
 by_level:
-  beginner: |-
-    ```yaml
+  beginner: 
     questions:
       - type: fill_blank_mcq
         question: A broker helps you buy and sell securities on markets you can’t access ___ .
@@ -26,9 +25,8 @@ by_level:
       - type: true_false
         question: A broker always provides financial advice to their clients.
         answer: false
-    ```
-  intermediate: |-
-    ```yaml
+    
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: An agency broker primarily aims to execute trades solely in the client's best interest, avoiding ____ conflicts of interest.
@@ -56,9 +54,8 @@ by_level:
       - type: true_false
         question: Breaking a large order into smaller trades can potentially reduce market impact and improve execution price.
         answer: true
-    ```
-  advanced: |-
-    ```yaml
+
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: The principle of ____ mandates that brokers must act in their clients’ best interests when providing investment advice.
@@ -84,4 +81,4 @@ by_level:
       - type: true_false
         question: Disclosure requirements regarding conflicts of interest are universally standardized across all jurisdictions.
         answer: false
-    ```
+    

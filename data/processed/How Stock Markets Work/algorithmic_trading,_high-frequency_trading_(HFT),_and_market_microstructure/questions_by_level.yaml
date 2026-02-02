@@ -1,6 +1,5 @@
 by_level:
-  beginner: |-
-    ```yaml
+  beginner: 
     questions:
       - type: fill_blank_mcq
         question: When you place a market order, you prioritize ___ over price.
@@ -26,9 +25,7 @@ by_level:
       - type: true_false
         question: The bid-ask spread is a cost you pay when buying or selling a stock.
         answer: true
-    ```
-  intermediate: |-
-    ```yaml
+  intermediate:
     questions:
       - type: fill_blank_mcq
         question: Understanding the ____ of the order book is crucial for mitigating slippage when placing large trades.
@@ -54,9 +51,7 @@ by_level:
       - type: true_false
         question: Low-volume trading periods typically have tighter spreads and greater liquidity.
         answer: false
-    ```
-  advanced: |-
-    ```yaml
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: The phenomenon where liquidity seemingly disappears during periods of market stress is often attributed to the withdrawal of ___ by high-frequency trading firms.
@@ -82,4 +77,3 @@ by_level:
       - type: true_false
         question: High-frequency trading consistently improves execution quality for all market participants, regardless of market conditions.
         answer: false
-    ```

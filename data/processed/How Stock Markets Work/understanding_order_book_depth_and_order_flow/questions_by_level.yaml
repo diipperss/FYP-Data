@@ -1,6 +1,5 @@
 by_level:
-  beginner: |-
-    ```yaml
+  beginner: 
     questions:
       - type: fill_blank_mcq
         question: Order book ___ shows liquidity at different price levels, not just the best bid or ask.
@@ -26,9 +25,8 @@ by_level:
       - type: true_false
         question: A thick order book generally indicates lower execution risk.
         answer: true
-    ```
-  intermediate: |-
-    ```yaml
+    
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: Analyzing order flow helps traders understand short-term ____ pressure and make informed decisions.
@@ -54,9 +52,8 @@ by_level:
       - type: true_false
         question: Analyzing depth in isolation, without considering other factors like trend and volatility, is a reliable trading strategy.
         answer: false
-    ```
-  advanced: |-
-    ```yaml
+    
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: Scalping strategies are particularly vulnerable when liquidity thins and spreads _____.
@@ -82,4 +79,4 @@ by_level:
       - type: true_false
         question: Risk management should not account for worst-case execution (slippage) when the order book is thin.
         answer: false
-    ```
+    
