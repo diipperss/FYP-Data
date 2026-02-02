@@ -1,6 +1,5 @@
 by_level:
-  beginner: |-
-    ```yaml
+  beginner: 
     questions:
       - type: fill_blank_mcq
         question: High volume often helps _____, but it does not guarantee it.
@@ -26,9 +25,8 @@ by_level:
       - type: true_false
         question: Liquidity reflects how quickly an asset can be traded with minimal price impact.
         answer: true
-    ```
-  intermediate: |-
-    ```yaml
+
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: Although high volume can indicate activity, it doesn't necessarily guarantee ____, which is crucial for efficient trading.
@@ -54,9 +52,8 @@ by_level:
       - type: true_false
         question: Average daily volume (ADV) provides a complete picture of trading costs associated with a stock.
         answer: false
-    ```
-  advanced: |-
-    ```yaml
+
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: Strategies with frequent trading are highly sensitive to spreads and depth, not just ___."
@@ -82,4 +79,4 @@ by_level:
       - type: true_false
         question: "During periods of market stress, historical average daily volume (ADV) is a consistently reliable indicator of available liquidity."
         answer: false
-    ```
+

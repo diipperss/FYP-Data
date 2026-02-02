@@ -1,6 +1,5 @@
 by_level:
-  beginner: |-
-    ```yaml
+  beginner: 
     questions:
       - type: fill_blank_mcq
         question: Saving is for ___ needs, while investing is for long-term goals.
@@ -26,22 +25,17 @@ by_level:
       - type: true_false
         question: Investing always guarantees a high return.
         answer: false
-    ```
     A: Short-term
     B: Long-term
     C: Immediate
     D: Unexpected
-    ```
-    ```
+
     A: Invest it in the stock market.
     B: Put it in a savings account.
     C: Spend it on something fun.
     D: Give it to a friend.
-    ```
-    ```
-    ```
-  intermediate: |-
-    ```yaml
+
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: Even though a savings account is safe, it might struggle to outpace ____, which reduces the purchasing power of your money.
@@ -67,9 +61,7 @@ by_level:
       - type: true_false
         question: Investing is generally recommended for short-term goals, like buying a car next year, due to its potential for high returns.
         answer: false
-    ```
-  advanced: |-
-    ```yaml
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: A key benefit of using goal-based "___" is that it protects money needed for near-term expenses from market volatility.
@@ -97,4 +89,3 @@ by_level:
       - type: true_false
         question: Diversification guarantees the elimination of investment risk, regardless of market conditions.
         answer: false
-    ```

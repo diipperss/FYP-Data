@@ -1,6 +1,5 @@
 by_level:
-  beginner: |-
-    ```yaml
+  beginner: 
     questions:
       - type: fill_blank_mcq
         question: Volatility measures ___ in price.
@@ -26,9 +25,8 @@ by_level:
       - type: true_false
         question: Volatility always means an investment is a bad idea.
         answer: false
-    ```
-  intermediate: |-
-    ```yaml
+
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: Beta measures market _____, indicating how sensitive an asset is to changes in the overall market.
@@ -54,9 +52,8 @@ by_level:
       - type: true_false
         question: Bollinger Bands are a useful tool for visualizing how volatility expands and contracts over time.
         answer: true
-    ```
-  advanced: |-
-    ```yaml
+
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: Although historical volatility reflects past price movements, ___ volatility is derived from option prices and represents market expectations about future volatility.
@@ -82,4 +79,4 @@ by_level:
       - type: true_false
         question: Maximum drawdown is a less important risk metric than standard deviation because it only considers the worst-case scenario.
         answer: false
-    ```
+

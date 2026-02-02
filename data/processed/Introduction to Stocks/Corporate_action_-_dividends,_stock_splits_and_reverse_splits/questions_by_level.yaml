@@ -1,8 +1,5 @@
 by_level:
-  beginner: |-
-    - Reverse split intuition: If you own 100 shares and the company does a 1-for-5 reverse split, you own 20 shares at about five times the price each—your total value is roughly unchanged (ignoring market moves).
-    
-    ```yaml
+  beginner: 
     questions:
       - type: fill_blank_mcq
         question: Corporate actions directly affect ____, which are the owners of a company.
@@ -28,9 +25,8 @@ by_level:
       - type: true_false
         question: A stock split automatically makes an investor richer.
         answer: false
-    ```
-  intermediate: |-
-    ```yaml
+
+  intermediate:
     questions:
       - type: fill_blank_mcq
         question: A ___ split increases the number of outstanding shares while decreasing the price per share.
@@ -56,9 +52,8 @@ by_level:
       - type: true_false
         question: "Missing the deadline to elect an option in a voluntary corporate action will always result in the most beneficial outcome for the investor."
         answer: false
-    ```
-  advanced: |-
-    ```yaml
+
+  advanced:
     questions:
       - type: fill_blank_mcq
         question: A reverse stock ___ can be a sign of financial distress, but should be evaluated within the broader context of the company's performance and industry trends.
@@ -84,4 +79,4 @@ by_level:
       - type: true_false
         question: "An investor's optimal dividend strategy should solely depend on their current tax bracket, irrespective of their broader investment goals and time horizon."
         answer: false
-    ```
+

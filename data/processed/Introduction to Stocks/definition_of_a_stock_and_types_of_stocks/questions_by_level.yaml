@@ -1,6 +1,5 @@
 by_level:
-  beginner: |-
-    ```yaml
+  beginner: 
     questions:
       - type: fill_blank_mcq
         question: Buying a stock means you own a small piece of a company, or a share of _____.
@@ -26,9 +25,7 @@ by_level:
       - type: true_false
         question: Owning stock gives you direct control over how a company is run.
         answer: false
-    ```
-  intermediate: |-
-    ```yaml
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: Shareholders can benefit from stock ownership through dividends and ____.
@@ -55,8 +52,7 @@ by_level:
         question: "Dividends are guaranteed payments to shareholders, regardless of a company's financial performance."
         answer: false
     ```
-  advanced: |-
-    ```yaml
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: A stock _____ occurs when a company repurchases its own shares, decreasing the total number of shares outstanding.

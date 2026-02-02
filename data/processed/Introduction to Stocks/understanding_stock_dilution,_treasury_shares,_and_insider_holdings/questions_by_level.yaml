@@ -1,6 +1,5 @@
 by_level:
-  beginner: |-
-    ```yaml
+  beginner: 
     questions:
       - type: fill_blank_mcq
         question: Stock dilution reduces existing shareholders’ ownership percentage when a company issues more ___."
@@ -26,9 +25,8 @@ by_level:
       - type: true_false
         question: "Stock dilution is always a bad thing for existing shareholders."
         answer: false
-    ```
-  intermediate: |-
-    ```yaml
+
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: A secondary offering of new shares will typically ___ existing shareholders' ownership percentage.
@@ -56,9 +54,8 @@ by_level:
       - type: true_false
         question: "Warrants represent a potential future dilution because they can be exercised to purchase new shares."
         answer: true
-    ```
-  advanced: |-
-    ```yaml
+
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: Understanding a company's potential share count requires considering the fully diluted share count, which includes shares from outstanding options, warrants, and _____.
@@ -84,4 +81,4 @@ by_level:
       - type: true_false
         question: Issuing new shares for employee stock options is always detrimental to existing shareholders.
         answer: false
-    ```
+

@@ -1,6 +1,5 @@
 by_level:
-  beginner: |-
-    ```yaml
+  beginner: 
     questions:
       - type: fill_blank_mcq
         question: Dividend yield is calculated by dividing annual dividends per share by the current ___ price.
@@ -26,9 +25,7 @@ by_level:
       - type: true_false
         question: Dividend yield includes both dividend income and price gains or losses.
         answer: false
-    ```
-  intermediate: |-
-    ```yaml
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: A high dividend ___ can signal strong income for investors, but also possible financial concerns.
@@ -56,9 +53,8 @@ by_level:
       - type: true_false
         question: Comparing dividend yields across different sectors without considering industry norms is a reliable investment strategy.
         answer: false
-    ```
-  advanced: |-
-    ```yaml
+
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: A rising interest rate environment can put pressure on high-dividend stocks as investors compare their yields to the yields on ___ alternatives.
@@ -84,4 +80,4 @@ by_level:
       - type: true_false
         question: A high dividend yield always indicates that a stock is undervalued and presents a compelling investment opportunity.
         answer: false
-    ```
+

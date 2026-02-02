@@ -1,6 +1,5 @@
 by_level:
-  beginner: |-
-    ```yaml
+  beginner: 
     questions:
       - type: fill_blank_mcq
         question: The ___ helps to smooth price data to highlight the trend direction.
@@ -26,9 +25,8 @@ by_level:
       - type: true_false
         question: Technical indicators can predict future price movements with certainty.
         answer: false
-    ```
-  intermediate: |-
-    ```yaml
+
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: The MACD indicator combines trend and momentum using _______ moving averages.
@@ -54,9 +52,8 @@ by_level:
       - type: true_false
         question: Moving averages are generally considered to be effective at reducing whipsaws when used as trend filters.
         answer: true
-    ```
-  advanced: |-
-    ```yaml
+
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: "Combining indicators that are derived from the same price data can lead to ____, diminishing their predictive power."
@@ -84,4 +81,4 @@ by_level:
       - type: true_false
         question: "Implementing a predefined invalidation point, regardless of indicator signals, is a crucial element of risk management when trading with combined indicator rulesets."
         answer: "true"
-    ```
+

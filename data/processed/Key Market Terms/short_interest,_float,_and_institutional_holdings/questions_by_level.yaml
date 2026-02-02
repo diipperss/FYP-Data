@@ -1,6 +1,5 @@
 by_level:
-  beginner: |-
-    ```yaml
+  beginner: 
     questions:
       - type: fill_blank_mcq
         question: Short interest measures the number of shares sold short but ___ yet covered.
@@ -26,9 +25,8 @@ by_level:
       - type: true_false
         question: Short interest data is real-time information.
         answer: false
-    ```
-  intermediate: |-
-    ```yaml
+
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: The ___ percentage indicates how crowded a short trade is relative to tradable shares.
@@ -54,9 +52,8 @@ by_level:
       - type: true_false
         question: A small float can make the same count of shorts much riskier due to the crowding effect.
         answer: true
-    ```
-  advanced: |-
-    ```yaml
+
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: A rising borrow fee on a heavily shorted stock typically indicates increased demand for shares and puts downward pressure on the ___ position.
@@ -82,4 +79,4 @@ by_level:
       - type: true_false
         question: Delayed data regarding short interest metrics accurately reflects the real-time risk associated with a potential short squeeze.
         answer: false
-    ```
+

@@ -1,6 +1,5 @@
 by_level:
-  beginner: |-
-    ```yaml
+  beginner: 
     questions:
       - type: fill_blank_mcq
         question: A ___ is a unit of ownership in a company.
@@ -26,9 +25,7 @@ by_level:
       - type: true_false
         question: Buying shares means there is a risk you could lose money if the company does poorly.
         answer: true
-    ```
-  intermediate: |-
-    ```yaml
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: The number of shares a company is legally allowed to issue is known as its _______ share count.
@@ -54,9 +51,7 @@ by_level:
       - type: true_false
         question: "Issuing new shares always benefits existing shareholders by increasing their ownership percentage."
         answer: false
-    ```
-  advanced: |-
-    ```yaml
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: A share buyback typically reduces the number of outstanding shares, which can mechanically increase the company’s earnings per share, or ___ of earnings per share.
@@ -82,4 +77,4 @@ by_level:
       - type: true_false
         question: "A company's share buyback program inherently guarantees an increase in shareholder value."
         answer: false
-    ```
+

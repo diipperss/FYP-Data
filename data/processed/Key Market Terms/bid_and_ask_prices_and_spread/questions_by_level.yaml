@@ -1,6 +1,5 @@
 by_level:
-  beginner: |-
-    ```yaml
+  beginner: 
     questions:
       - type: fill_blank_mcq
         question: The ___ is the gap between the bid and ask price.
@@ -26,11 +25,7 @@ by_level:
       - type: true_false
         question: A wider bid-ask spread usually means lower trading costs.
         answer: false
-    ```
-  intermediate: |-
-    - Volatility example: A small-cap stock’s spread widens to $0.25 during a surprise earnings announcement due to uncertainty about the stock’s future performance.
-    
-    ```yaml
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: "___ securities typically have narrow spreads because many buyers and sellers compete."
@@ -56,9 +51,7 @@ by_level:
       - type: true_false
         question: "Wider spreads disproportionately affect infrequent traders."
         answer: false
-    ```
-  advanced: |-
-    ```yaml
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: The bid-ask ___ represents the difference between the highest price a buyer is willing to pay and the lowest price a seller is willing to accept.
@@ -86,4 +79,4 @@ by_level:
       - type: true_false
         question: Frequent trading strategies like scalping are relatively insensitive to spread costs because the profit margins are typically large.
         answer: false
-    ```
+

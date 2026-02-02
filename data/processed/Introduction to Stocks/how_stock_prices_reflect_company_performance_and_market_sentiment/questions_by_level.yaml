@@ -1,6 +1,5 @@
 by_level:
-  beginner: |-
-    ```yaml
+  beginner: 
     questions:
       - type: fill_blank_mcq
         question: Stock prices move because of supply and ____, which can be affected by news.
@@ -26,9 +25,7 @@ by_level:
       - type: true_false
         question: Short-term stock prices always reflect the true value of a company.
         answer: false
-    ```
-  intermediate: |-
-    ```yaml
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: Although a company may report strong earnings, its stock price can decline if it fails to meet ____ expectations.
@@ -56,9 +53,7 @@ by_level:
       - type: true_false
         question: "Guidance and outlook for future performance are generally less important than last quarter’s earnings results."
         answer: false
-    ```
-  advanced: |-
-    ```yaml
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: Despite fundamental valuation, ___ trading volume can create short-term deviations from intrinsic value.
@@ -84,4 +79,3 @@ by_level:
       - type: true_false
         question: Technical analysis, focusing on price patterns and volume, aims to predict future price movements based on fundamental factors.
         answer: false
-    ```

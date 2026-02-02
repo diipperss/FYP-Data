@@ -1,9 +1,5 @@
 by_level:
-  beginner: |-
-    - {'Sharpe Ratio example': 'Two funds have the same return, but one has lower volatility. The fund with lower volatility has a higher Sharpe ratio and is therefore more efficient.\n'}
-    - {'VaR example': 'A fund claims a 5% VaR. This means that there is a 5% chance that losses could exceed a certain amount under normal market conditions.\n'}
-    
-    ```yaml
+  beginner: 
     questions:
       - type: fill_blank_mcq
         question: The ___ measures how widely returns swing around the average.
@@ -29,9 +25,7 @@ by_level:
       - type: true_false
         question: A higher Sharpe ratio generally means an investment is more efficient.
         answer: true
-    ```
-  intermediate: |-
-    ```yaml
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: A high R-squared value suggests the benchmark explains most of the fund's movement, making its ___ and beta more interpretable.
@@ -57,9 +51,7 @@ by_level:
       - type: true_false
         question: A low R-squared value generally increases the reliability of alpha and beta.
         answer: false
-    ```
-  advanced: |-
-    ```yaml
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: The Sharpe ratio, while useful, can be misleading when returns exhibit significant ___ , potentially overstating risk-adjusted performance.
@@ -85,4 +77,3 @@ by_level:
       - type: true_false
         question: Relying solely on a single risk metric, such as Value at Risk (VaR), is generally sufficient for robust portfolio risk management.
         answer: false
-    ```

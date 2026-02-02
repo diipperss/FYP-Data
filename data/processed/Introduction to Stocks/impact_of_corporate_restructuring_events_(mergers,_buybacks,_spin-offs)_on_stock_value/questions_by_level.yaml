@@ -1,6 +1,5 @@
 by_level:
-  beginner: |-
-    ```yaml
+  beginner: 
     questions:
       - type: fill_blank_mcq
         question: A ___ is when a company automatically gives shareholders shares in a new, independent company.
@@ -26,9 +25,7 @@ by_level:
       - type: true_false
         question: A split-off requires shareholders to actively choose whether to keep their parent company shares or exchange them for shares in the new business.
         answer: true
-    ```
-  intermediate: |-
-    ```yaml
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: In a ____, existing shareholders typically receive shares of the subsidiary company, maintaining ownership in both the parent and the spun-off entity.
@@ -54,9 +51,7 @@ by_level:
       - type: true_false
         question: A carve-out structure allows the parent company to retain complete control over the subsidiary after the IPO.
         answer: true
-    ```
-  advanced: |-
-    ```yaml
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: A split-off can potentially improve a company's valuation by altering its _____, allowing investors to better assess each entity's individual prospects.
@@ -82,4 +77,3 @@ by_level:
       - type: true_false
         question: Post-separation performance is solely determined by the deal structure employed.
         answer: false
-    ```

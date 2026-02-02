@@ -1,6 +1,5 @@
 by_level:
-  beginner: |-
-    ```yaml
+  beginner: 
     questions:
       - type: fill_blank_mcq
         question: Shareholders can potentially gain money from dividends and ___ of the stock price.
@@ -26,9 +25,7 @@ by_level:
       - type: true_false
         question: Shareholders and stakeholders are always the same people.
         answer: false
-    ```
-  intermediate: |-
-    ```yaml
+  intermediate: 
     questions:
       - type: fill_blank_mcq
         question: In liquidation, ___ shareholders typically receive assets after creditors are paid.
@@ -54,9 +51,8 @@ by_level:
       - type: true_false
         question: Preferred shareholders typically have more voting rights than common shareholders.
         answer: false
-    ```
-  advanced: |-
-    ```yaml
+
+  advanced: 
     questions:
       - type: fill_blank_mcq
         question: Although voting is a key mechanism, shareholder protections extend to legal remedies and access to ___ when significant corporate wrongdoing is suspected.
@@ -82,4 +78,4 @@ by_level:
       - type: true_false
         question: Responsible shareholder ownership necessitates a complete understanding of every detail within a company’s annual report, regardless of its relevance to investment decisions.
         answer: false
-    ```
+
