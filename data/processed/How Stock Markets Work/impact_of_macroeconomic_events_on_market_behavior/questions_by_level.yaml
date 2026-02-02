@@ -1,9 +1,5 @@
 by_level:
   beginner: 
-    - {'Inflation example': {'description': 'The CPI (Consumer Price Index) rises at a faster-than-expected rate, indicating rising prices for goods and services.\n', 'impact_on_investor': 'May lead investors to reduce exposure to growth stocks, anticipating higher borrowing costs and potential profit margin compression due to rising input costs.\n'}}
-    - {'Interest rate example': {'description': 'The Federal Reserve raises its benchmark interest rate to combat inflation.\n', 'impact_on_investor': 'Investors may shift towards value stocks and dividend-paying stocks, as higher rates can negatively impact growth stocks.\n'}}
-    
-    ```yaml
     questions:
       - type: fill_blank_mcq
         question: GDP is a big-picture ___ of economic growth.
@@ -37,7 +33,7 @@ by_level:
         options: [A, B, C, D]
         answer: A
       - type: drag_drop
-        question: Match the indicator to its classification:
+        question: Match the indicator to its classification
         drag_drop:
           prompt: Drag the indicator to its correct category (Leading or Lagging)
           pairs:

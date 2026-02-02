@@ -42,7 +42,7 @@ by_level:
               right: Dividend Priority
             - left: Both
               right: Equity Security
-        answer: Common Stock: Voting Rights, Preferred Stock: Dividend Priority, Both: Equity Security
+        answer: "Common Stock: Voting Rights, Preferred Stock: Dividend Priority, Both: Equity Security"
       - type: case_study_mcq
         scenario: "Maria wants to invest in a company but is concerned about potential financial difficulties. She also wants some influence over company decisions. Which type of stock would likely be best for her?"
         question: "Given Maria's concerns, which stock type is the most suitable?"
@@ -51,7 +51,6 @@ by_level:
       - type: true_false
         question: "Dividends are guaranteed payments to shareholders, regardless of a company's financial performance."
         answer: false
-    ```
   advanced: 
     questions:
       - type: fill_blank_mcq
@@ -78,4 +77,3 @@ by_level:
       - type: true_false
         question: A stock split inherently increases the underlying value of each share.
         answer: false
-    ```

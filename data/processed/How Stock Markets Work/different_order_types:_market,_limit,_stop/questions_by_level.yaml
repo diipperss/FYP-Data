@@ -1,8 +1,5 @@
 by_level:
   beginner: 
-    - Simple protection example: You own a stock and want to limit losses if it drops below $40. You place a stop-loss order at $40.
-    - Stop-limit example: You want to buy if it reaches $60, but only if it is above $58. You place a stop-limit order with a stop price of $60 and a limit price of $58.
-    
     questions:
       - type: fill_blank_mcq
         question: A ___ order executes immediately, but the price might be different than expected.

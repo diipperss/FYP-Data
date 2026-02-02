@@ -16,7 +16,7 @@ by_level:
               right: earnings per share
             - left: Dilution
               right: issuing more shares
-        answer: Ownership percentage: your shares ÷ total shares outstanding, EPS: earnings per share, Dilution: issuing more shares
+        answer: "Ownership percentage: your shares ÷ total shares outstanding, EPS: earnings per share, Dilution: issuing more shares"
       - type: case_study_mcq
         scenario: "An investor owns 100 shares in a company with 1,000 total shares, giving them 10% ownership. The company issues another 1,000 shares. What happens to the investor's ownership percentage?"
         question: "What is the investor's new ownership percentage?"

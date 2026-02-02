@@ -16,7 +16,7 @@ by_level:
               right: Shareholders choose to exchange shares.
             - left: Carve-out
               right: A minority stake is sold through an IPO.
-        answer: Spin-off: Shares are distributed automatically. Split-off: Shareholders choose to exchange shares. Carve-out: A minority stake is sold through an IPO.
+        answer: "Spin-off: Shares are distributed automatically. Split-off: Shareholders choose to exchange shares. Carve-out: A minority stake is sold through an IPO."
       - type: case_study_mcq
         scenario: A large company owns a fast-growing tech division and a slow-growing manufacturing division.  They want to make each business easier to understand for investors. What is the BEST first step to consider?
         question: What separation method would be best to initially separate these businesses?

@@ -16,7 +16,7 @@ by_level:
               right: Posts buy and sell quotes.
             - left: Spread
               right: The difference between bid and ask prices.
-        answer: Liquidity Provider: Supplies capital to the market. Market Maker: Posts buy and sell quotes. Spread: The difference between bid and ask prices.
+        answer: "Liquidity Provider: Supplies capital to the market. Market Maker: Posts buy and sell quotes. Spread: The difference between bid and ask prices."
       - type: case_study_mcq
         scenario: Maria wants to buy 100 shares of XYZ stock immediately. She sees a bid price of $10.00 and an ask price of $10.02. Which role helps Maria trade right away?
         question: What role makes instant trading possible?

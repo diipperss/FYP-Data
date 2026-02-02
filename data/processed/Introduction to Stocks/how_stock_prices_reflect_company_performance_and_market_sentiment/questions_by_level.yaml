@@ -70,7 +70,7 @@ by_level:
               right: The ease with which an asset can be bought or sold without significantly affecting its price.
             - left: Market Depth
               right: The volume of buy and sell orders at different price levels.
-        answer: Bid-Ask Spread: The difference between the highest price a buyer is willing to pay and the lowest price a seller is willing to accept. Liquidity: The ease with which an asset can be bought or sold without significantly affecting its price. Market Depth: The volume of buy and sell orders at different price levels.
+        answer: "Bid-Ask Spread: The difference between the highest price a buyer is willing to pay and the lowest price a seller is willing to accept. Liquidity: The ease with which an asset can be bought or sold without significantly affecting its price. Market Depth: The volume of buy and sell orders at different price levels."
       - type: case_study_mcq
         scenario: A small-cap biotechnology company announces promising early-stage clinical trial results. The stock, previously trading at $5, jumps to $8 on heavy volume, but analysts estimate its intrinsic value remains closer to $6 based on long-term projections.
         question: What is the most likely explanation for this short-term price deviation?

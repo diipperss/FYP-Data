@@ -72,7 +72,7 @@ by_level:
               right: Typically offers higher speed and automated execution
             - left: OTC venue
               right: Presents increased information risk and wider spreads
-        answer: Auction-based structure: Concentrates liquidity and establishes referenced prices, Fully electronic structure: Typically offers higher speed and automated execution, OTC venue: Presents increased information risk and wider spreads
+        answer: "Auction-based structure: Concentrates liquidity and establishes referenced prices, Fully electronic structure: Typically offers higher speed and automated execution, OTC venue: Presents increased information risk and wider spreads"
       - type: case_study_mcq
         scenario: A small biotechnology firm chooses to list its shares on a lightly regulated OTC market to avoid the stringent requirements and costs associated with a major exchange.  However, the stock experiences wide bid-ask spreads and infrequent trading.
         question: What is the most significant risk associated with this choice for investors?

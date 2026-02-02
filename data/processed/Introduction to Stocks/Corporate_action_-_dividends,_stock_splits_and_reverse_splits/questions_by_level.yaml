@@ -16,7 +16,7 @@ by_level:
               right: An increase in the number of shares, typically lowering the price per share.
             - left: Reverse Split
               right: A decrease in the number of shares, typically increasing the price per share.
-        answer: Dividend: A payment made to shareholders from company profits., Stock Split: An increase in the number of shares, typically lowering the price per share., Reverse Split: A decrease in the number of shares, typically increasing the price per share.
+        answer: "Dividend: A payment made to shareholders from company profits., Stock Split: An increase in the number of shares, typically lowering the price per share., Reverse Split: A decrease in the number of shares, typically increasing the price per share."
       - type: case_study_mcq
         scenario: Maria owns 100 shares of Company X. Company X announces a 2-for-1 stock split. What will Maria own after the split?
         question: How many shares will Maria own after the stock split?
