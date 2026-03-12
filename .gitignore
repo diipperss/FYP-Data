@@ -54,3 +54,13 @@ models/*
 *.ckpt
 *.bin
 Meta-Llama-3-8B-Instruct.Q4_K_M.gguf
+# finetuning artifacts
+finetuning/output_lora_v3/
+finetuning/.merge_offload/
+finetuning/merged_llama31_hint_v3/
+finetuning/merged_llama31_hint_v3_new/
+unsloth_compiled_cache/
+finetuning/__pycache__/
+trading/__pycache__/
+trading/output/
+trading/output_*/

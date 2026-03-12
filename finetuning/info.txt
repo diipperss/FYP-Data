@@ -1,0 +1,33 @@
+# QLoRA Finetuning (Hint-Only)
+
+This folder contains:
+- `build_hints_dataset.py` – builds a JSONL template from your questions.
+- `train_qlora.py` – QLoRA training script using Unsloth.
+
+## 1) Build dataset template
+
+```bash
+python3 finetuning/build_hints_dataset.py \
+  --out finetuning/hints_train.jsonl
+```
+
+This creates JSONL rows like:
+```json
+{"instruction":"Give a helpful hint for the question (do NOT give the answer). Keep it to 1–2 sentences, like a Duolingo-style hint.","input":"Type: fill_blank_mcq\nQuestion: ...\nOptions: A. ...","output":"TODO","meta":{"topic":"...","subtopic":"...","level":"beginner","type":"fill_blank_mcq"}}
+```
+
+## 2) Fill hints
+Replace `"output":"TODO"` with real hints. Keep hints short (1–2 sentences).
+
+## 3) Train QLoRA
+
+```bash
+python3 finetuning/train_qlora.py \
+  --model_dir FYP-Data/models/Llama-3.1-8B \
+  --data finetuning/hints_train.jsonl \
+  --output_dir finetuning/output_lora
+```
+
+## Notes
+- `.gguf` files are for inference only; use the HF model folder.
+- Training script ignores rows where output is still `TODO`.

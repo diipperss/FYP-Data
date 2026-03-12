@@ -122,7 +122,25 @@ def ingest():
                 if yaml_level not in levels:
                     continue
 
-                questions = levels[yaml_level].get("questions", [])
+                level_data = levels[yaml_level]
+                if isinstance(level_data, str):
+                    # Some files store YAML as a fenced code block string.
+                    # Extract and parse the inner YAML if present.
+                    inner = level_data
+                    if "```yaml" in level_data:
+                        inner = level_data.split("```yaml", 1)[1]
+                        inner = inner.split("```", 1)[0]
+                    try:
+                        level_data = yaml.safe_load(inner) or {}
+                    except yaml.YAMLError as e:
+                        logging.error(f"Failed to parse embedded YAML in {yaml_file} ({yaml_level}): {e}")
+                        continue
+
+                if not isinstance(level_data, dict):
+                    logging.error(f"Invalid level data in {yaml_file} ({yaml_level})")
+                    continue
+
+                questions = level_data.get("questions", [])
                 for q in questions:
                     question_type = q.get("type")
                     if not question_type:

@@ -1,0 +1,5 @@
+FROM /home/xatan/dev/projects/FYP-Data/finetuning/merged_llama31_hint_v3_new
+PARAMETER temperature 0.3
+PARAMETER top_p 0.9
+PARAMETER num_ctx 4096
+SYSTEM "You are a finance learning assistant. Give concise hints, not full answers, unless asked directly."

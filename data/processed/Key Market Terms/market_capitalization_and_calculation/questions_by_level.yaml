@@ -1,0 +1,81 @@
+by_level:
+  beginner: 
+    questions:
+      - type: fill_blank_mcq
+        question: Market cap is calculated as share price multiplied by ___ outstanding.
+        options: [A. shares, B. price, C. market, D. value]
+        answer: A
+      - type: drag_drop
+        question: Match the term to its definition.
+        drag_drop:
+          prompt: Drag the words to the correct boxes.
+          pairs:
+            - left: Share Price
+              right: The price of one share of stock.
+            - left: Shares Outstanding
+              right: The total number of shares a company has issued.
+            - left: Market Cap
+              right: The total value of a company’s outstanding shares.
+        answer: Share Price - The price of one share of stock. Shares Outstanding - The total number of shares a company has issued. Market Cap - The total value of a company’s outstanding shares.
+      - type: case_study_mcq
+        scenario: A company has 500,000 shares outstanding and the current share price is $5. What is the company's market cap?
+        question: What is the market cap of the company?
+        options: [A. $2.5 million, B. $100,000, C. $500,000, D. $2.5 billion]
+        answer: A
+      - type: true_false
+        question: A company's market cap stays the same even if the share price changes.
+        answer: false
+  intermediate: 
+    questions:
+      - type: fill_blank_mcq
+        question: Companies with a market capitalization exceeding $200 billion are typically categorized as ___ companies.
+        options: [A: Mega-Cap, B: Large-Cap, C: Mid-Cap, D: Small-Cap]
+        answer: A
+      - type: drag_drop
+        question: Match the market cap category with its typical risk profile.
+        drag_drop:
+          prompt: Drag the market cap category to its corresponding risk profile.
+          pairs:
+            - left: Mega-Cap
+              right: Generally Lower Risk
+            - left: Small-Cap
+              right: Generally Higher Risk
+            - left: Mid-Cap
+              right: Moderate Risk
+        answer: Mega-Cap - Generally Lower Risk, Small-Cap - Generally Higher Risk, Mid-Cap - Moderate Risk
+      - type: case_study_mcq
+        scenario: An investor wants to build a portfolio with a balance of stability and growth potential. They decide to allocate 60% of their funds to large-cap companies and 40% to small-cap companies. What is the primary reason for this portfolio allocation strategy?
+        question: What is the investor's goal with this asset allocation?
+        options: [A: To maximize returns regardless of risk, B: To minimize risk by investing only in large-cap companies, C: To balance stability with potential for higher growth, D: To speculate on short-term stock price fluctuations]
+        answer: C
+      - type: true_false
+        question: An increase in a company’s share count without a corresponding change in share price will always result in a decrease in market capitalization.
+        answer: false
+    
+  advanced: 
+    questions:
+      - type: fill_blank_mcq
+        question: Although market capitalization is a widely used metric, it only reflects the company's ____ value and excludes debt and cash holdings.
+        options: [A. total, B. enterprise, C. equity, D. asset]
+        answer: C
+      - type: drag_drop
+        question: Match the term with its description.
+        drag_drop:
+          prompt: Drag the terms to their corresponding definitions.
+          pairs:
+            - left: Market Capitalization
+              right: Equity value of outstanding shares.
+            - left: Enterprise Value
+              right: Market Cap + Debt - Cash.
+            - left: Float
+              right: Shares available for public trading.
+        answer: Market Capitalization - Equity value of outstanding shares., Enterprise Value - Market Cap + Debt - Cash., Float - Shares available for public trading.
+      - type: case_study_mcq
+        scenario: Company A and Company B both have a market capitalization of $5 billion. Company A has $2 billion in debt and $1 billion in cash, while Company B has $500 million in debt and $500 million in cash. Which of the following statements best describes why enterprise value is a more helpful metric in comparing these two companies?
+        question: Which of the following statements best describes why enterprise value is a more helpful metric in comparing these two companies?
+        options: [A. Market capitalization is always the superior metric, regardless of debt or cash., B. Enterprise value accounts for the differing debt and cash positions, providing a more complete picture of their total value., C. Enterprise value is irrelevant when comparing companies with similar market capitalizations., D. Market capitalization is only useful for companies with no debt.]
+        answer: B
+      - type: true_false
+        question: A high market capitalization automatically indicates that a company is attractively valued.
+        answer: false
+    

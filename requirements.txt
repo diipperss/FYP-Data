@@ -5,4 +5,19 @@ playwright
 python-dotenv
 requests
 asyncio
- #llama-cpp-python
+#llama-cpp-python
+pandas
+scikit-learn
+yfinance
+matplotlib
+xgboost
+lightgbm
+
+# QLoRA / finetuning stack
+datasets
+transformers
+trl
+accelerate
+peft
+bitsandbytes
+unsloth

@@ -3,6 +3,12 @@
 
 This repository contains a **pipeline for scraping, processing, and summarizing educational content** for a beginner-friendly stock market education app. It uses **web crawling, LLM summarization, and structured YAML generation** to convert raw text into ready-to-use study materials.
 
+It now also includes a separate **ML trading simulation module** for an FYP-style demo where:
+
+- a stock movement classifier predicts next-day direction
+- multiple AI trader personalities convert that prediction into `BUY` / `SELL` / `HOLD`
+- a backtest compares which personality performs best over time
+
 
 ## Project Structure
 
@@ -28,6 +34,9 @@ FYP-Data/
 │
 ├─ scripts/
 │  └─ process.py          # Main LLM pipeline script
+├─ trading/
+│  ├─ __init__.py
+│  └─ run_simulation.py   # ML + multi-agent trading demo
 │
 ├─ models/
 │  └─ Meta-Llama-3-8B-Instruct.Q4_K_M.gguf
@@ -105,6 +114,7 @@ pip install -r requirements.txt
 ```bash
 Webscraping: python main.py
 Processing:  python process.py
+Trading demo: python -m trading.run_simulation --ticker AAPL --plot
 ```
 
 
@@ -150,3 +160,53 @@ The pipeline performs the following steps:
 * Large files can be split into multiple chunks for safety.
 
 ---
+
+## Trading Simulation Module
+
+The trading workflow is intentionally separated from the content pipeline so you can present it as a second major FYP component without mixing concerns.
+
+### What it does
+
+`trading/run_simulation.py` runs this flow:
+
+1. Download historical OHLCV data from Yahoo Finance with `yfinance`
+2. Build trading features such as returns, moving-average gaps, volatility, and volume change
+3. Train a `RandomForestClassifier` to predict whether tomorrow's close will be higher than today's
+4. Generate confidence scores with `predict_proba`
+5. Let three trader personalities act on those predictions:
+   - `conservative`: trades only when confidence is at least `0.70`
+   - `balanced`: trades only when confidence is at least `0.60`
+   - `aggressive`: always acts on the model prediction
+6. Simulate a simple one-share-at-a-time portfolio and save the results
+
+### Run it
+
+```bash
+python -m trading.run_simulation \
+  --ticker AAPL \
+  --start 2019-01-01 \
+  --end 2024-01-01 \
+  --initial-cash 10000 \
+  --plot
+```
+
+### Outputs
+
+The script writes these files to `trading/output/` by default:
+
+- `conservative_trades.csv`
+- `balanced_trades.csv`
+- `aggressive_trades.csv`
+- `summary.csv`
+- `portfolio_values.png`
+
+### Why this fits the FYP
+
+This gives you a clean architecture you can explain in the report:
+
+- data collection
+- feature engineering
+- ML prediction
+- agent personality strategy
+- trading simulation
+- performance comparison

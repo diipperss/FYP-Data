@@ -1,5 +1,5 @@
 import os
-import re
+import requests
 from llama_cpp import Llama
 from dotenv import load_dotenv
 
@@ -7,7 +7,10 @@ load_dotenv()
 
 RAW_DIR = os.getenv("RAW_DIR")
 PROCESSED_DIR = os.getenv("PROCESSED_DIR")
-MODEL_PATH = os.getenv("MODEL_PATH")
+MODEL_PATH = os.getenv("GEMMA_MODEL_PATH") or os.getenv("MODEL_PATH")
+OLLAMA_URL = os.getenv("OLLAMA_URL")
+OLLAMA_HINT_MODEL = os.getenv("OLLAMA_HINT_MODEL")
+USE_OLLAMA = os.getenv("USE_OLLAMA", "false").strip().lower() in ("1", "true", "yes", "on")
 
 # ===============================
 # CONFIG
@@ -16,18 +19,21 @@ MODEL_PATH = os.getenv("MODEL_PATH")
 CTX_SIZE = 4096
 MAX_FINAL_TOKENS = 2000
 MAX_CHUNK_CHARS = 6000 
+STOP_TOKENS = ["<|eot_id|>", "<|end_of_text|>", "user:", "User:"]
 
 # ===============================
 # INITIALIZE MODEL
 # ===============================
-# Note: Increased n_ctx to match config
-llm = Llama(
-    model_path=MODEL_PATH,
-    n_ctx=CTX_SIZE,
-    n_threads=12,
-    n_gpu_layers=35,
-    verbose=False
-)
+llm = None
+if not USE_OLLAMA:
+    # Note: Increased n_ctx to match config
+    llm = Llama(
+        model_path=MODEL_PATH,
+        n_ctx=CTX_SIZE,
+        n_threads=12,
+        n_gpu_layers=35,
+        verbose=False
+    )
 
 # ===============================
 # PROMPT (UPDATED)
@@ -116,15 +122,32 @@ def clean_text(raw_text):
     return cleaned
 
 def generate(prompt, max_tokens):
-    # We add stop tokens so it stops generating once the YAML is done
-    # We allow the model to generate up to max_tokens
-    output = llm(
-        prompt, 
-        max_tokens=max_tokens,
-        stop=["<|eot_id|>", "<|end_of_text|>", "user:", "User:"] 
-    )
-    
-    generated_text = output["choices"][0]["text"]
+    if USE_OLLAMA:
+        response = requests.post(
+            f"{OLLAMA_URL.rstrip('/')}/api/generate",
+            json={
+                "model": OLLAMA_HINT_MODEL,
+                "prompt": prompt,
+                "stream": False,
+                "options": {
+                    "num_predict": max_tokens,
+                    "stop": STOP_TOKENS,
+                },
+            },
+            timeout=180,
+        )
+        response.raise_for_status()
+        data = response.json()
+        generated_text = data.get("response", "")
+    else:
+        # We add stop tokens so it stops generating once the YAML is done
+        # We allow the model to generate up to max_tokens
+        output = llm(
+            prompt,
+            max_tokens=max_tokens,
+            stop=STOP_TOKENS
+        )
+        generated_text = output["choices"][0]["text"]
     
     # CRITICAL: We manually add "title:" back because we put it in the prompt (pre-fill)
     # The model only generates what comes AFTER "title:"
@@ -135,7 +158,18 @@ def generate(prompt, max_tokens):
 # PIPELINE
 # ===============================
 if __name__ == "__main__":
+    if not RAW_DIR or not PROCESSED_DIR:
+        raise RuntimeError("RAW_DIR and PROCESSED_DIR must be set in .env")
+    if USE_OLLAMA and (not OLLAMA_URL or not OLLAMA_HINT_MODEL):
+        raise RuntimeError("When USE_OLLAMA=true, set OLLAMA_URL and OLLAMA_HINT_MODEL in .env")
+    if not USE_OLLAMA and not MODEL_PATH:
+        raise RuntimeError("Set GEMMA_MODEL_PATH (or legacy MODEL_PATH) in .env")
+
     print(f"Starting pipeline reading from: {RAW_DIR}")
+    if USE_OLLAMA:
+        print(f"Using Ollama model: {OLLAMA_HINT_MODEL} @ {OLLAMA_URL}")
+    else:
+        print(f"Using local GGUF model: {MODEL_PATH}")
     
     for main_topic in os.listdir(RAW_DIR):
         main_path = os.path.join(RAW_DIR, main_topic)
