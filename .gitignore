@@ -59,6 +59,7 @@ finetuning/output_lora_v3/
 finetuning/.merge_offload/
 finetuning/merged_llama31_hint_v3/
 finetuning/merged_llama31_hint_v3_new/
+finetuning/hints_train_clean.jsonl
 unsloth_compiled_cache/
 finetuning/__pycache__/
 trading/__pycache__/
