@@ -1,0 +1,9 @@
+                precision    recall  f1-score   support
+
+BEARISH_SIGNAL       0.38      0.30      0.34        63
+NEUTRAL_SIGNAL       0.66      0.55      0.60       196
+BULLISH_SIGNAL       0.37      0.57      0.45        80
+
+      accuracy                           0.51       339
+     macro avg       0.47      0.47      0.46       339
+  weighted avg       0.54      0.51      0.51       339
