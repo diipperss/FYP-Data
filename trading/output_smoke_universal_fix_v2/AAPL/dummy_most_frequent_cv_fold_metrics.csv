@@ -1,0 +1,3 @@
+ticker,model,fold,train_rows,valid_rows,grouped_by_date,accuracy,balanced_accuracy,macro_f1,weighted_f1
+AAPL,dummy_most_frequent,1,118,119,False,0.24369747899159663,0.3333333333333333,0.13063063063063063,0.09550306609130138
+AAPL,dummy_most_frequent,2,237,119,False,0.15966386554621848,0.3333333333333333,0.09178743961352658,0.04396541225185727

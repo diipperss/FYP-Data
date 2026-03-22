@@ -1,0 +1,2 @@
+model,accuracy,balanced_accuracy,macro_f1,weighted_f1,trading_score,avg_trader_return_pct,avg_trader_excess_return_vs_bh,avg_trader_sharpe,avg_trader_drawdown_pct,selection_score
+random_forest,0.23739495798319327,0.3380266611593967,0.24885054660259934,0.21334641962467735,-1.6487333333333334,0.4483333333333333,-12.076666666666668,0.4106666666666667,0.15333333333333332,-1.399882786730734

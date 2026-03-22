@@ -1,0 +1,3 @@
+ticker,selected_model,best_cv_macro_f1,best_cv_balanced_accuracy,holdout_macro_f1,holdout_balanced_accuracy,saved_model_path
+AAPL,lightgbm,0.31,0.3408,0.2557,0.3464,/home/xatan/dev/projects/FYP-Data/trading/output_smoke_universal_fix_v2/universal/universal_stock_model.joblib
+MSFT,lightgbm,0.31,0.3408,0.2926,0.3639,/home/xatan/dev/projects/FYP-Data/trading/output_smoke_universal_fix_v2/universal/universal_stock_model.joblib

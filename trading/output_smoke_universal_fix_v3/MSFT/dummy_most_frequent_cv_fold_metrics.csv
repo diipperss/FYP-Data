@@ -1,0 +1,3 @@
+ticker,model,fold,train_rows,valid_rows,grouped_by_date,accuracy,balanced_accuracy,macro_f1,weighted_f1
+MSFT,dummy_most_frequent,1,118,119,False,0.2689075630252101,0.3333333333333333,0.141280353200883,0.11397406644777117
+MSFT,dummy_most_frequent,2,237,119,False,0.15966386554621848,0.3333333333333333,0.09178743961352658,0.04396541225185727

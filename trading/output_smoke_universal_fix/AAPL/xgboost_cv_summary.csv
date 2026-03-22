@@ -1,0 +1,2 @@
+ticker,model,accuracy,balanced_accuracy,macro_f1,weighted_f1,trading_score,avg_trader_return_pct,avg_trader_excess_return_vs_bh,avg_trader_sharpe,avg_trader_drawdown_pct,selection_score
+AAPL,xgboost,0.2647058823529412,0.31726190476190474,0.2665959453088166,0.2914884765787503,-2.4290666666666665,-1.49,-14.56,-0.40866666666666673,4.703333333333333,-2.16247072135785

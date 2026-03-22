@@ -1,0 +1,2 @@
+model,accuracy,balanced_accuracy,macro_f1,weighted_f1,trading_score,avg_trader_return_pct,avg_trader_excess_return_vs_bh,avg_trader_sharpe,avg_trader_drawdown_pct,selection_score
+xgboost,0.3067226890756303,0.3052410683394999,0.2923102148829157,0.33309105919956805,-0.6232666666666666,1.3583333333333334,-11.166666666666666,1.0493333333333332,1.8550000000000002,-0.33095645178375094

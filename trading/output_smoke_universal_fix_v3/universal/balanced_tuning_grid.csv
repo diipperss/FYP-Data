@@ -1,0 +1,3 @@
+ticker,trader,final_portfolio_value,return_pct,num_days,num_trades,max_drawdown_pct,sharpe_like,excess_return_vs_bh,selection_score,min_bull_probability,min_probability_margin,max_allocation,neutral_behavior
+AAPL,balanced,10978.85,9.79,338,74,4.74,1.333,-3.28,0.4362,0.55,0.0,0.5,hold
+MSFT,balanced,10705.52,7.06,338,13,1.64,1.641,-4.92,0.9522,0.55,0.0,0.5,hold

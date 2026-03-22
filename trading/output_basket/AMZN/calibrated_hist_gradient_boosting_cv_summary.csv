@@ -1,0 +1,2 @@
+ticker,model,accuracy,balanced_accuracy,macro_f1,weighted_f1,trading_score,avg_trader_return_pct,avg_trader_excess_return_vs_bh,avg_trader_sharpe,avg_trader_drawdown_pct,selection_score
+AMZN,calibrated_hist_gradient_boosting,0.32562125107112255,0.32790022933905294,0.2148156733708609,0.2077252316040944,-12.996866666666667,0.9433333333333334,-128.13666666666668,0.2773333333333334,1.0599999999999998,-12.782050993295806

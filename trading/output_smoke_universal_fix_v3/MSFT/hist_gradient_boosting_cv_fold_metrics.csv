@@ -1,0 +1,3 @@
+ticker,model,fold,train_rows,valid_rows,grouped_by_date,accuracy,balanced_accuracy,macro_f1,weighted_f1
+MSFT,hist_gradient_boosting,1,118,119,False,0.3865546218487395,0.3492184609692934,0.34554341064604993,0.3716853096877248
+MSFT,hist_gradient_boosting,2,237,119,False,0.25210084033613445,0.3368136220815865,0.23819382825594004,0.24568833744677998

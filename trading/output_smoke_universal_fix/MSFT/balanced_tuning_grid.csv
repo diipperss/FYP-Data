@@ -1,0 +1,2 @@
+trader,final_portfolio_value,return_pct,num_days,num_trades,max_drawdown_pct,sharpe_like,excess_return_vs_bh,selection_score,min_bull_probability,min_probability_margin,max_allocation,neutral_behavior
+balanced,10114.12,1.14,237,27,0.86,0.717,-10.84,-0.4702,0.55,0.0,0.5,hold

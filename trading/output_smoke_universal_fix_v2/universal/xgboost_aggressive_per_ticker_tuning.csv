@@ -1,0 +1,3 @@
+trader,final_portfolio_value,return_pct,num_days,num_trades,max_drawdown_pct,sharpe_like,excess_return_vs_bh,selection_score,min_bull_probability,min_probability_margin,max_allocation,neutral_behavior,ticker
+aggressive,10158.76,1.59,225,13,2.22,0.513,-11.48,-0.9014,0.55,0.0,0.8,hold,AAPL
+aggressive,10450.45,4.5,225,17,5.85,0.746,-7.48,-0.704,0.55,0.0,0.8,hold,MSFT

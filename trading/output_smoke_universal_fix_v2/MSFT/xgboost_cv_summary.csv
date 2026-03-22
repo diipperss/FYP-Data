@@ -1,0 +1,2 @@
+ticker,model,accuracy,balanced_accuracy,macro_f1,weighted_f1,trading_score,avg_trader_return_pct,avg_trader_excess_return_vs_bh,avg_trader_sharpe,avg_trader_drawdown_pct,selection_score
+MSFT,xgboost,0.28991596638655465,0.2595577393070161,0.2536014693141086,0.2990063818406681,-1.9104666666666665,-1.83,-13.81,-0.1426666666666667,3.223333333333333,-1.6568651973525579

@@ -1,0 +1,2 @@
+ticker,model,accuracy,balanced_accuracy,macro_f1,weighted_f1,trading_score,avg_trader_return_pct,avg_trader_excess_return_vs_bh,avg_trader_sharpe,avg_trader_drawdown_pct,selection_score
+META,calibrated_hist_gradient_boosting,0.34361610968294776,0.3178971923465315,0.25007134065054154,0.2646610634515894,-16.108866666666668,-0.043333333333333335,-152.7433333333333,-0.006666666666666667,1.3433333333333335,-15.858795326016127

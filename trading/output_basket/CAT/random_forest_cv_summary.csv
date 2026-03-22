@@ -1,0 +1,2 @@
+ticker,model,accuracy,balanced_accuracy,macro_f1,weighted_f1,trading_score,avg_trader_return_pct,avg_trader_excess_return_vs_bh,avg_trader_sharpe,avg_trader_drawdown_pct,selection_score
+CAT,random_forest,0.29991431019708653,0.3174475338233727,0.27882994381393655,0.27083576695159156,-16.317600000000002,2.216666666666667,-165.69333333333336,0.4533333333333333,1.6799999999999997,-16.038770056186067

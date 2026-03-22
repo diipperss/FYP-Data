@@ -1,0 +1,2 @@
+ticker,model,accuracy,balanced_accuracy,macro_f1,weighted_f1,trading_score,avg_trader_return_pct,avg_trader_excess_return_vs_bh,avg_trader_sharpe,avg_trader_drawdown_pct,selection_score
+GOOGL,lightgbm,0.30848329048843187,0.29495408930106787,0.2957759150814918,0.3112278272115663,-20.29393333333333,19.946666666666665,-186.2733333333333,0.5503333333333335,9.696666666666665,-19.99815741825184

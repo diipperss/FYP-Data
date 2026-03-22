@@ -1,0 +1,2 @@
+ticker,model,accuracy,balanced_accuracy,macro_f1,weighted_f1,trading_score,avg_trader_return_pct,avg_trader_excess_return_vs_bh,avg_trader_sharpe,avg_trader_drawdown_pct,selection_score
+GOOGL,dummy_most_frequent,0.3393316195372751,0.3333333333333333,0.1689059500959693,0.17194538878664223,-13.896933333333331,87.49333333333334,-118.72666666666667,0.8753333333333333,24.163333333333338,-13.728027383237363

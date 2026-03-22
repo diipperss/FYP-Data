@@ -1,0 +1,3 @@
+ticker,selected_model,best_cv_macro_f1,best_cv_balanced_accuracy,holdout_macro_f1,holdout_balanced_accuracy,saved_model_path
+AAPL,logistic_regression,0.3374,0.4037,0.3313,0.3912,/home/xatan/dev/projects/FYP-Data/trading/output_smoke_universal_fix_v2/AAPL/AAPL_best_model.joblib
+MSFT,hist_gradient_boosting,0.3019,0.3144,0.3176,0.3565,/home/xatan/dev/projects/FYP-Data/trading/output_smoke_universal_fix_v2/MSFT/MSFT_best_model.joblib

@@ -1,0 +1,8 @@
+model,ticker_count,mean_trading_score,mean_excess_return_vs_bh,median_excess_return_vs_bh,mean_sharpe_like,mean_drawdown_pct,positive_excess_hit_rate,mean_macro_f1,mean_balanced_accuracy,basket_selection_score
+calibrated_random_forest,2,-1.7609,-12.2383,-12.2383,0.3497,0.445,0.0,0.2516,0.3544,-7.344583
+random_forest,2,-1.7609,-12.2383,-12.2383,0.3497,0.445,0.0,0.2516,0.3544,-7.344583
+lightgbm,2,-1.6783,-11.5033,-11.5033,-0.0912,3.64,0.0,0.2861,0.32,-8.3875
+calibrated_hist_gradient_boosting,2,-1.552367,-12.1933,-12.1933,0.1782,4.26,0.0,0.2996,0.3414,-8.421333
+hist_gradient_boosting,2,-1.552367,-12.1933,-12.1933,0.1782,4.26,0.0,0.2996,0.3414,-8.421333
+logistic_regression,2,-1.893933,-12.7583,-12.7583,0.0928,3.1467,0.0,0.3218,0.3675,-8.736583
+xgboost,2,-2.203233,-14.275,-14.275,-0.2913,4.0367,0.0,0.2599,0.2882,-10.66875

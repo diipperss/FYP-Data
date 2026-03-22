@@ -1,0 +1,4 @@
+trader,selected_min_bull_probability,selected_min_probability_margin,selected_max_allocation,selected_neutral_behavior,cv_return_pct,cv_excess_return_vs_bh,cv_sharpe_like,cv_num_trades,cv_max_drawdown_pct,cv_selection_score
+aggressive,0.55,0.0,0.8,hold,1.99,-10.535,0.317,25,5.075,-1.3455
+balanced,0.55,0.0,0.5,hold,1.19,-11.335,1.2799999999999998,4,0.28500000000000003,-0.38770000000000004
+conservative,0.55,0.0,0.25,hold,0.8949999999999999,-11.629999999999999,1.551,4,0.20500000000000002,-0.1366

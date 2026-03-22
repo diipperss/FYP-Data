@@ -19,7 +19,6 @@ venv/
 *.log
 *.sqlite
 *.db
-*.csv
 *.parquet
 *.tmp
 *.cache

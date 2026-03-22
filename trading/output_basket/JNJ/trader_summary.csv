@@ -1,0 +1,5 @@
+trader,final_portfolio_value,return_pct,num_days,num_trades,max_drawdown_pct,sharpe_like,selected_min_bull_probability,selected_min_probability_margin,selected_max_allocation,selected_neutral_behavior
+buy_and_hold,14692.12,46.92,391,1,14.38,1.462,,,,
+aggressive,10502.2,5.02,391,28,2.49,1.067,0.45,0.05,0.8,hold
+balanced,10137.06,1.37,391,6,0.92,0.982,0.45,0.1,0.5,hold
+conservative,10006.02,0.06,391,2,0.29,0.211,0.55,0.0,0.25,hold

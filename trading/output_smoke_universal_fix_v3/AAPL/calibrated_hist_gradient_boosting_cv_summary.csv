@@ -1,0 +1,2 @@
+ticker,model,accuracy,balanced_accuracy,macro_f1,weighted_f1,trading_score,avg_trader_return_pct,avg_trader_excess_return_vs_bh,avg_trader_sharpe,avg_trader_drawdown_pct,selection_score
+AAPL,calibrated_hist_gradient_boosting,0.29831932773109243,0.36838837685611886,0.2973012044794223,0.3169098624471368,-2.7421333333333333,-1.5766666666666669,-14.646666666666667,-0.5066666666666666,6.423333333333333,-2.444832128853911

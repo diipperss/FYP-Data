@@ -1,0 +1,3 @@
+ticker,model,fold,train_rows,valid_rows,grouped_by_date,accuracy,balanced_accuracy,macro_f1,weighted_f1
+AAPL,calibrated_hist_gradient_boosting,1,118,119,False,0.4117647058823529,0.4546824948181647,0.3948054397969509,0.3986469105314606
+AAPL,calibrated_hist_gradient_boosting,2,237,119,False,0.21008403361344538,0.3486997635933806,0.15127175368139223,0.2693800411730957

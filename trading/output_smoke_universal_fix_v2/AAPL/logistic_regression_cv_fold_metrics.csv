@@ -1,0 +1,3 @@
+ticker,model,fold,train_rows,valid_rows,grouped_by_date,accuracy,balanced_accuracy,macro_f1,weighted_f1
+AAPL,logistic_regression,1,118,119,False,0.3697478991596639,0.40927077444884113,0.3738234269674432,0.37220800914870833
+AAPL,logistic_regression,2,237,119,False,0.33613445378151263,0.295819335572975,0.22447883086180961,0.3844524270056185

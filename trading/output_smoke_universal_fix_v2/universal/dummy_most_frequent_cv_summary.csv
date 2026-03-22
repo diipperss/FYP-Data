@@ -1,0 +1,2 @@
+model,accuracy,balanced_accuracy,macro_f1,weighted_f1,trading_score,avg_trader_return_pct,avg_trader_excess_return_vs_bh,avg_trader_sharpe,avg_trader_drawdown_pct,selection_score,loto_accuracy,loto_balanced_accuracy,loto_macro_f1,loto_weighted_f1,unseen_generalization_score,combined_universal_selection_score
+dummy_most_frequent,0.5575221238938053,0.3333333333333333,0.23863636363636365,0.3991351568785197,-2.2525,0.0,-12.525,0.0,0.0,-2.013863636363636,0.5634218289085546,0.3333333333333333,0.24021361815754338,0.406202803344479,0.27746150422785937,-0.4873507181292228

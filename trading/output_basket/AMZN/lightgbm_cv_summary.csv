@@ -1,0 +1,2 @@
+ticker,model,accuracy,balanced_accuracy,macro_f1,weighted_f1,trading_score,avg_trader_return_pct,avg_trader_excess_return_vs_bh,avg_trader_sharpe,avg_trader_drawdown_pct,selection_score
+AMZN,lightgbm,0.3161953727506427,0.30933922351638526,0.3094280825328773,0.31945923343894356,-15.883000000000001,-2.29,-131.37,-0.037333333333333336,14.933333333333332,-15.573571917467124

@@ -1,0 +1,3 @@
+ticker,selected_model,accuracy,balanced_accuracy,macro_f1,weighted_f1,best_trader,best_trader_return_pct,best_trader_max_drawdown_pct,best_trader_sharpe_like,buy_and_hold_return_pct,excess_return_vs_bh
+AAPL,xgboost,0.6,0.31666666666666665,0.3069987118935165,0.5919421783311865,aggressive,0.99,2.61,0.824,9.06,-8.07
+MSFT,xgboost,0.45555555555555555,0.25925925925925924,0.25040650406504067,0.5120867208672087,balanced,0.31,2.08,0.287,14.85,-14.54

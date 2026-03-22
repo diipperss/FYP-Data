@@ -1,0 +1,2 @@
+trader,final_portfolio_value,return_pct,num_days,num_trades,max_drawdown_pct,sharpe_like,excess_return_vs_bh,selection_score,min_bull_probability,min_probability_margin,max_allocation,neutral_behavior
+aggressive,10259.47,2.59,237,60,4.77,0.34,-9.39,-1.1714,0.55,0.0,0.8,hold

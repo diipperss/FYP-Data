@@ -1,0 +1,3 @@
+trader,final_portfolio_value,return_pct,num_days,num_trades,max_drawdown_pct,sharpe_like,excess_return_vs_bh,selection_score,min_bull_probability,min_probability_margin,max_allocation,neutral_behavior,ticker
+conservative,9958.78,-0.41,237,9,1.62,-0.296,-13.48,-1.8384,0.55,0.0,0.25,hold,AAPL
+conservative,10054.9,0.55,237,14,0.55,0.556,-11.43,-0.653,0.55,0.0,0.25,hold,MSFT

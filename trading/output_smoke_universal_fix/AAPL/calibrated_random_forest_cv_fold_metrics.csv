@@ -1,0 +1,3 @@
+ticker,model,fold,train_rows,valid_rows,grouped_by_date,accuracy,balanced_accuracy,macro_f1,weighted_f1
+AAPL,calibrated_random_forest,1,118,119,False,0.33613445378151263,0.41756171094780475,0.32932923209756626,0.29379413737325916
+AAPL,calibrated_random_forest,2,237,119,False,0.11764705882352941,0.36170212765957444,0.09061488673139158,0.12857958717467569

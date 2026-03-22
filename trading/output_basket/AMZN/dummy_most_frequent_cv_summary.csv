@@ -1,0 +1,2 @@
+ticker,model,accuracy,balanced_accuracy,macro_f1,weighted_f1,trading_score,avg_trader_return_pct,avg_trader_excess_return_vs_bh,avg_trader_sharpe,avg_trader_drawdown_pct,selection_score
+AMZN,dummy_most_frequent,0.3393316195372751,0.3333333333333333,0.1689059500959693,0.17194538878664223,-10.296333333333335,55.03333333333333,-74.04666666666667,0.6303333333333333,29.349999999999998,-10.127427383237366

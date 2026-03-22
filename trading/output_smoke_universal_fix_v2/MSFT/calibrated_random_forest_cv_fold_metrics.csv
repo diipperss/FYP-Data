@@ -1,0 +1,3 @@
+ticker,model,fold,train_rows,valid_rows,grouped_by_date,accuracy,balanced_accuracy,macro_f1,weighted_f1
+MSFT,calibrated_random_forest,1,118,119,False,0.33613445378151263,0.36146180170181275,0.3355794731585619,0.3261169473576164
+MSFT,calibrated_random_forest,2,237,119,False,0.21008403361344538,0.3788708198705795,0.1877350798285068,0.13744001506544384

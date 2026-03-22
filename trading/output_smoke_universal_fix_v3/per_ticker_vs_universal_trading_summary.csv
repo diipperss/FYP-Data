@@ -1,0 +1,3 @@
+ticker,selected_model_per_ticker,selected_model_universal,best_trader_per_ticker,best_trader_return_pct_per_ticker,buy_and_hold_return_pct_per_ticker,excess_return_vs_bh_per_ticker,best_trader_universal,best_trader_return_pct_universal,buy_and_hold_return_pct_universal,excess_return_vs_bh_universal
+AAPL,random_forest,lightgbm,conservative,0.0,9.06,-9.06,aggressive,2.52,9.06,-6.540000000000001
+MSFT,hist_gradient_boosting,lightgbm,conservative,0.21,14.85,-14.639999999999999,aggressive,3.46,14.85,-11.39

@@ -1,0 +1,2 @@
+ticker,model,accuracy,balanced_accuracy,macro_f1,weighted_f1,trading_score,avg_trader_return_pct,avg_trader_excess_return_vs_bh,avg_trader_sharpe,avg_trader_drawdown_pct,selection_score
+XOM,xgboost,0.34875749785775495,0.3236351281907971,0.31033607858837925,0.32688143823904053,-10.413333333333332,7.646666666666666,-101.89333333333333,0.628,3.5999999999999996,-10.102997254744952

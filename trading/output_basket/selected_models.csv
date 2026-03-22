@@ -1,0 +1,11 @@
+ticker,selected_model,best_cv_macro_f1,best_cv_balanced_accuracy,holdout_macro_f1,holdout_balanced_accuracy,saved_model_path
+AAPL,xgboost,0.3216,0.3225,0.2956,0.3428,/home/xatan/dev/projects/FYP-Data/trading/output_basket/AAPL/AAPL_best_model.joblib
+MSFT,lightgbm,0.3391,0.3411,0.3656,0.3769,/home/xatan/dev/projects/FYP-Data/trading/output_basket/MSFT/MSFT_best_model.joblib
+NVDA,lightgbm,0.3115,0.3204,0.3072,0.3145,/home/xatan/dev/projects/FYP-Data/trading/output_basket/NVDA/NVDA_best_model.joblib
+AMZN,random_forest,0.2739,0.3153,0.3119,0.361,/home/xatan/dev/projects/FYP-Data/trading/output_basket/AMZN/AMZN_best_model.joblib
+GOOGL,random_forest,0.2778,0.3089,0.3725,0.3889,/home/xatan/dev/projects/FYP-Data/trading/output_basket/GOOGL/GOOGL_best_model.joblib
+META,logistic_regression,0.3431,0.3533,0.3105,0.3428,/home/xatan/dev/projects/FYP-Data/trading/output_basket/META/META_best_model.joblib
+JPM,xgboost,0.3189,0.3297,0.2408,0.3246,/home/xatan/dev/projects/FYP-Data/trading/output_basket/JPM/JPM_best_model.joblib
+XOM,lightgbm,0.3355,0.3453,0.3306,0.3313,/home/xatan/dev/projects/FYP-Data/trading/output_basket/XOM/XOM_best_model.joblib
+JNJ,hist_gradient_boosting,0.3146,0.329,0.3785,0.3962,/home/xatan/dev/projects/FYP-Data/trading/output_basket/JNJ/JNJ_best_model.joblib
+CAT,random_forest,0.2788,0.3174,0.3017,0.3267,/home/xatan/dev/projects/FYP-Data/trading/output_basket/CAT/CAT_best_model.joblib

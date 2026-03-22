@@ -1,0 +1,2 @@
+ticker,model,accuracy,balanced_accuracy,macro_f1,weighted_f1,trading_score,avg_trader_return_pct,avg_trader_excess_return_vs_bh,avg_trader_sharpe,avg_trader_drawdown_pct,selection_score
+AMZN,xgboost,0.33076263924592975,0.32577937019293524,0.32630305623006356,0.33668897973778544,-14.777933333333332,-4.526666666666666,-133.60666666666668,-0.141,7.663333333333334,-14.451630277103268

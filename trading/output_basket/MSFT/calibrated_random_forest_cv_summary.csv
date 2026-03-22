@@ -1,0 +1,2 @@
+ticker,model,accuracy,balanced_accuracy,macro_f1,weighted_f1,trading_score,avg_trader_return_pct,avg_trader_excess_return_vs_bh,avg_trader_sharpe,avg_trader_drawdown_pct,selection_score
+MSFT,calibrated_random_forest,0.38303341902313626,0.3663879270824135,0.30909430181226455,0.33028881529545334,-38.89673333333334,0.8766666666666666,-388.30333333333334,0.12,1.5533333333333335,-38.58763903152107

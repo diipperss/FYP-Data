@@ -1,0 +1,2 @@
+ticker,model,accuracy,balanced_accuracy,macro_f1,weighted_f1,trading_score,avg_trader_return_pct,avg_trader_excess_return_vs_bh,avg_trader_sharpe,avg_trader_drawdown_pct,selection_score
+JPM,random_forest,0.37103684661525277,0.34559178320510764,0.3424260530532431,0.3755715317333091,-10.555533333333331,-0.07333333333333332,-104.71333333333332,0.056999999999999995,1.1766666666666665,-10.213107280280088

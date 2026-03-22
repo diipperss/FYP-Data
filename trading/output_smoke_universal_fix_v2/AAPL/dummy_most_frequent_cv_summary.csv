@@ -1,0 +1,2 @@
+ticker,model,accuracy,balanced_accuracy,macro_f1,weighted_f1,trading_score,avg_trader_return_pct,avg_trader_excess_return_vs_bh,avg_trader_sharpe,avg_trader_drawdown_pct,selection_score
+AAPL,dummy_most_frequent,0.20168067226890757,0.3333333333333333,0.11188811188811189,0.06769700887347947,-2.5269999999999997,6.476666666666667,-6.593333333333334,0.5123333333333333,11.5,-2.4151118881118876

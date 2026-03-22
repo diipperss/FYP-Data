@@ -1,0 +1,3 @@
+ticker,model,fold,train_rows,valid_rows,grouped_by_date,accuracy,balanced_accuracy,macro_f1,weighted_f1
+MSFT,logistic_regression,1,118,119,False,0.3445378151260504,0.34527608213096556,0.3224712364497311,0.3329461919865823
+MSFT,logistic_regression,2,237,119,False,0.2689075630252101,0.361540584083242,0.22140551988774204,0.24930131017443127
